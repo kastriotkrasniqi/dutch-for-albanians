@@ -28,6 +28,9 @@ b{font-weight:650;color:var(--navy)}
 .brand{font-family:var(--display);font-weight:700;font-size:19px;color:var(--navy);text-decoration:none;white-space:nowrap}
 .brand small{font-family:var(--body);font-weight:600;font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--accent);margin-left:8px}
 .top select{margin-left:auto;min-width:0;flex:0 1 340px;width:100%;font:inherit;font-size:14px;padding:6px 8px;border:1px solid var(--line);border-radius:8px;background:var(--paper);color:var(--ink)}
+.tbtn{flex:none;display:grid;place-items:center;width:36px;height:36px;padding:0;border:1px solid var(--line);border-radius:999px;background:var(--paper);color:var(--navy);cursor:pointer}
+.tbtn:hover{border-color:var(--accent)}
+.tbtn svg{width:18px;height:18px}
 .shell{display:grid;grid-template-columns:280px minmax(0,1fr);max-width:1240px;margin:0 auto}
 .rail{position:sticky;top:calc(56px + env(safe-area-inset-top,0px));align-self:start;height:calc(100vh - 56px);overflow:auto;padding:18px 12px 40px max(16px,env(safe-area-inset-left,0px));border-right:1px solid var(--line)}
 .rail h4{font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);margin:18px 8px 6px;display:flex;gap:6px;align-items:center}
@@ -152,7 +155,7 @@ p.story{line-height:2.3}
 .ucard .ct{font-weight:600;line-height:1.3}
 .ucard .cp{font-size:12px;color:var(--muted)}
 @media (max-width:980px){ .shell{grid-template-columns:minmax(0,1fr)} .rail{display:none} }
-@media (min-width:981px){ .top select{display:none} }
+@media (min-width:981px){ .top select{display:none} .tbtn{margin-left:auto} }
 @media (max-width:520px){ .brand small{display:none} .brand{font-size:17px} .unum{font-size:40px} .utitle h2{font-size:24px} .lt{font-size:22px} .mrow{grid-template-columns:minmax(0,1fr) 22px} .mrow select{grid-column:1} .mrow .mark-i{grid-row:1;grid-column:2} .gnl{flex-basis:42%} }
 @media (prefers-reduced-motion:no-preference){ html{scroll-behavior:smooth} }
 '''
@@ -257,5 +260,22 @@ function route(){
 }
 if(jump) jump.addEventListener('change',()=>{ location.hash = jump.value; });
 window.addEventListener('hashchange',route);
-restore(); paintProgress(); route();
+const tbtn = document.getElementById('theme');
+const darkMq = matchMedia('(prefers-color-scheme: dark)');
+const SUN = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg>';
+const MOON = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg>';
+function isDark(){ const t=document.documentElement.dataset.theme; return t ? t==='dark' : darkMq.matches; }
+function paintTheme(){
+  const d=isDark(); const label = d ? 'Kalo në temën e çelët' : 'Kalo në temën e errët';
+  tbtn.innerHTML = d ? SUN : MOON; tbtn.setAttribute('aria-label', label); tbtn.title = label;
+}
+tbtn.addEventListener('click',()=>{
+  const t = isDark() ? 'light' : 'dark';
+  // a choice that matches the system setting clears the override, so the page follows the system again
+  if((t==='dark')===darkMq.matches){ delete document.documentElement.dataset.theme; ls.del('theme'); }
+  else { document.documentElement.dataset.theme=t; ls.set('theme',t); }
+  paintTheme();
+});
+darkMq.addEventListener('change',paintTheme);
+restore(); paintProgress(); route(); paintTheme();
 '''

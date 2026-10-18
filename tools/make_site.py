@@ -19,9 +19,11 @@ page = f'''<title>Mësojmë holandisht</title>
 <meta name="claude:viewport-fit-sides" content="cover">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Lora:wght@600;700&display=swap">
+<script>try{{const t=localStorage.getItem('mh1:theme');if(t)document.documentElement.dataset.theme=t}}catch(e){{}}</script>
 <style>{SCSS}</style>
 <header class="top"><a class="brand" href="#hyrje">Mësojmë holandisht<small>A1–A2</small></a>
-<label for="jump" class="sr" hidden>Njësia</label><select id="jump" aria-label="Zgjidh njësinë">{opts}</select></header>
+<label for="jump" class="sr" hidden>Njësia</label><select id="jump" aria-label="Zgjidh njësinë">{opts}</select>
+<button type="button" id="theme" class="tbtn" aria-label="Ndrysho temën"></button></header>
 <div class="shell"><nav class="rail" aria-label="Njësitë"><a href="#hyrje"><span class="n">⌂</span><span class="t">Hyrje</span></a>{''.join(rail)}</nav>
 <main>{intro(len(ANS))}{''.join(units)}{full_gloss()}</main></div>
 <script>{SJS.replace('__ANS__', json.dumps(ANS, ensure_ascii=False))}</script>'''
