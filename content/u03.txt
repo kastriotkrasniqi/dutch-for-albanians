@@ -1,0 +1,210 @@
+@lesson Fjalët pyetëse
+Të bësh pyetje është një nga aftësitë më të rëndësishme në çdo gjuhë. Në holandisht pyetjet ndërtohen sipas disa modeleve të thjeshta dhe të qarta. Në këtë material do të mësoni fjalët pyetëse kryesore dhe si të bëni pyetje të sakta e të natyrshme.
+
+Fjalët pyetëse më të rëndësishme:
+
+@table
+| Holandisht | Shqip | Shembull |
+| **wie** | kush | Wie is dat? – Kush është ai? |
+| **wat** | çfarë / çka | Wat heeft zij? – Çfarë ka ajo? |
+| **waar** | ku | Waar woon jij? – Ku banon ti? |
+| **wanneer** | kur | Wanneer begint de les? – Kur fillon mësimi? |
+| **waarom** | pse | Waarom woon jij in Nederland? – Pse banon në ⏎ Holandë? |
+| **hoe** | si | Hoe heet jij? – Si quhesh? |
+| **welke** | cili / cila / cilët | Welke taal spreek jij? – Cilën gjuhë flet? |
+| **hoeveel** | sa | Hoeveel boeken heb jij? – Sa libra ke? |
+@end
+
+@box (1.0, 0.96, 0.91)
+  **Ndihmë për kujtesën**
+  Shumica fillojnë me **w** – si «question words» në anglisht. **Waar** (ku) + **om** = **waarom** (pse); **hoe** (si) + **veel** (shumë) = **hoeveel** (sa).
+@end
+@box (0.95, 0.96, 0.98)
+  **«welke» apo «welk»?**
+  Para një emri me *het* në njëjës përdoret **welk**: **welk boek?** (cili libër?). Në të gjitha rastet e tjera: **welke**: **welke taal?**, **welke boeken?**
+@end
+@lesson Pyetje me fjalë pyetëse
+Kur pyetja fillon me një fjalë pyetëse, rendi i fjalëve ndryshon. Folja vjen **menjëherë pas** fjalës pyetëse, dhe kryefjala pas foljes:
+
+@flow Fjalë pyetëse | !Folje | Kryefjalë
+@flowsub waar, wat, wie… | woon, heeft, is… | jij, zij, de les…
+
+@table
+| Fjalë pyetëse | Folje | Kryefjalë | Pjesa tjetër | Shqip |
+| Waar | **woon** | jij | ? | Ku banon ti? |
+| Wanneer | **begint** | de les | ? | Kur fillon mësimi? |
+| Wie | **is** | dat | ? | Kush është ai/ajo? |
+| Wat | **heeft** | zij | ? | Çfarë ka ajo? |
+| Welke taal | **spreekt** | hij | ? | Cilën gjuhë flet ai? |
+| Hoe | **heet** | jij | ? | Si quhesh ti? |
+@end
+
+@box (1.0, 0.96, 0.91)
+  **Kujdes: jij pas foljes humbet -t**
+  Kur **jij / je** vjen **pas** foljes, mbaresa **-t** bie: jij woont → **Waar woon jij?** • jij spreekt → **Welke taal spreek jij?**
+  Kjo vlen vetëm për *jij/je*. Me **hij / zij / het** -t mbetet: **Waar woont hij?** Te **hebben**: jij hebt → **Wat heb jij?**
+@end
+@box (0.95, 0.96, 0.98)
+  **Krahasim me shqipen**
+  Në shqip rendi është i lirë: «Ku banon ti?» ose «Ti ku banon?». Në holandisht folja duhet të jetë **gjithmonë e dyta**, menjëherë pas fjalës pyetëse. Kryefjala nuk mund të hiqet: jo «Waar woon?», por **Waar woon jij?**
+@end
+@lesson Pyetje po/jo: folja në fillim
+Kur nuk ka fjalë pyetëse, pyetja kërkon përgjigje **ja** (po) ose **nee** (jo). Në këtë rast **folja kalon në fillim** të fjalisë:
+
+@flow !Folje | Kryefjalë | Hollësi të tjera
+@table
+| Folje | Kryefjalë | Hollësi | Shqip |
+| Heb | jij | een fiets? | A ke ti biçikletë? |
+| Spreekt | hij | Nederlands? | A flet ai holandisht? |
+| Wonen | jullie | in Italië? | A banoni ju në Itali? |
+| Komt | zij | ook? | A vjen edhe ajo? |
+@end
+
+@h2 Nga pohimi te pyetja
+Mjafton të ndërroni vendet e kryefjalës dhe foljes:
+
+@table
+| Pohim | Pyetje |
+| Hij **spreekt** Nederlands. | **Spreekt** hij Nederlands? |
+| Jullie **wonen** in Italië. | **Wonen** jullie in Italië? |
+| Jij **hebt** een fiets. | **Heb** jij een fiets? (-t bie!) |
+| Jij **woont** in Tirana. | **Woon** jij in Tirana? (-t bie!) |
+@end
+
+@box (1.0, 0.96, 0.91)
+  **Dallim nga shqipja: nuk ka «a»**
+  Në shqip pyetjet po/jo i fillojmë shpesh me pjesëzën **«a»**: *A flet ai holandisht?* Holandishtja nuk ka një fjalë të tillë – pyetjen e tregon vetëm **folja në vend të parë** (dhe intonacioni). Gabim: Hij spreekt Nederlands? → Saktë: **Spreekt hij Nederlands?**
+@end
+@box (0.95, 0.96, 0.98)
+  **Përgjigjet e shkurtra**
+  **Heb jij een fiets?** – **Ja.** (Po.) / **Ja, ik heb een fiets.** (Po, kam biçikletë.)
+  **Spreekt hij Nederlands?** – **Nee.** (Jo.)
+@end
+@practice Ushtrime: lidh çiftet
+@h2 A. Fjalët pyetëse
+Lidhni me vijë çdo kuti majtas me kutinë e duhur djathtas.
+
+**wie** ⇥ **si**
+
+**wat** ⇥ **kur**
+
+**waar** ⇥ **sa**
+
+**wanneer** ⇥ **kush**
+
+**waarom** ⇥ **pse**
+
+**hoe** ⇥ **ku**
+
+**welke** ⇥ **cili / cila**
+
+**hoeveel** ⇥ **çfarë**
+
+@h2 B. Pyetja dhe përgjigjja
+Lidhni me vijë çdo kuti majtas me kutinë e duhur djathtas.
+
+**Waar woon jij?** ⇥ **Ik spreek Albanees.**
+
+**Hoe heet jij?** ⇥ **Ja, ik heb een fiets.**
+
+**Wie is dat?** ⇥ **Ik woon in Prishtina.**
+
+**Welke taal spreek jij?** ⇥ **Dat is Besa.**
+
+**Heb jij een fiets?** ⇥ **Ik heet Arta.**
+
+@practice Ushtrime: rendit fjalët
+@h2 C. Rendisni fjalët dhe shkruani pyetjen
+Mos harroni: me fjalë pyetëse → **fjalë pyetëse – folje – kryefjalë**; pa fjalë pyetëse → **folje –** **kryefjalë**.
+
+@order 1 | jij / wat / heb | Çfarë ke?
+@order 2 | woon / jij / waar | Ku banon ti?
+@order 3 | Nederlands / hij / spreekt | A flet ai holandisht?
+@order 4 | een fiets / heb / jij | A ke ti biçikletë?
+@order 5 | ook / komt / zij | A vjen edhe ajo?
+@order 6 | heet / jij / hoe | Si quhesh?
+@order 7 | de les / wanneer / begint | Kur fillon mësimi?
+@order 8 | in Italië / jullie / wonen | A banoni ju në Itali?
+
+@practice Ushtrime: plotëso, pyetje po/jo, përkthim
+@h2 D. Plotësoni me fjalën pyetëse të duhur
+wie · wat · waar · wanneer · hoe · welke
+
+1. ______ woon jij? – Ik woon in Tirana.
+
+2. ______ heet jij? – Ik heet Arben.
+
+3. ______ is dat? – Dat is mijn vriend.
+
+4. ______ begint de les? – Om negen uur.
+
+5. ______ heeft zij? – Zij heeft een hond.
+
+6. ______ taal spreek jij? – Albanees.
+
+@h2 E. Ktheni pohimin në pyetje
+Kujdes me *jij*: -t bie kur folja vjen para tij.
+
+1. Jij spreekt Engels. → ____________________________________
+
+2. Hij woont in Tirana. → ____________________________________
+
+3. Jullie hebben een hond. → ____________________________________
+
+4. Jij komt uit Kosovo. → ____________________________________
+
+5. Zij heet Besa. → ____________________________________
+
+6. Wij zijn thuis. → ____________________________________
+
+@h2 F. Pyetja dhe përkthimi
+Lidhni me vijë çdo kuti majtas me kutinë e duhur djathtas.
+
+**Spreekt hij Nederlands?** ⇥ **Çfarë ke ti?**
+
+**Waar woon jij?** ⇥ **A banoni ju në Itali?**
+
+**Komt zij ook?** ⇥ **A flet ai holandisht?**
+
+**Wat heb jij?** ⇥ **A vjen edhe ajo?**
+
+**Wonen jullie in Italië?** ⇥ **Ku banon ti?**
+
+@h2 G. Përktheni në holandisht
+1. Ku banon ti?
+
+2. A flet ti holandisht?
+
+3. Si quhesh?
+
+4. Kush është ai?
+
+5. A keni ju një qen?
+
+6. Kur fillon mësimi?
+
+@key
+@table
+| Ushtrimi | Përgjigjet |
+| **A** | wie – kush • wat – çfarë • waar – ku • wanneer – kur • waarom – pse ⏎ • hoe – si • welke – cili/cila • hoeveel – sa |
+| **B** | Waar woon jij? – Ik woon in Prishtina. • Hoe heet jij? – Ik heet Arta. • ⏎ Wie is dat? – Dat is Besa. • Welke taal spreek jij? – Ik spreek Albanees. ⏎ • Heb jij een fiets? – Ja, ik heb een fiets. |
+| **C** | 1. Wat heb jij? 2. Waar woon jij? 3. Spreekt hij Nederlands? 4. Heb jij ⏎ een fiets? 5. Komt zij ook? 6. Hoe heet jij? 7. Wanneer begint de les? ⏎ 8. Wonen jullie in Italië? |
+| **D** | 1. Waar 2. Hoe 3. Wie 4. Wanneer 5. Wat 6. Welke |
+| **E** | 1. Spreek jij Engels? 2. Woont hij in Tirana? 3. Hebben jullie een hond? ⏎ 4. Kom jij uit Kosovo? 5. Heet zij Besa? 6. Zijn wij thuis? |
+| **F** | Spreekt hij Nederlands? – A flet ai holandisht? • Waar woon jij? – Ku ⏎ banon ti? • Komt zij ook? – A vjen edhe ajo? • Wat heb jij? – Çfarë ke ti? ⏎ • Wonen jullie in Italië? – A banoni ju në Itali? |
+| **G** | 1. Waar woon jij? 2. Spreek jij Nederlands? 3. Hoe heet jij? 4. Wie is ⏎ dat? / Wie is hij? 5. Hebben jullie een hond? 6. Wanneer begint de les? |
+@end
+
+@glossary
+@table
+| Holandisht | Shqip | Holandisht | Shqip |
+| **wie** | kush | **nee** | jo |
+| **wat** | çfarë | **ook** | edhe, gjithashtu |
+| **waar** | ku | **de les** | mësimi |
+| **wanneer** | kur | **beginnen** | filloj |
+| **waarom** | pse | **de taal** | gjuha |
+| **hoe** | si | **dat** | ai, ajo (atje) |
+| **welke / welk** | cili, cila | **Italië** | Italia |
+| **hoeveel** | sa | **de vriend** | shoku |
+| **ja** | po | **om negen uur** | në orën nëntë |
+@end

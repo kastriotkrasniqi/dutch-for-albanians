@@ -1,0 +1,268 @@
+@lesson Foljet modale
+Foljet modale tregojnë çfarë **mundemi**, çfarë **duam**, çfarë **duhet** dhe çfarë **na lejohet** të bëjmë. Pa to nuk mund të flasim për dëshirat, aftësitë dhe detyrimet tona.
+
+@h2 Katër foljet modale kryesore
+@table
+| Folja | Shqip | Shembull |
+| **kunnen** | mund, jam në gjendje | Ik kan zwemmen. – Unë di/mund të notoj. |
+| **willen** | dua, dëshiroj | Ik wil slapen. – Dua të fle. |
+| **moeten** | duhet, jam i detyruar | Ik moet werken. – Duhet të punoj. |
+| **mogen** | më lejohet, kam leje | Ik mag hier parkeren. – Më lejohet të parkoj ⏎ këtu. |
+@end
+
+@h2 Folja kryesore shkon në fund
+Folja modale zë vendin e zakonshëm të foljes (e dyta në fjali). Folja kryesore del në **paskajore** (forma me *-en*) dhe shkon **në fund** të fjalisë:
+
+@flow Kryefjalë | !Folje modale | Pjesa tjetër | !Paskajore
+@flowsub ik, jij, zij… | moet, wil, kan… | pizza, vandaag… | werken, eten…
+@table
+| Pa folje modale | Me folje modale | Shqip |
+| Ik **werk**. | Ik moet **werken**. | Duhet të punoj. |
+| Jij **eet** pizza. | Jij wilt pizza **eten**. | Ti do të hash pica. |
+| Zij **fietst**. | Zij kan **fietsen**. | Ajo di të ngasë biçikletën. |
+@end
+
+@box (1.0, 0.96, 0.91)
+  **Dallim i madh nga shqipja: pa «të»**
+  Në shqip pas foljeve modale vjen **«të» + folje**: *dua të fle*, *duhet të punoj*. Në holandisht nuk ka asgjë të tillë – vetëm paskajorja, dhe ajo **në fund**. Gabim: Ik wil slaap. / Ik wil eten pizza. → Saktë: **Ik wil slapen.** / **Ik wil pizza eten.**
+  Edhe «duhet» në shqip nuk zgjedhohet (*duhet të punoj, duhet të punosh*), ndërsa **moeten** ka kryefjalë: **ik moet, jij moet, wij moeten**.
+@end
+@h2 Zgjedhimi i foljeve modale
+Foljet modale kanë një veçori të rëndësishme: në vetën e tretë njëjës (**hij / zij / het**) **nuk marrin -t**.
+
+@table
+| Përemri | kunnen | willen | moeten | mogen |
+| ik | **kan** | **wil** | **moet** | **mag** |
+| jij / je | **kunt** / kan | **wilt** / wil | **moet** | **mag** |
+| hij / zij / het | **kan** | **wil** | **moet** | **mag** |
+| wij / we | **kunnen** | **willen** | **moeten** | **mogen** |
+| jullie | **kunnen** | **willen** | **moeten** | **mogen** |
+| zij / ze (shumës) | **kunnen** | **willen** | **moeten** | **mogen** |
+@end
+
+@box (1.0, 0.96, 0.91)
+  **Pa -t te hij / zij / het**
+  **hij kan** (jo: hij kant) • **zij wil** (jo: zij wilt) • **hij mag** (jo: hij magt) • **hij moet** (jo: hij moett)
+  Te *moeten* rrënja mbaron vetë me *t*, prandaj nuk shtohet një e dytë – njësoj si te *heten → hij heet*.
+  Te **jij** lejohen dy forma: **jij kunt** ose **jij kan**, **jij wilt** ose **jij wil**. Format me -t janë më të rregullta për shkrim.
+@end
+@h2 Pyetje me folje modale
+Rregullat e Njësisë {U:3} (Mësimet {L:3.2}–{L:3.3}) vlejnë edhe këtu: folja modale shkon në fillim ose pas fjalës pyetëse, paskajorja mbetet në fund. Me *jij*, -t bie:
+
+@table
+| Pyetja | Shqip |
+| **Kun** jij zwemmen? | A di/mund të notosh? |
+| **Wil** jij pizza eten? | A do të hash pica? |
+| **Mag** ik hier parkeren? | A më lejohet të parkoj këtu? |
+| Wat **moet** jij vandaag doen? | Çfarë duhet të bësh sot? |
+@end
+
+@lesson Folja «moeten» – duhet
+**Moeten** përdoret kur flasim për detyrime, rregulla dhe gjëra që janë të nevojshme. Është folje modale, pra pas saj vjen një paskajore në fund të fjalisë.
+
+@table
+| Përemri | Koha e tashme | Shqip |
+| ik | **moet** | më duhet |
+| jij / je | **moet** | të duhet |
+| hij / zij / het | **moet** | i duhet / asaj i duhet |
+| wij / we | **moeten** | na duhet |
+| jullie | **moeten** | ju duhet |
+| zij / ze (shumës) | **moeten** | u duhet |
+@end
+
+Siç e shihni:
+
+• **ik, jij, hij, zij, het** → **moet** (e njëjta formë për të gjithë në njëjës)
+
+• **wij, jullie, zij** → **moeten**
+
+@h2 Shembuj
+• **Ik moet vandaag werken.** – Sot duhet të punoj.
+
+• **Jij moet Nederlands leren.** – Ti duhet të mësosh holandisht.
+
+• **Wij moeten om negen uur beginnen.** – Duhet të fillojmë në orën nëntë.
+
+• **Moet hij ook komen?** – A duhet të vijë edhe ai?
+
+@box (0.95, 0.96, 0.98)
+  **Kujdes me renditjen**
+  Fjalët si **vandaag** (sot) ose **ook** (edhe) qëndrojnë **midis** foljes modale dhe paskajores: **Ik moet vandaag werken.** Paskajorja mbetet gjithmonë e fundit.
+@end
+@lesson Folja «leren» – mësoj
+**Leren** përdoret kur flasim për të mësuarit: gjuhë, aftësi, lëndë shkollore. **Ik leer Nederlands.** = Unë mësoj holandisht. Është folje e rregullt.
+
+@table
+| Përemri | Koha e tashme | Shqip |
+| ik | **leer** | unë mësoj |
+| jij / je | **leert** | ti mëson |
+| hij / zij / het | **leert** | ai / ajo mëson |
+| wij / we | **leren** | ne mësojmë |
+| jullie | **leren** | ju mësoni |
+| zij / ze (shumës) | **leren** | ata / ato mësojnë |
+@end
+
+@box (1.0, 0.96, 0.91)
+  **I njëjti rregull drejtshkrimi**
+  *Leren* ka zanore të gjatë **e**. Kur heqim *-en*, shkruajmë dy *e* për të ruajtur tingullin e gjatë: **leer**, **leert** – si *spreken → spreek* dhe *wonen → woon*.
+@end
+@h2 «leren» si folje e zakonshme dhe pas foljes modale
+@table
+| Pa folje modale | Me folje modale | Shqip |
+| Ik **leer** Nederlands. | Ik moet Nederlands **leren**. | Duhet të mësoj holandisht. |
+| Wij **leren** Duits. | Wij willen Duits **leren**. | Duam të mësojmë ⏎ gjermanisht. |
+| Hij **leert** fietsen. | Hij kan snel **leren**. | Ai mund të mësojë shpejt. |
+@end
+
+@box (0.95, 0.96, 0.98)
+  **Pyetje me «leren»**
+  **Leer jij Nederlands?** – A mëson holandisht? (-t bie pas foljes!) • **Waarom leer jij Nederlands?** – Pse mëson holandisht?
+@end
+@practice Ushtrime: lidh çiftet
+@h2 A. Folja dhe kuptimi
+Lidhni me vijë çdo kuti majtas me kutinë e duhur djathtas.
+
+**kunnen** ⇥ **dua**
+
+**willen** ⇥ **më lejohet**
+
+**moeten** ⇥ **mësoj**
+
+**mogen** ⇥ **mund**
+
+**leren** ⇥ **duhet**
+
+@h2 B. kunnen
+Lidhni me vijë çdo kuti majtas me kutinë e duhur djathtas.
+
+**Ik** ⇥ **kunnen**
+
+**Jij** ⇥ **kan**
+
+**Hij / zij / het** ⇥ **kunt**
+
+**Wij** ⇥ **kunnen**
+
+**Jullie** ⇥ **kan**
+
+@h2 C. leren
+Lidhni me vijë çdo kuti majtas me kutinë e duhur djathtas.
+
+**Wij** ⇥ **leer**
+
+**Jij** ⇥ **leren**
+
+**Ik** ⇥ **leert**
+
+**Zij (shumës)** ⇥ **leren**
+
+**Hij / zij / het** ⇥ **leert**
+
+@practice Ushtrime: rendit fjalët
+@h2 D. Rendisni fjalët dhe shkruani fjalinë
+Mos harroni: folja modale e dyta (ose e para në pyetje po/jo), paskajorja **në fund**.
+
+@order 1 | werken / moet / ik | Duhet të punoj.
+@order 2 | eten / wilt / jij / pizza | Ti do të hash pica.
+@order 3 | fietsen / zij / kan | Ajo di të ngasë biçikletën.
+@order 4 | Nederlands / willen / leren / wij | Duam të mësojmë holandisht.
+@order 5 | parkeren / mag / hier / ik | Më lejohet të parkoj këtu.
+@order 6 | vandaag / werken / hij / moet | Ai duhet të punojë sot.
+@order 7 | zwemmen / jij / kun | A di të notosh?
+@order 8 | hier / ik / mag / parkeren | A më lejohet të parkoj këtu?
+
+@practice Ushtrime: plotëso, rishkruaj, gjej gabimin
+@h2 E. Plotësoni me formën e duhur
+1. Hij ______ zwemmen. (kunnen)
+
+2. Wij ______ Nederlands leren. (willen)
+
+3. Zij ______ vandaag werken. (moeten – ajo)
+
+4. Jullie ______ hier parkeren. (mogen)
+
+5. Ik ______ Nederlands. (leren)
+
+6. Hij ______ Engels. (leren)
+
+7. Jij ______ slapen. (willen)
+
+@h2 F. Rishkruani fjalinë me foljen modale
+Shembull: Ik werk. (moeten) → Ik moet werken.
+
+1. Hij spreekt Nederlands. (kunnen) → ______________________________
+
+2. Wij wonen in Amsterdam. (willen) → ______________________________
+
+3. Zij leert Duits. (moeten – ajo) → ______________________________
+
+4. Jij fietst hier. (mogen) → ______________________________
+
+5. Ik eet pizza. (willen) → ______________________________
+
+@h2 G. Gjeni dhe korrigjoni gabimin
+1. Hij kant zwemmen. → ______________________________
+
+2. Zij wilt slapen. → ______________________________
+
+3. Ik moet werk. → ______________________________
+
+4. Ik wil eten pizza. → ______________________________
+
+5. Wij moet Nederlands leren. → ______________________________
+
+6. Kunt jij fietsen? → ______________________________
+
+@h2 H. Fjalia dhe përkthimi
+Lidhni me vijë çdo kuti majtas me kutinë e duhur djathtas.
+
+**Ik moet vandaag werken.** ⇥ **A më lejohet të parkoj këtu?**
+
+**Zij kan fietsen.** ⇥ **Ai mëson gjermanisht.**
+
+**Wij willen Nederlands leren.** ⇥ **Sot duhet të punoj.**
+
+**Mag ik hier parkeren?** ⇥ **Duam të mësojmë holandisht.**
+
+**Hij leert Duits.** ⇥ **Ajo di të ngasë biçikletën.**
+
+@h2 I. Përktheni në holandisht
+1. Unë dua të mësoj holandisht.
+
+2. Ajo duhet të punojë sot.
+
+3. A di të notosh?
+
+4. Ne mësojmë holandisht.
+
+5. Ju (jullie) mund të parkoni këtu.
+
+6. Çfarë do të hash?
+
+@key
+@table
+| Ushtrimi | Përgjigjet |
+| **A** | kunnen – mund • willen – dua • moeten – duhet • mogen – më lejohet ⏎ • leren – mësoj |
+| **B** | Ik – kan • Jij – kunt • Hij / zij / het – kan • Wij – kunnen • Jullie – ⏎ kunnen |
+| **C** | Wij – leren • Jij – leert • Ik – leer • Zij (shumës) – leren • Hij / zij / het ⏎ – leert |
+| **D** | 1. Ik moet werken. 2. Jij wilt pizza eten. 3. Zij kan fietsen. 4. Wij willen ⏎ Nederlands leren. 5. Ik mag hier parkeren. 6. Hij moet vandaag ⏎ werken. 7. Kun jij zwemmen? 8. Mag ik hier parkeren? |
+| **E** | 1. kan 2. willen 3. moet 4. mogen 5. leer 6. leert 7. wilt / wil |
+| **F** | 1. Hij kan Nederlands spreken. 2. Wij willen in Amsterdam wonen. 3. Zij ⏎ moet Duits leren. 4. Jij mag hier fietsen. 5. Ik wil pizza eten. |
+| **G** | 1. Hij **kan** zwemmen. 2. Zij **wil** slapen. 3. Ik moet **werken**. 4. Ik wil ⏎ **pizza eten**. 5. Wij **moeten** Nederlands leren. 6. **Kun** jij fietsen? |
+| **H** | Ik moet vandaag werken. – Sot duhet të punoj. • Zij kan fietsen. – Ajo di ⏎ të ngasë biçikletën. • Wij willen Nederlands leren. – Duam të mësojmë ⏎ holandisht. • Mag ik hier parkeren? – A më lejohet të parkoj këtu? • Hij ⏎ leert Duits. – Ai mëson gjermanisht. |
+| **I** | 1. Ik wil Nederlands leren. 2. Zij moet vandaag werken. 3. Kun jij ⏎ zwemmen? 4. Wij leren Nederlands. 5. Jullie mogen hier parkeren. 6. ⏎ Wat wil jij eten? |
+@end
+
+@glossary
+@table
+| Holandisht | Shqip | Holandisht | Shqip |
+| **kunnen** | mund | **fietsen** | ngas biçikletën |
+| **willen** | dua | **parkeren** | parkoj |
+| **moeten** | duhet | **doen** | bëj |
+| **mogen** | më lejohet | **vandaag** | sot |
+| **leren** | mësoj | **hier** | këtu |
+| **werken** | punoj | **snel** | shpejt |
+| **eten** | ha | **de pizza** | pica |
+| **slapen** | fle | **Duits** | gjermanisht |
+| **zwemmen** | notoj | **om negen uur** | në orën nëntë |
+@end

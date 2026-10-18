@@ -1,0 +1,274 @@
+@lesson Niet: mohimi i fjalisë dhe i mbiemrit
+Mohimi nuk është i njëjtë në çdo gjuhë. Në **shqip** e mohojmë vetë foljen me «nuk»: *Nuk e di*. Në **holandisht** fjalëza **niet** (jo, nuk) zakonisht vendoset **më tej në fjali**, jo para foljes: *Ik weet het niet*. Rregullat më poshtë ju japin një bazë të sigurt për shumicën e fjalive.
+
+@box (1.0, 0.95, 0.9)
+  **Dallim nga shqipja**
+  Shqip: **Nuk** e di. • Holandisht: Ik weet het **niet**. Folja mbetet e pandryshuar; «niet» vjen pas saj.
+@end
+@h2 Rregulli 1: niet në fund të fjalisë
+Kur mohojmë **gjithë fjalinë** dhe fjalia është e thjeshtë, **niet** vjen **në fund**:
+
+@flow Kryefjala | Folja | Kundrinori | !NIET
+@flowsub ik | weet | het | në fund
+@table
+| Holandisht | Shqip |
+| Ik weet het **niet**. | Nuk e di. |
+| Hij ziet onze vrienden **niet**. | Ai nuk i sheh miqtë tanë. |
+| Ik ken hem **niet**. | Nuk e njoh atë. |
+| Ik begrijp het **niet**. | Nuk e kuptoj. |
+| Kom je of kom je **niet**? | A po vjen apo nuk vjen? |
+@end
+
+@h2 Rregulli 2: niet para mbiemrit pas «zijn»
+Kur pas foljes **zijn** (jam) vjen një mbiemër, **niet** vjen **menjëherë para mbiemrit**:
+
+@table
+| Holandisht | Shqip |
+| Ik ben **niet** rijk. | Unë nuk jam i pasur. |
+| Hij is **niet** dapper. | Ai nuk është i guximshëm. |
+| Ik ben **niet** moe. | Unë nuk jam i lodhur. |
+| Het huis is **niet** groot. | Shtëpia nuk është e madhe. |
+| Zij is **niet** thuis. | Ajo nuk është në shtëpi. |
+@end
+
+@box (0.95, 0.96, 0.98)
+  **Kujdes**
+  Gabim: Ik ben moe niet. → Saktë: **Ik ben niet moe.** Me mbiemër «niet» nuk shkon në fund, por para mbiemrit.
+@end
+@lesson Niet para një pjese të caktuar dhe para foljes së fundit
+@h2 Rregulli 3: niet para elementit që mohohet
+Kur **niet** mohon vetëm **një pjesë të caktuar** të fjalisë (mënyrën, vendin, shoqërimin), ai vjen **para asaj pjese**:
+
+@table
+| Holandisht | Shqip |
+| Hij speelt **niet** goed. | Ai nuk luan mirë. |
+| Hij gaat **niet** met de trein. | Ai nuk shkon me tren. |
+| Ik woon **niet** in Prishtina. | Unë nuk banoj në Prishtinë. |
+| De kat zit **niet** op de bank. | Macja nuk është ulur në divan. |
+| Ik loop **niet** naar school. | Unë nuk shkoj në shkollë në këmbë. |
+| Dat doe ik **niet** graag. | Këtë nuk e bëj me dëshirë. |
+@end
+
+@h2 Shprehje të ngurta me «niet»
+Shpesh **niet** bashkohet me një fjalë tjetër dhe formon një njësi mendimi:
+
+@table
+| Shprehja | Shqip | Shembull |
+| **niet meer** | nuk më, jo më | Ik werk **niet meer**. – Nuk punoj më. |
+| **nog niet** | ende jo | Hij is **nog niet** thuis. – Ai nuk është ende në shtëpi. |
+| **niet zo** | jo aq | Het is **niet zo** groot. – Nuk është aq i madh. |
+| **niet erg** | jo shumë | Het is **niet erg**. – Nuk është e rëndë. |
+@end
+
+@h2 Rregulli 4: niet para paskajores, pjesores dhe pjesës së ndarë
+Kur fjalia mbaron me një formë të pazgjedhur të foljes (**paskajore** ose **pjesore**) ose me një **pjesë të ndarë** të foljes, **niet** vendoset zakonisht **menjëherë para tyre**:
+
+@flow Folja e zgjedhur | !NIET | Paskajorja
+@flowsub wil | para foljes së fundit | komen
+@table
+| Holandisht | Shqip |
+| Ik wil **niet** komen. | Nuk dua të vij. |
+| Zij wil morgen **niet** komen. | Ajo nuk dëshiron të vijë nesër. |
+| Ik kan **niet** lopen. | Nuk mund të eci. |
+| Ik heb het boek **niet** gelezen. | Nuk e kam lexuar librin. |
+| Ik had hem **niet** kunnen vinden. | Nuk kisha mundur ta gjeja. |
+| Het plan ging **niet** door. | Plani nuk u realizua. |
+@end
+
+@box (0.95, 0.96, 0.98)
+  **Kujdes**
+  Gabim: Ik wil komen niet. → Saktë: **Ik wil niet komen.** Pjesoret (gelezen…) do t'i mësojmë te Njësia {U:18}: tani mjafton të dini që «niet» vjen para tyre.
+@end
+@lesson Niet në fjali të varura dhe «geen»
+@h2 Rregulli 5: niet në fjalitë e varura (Tipi III)
+Në një fjali të varur folja është në fund. **Niet** vendoset **menjëherë para foljes (ose foljeve) në fund** të asaj fjalie:
+
+@table
+| Holandisht | Shqip |
+| Ik weet dat hij **niet** komt. | E di që ai nuk vjen. |
+| Ik denk dat mijn vader **niet** werkt. | Mendoj që babai im nuk punon. |
+| Ik weet dat hij **niet** wil komen. | E di që ai nuk dëshiron të vijë. |
+| Ik weet dat zij **niet** thuis is. | E di që ajo nuk është në shtëpi. |
+| …als ik me **niet** vergis. | …nëse nuk gaboj. |
+@end
+
+@h2 Rregulli 6: geen në vend të «niet een»
+Në shqip mohojmë foljen («nuk kam para»). Në holandisht shpesh mohojmë **emrin** me **geen** (asnjë, aspak). **Geen** zëvendëson «niet een» dhe përdoret kur emri ka **een** ose **nuk ka nyje fare**:
+
+@table
+| Fjalia pohore | Fjalia mohore | Shqip |
+| Ik heb **een** fiets. | Ik heb **geen** fiets. | Nuk kam biçikletë. |
+| Hij heeft geld. | Hij heeft **geen** geld. | Ai nuk ka para. |
+| Zij heeft boeken. | Zij heeft **geen** boeken. | Ajo nuk ka libra. |
+| Ik ben student. | Ik ben **geen** student. | Unë nuk jam student. |
+| Spreek je Nederlands? | Spreek je **geen** Nederlands? | A nuk flet ti holandisht? |
+@end
+
+@box (1.0, 0.95, 0.9)
+  **Kur përdorim «niet», jo «geen»**
+  Kur emri ka **de**, **het**, **mijn**, **onze**, **die** (një emër i caktuar), përdorim **niet**: Ik heb de fiets **niet**.
+  Ik zie het huis **niet**. • Hij ziet onze vrienden **niet**. • Ik heb mijn boek **niet**.
+@end
+@h2 Përmbledhje
+@table
+| Rregulli | Ku vendoset «niet» | Shembull |
+| **1** | në fund të fjalisë së thjeshtë | Ik weet het niet. |
+| **2** | para mbiemrit pas «zijn» | Ik ben niet moe. |
+| **3** | para pjesës që mohohet | Hij speelt niet goed. |
+| **4** | para paskajores, pjesores, pjesës së ndarë | Ik wil niet komen. |
+| **5** | para foljes në fund të fjalisë së varur | …dat hij niet komt. |
+| **6** | «geen» para emrit me «een» ose pa nyje | Ik heb geen geld. |
+@end
+
+@box (0.95, 0.96, 0.98)
+  **Formulë e shkurtër**
+  Fjalia e thjeshtë: **niet në fund** • Mbiemër: **niet para tij** • Folja e fundit: **niet para saj** • Emër me *een* ose pa nyje: **geen**.
+@end
+@practice Ushtrime
+@h2 A. Shtoni «niet» (rregullat 1 dhe 2)
+1. Ik weet het.
+
+2. Ik ken hem.
+
+3. Ik begrijp het.
+
+4. Hij ziet onze vrienden.
+
+5. Ik ben moe.
+
+6. Het huis is groot.
+
+7. Zij is thuis.
+
+8. Hij is ziek.
+
+@h2 B. Vendosni «niet» para pjesës që mohohet (rregulli 3)
+1. Hij speelt goed.
+
+2. Ik woon in Prishtina.
+
+3. De kat zit op de bank.
+
+4. Ik loop naar school.
+
+5. Hij gaat met de trein.
+
+6. Het is zo groot.
+
+7. Ik doe dat graag.
+
+8. Hij is thuis. (nog niet)
+
+@h2 C. Vendosni «niet» para foljes së fundit (rregulli 4)
+1. Ik wil komen.
+
+2. Zij wil morgen komen.
+
+3. Ik kan lopen.
+
+4. Hij wil zitten.
+
+5. Ik heb het boek gelezen.
+
+6. Hij heeft zijn brief geschreven.
+
+7. Wij gaan het boek lezen.
+
+8. Het plan ging door.
+
+@h2 D. Mohoni fjalinë e varur (rregulli 5)
+1. Ik weet dat hij komt.
+
+2. Ik denk dat mijn vader werkt.
+
+3. Ik weet dat hij ziek is.
+
+4. Ik weet dat hij wil komen.
+
+5. Ik denk dat zij thuis is.
+
+6. Zijn zoon is tandarts, als ik me vergis.
+
+@h2 E. «niet» apo «geen»?
+1. Ik heb ______ fiets.
+
+2. Ik heb de fiets ______.
+
+3. Hij heeft ______ geld.
+
+4. Wij hebben ______ huis.
+
+5. Ik zie het huis ______.
+
+6. Zij heeft ______ boeken.
+
+7. Ik ben ______ student.
+
+8. Ik ken die man ______.
+
+9. Spreek je ______ Nederlands?
+
+10. Hij ziet onze vrienden ______.
+
+@h2 F. Gjeni dhe korrigjoni gabimin
+1. Ik niet weet het.
+
+2. Ik heb niet geld.
+
+3. Ik ben geen moe.
+
+4. Ik wil komen niet.
+
+5. Ik heb niet een fiets.
+
+6. Hij is niet student.
+
+7. Ik niet loop naar school.
+
+8. Ik weet dat hij komt niet.
+
+@h2 G. Përktheni në holandisht
+1. Nuk e di.
+
+2. Unë nuk jam i lodhur.
+
+3. Ai nuk ka para.
+
+4. Ne nuk kemi shtëpi.
+
+5. Nuk dua të vij.
+
+6. Macja nuk është ulur në divan.
+
+7. A nuk flet ti holandisht?
+
+8. Ai nuk është student.
+
+@key
+@table
+| Ushtrimi | Përgjigjet |
+| **A** | 1. Ik weet het niet. 2. Ik ken hem niet. 3. Ik begrijp het niet. 4. Hij ziet onze ⏎ vrienden niet. 5. Ik ben niet moe. 6. Het huis is niet groot. 7. Zij is niet thuis. 8. ⏎ Hij is niet ziek. |
+| **B** | 1. Hij speelt niet goed. 2. Ik woon niet in Prishtina. 3. De kat zit niet op de bank. ⏎ 4. Ik loop niet naar school. 5. Hij gaat niet met de trein. 6. Het is niet zo groot. 7. ⏎ Ik doe dat niet graag. 8. Hij is nog niet thuis. |
+| **C** | 1. Ik wil niet komen. 2. Zij wil morgen niet komen. 3. Ik kan niet lopen. 4. Hij wil ⏎ niet zitten. 5. Ik heb het boek niet gelezen. 6. Hij heeft zijn brief niet geschreven. ⏎ 7. Wij gaan het boek niet lezen. 8. Het plan ging niet door. |
+| **D** | 1. Ik weet dat hij niet komt. 2. Ik denk dat mijn vader niet werkt. 3. Ik weet dat hij ⏎ niet ziek is. 4. Ik weet dat hij niet wil komen. 5. Ik denk dat zij niet thuis is. 6. Zijn ⏎ zoon is tandarts, als ik me niet vergis. |
+| **E** | 1. geen 2. niet 3. geen 4. geen 5. niet 6. geen 7. geen 8. niet 9. geen 10. ⏎ niet |
+| **F** | 1. Ik weet het niet. 2. Ik heb geen geld. 3. Ik ben niet moe. 4. Ik wil niet komen. ⏎ 5. Ik heb geen fiets. 6. Hij is geen student. 7. Ik loop niet naar school. 8. Ik weet ⏎ dat hij niet komt. |
+| **G** | 1. Ik weet het niet. 2. Ik ben niet moe. 3. Hij heeft geen geld. 4. Wij hebben geen ⏎ huis. 5. Ik wil niet komen. 6. De kat zit niet op de bank. 7. Spreek je geen ⏎ Nederlands? 8. Hij is geen student. |
+@end
+
+@glossary
+@table
+| Holandisht | Shqip | Holandisht | Shqip |
+| **niet** | jo, nuk | **thuis** | në shtëpi |
+| **geen** | asnjë, aspak | **het geld** | paratë |
+| **niet meer** | nuk më, jo më | **de vriend** | miku |
+| **nog niet** | ende jo | **het plan** | plani |
+| **niet zo** | jo aq | **spreken** | flas |
+| **niet erg** | jo shumë | **kennen** | njoh |
+| **graag** | me dëshirë | **begrijpen** | kuptoj |
+| **rijk** | i pasur | **zien** | shoh |
+| **dapper** | i guximshëm | **de student** | studenti |
+| **moe** | i lodhur | **Nederlands** | holandisht |
+| **ziek** | i sëmurë | **zich vergissen** | gaboj |
+| **groot** | i madh | **de tandarts** | dentisti |
+@end

@@ -1,0 +1,202 @@
+@lesson Koha e tashme: rregullat dhe përjashtimet
+Te Njësia {U:1} mësuam modelin **rrënja + mbaresa**, dhe te Njësia {U:10} rregullat e drejtshkrimit. Këtu i bashkojmë dhe shtojmë format që mungonin.
+
+@h2 Modeli i plotë, me «u»
+Rrënja është paskajorja pa **-en** (rrallë pa **-n**: *doen → doe*). Fjalorët i japin foljet në paskajore.
+
+@table
+| Veta | Mbaresa | werken | zingen | doen |
+| ik | — | werk | zing | doe |
+| jij / je | -t | werkt | zingt | doet |
+| **u** | **-t** | **werkt** | **zingt** | **doet** |
+| hij / zij / het | -t | werkt | zingt | doet |
+| wij / jullie / zij | -en | werken | zingen | doen |
+@end
+
+@box (0.9, 0.96, 0.92)
+  **«u» merr gjithmonë -t**
+  **u komt** = ju vini, për një person ose për më shumë, me mirësjellje. Folja nuk ndryshon për shumësin.
+@end
+@h2 Drejtshkrimi i rrënjës
+@table
+| Rregulli (Njësia {U:10}) | Paskajorja | ik | wij |
+| zanore e gjatë → dyfish | maken, horen | maak, hoor | maken, horen |
+| bashkëtingëllore e dyfishtë → një | zitten, leggen | zit, leg | zitten, leggen |
+| v → f, z → s | beven, reizen | beef, reis | beven, reizen |
+@end
+
+@h2 Pesë pika që duhen mbajtur mend
+1. **u** merr gjithmonë **-t**: *u komt, u werkt*.
+
+2. **jij pas foljes humbet -t**: *jij zingt*, por **zing je?** (Njësia {U:3}).
+
+3. **Rrënja me -t nuk merr -t tjetër**: *laten → ik laat, jij laat, hij laat*, si *heten → hij heet*.
+
+4. **snijden, houden, rijden** e humbin shpesh **-d** te *ik*: **ik snij, ik hou, ik rij**. Kur *jij* vjen pas foljes, bie **-dt**: **snij je? hou je? rij je?**
+
+5. **komen**: zanore e shkurtër në njëjës, e gjatë në shumës: *ik kom, wij komen*.
+
+@h2 hebben dhe zijn
+@table
+| Përemri | hebben | zijn |
+| ik | heb | ben |
+| jij / je | hebt (heb je?) | bent (ben je?) |
+| u | hebt (rrallë: heeft) | bent (rrallë: is) |
+| hij / zij / het | heeft | is |
+| wij / jullie / zij | hebben | zijn |
+@end
+
+@lesson «Hij zit te lezen»: veprimi në vazhdim
+Holandishtja nuk ka formë të veçantë për «po + folje». **Ik zing** do të thotë *këndoj* ose *po këndoj*, sipas kontekstit.
+
+Kur duam të theksojmë që veprimi **po ndodh tani**, përdorim një folje pozicioni (Njësitë {U:5} dhe {U:8}) + **te** + paskajore:
+
+@flow Kryefjala | !staan, zitten, liggen, lopen | te | Paskajorja
+@flowsub hij, wij… | sipas pozicionit | | lezen, slapen…
+
+@table
+| Holandisht | Shqip | Fjalë për fjalë |
+| Hij **ligt te slapen**. | Ai po fle. | është shtrirë dhe fle |
+| Zij **staan te praten**. | Ata po bisedojnë. | qëndrojnë në këmbë dhe flasin |
+| Wij **zitten te lezen**. | Ne po lexojmë. | jemi ulur dhe lexojmë |
+| Hij **loopt te zingen**. | Ai po këndon duke ecur. | ecën dhe këndon |
+@end
+
+@box (1.0, 0.96, 0.91)
+  **Zgjidhni foljen sipas pozicionit**
+  Lexon ulur → **zitten**; flet në këmbë → **staan**; fle → **liggen**; ecën → **lopen**.
+@end
+@box (0.95, 0.96, 0.98)
+  **Theksimi**
+  Theksimin («unë **po**, këndoj!») holandishtja e jep me ndajfolje ose me intonacion, jo me një formë tjetër të foljes.
+@end
+@lesson Urdhërorja
+Te Njësia {U:12} pamë që urdhërorja përdor **rrënjën** e foljes, pa kryefjalë dhe pa mbaresë. Kjo vlen për njëjësin dhe shumësin:
+
+@table
+| Paskajorja | Urdhërorja | Shqip |
+| luisteren | **Luister** goed! | Dëgjo, dëgjoni mirë! |
+| wachten | **Wacht** op ons! | Na prit, na pritni! |
+| nemen | **Neem** dit boek! | Merre këtë libër! |
+@end
+
+@h2 Urdhërorja e sjellshme: rrënja + t + u
+Me mirësjellje (njëjës ose shumës) shtohet **-t** dhe pas foljes vjen **u**. Urdhri tingëllon më i butë:
+
+@table
+| Holandisht | Shqip |
+| **Leest u** wat langzamer! | Lexoni pak më ngadalë, ju lutem! |
+| **Blijft u** met ons! | Qëndroni me ne! |
+| **Komt u** binnen! | Hyni brenda! |
+@end
+
+@box (0.99, 0.93, 0.92)
+  **zijn**
+  Urdhërorja e *zijn* është e parregullt: **Wees!** (Ji!) / **Weest u…!** Për shembull: *Wees stil!* (Rri i qetë!).
+@end
+@practice Ushtrime
+@h2 A. Zgjedhoni me «u»
+1. U ______ goed Nederlands. (spreken)
+
+2. U ______ in Amsterdam. (wonen)
+
+3. ______ u koffie? (willen)
+
+4. U ______ een mooi huis. (hebben)
+
+5. U ______ heel vriendelijk. (zijn)
+
+@h2 B. Pyetje me «je»: kujdes me -t
+1. Jij rijdt naar huis. → ______ je naar huis?
+
+2. Jij houdt van muziek. → ______ je van muziek?
+
+3. Jij zingt mooi. → ______ je mooi?
+
+4. Jij snijdt het brood. → ______ je het brood?
+
+5. Jij laat de hond uit. → ______ je de hond uit?
+
+@h2 C. Plotësoni me formën e duhur
+1. Ik ______ naar Utrecht. (rijden)
+
+2. Hij ______ de deur open. (laten)
+
+3. Wij ______ in Tirana. (reizen)
+
+4. Zij ______ een taart. (maken)
+
+5. Ik ______ het brood. (snijden)
+
+6. Jullie ______ niet. (komen)
+
+@h2 D. Zgjidhni foljen e pozicionit
+1. De baby ______ te slapen. (në shtrat)
+
+2. Wij ______ te praten bij de deur. (në këmbë)
+
+3. Opa ______ in de tuin te lezen. (ulur)
+
+4. Hij ______ door het park te zingen. (duke ecur)
+
+@h2 E. Paskajore → urdhërore
+1. luisteren → ______! (ti)
+
+2. komen → ______ hier! (ti)
+
+3. lezen → ______ u langzamer! (i sjellshëm)
+
+4. zijn → ______ stil! (ti)
+
+5. blijven → ______ u even! (i sjellshëm)
+
+6. nemen → ______ een stoel! (ti)
+
+@h2 F. Gjeni dhe korrigjoni gabimin
+1. U kom morgen.
+
+2. Hij laatt de hond uit.
+
+3. Zingt je mooi?
+
+4. Ik rijdt naar huis.
+
+5. Zijn stil!
+
+@h2 G. Përktheni në holandisht
+1. Ju (u) flisni mirë holandisht.
+
+2. Fëmijët po flenë. (liggen)
+
+3. Ne po lexojmë. (zitten)
+
+4. Na prit!
+
+5. Hyni brenda, ju lutem! (u)
+
+@key
+@table
+| Ushtrimi | Përgjigjet |
+| A | 1. spreekt 2. woont 3. Wilt 4. hebt 5. bent |
+| B | 1. Rij 2. Hou 3. Zing 4. Snij 5. Laat |
+| C | 1. rij (rijd) 2. laat 3. reizen 4. maakt 5. snij (snijd) 6. komen |
+| D | 1. ligt 2. staan 3. zit 4. loopt |
+| E | 1. Luister 2. Kom 3. Leest 4. Wees 5. Blijft 6. Neem |
+| F | 1. U komt morgen. 2. Hij laat de hond uit. 3. Zing je mooi? 4. Ik rij naar huis. / Ik rijd naar huis. 5. Wees stil! |
+| G | 1. U spreekt goed Nederlands. 2. De kinderen liggen te slapen. 3. Wij zitten te lezen. 4. Wacht op mij! / Wacht op ons! 5. Komt u binnen! |
+@end
+
+@glossary
+@table
+| Holandisht | Shqip | Holandisht | Shqip |
+| u | ju (i sjellshëm) | luisteren | dëgjoj |
+| zingen | këndoj | wachten op | pres |
+| doen | bëj | nemen | marr |
+| snijden | pres (me thikë) | blijven | qëndroj, mbetem |
+| houden van | dua, pëlqej | binnen | brenda |
+| rijden | ngas, udhëtoj | stil | i qetë |
+| laten | lë | praten | bisedoj |
+| beven | dridhem | slapen | fle |
+| reizen | udhëtoj | het brood | buka |
+| de taart | torta | vriendelijk | i sjellshëm |
+@end

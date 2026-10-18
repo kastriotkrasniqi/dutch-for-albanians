@@ -1,0 +1,179 @@
+@lesson Lidhëzat bashkërenditëse: en, maar, of, want
+Te Njësia {U:12} mësuam tri tipet e rendit të fjalëve dhe katër lidhëza: *dat, omdat, als, want*. Këtu i plotësojmë. Rregulli praktik është i thjeshtë: **mësoni përmendësh katër lidhëzat që NUK e lëvizin foljen. Të gjitha të tjerat e çojnë foljen në fund.**
+
+Pas këtyre katër lidhëzave fjalia ruan rendin e zakonshëm, **Tipi I** (ose **Tipi II** në pyetje): folja mbetet e dyta.
+
+@table
+| Lidhëza | Shqip |
+| **en** | dhe |
+| **maar** | por |
+| **of** | ose, apo (jo kur do të thotë «nëse») |
+| **want** | sepse, pasi |
+@end
+
+@table
+| Holandisht | Shqip |
+| Hij gaat mee, **maar** ik **blijf** thuis. | Ai vjen me ne, por unë rri në shtëpi. |
+| Ik blijf thuis, **want** het **regent** hard. | Rri në shtëpi, sepse bie shi i fortë. |
+| Ik drink thee **en** zij **drinkt** koffie. | Unë pi çaj dhe ajo pi kafe. |
+| Kom je vandaag, **of** **kom** je morgen? | Vjen sot apo vjen nesër? |
+@end
+
+@box (0.9, 0.96, 0.92)
+  **E-M-O-W**
+  **en, maar, of, want**: pas tyre folja **nuk lëviz**. Mbajini mend si «**EMOW**».
+@end
+@lesson Lidhëzat nënrenditëse: folja në fund
+Pas të gjitha lidhëzave të tjera vjen **Tipi III**: folja e zgjedhur shkon **në fund** të fjalisë së varur.
+
+@flow Lidhëza | Kryefjala | Pjesa tjetër | !Folja
+@flowsub omdat, dat, toen… | hij, de trein… | geen tijd, al… | në fund
+
+@table
+| Lidhëza | Shqip | Lidhëza | Shqip |
+| **dat** | që | **omdat** | sepse |
+| **of** | nëse, a | **daar** | meqë, pasi (formale) |
+| **als** | kur; nëse | **wanneer** | kur; nëse |
+| **toen** | kur (një herë, në të shkuarën) | **terwijl** | ndërsa, gjersa |
+| **nadat** | pasi | **voor(dat)** | para se |
+| **tot(dat)** | derisa | **sinds** / **sedert** | që kur, që prej |
+| **nu** | tani që | **zodat** | kështu që |
+| **opdat** | me qëllim që | **zoals** | ashtu si, siç |
+| **alsof** | sikur | **hoe** | si |
+| **hoewel** / **ofschoon** | megjithëse | **al** | edhe pse |
+| **indien** | në qoftë se (formale) |  |  |
+@end
+
+@table
+| Holandisht | Shqip |
+| Hij komt niet, **omdat** hij geen tijd **heeft**. | Nuk vjen, sepse nuk ka kohë. |
+| Ik wist niet **dat** Piet al vertrokken **was**. | Nuk e dija që Pieti ishte nisur tashmë. |
+| Ik vroeg hem **of** hij de film al gezien **had**. | E pyeta nëse e kishte parë filmin. |
+| **Toen** ik in Leiden **woonde**, fietste ik veel. | Kur banoja në Leiden, ngisja shumë biçikletë. |
+| Ik lees een boek **terwijl** zij **kookt**. | Lexoj një libër ndërsa ajo gatuan. |
+| **Hoewel** het **regent**, gaan wij wandelen. | Megjithëse bie shi, shkojmë shëtitje. |
+@end
+
+@box (0.99, 0.93, 0.92)
+  **«of» ka dy kuptime**
+  **of = ose, apo** → folja nuk lëviz: *Kom je vandaag **of** kom je morgen?*
+  **of = nëse, a** → folja në fund: *Ik weet niet **of** hij **komt**.* (Nuk e di nëse vjen.)
+@end
+@box (0.99, 0.93, 0.92)
+  **toen, als apo wanneer?**
+  **toen** = kur, për **një ngjarje në të shkuarën**: *Toen ik klein was…* (Kur isha i vogël…)
+  **als / wanneer** = kur, për **të tashmen, të ardhmen ose përsëritje**: *Als het regent, blijf ik thuis.*
+@end
+@box (0.95, 0.96, 0.98)
+  **Kur fjalia e varur vjen e para**
+  Fjalia e varur zë vendin e parë, prandaj folja e fjalisë kryesore vjen menjëherë pas presjes (Njësia {U:12}): ***Toen** ik in Leiden woonde, **fietste** ik veel.*
+@end
+@practice Ushtrime
+@h2 A. Folja lëviz apo jo?
+Shkruani **I** (folja mbetet e dyta) ose **III** (folja në fund) pas çdo lidhëze.
+
+1. en → ______
+
+2. omdat → ______
+
+3. maar → ______
+
+4. dat → ______
+
+5. want → ______
+
+6. toen → ______
+
+7. terwijl → ______
+
+8. of (ose) → ______
+
+@h2 B. Bashkoni dy fjalitë me lidhëzën në kllapa
+1. Ik blijf thuis. Ik ben moe. (want)
+
+2. Ik blijf thuis. Ik ben moe. (omdat)
+
+3. Hij werkt. Zij leest een boek. (en)
+
+4. Ik weet. Hij komt morgen. (dat)
+
+5. Wij gaan wandelen. Het regent. (hoewel)
+
+6. Ik vraag hem. Hij heeft tijd. (of)
+
+7. Zij kookt. Ik lees de krant. (terwijl)
+
+8. Hij is ziek. Hij gaat naar zijn werk. (maar)
+
+@h2 C. toen, als apo wanneer?
+1. ______ ik klein was, woonde ik in Prizren.
+
+2. ______ het regent, neem ik de bus.
+
+3. ______ hij gisteren thuiskwam, was het al laat.
+
+4. Bel me ______ je in Amsterdam bent.
+
+@h2 D. «of» = ose apo nëse?
+1. Wil je thee of koffie?
+
+2. Ik weet niet of hij thuis is.
+
+3. Kom je vandaag of morgen?
+
+4. Zij vraagt of wij tijd hebben.
+
+@h2 E. Rendisni fjalët
+@order 1 | Hij komt niet, / heeft / omdat / geen tijd / hij | Nuk vjen, sepse nuk ka kohë.
+@order 2 | Ik weet niet / komt / hij / of | Nuk e di nëse vjen.
+@order 3 | Ik blijf thuis, / ben / want / ziek / ik | Rri në shtëpi, sepse jam i sëmurë.
+@order 4 | woonde / ik / Toen / in Leiden, / fietste ik veel | Kur banoja në Leiden, ngisja shumë biçikletë.
+
+@h2 F. Gjeni dhe korrigjoni gabimin
+1. Ik blijf thuis, want ik ziek ben.
+
+2. Hij komt niet, omdat hij heeft geen tijd.
+
+3. Ik weet niet of hij is thuis.
+
+4. Als ik klein was, woonde ik in Tirana.
+
+5. Toen ik in Leiden woonde, ik fietste veel.
+
+@h2 G. Përktheni në holandisht
+1. Unë pi çaj dhe ajo pi kafe.
+
+2. Nuk vjen, sepse nuk ka kohë. (omdat)
+
+3. E di që ai banon në Amsterdam.
+
+4. Kur isha i vogël, banoja në Kosovë.
+
+5. Megjithëse bie shi, shkojmë shëtitje.
+
+@key
+@table
+| Ushtrimi | Përgjigjet |
+| A | 1. I 2. III 3. I 4. III 5. I 6. III 7. III 8. I |
+| B | 1. Ik blijf thuis, want ik ben moe. 2. Ik blijf thuis, omdat ik moe ben. 3. Hij werkt en zij leest een boek. 4. Ik weet dat hij morgen komt. 5. Wij gaan wandelen, hoewel het regent. 6. Ik vraag hem of hij tijd heeft. 7. Zij kookt, terwijl ik de krant lees. 8. Hij is ziek, maar hij gaat naar zijn werk. |
+| C | 1. Toen 2. Als / Wanneer 3. Toen 4. als / wanneer |
+| D | 1. ose 2. nëse 3. ose 4. nëse |
+| E | 1. Hij komt niet, omdat hij geen tijd heeft. 2. Ik weet niet of hij komt. 3. Ik blijf thuis, want ik ben ziek. 4. Toen ik in Leiden woonde, fietste ik veel. |
+| F | 1. Ik blijf thuis, want ik ben ziek. 2. Hij komt niet, omdat hij geen tijd heeft. 3. Ik weet niet of hij thuis is. 4. Toen ik klein was, woonde ik in Tirana. 5. Toen ik in Leiden woonde, fietste ik veel. |
+| G | 1. Ik drink thee en zij drinkt koffie. 2. Hij komt niet, omdat hij geen tijd heeft. 3. Ik weet dat hij in Amsterdam woont. 4. Toen ik klein was, woonde ik in Kosovo. 5. Hoewel het regent, gaan wij wandelen. |
+@end
+
+@glossary
+@table
+| Holandisht | Shqip | Holandisht | Shqip |
+| en | dhe | toen | kur (në të shkuarën) |
+| maar | por | terwijl | ndërsa |
+| of | ose; nëse | nadat | pasi |
+| want | sepse (Tipi I) | voordat | para se |
+| omdat | sepse (Tipi III) | totdat | derisa |
+| dat | që | hoewel | megjithëse |
+| als | kur; nëse | zodat | kështu që |
+| wanneer | kur; nëse | zoals | siç |
+| de film | filmi | koken | gatuaj |
+| klein | i vogël | wandelen | shëtis |
+@end

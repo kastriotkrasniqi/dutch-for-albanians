@@ -1,0 +1,247 @@
+@lesson Lopen dhe zitten me parafjalë
+Tani i përdorim foljet e reja me **parafjalët** për të ndërtuar fjali të plota. Një fjali bazë në holandisht ka katër pjesë:
+
+@flow Kryefjala | !Folja | Parafjala | Objekti
+
+@table
+| Folja | Përdoret për | Shembull |
+| **lopen** | njerëz ose kafshë që lëvizin në ⏎ këmbë | De man **loopt** naar het station. ⏎ Njeriu ecën drejt stacionit. |
+| **zitten** | njerëz ose kafshë që janë ulur | De kat **zit** op de bank. ⏎ Macja është ulur në divan. |
+@end
+
+@table
+| Kryefjala | Folja | Parafjala | Objekti | Shqip |
+| De man | **loopt** | naar | het station. | Njeriu ecën drejt stacionit. |
+| De kat | **zit** | op | de bank. | Macja është ulur në divan. |
+| Mijn vader | **loopt** | naar | de winkel. | Babai im shkon në dyqan në ⏎ këmbë. |
+@end
+
+@box (1.0, 0.96, 0.9)
+  **Dallim nga shqipja:** në shqip parafjala dhe rasa ndryshojnë emrin («drejt *stacionit*»). Në holandisht emri **nuk ndryshon**: *naar het station*, *op de bank*. Rendi është gjithmonë: folja + parafjala + emri.
+@end
+@h2 Më shumë shembuj
+@table
+| Holandisht | Shqip |
+| De kinderen **lopen** door het park. | Fëmijët ecin nëpër park. |
+| De hond **loopt** langs de rivier. | Qeni ecën përgjatë lumit. |
+| Mijn zus **zit** naast mij. | Motra ime është ulur pranë meje. |
+| De kinderen **zitten** in de klas. | Fëmijët janë në klasë. |
+@end
+
+@lesson Parafjalët e lëvizjes dhe të pozicionit
+Me **lopen** përdorim parafjalë që tregojnë **drejtim**; me **zitten** përdorim parafjalë që tregojnë **vend**.
+
+@table
+| Me lopen | Shqip | Shembull |
+| **naar** | drejt, në | Ik loop **naar** school. |
+| **door** | nëpër, përmes | Wij lopen **door** het park. |
+| **langs** | përgjatë, pranë | Zij loopt **langs** de winkel. |
+| **over** | mbi, përtej | Hij loopt **over** de brug. |
+@end
+
+@table
+| Me zitten | Shqip | Shembull |
+| **op** | mbi | De kat zit **op** de bank. |
+| **in** | në, brenda | De kinderen zitten **in** de klas. |
+| **naast** | pranë | Ik zit **naast** mijn vriend. |
+| **achter** | pas, prapa | De hond zit **achter** de deur. |
+| **voor** | përpara | Zij zit **voor** de tv. |
+| **bij** | te, afër | Hij zit **bij** het raam. |
+| **tussen** | midis | De kat zit **tussen** de stoelen. |
+@end
+
+@box (0.91, 0.94, 0.98)
+  **naar** ≠ **op/in**: *Ik loop* ***naar*** *school* (po shkoj drejt shkollës, lëvizje) · *Ik zit* ***op*** *school* (jam në shkollë, pozicion). Në shqip të dyja janë «në shkollë», por në holandisht foljet dhe parafjalët ndryshojnë.
+@end
+@h2 Kur fjalia nis me vendin
+@table
+| Rendi i zakonshëm | Vendi në fillim (folja mbetet e dyta) |
+| De kat **zit** op de bank. | Op de bank **zit** de kat. |
+| De kinderen **lopen** in het park. | In het park **lopen** de kinderen. |
+@end
+
+@h2 Fjalia me «er» (ka…)
+@table
+| Holandisht | Shqip |
+| Er **zit** een kat op de bank. | Ka një mace ulur në divan. |
+| Er **loopt** een man naar het station. | Një njeri po ecën drejt stacionit. |
+@end
+
+@lesson Pyetjet me «lopen» dhe «zitten»
+Në pyetje rendi i fjalëve ndryshon pak: folja del para kryefjalës.
+
+@h2 1. Pyetjet po/jo
+Pyetjet me përgjigje «po» ose «jo» nisin me **foljen**:
+
+@table
+| Fjalia | Pyetja | Shqip |
+| De man loopt naar het ⏎ station. | **Loopt** de man naar het station? | A ecën njeriu drejt stacionit? |
+| De kat zit op de bank. | **Zit** de kat op de bank? | A është macja ulur në divan? |
+| Mijn vader loopt naar de ⏎ winkel. | **Loopt** mijn vader naar de winkel? | A shkon babai im në dyqan në ⏎ këmbë? |
+@end
+
+Përgjigjet e shkurtra: *Ja, hij loopt naar het station.* · *Nee, hij loopt naar de winkel.* · *Ja, ze zit op de bank.* (Për «de»-fjalët përdorim **hij**/**ze**, për «het»-fjalët **het**, për shumësin **ze**.)
+
+@h2 2. Pyetjet me «waar» (ku)
+@flow Fjala pyetëse | !Folja | Kryefjala | Parafjala + objekti
+
+@table
+| Pyetja | Përgjigja | Shqip |
+| Waar **loopt** de man? | Hij loopt in het park. | Ku ecën njeriu? – Në park. |
+| Waar **zit** de kat? | Ze zit op de bank. | Ku është ulur macja? – Në divan. |
+| Waar **loopt** de man ⏎ **naartoe**? | Hij loopt naar het station. | Drejt ku ecën njeriu? – Drejt stacionit. |
+@end
+
+@box (0.91, 0.94, 0.98)
+  **Waar … naartoe** pyet për drejtimin (drejt ku?), ndërsa **waar** pa «naartoe» pyet për vendin ku ndodh ecja (ku?).
+@end
+@box (0.99, 0.93, 0.92)
+  **Gabim i zakonshëm:** mos e lini foljen pas kryefjalës në pyetje. Gabim: *Waar de man loopt?* → Saktë: *Waar* ***loopt*** *de man?*
+@end
+@box (0.9, 0.96, 0.92)
+  **Me «jij»:** në pyetje bie -t. *Loop jij naar school?* (A shkon ti në shkollë?) · *Zit jij op de bank?* (A je ulur në divan?) · *Met wie loop jij naar huis?* (Me kë shkon ti në shtëpi?)
+@end
+@practice Ushtrime: lidh çiftet
+@h2 A. Parafjala dhe kuptimi
+Lidhni me vijë çdo kuti majtas me kutinë e duhur djathtas.
+
+naar ⇥ pranë
+
+door ⇥ pas, prapa
+
+langs ⇥ mbi, përtej
+
+over ⇥ drejt, në
+
+naast ⇥ përgjatë
+
+achter ⇥ nëpër
+
+@h2 B. Fjalia dhe përkthimi
+Lidhni me vijë çdo kuti majtas me kutinë e duhur djathtas.
+
+De man loopt naar het station. ⇥ Ku është ulur macja?
+
+De kat zit op de bank. ⇥ Macja është ulur në divan.
+
+Mijn vader loopt naar de winkel. ⇥ A ecën njeriu drejt stacionit?
+
+Waar zit de kat? ⇥ Babai im shkon në dyqan në këmbë.
+
+Loopt de man naar het station? ⇥ Njeriu ecën drejt stacionit.
+
+@practice Ushtrime: rendit fjalët
+@h2 C. Rendisni fjalët dhe shkruani fjalinë ose pyetjen
+Mos harroni: në fjali folja është e dyta; në pyetje po/jo është e para; pas «waar» vjen menjëherë folja.
+
+@order 1 | loopt / naar / mijn / vader / de winkel | Babai im shkon në dyqan në këmbë.
+@order 2 | loopt / de man / naar / het station | Njeriu ecën drejt stacionit.
+@order 3 | zit / op / de kat / de bank | Macja është ulur në divan.
+@order 4 | lopen / door / de kinderen / het park | Fëmijët ecin nëpër park.
+@order 5 | loopt / de man / naar / het station | A ecën njeriu drejt stacionit?
+@order 6 | zit / de kat / op / de bank | A është macja ulur në divan?
+@order 7 | waar / de man / loopt | Ku ecën njeriu?
+@order 8 | waar / de kat / zit | Ku është ulur macja?
+
+@practice Ushtrime: plotëso, gjej gabimin
+@h2 D. Plotësoni me formën e duhur (lopen / zitten)
+1. De man ______ naar het station. (lopen)
+
+2. De kat ______ op de bank. (zitten)
+
+3. Mijn vader ______ naar de winkel. (lopen)
+
+4. De kinderen ______ in de klas. (zitten)
+
+5. Ik ______ naar school. (lopen)
+
+6. Wij ______ door het park. (lopen)
+
+7. Jij ______ naast mij. (zitten)
+
+8. De honden ______ langs de rivier. (lopen)
+
+@h2 E. Plotësoni me parafjalën e duhur
+1. De man loopt ______ het station. (drejt)
+
+2. De kat zit ______ de bank. (mbi)
+
+3. Wij lopen ______ het park. (nëpër)
+
+4. Zij loopt ______ de winkel. (përgjatë)
+
+5. De hond zit ______ de deur. (përpara)
+
+6. Ik zit ______ mijn vriend. (pranë)
+
+@h2 F. Gjeni dhe korrigjoni gabimin
+1. Waar de man loopt? → ______________________
+
+2. De man loopt op het station. (drejt stacionit) → ______________________
+
+3. Loopt jij naar de winkel? → ______________________
+
+4. Mijn vader lopen naar de winkel. → ______________________
+
+5. De kat op de bank zit. → ______________________
+
+6. Zitten de kat op de bank? → ______________________
+
+@practice Ushtrime: bëj pyetje, përkthe
+@h2 G. Shndërroni fjalinë në pyetje po/jo
+Shembull: De man loopt naar het station. → Loopt de man naar het station?
+
+1. De kat zit op de bank. → ______________________
+
+2. Mijn vader loopt naar de winkel. → ______________________
+
+3. De kinderen zitten in de klas. → ______________________
+
+4. Jij loopt door het park. → ______________________
+
+5. De man loopt in het park. (me «waar») → ______________________
+
+@h2 H. Përktheni në holandisht
+1. Njeriu ecën drejt stacionit.
+
+2. Macja është ulur në divan.
+
+3. Babai im shkon në dyqan në këmbë.
+
+4. A është macja ulur në divan?
+
+5. Ku ecën njeriu?
+
+6. Fëmijët ecin nëpër park.
+
+@key
+@table
+| Ushtrimi | Përgjigjet |
+| A | naar – drejt, në • door – nëpër • langs – përgjatë • over – mbi, përtej • naast – pranë ⏎ • achter – pas, prapa |
+| B | De man loopt naar het station. – Njeriu ecën drejt stacionit. • De kat zit op de bank. – ⏎ Macja është ulur në divan. • Mijn vader loopt naar de winkel. – Babai im shkon në ⏎ dyqan në këmbë. • Waar zit de kat? – Ku është ulur macja? • Loopt de man naar het ⏎ station? – A ecën njeriu drejt stacionit? |
+| C | 1. Mijn vader loopt naar de winkel. 2. De man loopt naar het station. 3. De kat zit op ⏎ de bank. 4. De kinderen lopen door het park. 5. Loopt de man naar het station? 6. Zit ⏎ de kat op de bank? 7. Waar loopt de man? 8. Waar zit de kat? |
+| D | 1. loopt 2. zit 3. loopt 4. zitten 5. loop 6. lopen 7. zit 8. lopen |
+| E | 1. naar 2. op 3. door 4. langs 5. voor 6. naast |
+| F | 1. Waar loopt de man? 2. De man loopt naar het station. 3. Loop jij naar de winkel? 4. ⏎ Mijn vader loopt naar de winkel. 5. De kat zit op de bank. 6. Zit de kat op de bank? |
+| G | 1. Zit de kat op de bank? 2. Loopt mijn vader naar de winkel? 3. Zitten de kinderen in ⏎ de klas? 4. Loop jij door het park? 5. Waar loopt de man? |
+| H | 1. De man loopt naar het station. 2. De kat zit op de bank. 3. Mijn vader loopt naar de ⏎ winkel. 4. Zit de kat op de bank? 5. Waar loopt de man? 6. De kinderen lopen door ⏎ het park. |
+@end
+
+@glossary
+@table
+| Holandisht | Shqip | Holandisht | Shqip |
+| lopen | eci, shkoj në këmbë | de man | njeriu, burri |
+| zitten | ulem; jam diku | de vader | babai |
+| naar | drejt, në | de zus | motra |
+| door | nëpër, përmes | het station | stacioni |
+| langs | përgjatë, pranë | de winkel | dyqani |
+| over | mbi, përtej | de bank | divani |
+| op | mbi | de kat | macja |
+| in | në, brenda | de hond | qeni |
+| naast | pranë | de rivier | lumi |
+| achter | pas, prapa | het park | parku |
+| voor | përpara | de brug | ura |
+| bij | te, afër | de klas | klasa |
+| tussen | midis | de deur | dera |
+| waar | ku | het raam | dritarja |
+@end

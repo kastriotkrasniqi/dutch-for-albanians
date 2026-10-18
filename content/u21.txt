@@ -1,0 +1,153 @@
+@lesson Modalet në të gjitha kohët
+Te Njësia {U:4} mësuam modalet në kohën e tashme. Këtu shtojmë format me *u* dhe kohën e shkuar:
+
+@table
+| Përemri | kunnen | moeten | mogen | willen |
+| ik | kan | moet | mag | wil |
+| jij | kunt / kan | moet | mag | wilt / wil |
+| **u** | **kunt** | **moet** | **mag** | **wilt** |
+| hij / zij / het | kan | moet | mag | wil |
+| wij / jullie / zij | kunnen | moeten | mogen | willen |
+| **e shkuara (njëjës)** | **kon** | **moest** | **mocht** | **wilde** / **wou** |
+| **e shkuara (shumës)** | **konden** | **moesten** | **mochten** | **wilden** |
+@end
+
+@table
+| Holandisht | Shqip |
+| Ik **kon** mijn hoed niet vinden. | Nuk e gjeta dot kapelën. |
+| Zij **moesten** alleen komen. | Ata duhej të vinin vetëm. |
+| Wij **mochten** bij hem logeren. | Na lejuan të flinim tek ai. |
+| Hij **wilde** Engels leren. | Ai donte të mësonte anglisht. |
+| Dat **mag** waar zijn. | Mund të jetë e vërtetë. (*mogen* = mundësi) |
+@end
+
+@h2 Paskajorja e nënkuptuar
+Kur kuptimi është i qartë, sidomos me «shkoj» ose «bëj», paskajorja hiqet:
+
+@table
+| Holandisht | Shqip |
+| Waar wil je nou heen? | Ku do të shkosh tani? |
+| Ik moet morgen al weg. | Duhet të iki që nesër. |
+| Hij mag niet naar school. | Nuk i lejohet të shkojë në shkollë. |
+| Ik kan het niet. | Nuk e bëj dot. |
+| Kan dat? | A është e mundur? |
+@end
+
+@h2 Paskajorja e dyfishtë
+Në **të ardhmen** dhe në **kohët e kryera**, modali del në paskajore dhe qëndron në fund, **para** foljes kryesore:
+
+@table
+| Holandisht | Shqip |
+| Hij **zal** ons niet **kunnen helpen**. | Nuk do të mund të na ndihmojë. |
+| Wij **zullen** de tentoonstelling **willen bezoeken**. | Do të duam ta vizitojmë ekspozitën. |
+| Ik **heb** het **mogen doen**. | M'u lejua ta bëja. |
+| Hij **heeft** om hulp **moeten vragen**. | Iu desh të kërkonte ndihmë. |
+| Wij **hebben** haar niet **kunnen verstaan**. | Nuk arritëm ta kuptonim. |
+@end
+
+@box (0.9, 0.96, 0.92)
+  **Pa paskajore tjetër → pjesore**
+  Kur nuk ka folje tjetër, modali merr pjesoren: **gekund, gemoeten, gemoogd, gewild**.
+  *Wij hebben het altijd **gekund**.* (Gjithmonë e kemi bërë dot.) · *Ik heb het niet **gewild**.* (Nuk e kam dashur.)
+@end
+@box (0.95, 0.96, 0.98)
+  **Edhe me laten dhe foljet e pozicionit**
+  Paskajorja e dyfishtë përdoret edhe me **laten** (Mësimi {L:21.2}) dhe me **zitten, staan, liggen, lopen** (Mësimi {L:16.2}): *Zij heeft de hele dag **zitten schrijven**.* (Ka ndenjur gjithë ditën duke shkruar.)
+@end
+@lesson Folja «laten»
+*laten – liet / lieten – gelaten*
+
+@h2 1. «Le të…»: propozim
+@table
+| Holandisht | Shqip |
+| **Laten wij** even kijken. | Le të shohim pak. |
+| **Laten wij** nu dit lied zingen. | Le ta këndojmë tani këtë këngë. |
+@end
+
+@box (0.95, 0.96, 0.98)
+  **wij, jo «ons»**
+  Pas *laten* vjen **wij** (kryefjala), jo «ons» si te anglishtja *let us*.
+@end
+@h2 2. «Bëj që të bëhet»: e kryen dikush tjetër
+Sillet si modalet: paskajorja në fund, dhe paskajore e dyfishtë në kohët e kryera.
+
+@table
+| Holandisht | Shqip |
+| Ik **laat** mijn auto **repareren**. | Po e çoj makinën për riparim. |
+| Ik **liet** mijn auto **repareren**. | E çova makinën për riparim. |
+| Ik **heb** mijn auto **laten repareren**. | E kam çuar makinën për riparim. |
+| Ik **had** mijn auto **laten repareren**. | E kisha çuar makinën për riparim. |
+| Ik **zal** mijn auto **laten repareren**. | Do ta çoj makinën për riparim. |
+@end
+
+@box (0.99, 0.93, 0.92)
+  **Kush e bën?**
+  *Ik **laat** mijn auto **repareren**.* = ma rregullon dikush tjetër.
+  *Ik **heb** mijn auto **gerepareerd**.* = e kam rregulluar vetë.
+@end
+@practice Ushtrime
+@h2 A. Koha e shkuar e modaleve
+1. Ik kan niet komen. → Ik ______ niet komen.
+
+2. Wij moeten werken. → Wij ______ werken.
+
+3. Hij mag niet roken. → Hij ______ niet roken.
+
+4. Zij willen dansen. → Zij ______ dansen.
+
+5. Jij kunt het. → Jij ______ het.
+
+@h2 B. Plotësoni me «u»
+1. ______ u mij helpen? (kunnen)
+
+2. U ______ hier niet parkeren. (mogen)
+
+3. ______ u koffie of thee? (willen)
+
+4. U ______ morgen terugkomen. (moeten)
+
+@h2 C. Paskajorja e dyfishtë: rendisni fjalët
+@order 1 | Hij / helpen / zal / kunnen / ons niet | Nuk do të mund të na ndihmojë.
+@order 2 | Ik / doen / heb / het / mogen | M'u lejua ta bëja.
+@order 3 | Wij / verstaan / hebben / haar niet / kunnen | Nuk arritëm ta kuptonim.
+@order 4 | Ik / laten / heb / mijn auto / repareren | E kam çuar makinën për riparim.
+
+@h2 D. laten apo veprim vetë?
+1. Ik repareer mijn fiets zelf. → Ik ______ mijn fiets ______. (e kryer)
+
+2. De garage repareert mijn auto. → Ik ______ mijn auto ______. (e tashme)
+
+3. Ik knip mijn haar niet zelf. → Ik ______ mijn haar ______. (e tashme)
+
+@h2 E. Përktheni në holandisht
+1. Nuk e gjeta dot kapelën.
+
+2. Le të shohim pak.
+
+3. Ai donte të mësonte anglisht.
+
+4. E kam çuar makinën për riparim.
+
+5. Nuk e bëj dot.
+
+@key
+@table
+| Ushtrimi | Përgjigjet |
+| A | 1. kon 2. moesten 3. mocht 4. wilden 5. kon |
+| B | 1. Kunt 2. mag 3. Wilt 4. moet |
+| C | 1. Hij zal ons niet kunnen helpen. 2. Ik heb het mogen doen. 3. Wij hebben haar niet kunnen verstaan. 4. Ik heb mijn auto laten repareren. |
+| D | 1. heb … gerepareerd 2. laat … repareren 3. laat … knippen |
+| E | 1. Ik kon mijn hoed niet vinden. 2. Laten wij even kijken. 3. Hij wilde Engels leren. 4. Ik heb mijn auto laten repareren. 5. Ik kan het niet. |
+@end
+
+@glossary
+@table
+| Holandisht | Shqip | Holandisht | Shqip |
+| kon / konden | munda / mundëm | laten – liet | lë; bëj që të bëhet |
+| moest / moesten | më duhej / na duhej | repareren | riparoj |
+| mocht / mochten | m'u lejua / na u lejua | knippen | pres (flokët) |
+| wilde / wou | desha | de hoed | kapela |
+| logeren | fle si mysafir | de tentoonstelling | ekspozita |
+| verstaan | kuptoj (dëgjoj) | de hulp | ndihma |
+| weg | larg, iki | heen | për atje |
+@end

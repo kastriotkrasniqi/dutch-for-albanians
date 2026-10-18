@@ -1,0 +1,294 @@
+@lesson Ndajfoljet dhe shkallët e krahasimit
+Ndajfoljet tregojnë **si**, **kur**, **ku** ose **sa** ndodh diçka: *shpejt, mirë, herët, gjatë*. Në shqip shumë ndajfolje kanë të njëjtën formë me mbiemrin: *punë e mirë* – *punon mirë*. Edhe në holandisht ndodh kështu: ndajfolja është zakonisht **e njëjtë me mbiemrin pa mbaresë** dhe **nuk merr asnjë mbaresë**.
+
+@table
+| Mbiemri | Ndajfolja në fjali | Shqip |
+| **vroeg** (i hershëm) | Hij staat **vroeg** op. | Ai ngrihet herët. |
+| **goed** (i mirë) | Zij zingt **goed**. | Ajo këndon mirë. |
+| **lang** (i gjatë) | Het duurde te **lang**. | Zgjati shumë gjatë. |
+| **snel** (i shpejtë) | Hij loopt **snel**. | Ai ecën shpejt. |
+@end
+
+@box (1.0, 0.96, 0.91)
+  **Dallim nga anglishtja dhe e njëjta gjë si në shqip**
+  Anglishtja shton *-ly* (*quick → quickly*). Holandishtja nuk shton asgjë: **snel** = i shpejtë dhe shpejt. Kjo i ngjan shqipes: *mirë, shpejt, gjatë* nuk ndryshojnë.
+@end
+@h2 Ndajfolje pa mbiemër përkatës
+Disa ndajfolje nuk vijnë nga një mbiemër. Kuptimi i tyre është «absolut», prandaj **nuk kanë shkallë krahasimi**:
+
+@table
+| Ndajfolja | Shqip | Shembull |
+| **ooit** | ndonjëherë | Ben jij **ooit** in Amsterdam geweest? |
+| **nooit** | kurrë | Ik drink **nooit** koffie. |
+| **nu** | tani | Ik woon **nu** in Leiden. |
+| **altijd** | gjithmonë | Hij is **altijd** moe. |
+| **weer** | përsëri | Het regent **weer**. |
+| **erg** | shumë | Het is **erg** koud. |
+@end
+
+@h2 Shkalla krahasore: -er
+Ndajfoljet e formojnë krahasoren njësoj si mbiemrat: shtojnë **-er**. Pas tyre përdoret **dan** (se, sesa):
+
+@table
+| Bazë | Krahasore | Shembull | Shqip |
+| snel | **sneller** | Hij loopt **sneller** dan ik. | Ai vrapon më shpejt se unë. |
+| ver | **verder** | Zij willen **verder** gaan. | Ata duan të shkojnë më tej. |
+| langzaam | **langzamer** | U moet **langzamer** praten. | Duhet të flisni më ngadalë. |
+| duur | **duurder** | Dit boek is **duurder**. | Ky libër është më i shtrenjtë. |
+@end
+
+@box (0.9, 0.96, 0.92)
+  **Rregulli: -r + d + -er**
+  Kur fjala mbaron me **-r**, para *-er* shtohet një **d**: *ver → verder*, *duur → duurder*. Kujdes edhe me drejtshkrimin (Njësia {U:10}): *langzaam → langzamer* (aa → a në rrokje të hapur).
+@end
+@h2 Shkalla sipërore: het + -st(e)
+Sipërorja formohet me prapashtesën **-st** ose **-ste** dhe para saj vjen gjithmonë **het**:
+
+@table
+| Bazë | Sipërore | Shembull | Shqip |
+| mooi | **het mooist(e)** | Zij zong **het mooist**. | Ajo këndoi më bukur se të gjithë. |
+| vlug | **het vlugst(e)** | Hij leert **het vlugst**. | Ai mëson më shpejt se të gjithë. |
+| lang | **het langst(e)** | Eerlijk duurt **het langst**. | Ndershmëria fiton gjithmonë. |
+@end
+
+@box (0.95, 0.96, 0.98)
+  **-st apo -ste?**
+  Të dyja format janë të sakta: *het mooist* = *het mooiste*. Zgjedhja varet nga ritmi i fjalisë. Si fillestar mund të përdorni cilëndo.
+  Fjalë për fjalë *Eerlijk duurt het langst* do të thotë «Ndershmëria zgjat më shumë», një proverb si «Ndershmëria fiton gjithmonë».
+@end
+@lesson Ndajfoljet e parregullta dhe «graag»
+Disa mbiemra kanë krahasore të parregullt. Ndajfoljet përkatëse kanë të njëjtat parregullsi. Dallimi i vetëm: si ndajfolje, sipërorja merr gjithmonë **het**.
+
+@table
+| Bazë | Krahasore | Sipërore | Shqip |
+| **goed** | beter | het best | mirë – më mirë – më së miri |
+| **veel** | meer | het meest | shumë – më shumë – më së shumti |
+| **weinig** | minder | het minst | pak – më pak – më së paku |
+| **vaak** | vaker | het vaakst | shpesh – më shpesh – më shpesh se të gjithë |
+| **dikwijls** | vaker | het vaakst | shpesh (njësoj si *vaak*) |
+@end
+
+@box (0.95, 0.96, 0.98)
+  **dikwijls huazon nga vaak**
+  *Dikwijls* do të thotë gjithashtu «shpesh», por nuk ka format e veta të krahasimit. Merr ato të *vaak*: **vaker**, **het vaakst**.
+@end
+@table
+| Holandisht | Shqip |
+| Zij spreekt **beter** Nederlands dan ik. | Ajo flet holandisht më mirë se unë. |
+| Wie werkt **het meest**? | Kush punon më shumë? |
+| Ik slaap **minder** dan jij. | Unë fle më pak se ti. |
+| Hij komt **vaker** te laat. | Ai vonohet më shpesh. |
+@end
+
+@h2 Ndajfolja «graag»
+**Graag** do të thotë «me qejf, me dëshirë». Format e saj janë të parregullta: **graag – liever – het liefst**. Me to holandishtja shpreh atë që shqipja e thotë me një folje: *më pëlqen*, *preferoj*, *më pëlqen më shumë se gjithçka*.
+
+@table
+| Holandisht | Shqip | Kuptimi |
+| Ik kijk **graag** naar de tv. | Më pëlqen të shikoj televizor. | graag = më pëlqen |
+| Zij gaat **liever** dansen. | Ajo preferon të shkojë të kërcejë. | liever = preferoj |
+| Hij leest **het liefst** een boek. | Atij i pëlqen më së shumti të lexojë një libër. | het liefst = më pëlqen më shumë se gjithçka |
+@end
+
+@box (1.0, 0.96, 0.91)
+  **Dallim nga shqipja**
+  Në shqip pëlqimin e shprehim me foljen (*më pëlqen*, *preferoj*). Në holandisht folja mbetet e zakonshme dhe pëlqimin e jep ndajfolja: *Ik kijk graag tv* = fjalë për fjalë «Shikoj me qejf televizor».
+  Gabim: Ik graag kijk tv. → Saktë: **Ik kijk graag tv.** (folja mbetet e dyta, Njësia {U:12})
+@end
+@lesson Ndajfoljet e kohës, «waar» dhe rendi i ndajfoljeve
+@h2 Pjesët e ditës dhe ditët e javës
+Pjesët e ditës dhe ditët e javës përdoren si ndajfolje me **-s** (dhe shpesh me **'s** përpara). Ato tregojnë një veprim që **përsëritet** ose është **zakon**: *në mëngjes, të dielave*.
+
+@table
+| Holandisht | Shqip | Holandisht | Shqip |
+| **'s morgens** / **'s ochtends** | në mëngjes | **maandags** | të hënave |
+| **'s middags** | pasdite | **dinsdags** | të martave |
+| **'s avonds** | në mbrëmje | **woensdags** | të mërkurave |
+| **'s nachts** | natën | **donderdags** | të enjteve |
+| **zaterdags** | të shtunave | **vrijdags** | të premteve |
+| **zondags** | të dielave |  |  |
+@end
+
+@box (0.95, 0.96, 0.98)
+  **Nga vjen 's?**
+  *'s* është një formë e vjetër e nyjës (*des*). Kjo është arsyeja pse shkruhet me apostrof dhe me shkronjë të vogël: **'s morgens**. Te ditët e javës *'s* nuk është e detyrueshme: **zondags** ose **'s zondags**, **maandags** ose **'s maandags**.
+@end
+@table
+| Holandisht | Shqip |
+| Ik werk **'s morgens**. | Punoj në mëngjes (çdo mëngjes). |
+| **'s Avonds** lees ik een boek. | Në mbrëmje lexoj një libër. |
+| **Zondags** gaan wij naar het park. | Të dielave shkojmë në park. |
+@end
+
+@h2 «Ku?», «Për ku?» dhe «Nga ku?»
+Në shqip dallojmë **ku** (vendi), **për ku / drejt ku** (drejtimi) dhe **nga ku** (prejardhja). Edhe holandishtja i dallon:
+
+@table
+| Pyetja | Kuptimi | Shembull | Shqip |
+| **waar** | ku? (vendi) | Waar wonen zij? | Ku banojnë ata? |
+| **waar … naartoe** | për ku? | Waar gaat hij naartoe? | Për ku po shkon ai? |
+| **waarheen** | për ku? | Waarheen gaat hij? | Për ku po shkon ai? |
+| **waar … vandaan** | nga ku? | Waar komt hij vandaan? | Nga vjen ai? |
+@end
+
+@box (0.95, 0.96, 0.98)
+  **Lidhje me Njësinë {U:9}**
+  Atje pamë *Waar loopt de man naartoe?* Tani dini edhe formën me një fjalë **waarheen** dhe çiftin **waar … vandaan**. *Naartoe* dhe *vandaan* shkojnë në fund të pyetjes.
+@end
+@h2 Rendi: kohë – mënyrë – vend
+Kur një fjali ka disa ndajfolje ose shprehje ndajfoljore, holandishtja i rendit zakonisht kështu: **koha**, pastaj **mënyra**, pastaj **vendi**.
+
+@flow Koha | Mënyra | Vendi
+@flowsub kur? | si? me kë? me çfarë? | ku? për ku?
+
+@table
+| Kryefjala + folja | Koha | Mënyra | Vendi |
+| Hij gaat | morgen | met zijn vrouw | naar Leiden. |
+| Ik ging | gisteren | met de trein | naar Amsterdam. |
+@end
+
+Ndajfoljet shpesh e nisin fjalinë. Atëherë folja mbetet **e dyta** dhe kryefjala vjen pas saj (inversioni, Njësia {U:12}):
+
+@table
+| Holandisht | Shqip |
+| **Morgen** gaat hij met zijn vrouw naar Leiden. | Nesër ai shkon me gruan në Leiden. |
+| **Gisteren** ging ik met de trein naar Amsterdam. | Dje shkova me tren në Amsterdam. |
+@end
+
+@box (0.9, 0.96, 0.92)
+  **Rregulli: K – M – V**
+  **K**oha → **M**ënyra → **V**endi. Mbajeni mend si «**KMV**»: *morgen* → *met de trein* → *naar Amsterdam*.
+@end
+@practice Ushtrime
+@h2 A. Ndajfolja dhe kuptimi
+Lidhni me vijë çdo kuti majtas me kutinë e duhur djathtas.
+
+nooit ⇥ gjithmonë
+
+altijd ⇥ përsëri
+
+weer ⇥ kurrë
+
+nu ⇥ ndonjëherë
+
+ooit ⇥ tani
+
+graag ⇥ me qejf
+
+@h2 B. Shkruani krahasoren
+1. snel → ______________
+
+2. ver → ______________
+
+3. langzaam → ______________
+
+4. duur → ______________
+
+5. goed → ______________
+
+6. veel → ______________
+
+7. weinig → ______________
+
+8. vaak → ______________
+
+@h2 C. Shkruani sipëroren (me «het»)
+1. mooi → ______________
+
+2. vlug → ______________
+
+3. lang → ______________
+
+4. goed → ______________
+
+5. veel → ______________
+
+6. graag → ______________
+
+@h2 D. Plotësoni me graag, liever ose het liefst
+1. Ik kijk ______ naar de tv. (më pëlqen)
+
+2. Zij gaat ______ dansen. (preferon)
+
+3. Hij leest ______ een boek. (më së shumti)
+
+4. Wij drinken ______ thee dan koffie. (preferojmë)
+
+5. Jullie wandelen ______ in het park. (ju pëlqen)
+
+@h2 E. waar, waar … naartoe apo waar … vandaan?
+1. ______ woon jij? – In Prishtina.
+
+2. ______ gaat hij ______? – Naar Leiden.
+
+3. ______ komt zij ______? – Uit Kosovo.
+
+4. ______ ligt het boek? – Op tafel.
+
+@h2 F. Rendisni fjalët: kohë – mënyrë – vend
+@order 1 | Hij gaat / naar Leiden / morgen / met zijn vrouw | Nesër ai shkon me gruan në Leiden.
+@order 2 | Ik ging / met de trein / gisteren / naar Amsterdam | Dje shkova me tren në Amsterdam.
+@order 3 | Wij gaan / naar school / vandaag / met de fiets | Sot shkojmë në shkollë me biçikletë.
+@order 4 | Morgen / naar Tirana / gaat / met de bus / zij | Nesër ajo shkon me autobus në Tiranë.
+
+@h2 G. Gjeni dhe korrigjoni gabimin
+1. Hij loopt snellier dan ik.
+
+2. Zij zong mooist.
+
+3. Ik graag kijk naar de tv.
+
+4. Hij gaat naar Leiden morgen.
+
+5. Zij willen verer gaan.
+
+6. Hij leert het goedst.
+
+@h2 H. Përktheni në holandisht
+1. Ai ngrihet herët.
+
+2. Ajo këndon më mirë se unë.
+
+3. Më pëlqen të lexoj.
+
+4. Në mbrëmje shikoj televizor.
+
+5. Për ku po shkon ti?
+
+6. Nesër shkoj me tren në Amsterdam.
+
+@key
+@table
+| Ushtrimi | Përgjigjet |
+| A | nooit – kurrë • altijd – gjithmonë • weer – përsëri • nu – tani • ooit – ndonjëherë • graag – me qejf |
+| B | 1. sneller 2. verder 3. langzamer 4. duurder 5. beter 6. meer 7. minder 8. vaker |
+| C | 1. het mooist(e) 2. het vlugst(e) 3. het langst(e) 4. het best(e) 5. het meest(e) 6. het liefst(e) |
+| D | 1. graag 2. liever 3. het liefst 4. liever 5. graag |
+| E | 1. Waar 2. Waar … naartoe 3. Waar … vandaan 4. Waar |
+| F | 1. Hij gaat morgen met zijn vrouw naar Leiden. 2. Ik ging gisteren met de trein naar Amsterdam. 3. Wij gaan vandaag met de fiets naar school. 4. Morgen gaat zij met de bus naar Tirana. |
+| G | 1. Hij loopt sneller dan ik. 2. Zij zong het mooist. 3. Ik kijk graag naar de tv. 4. Hij gaat morgen naar Leiden. 5. Zij willen verder gaan. 6. Hij leert het best. |
+| H | 1. Hij staat vroeg op. 2. Zij zingt beter dan ik. 3. Ik lees graag. 4. 's Avonds kijk ik tv. / Ik kijk 's avonds tv. 5. Waar ga jij naartoe? / Waarheen ga jij? 6. Morgen ga ik met de trein naar Amsterdam. |
+@end
+
+@glossary
+@table
+| Holandisht | Shqip | Holandisht | Shqip |
+| vroeg | herët | dikwijls | shpesh |
+| goed – beter – het best | mirë – më mirë – më së miri | graag | me qejf, me dëshirë |
+| lang | gjatë | liever | më me qejf (preferoj) |
+| snel | shpejt | het liefst | më së shumti me qejf |
+| vlug | shpejt | 's morgens / 's ochtends | në mëngjes |
+| langzaam | ngadalë | 's middags | pasdite |
+| ver | larg | 's avonds | në mbrëmje |
+| duur | shtrenjtë | 's nachts | natën |
+| mooi | bukur | zondags | të dielave |
+| veel – meer – het meest | shumë – më shumë – më së shumti | waarheen | për ku |
+| weinig – minder – het minst | pak – më pak – më së paku | waar … naartoe | për ku |
+| ooit | ndonjëherë | waar … vandaan | nga ku |
+| nooit | kurrë | dan | se, sesa |
+| nu | tani | morgen | nesër |
+| altijd | gjithmonë | gisteren | dje |
+| weer | përsëri | zingen | këndoj |
+| erg | shumë | duren | zgjat |
+| vaak | shpesh | opstaan | ngrihem |
+@end

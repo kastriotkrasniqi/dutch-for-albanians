@@ -1,0 +1,227 @@
+@lesson Përemrat pronorë
+Përemrat pronorë tregojnë **kujt i përket** diçka: libri *im*, çanta *jote*, makina *e tij*. Në holandisht çdo përemër vetor ka një formë pronore që i përgjigjet.
+
+@table
+| Përemri vetor | Përemri pronor | Shqip | Shembull |
+| ik | **mijn** | im / ime | mijn boek – libri im |
+| jij | **jouw** (je) | yt / jote | jouw tas – çanta jote |
+| u (formal) | **uw** | juaj (me mirësjellje) | uw naam – emri juaj |
+| hij | **zijn** | i tij / e tij | zijn auto – makina e tij |
+| zij (ajo) | **haar** | i saj / e saj | haar huis – shtëpia e saj |
+| wij | **ons / onze** | ynë / jonë | ons huis – shtëpia jonë |
+| jullie | **jullie** | juaj (shumës) | jullie kinderen – fëmijët tuaj |
+| zij (ata / ato) | **hun** | i tyre / e tyre | hun school – shkolla e tyre |
+@end
+
+@box (1.0, 0.96, 0.9)
+  **Dallim i madh nga shqipja:** në shqip përemri pronor vjen pas emrit dhe ndryshon sipas tij (libri *im*, shtëpia *ime*). Në holandisht vjen para emrit dhe **nuk ndryshon** (*mijn boek*, *mijn huis*). Përjashtim i vetëm: *ons / onze* (Mësimi {L:7.2}).
+@end
+@h2 Pesë gjëra që duhen mbajtur mend
+• **Pa nyje:** «çanta ime» = *mijn tas* (jo «de mijn tas»).
+
+• **jouw** është forma e theksuar; në të folur përdoret shpesh **je** (*je boek*). Me **u** (zyrtare) përdoret **uw**.
+
+• **zijn** = i tij, **haar** = i saj: zgjedhja varet nga zotëruesi (burrë ose grua), jo nga gjëja e zotëruar.
+
+• **jullie** mbetet i njëjtë si përemër vetor dhe pronor.
+
+• **hun** është pronori për «zij» shumës (ata / ato). Mos e ngatërroni me «jullie».
+
+@box (0.91, 0.94, 0.98)
+  **Kujdes:** fjala *zijn* është edhe folja «jam, jemi» (*wij zijn*), por *zijn* si pronor shkruhet i njëjtë dhe vjen para emrit: *Hij is blij* (është i lumtur) / *zijn auto* (makina e tij). Kuptimin e tregon konteksti.
+@end
+@lesson «ons» dhe «onze»
+«Ynë / jonë» ka **dy forma** në holandisht: **ons** dhe **onze**. Zgjedhja varet nga emri që vjen pas, pra nga nyja e tij.
+
+@table
+| Përdoret | Kur? | Shembull | Shqip |
+| **ons** | me **het**-fjalët (njëjës) | ons huis ⏎ ons boek ⏎ ons kind | shtëpia jonë ⏎ libri ynë ⏎ fëmija jonë |
+| **onze** | me **de**-fjalët (njëjës) | onze auto ⏎ onze tafel ⏎ onze school | makina jonë ⏎ tavolina jonë ⏎ shkolla jonë |
+| **onze** | me **shumësin** (çdo ⏎ emër) | onze kinderen ⏎ onze boeken ⏎ onze huizen | fëmijët tanë ⏎ librat tanë ⏎ shtëpitë tona |
+@end
+
+@box (0.9, 0.96, 0.92)
+  **Rregulli i shpejtë:** shikoni nyjen. *het* + njëjës → **ons**. Gjithçka tjetër (*de* ose shumës) → **onze**. Kujdes: *het huis* → *ons huis*, por *de huizen* (shumës) → *onze huizen*.
+@end
+@h2 Krahasim
+@table
+| Holandisht | Nyja | Pse? |
+| Dit is **ons** huis. | het huis | het-fjalë, njëjës |
+| Dit is **onze** auto. | de auto | de-fjalë, njëjës |
+| Dit zijn **onze** huizen. | de huizen | shumës |
+| Waar is **ons** boek? | het boek | het-fjalë, njëjës |
+| Waar zijn **onze** boeken? | de boeken | shumës |
+@end
+
+@box (0.99, 0.93, 0.92)
+  **Gabim i zakonshëm:** *Wij hebben onze huis.* → Saktë: *Wij hebben* ***ons*** *huis.* (het huis) · *Wij hebben ons kinderen.* → Saktë: *Wij hebben* ***onze*** *kinderen.* (shumës)
+@end
+@lesson Përemrat pronorë në fjali dhe pyetje
+Tani i përdorim pronorët me foljet e pozicionit nga mësimet e kaluara (*staan, liggen, zitten*). Pronori vjen para emrit, brenda kryefjalës:
+
+@table
+| Holandisht | Shqip |
+| **Mijn** tas staat achter de deur. | Çanta ime është pas derës. |
+| **Jouw** boek ligt op tafel. | Libri yt është mbi tavolinë. |
+| **Zijn** auto staat buiten. | Makina e tij është jashtë. |
+| **Haar** sleutels liggen op de bank. | Çelësat e saj janë mbi divan. |
+| **Onze** kat zit op de stoel. | Macja jonë është ulur në karrige. |
+| **Ons** huis staat in de straat. | Shtëpia jonë është në rrugë. |
+| **Jullie** bloemen staan in de vaas. | Lulet tuaja janë në vazo. |
+| **Hun** school staat bij het park. | Shkolla e tyre është pranë parkut. |
+@end
+
+@h2 Pyetje
+@table
+| Holandisht | Shqip |
+| Waar staat **jouw** tas? | Ku është çanta jote? |
+| Waar ligt **uw** paspoort? | Ku është pasaporta juaj? |
+| Staat **jullie** auto voor het huis? | A është makina juaj përpara shtëpisë? |
+| Is dit **jouw** boek? | A është ky libri yt? |
+@end
+
+@h2 Kush është zotëruesi?
+@table
+| Zotëruesi | Pronori | Shembull |
+| Jan (burrë) | zijn | Jan heeft een fiets. **Zijn** fiets staat buiten. |
+| Anna (grua) | haar | Anna heeft een tas. **Haar** tas ligt op de bank. |
+| Jan en Anna | hun | Jan en Anna hebben een huis. **Hun** huis is groot. |
+@end
+
+@box (0.91, 0.94, 0.98)
+  **Kujdes me emrat e shumës:** pronori mbetet i njëjtë (*mijn boeken*, *zijn sleutels*); vetëm «ons» bëhet «onze»: *onze boeken*.
+@end
+@practice Ushtrime: lidh çiftet
+@h2 A. Përemri vetor dhe pronori
+Lidhni me vijë çdo kuti majtas me kutinë e duhur djathtas.
+
+ik ⇥ haar
+
+jij ⇥ jullie
+
+hij ⇥ mijn
+
+zij (ajo) ⇥ hun
+
+jullie ⇥ zijn
+
+zij (ata) ⇥ jouw
+
+@h2 B. Fjalia dhe përkthimi
+Lidhni me vijë çdo kuti majtas me kutinë e duhur djathtas.
+
+mijn boek ⇥ shkolla e tyre
+
+jouw tas ⇥ makina e tij
+
+zijn auto ⇥ libri im
+
+haar huis ⇥ shtëpia e saj
+
+hun school ⇥ çanta jote
+
+@practice Ushtrime: rendit fjalët
+@h2 C. Rendisni fjalët dhe shkruani fjalinë ose pyetjen
+Mos harroni: përemri pronor vjen para emrit; folja është e dyta (në pyetje me «waar»: pas «waar»).
+
+@order 1 | staat / achter / de deur / mijn / tas | Çanta ime është pas derës.
+@order 2 | ligt / op / tafel / jouw / boek | Libri yt është mbi tavolinë.
+@order 3 | zijn / buiten / staat / auto | Makina e tij është jashtë.
+@order 4 | liggen / op / de bank / haar / sleutels | Çelësat e saj janë mbi divan.
+@order 5 | zit / onze / op / de stoel / kat | Macja jonë është ulur në karrige.
+@order 6 | staan / in / de vaas / jullie / bloemen | Lulet tuaja janë në vazo.
+@order 7 | staat / hun / in / de straat / huis | Shtëpia e tyre është në rrugë.
+@order 8 | staat / waar / jouw / tas | Ku është çanta jote?
+
+@practice Ushtrime: plotëso, gjej gabimin
+@h2 D. Plotësoni me përemrin pronor të duhur
+1. Ik heb een boek. Het is ______ boek.
+
+2. Jij hebt een tas. Het is ______ tas.
+
+3. Hij heeft een auto. Het is ______ auto.
+
+4. Zij heeft een huis. Het is ______ huis.
+
+5. Wij hebben een huis. Het is ______ huis.
+
+6. Wij hebben een auto. Het is ______ auto.
+
+7. Jullie hebben kinderen. Het zijn ______ kinderen.
+
+8. Zij (ata) hebben een school. Het is ______ school.
+
+@h2 E. «ons» apo «onze»?
+1. ______ huis 2. ______ auto 3. ______ kinderen 4. ______ boek
+
+5. ______ tafel 6. ______ kind 7. ______ boeken 8. ______ fiets
+
+@h2 F. Gjeni dhe korrigjoni gabimin
+1. Ik heb de mijn tas. → ______________________
+
+2. Wij hebben onze huis. → ______________________
+
+3. Zij heeft zijn auto. (makina e saj) → ______________________
+
+4. Hij heeft haar boek. (libri i tij) → ______________________
+
+5. Wij hebben ons kinderen. → ______________________
+
+6. Dit is jou tas. → ______________________
+
+@practice Ushtrime: përkthe
+@h2 G. Fjalia dhe përkthimi
+Lidhni me vijë çdo kuti majtas me kutinë e duhur djathtas.
+
+Mijn tas staat achter de deur. ⇥ Shtëpia e tyre është në rrugë.
+
+Onze kat zit op de stoel. ⇥ Ku është libri yt?
+
+Zijn auto staat buiten. ⇥ Makina e tij është jashtë.
+
+Waar ligt jouw boek? ⇥ Macja jonë është ulur në karrige.
+
+Hun huis staat in de straat. ⇥ Çanta ime është pas derës.
+
+@h2 H. Përktheni në holandisht
+1. Çanta ime është pas derës.
+
+2. Libri yt është mbi tavolinë.
+
+3. Makina e tij është jashtë.
+
+4. Shtëpia jonë është në rrugë.
+
+5. Macja e saj është ulur në karrige.
+
+6. Lulet tuaja (jullie) janë në vazo.
+
+@key
+@table
+| Ushtrimi | Përgjigjet |
+| A | ik – mijn • jij – jouw • hij – zijn • zij (ajo) – haar • jullie – jullie • zij (ata) – hun |
+| B | mijn boek – libri im • jouw tas – çanta jote • zijn auto – makina e tij • haar huis – ⏎ shtëpia e saj • hun school – shkolla e tyre |
+| C | 1. Mijn tas staat achter de deur. 2. Jouw boek ligt op tafel. 3. Zijn auto staat buiten. 4. ⏎ Haar sleutels liggen op de bank. 5. Onze kat zit op de stoel. 6. Jullie bloemen staan in ⏎ de vaas. 7. Hun huis staat in de straat. 8. Waar staat jouw tas? |
+| D | 1. mijn 2. jouw 3. zijn 4. haar 5. ons 6. onze 7. jullie 8. hun |
+| E | 1. ons 2. onze 3. onze 4. ons 5. onze 6. ons 7. onze 8. onze |
+| F | 1. Ik heb mijn tas. 2. Wij hebben ons huis. 3. Zij heeft haar auto. 4. Hij heeft zijn boek. ⏎ 5. Wij hebben onze kinderen. 6. Dit is jouw tas. |
+| G | Mijn tas staat achter de deur. – Çanta ime është pas derës. • Onze kat zit op de stoel. ⏎ – Macja jonë është ulur në karrige. • Zijn auto staat buiten. – Makina e tij është ⏎ jashtë. • Waar ligt jouw boek? – Ku është libri yt? • Hun huis staat in de straat. – ⏎ Shtëpia e tyre është në rrugë. |
+| H | 1. Mijn tas staat achter de deur. 2. Jouw boek ligt op tafel. 3. Zijn auto staat buiten. 4. ⏎ Ons huis staat in de straat. 5. Haar kat zit op de stoel. 6. Jullie bloemen staan in de ⏎ vaas. |
+@end
+
+@glossary
+@table
+| Holandisht | Shqip | Holandisht | Shqip |
+| mijn | im / ime | de kat | macja |
+| jouw / je | yt / jote | de sleutel | çelësi |
+| uw | juaj (zyrtare) | de bloemen | lulet |
+| zijn | i tij / e tij | de school | shkolla |
+| haar | i saj / e saj | het kind | fëmija |
+| ons / onze | ynë / jonë | de kinderen | fëmijët |
+| jullie | juaj (shumës) | de tafel | tavolina |
+| hun | i tyre / e tyre | de fiets | biçikleta |
+| het boek | libri | de naam | emri |
+| de tas | çanta | het paspoort | pasaporta |
+| de auto | makina | de straat | rruga |
+| het huis | shtëpia | het park | parku |
+@end

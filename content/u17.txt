@@ -1,0 +1,194 @@
+@lesson Foljet e dobëta: -te / -de
+Koha e shkuar holandeze (*ik werkte*) përkthehet në shqip, sipas kontekstit, me **punova** ose **punoja**. Si në anglisht, foljet ndahen në dy grupe kryesore:
+
+• **të dobëta**: shtojnë një mbaresë (*werken → werkte*, si anglisht *play → played*);
+
+• **të forta**: ndërrojnë zanoren (*zingen → zong*, si anglisht *sing → sang*).
+
+@h2 Rrënja + -te / -de
+Foljet e dobëta shtojnë te rrënja **-te** (njëjës) / **-ten** (shumës), ose **-de** / **-den**.
+
+@box (0.9, 0.96, 0.92)
+  **'t kofschip**
+  Kur rrënja mbaron me **t, k, f, s, ch, p** → **-te / -ten**. Në të gjitha rastet e tjera → **-de / -den**.
+  Mbajeni mend me fjalën **'t kofschip**, e cila përmban të gjitha këto shkronja.
+@end
+@table
+| Paskajorja | Rrënja | ik, jij, hij, u | wij, jullie, zij | Shqip |
+| werken | werk | werk**te** | werk**ten** | punova, punoja |
+| maken | maak | maak**te** | maak**ten** | bëra |
+| hopen | hoop | hoop**te** | hoop**ten** | shpresova |
+| fietsen | fiets | fiets**te** | fiets**ten** | shkova me biçikletë |
+| wonen | woon | woon**de** | woon**den** | banova, banoja |
+| horen | hoor | hoor**de** | hoor**den** | dëgjova |
+| bouwen | bouw | bouw**de** | bouw**den** | ndërtova |
+| spelen | speel | speel**de** | speel**den** | luajta |
+@end
+
+@box (0.99, 0.93, 0.92)
+  **v dhe z**
+  Kur paskajorja ka **v** ose **z**, rrënja shkruhet me *f* ose *s* (Njësia {U:10}), **por** mbaresa është **-de**, sepse vendimin e merr tingulli origjinal *v / z*: *leven → leef → **leefde*** · *reizen → reis → **reisde***.
+@end
+@table
+| Holandisht | Shqip |
+| Gisteren **werkte** ik in de winkel. | Dje punova në dyqan. |
+| Wij **woonden** toen in Tirana. | Atëherë banonim në Tiranë. |
+| Hij **maakte** een taart. | Ai bëri një tortë. |
+| Zij **reisden** naar Italië. | Ata udhëtuan për në Itali. |
+@end
+
+@lesson Foljet e forta dhe të parregullta
+@h2 Foljet e forta: ndërrojnë zanoren
+Forma e re shërben për të gjithë njëjësin, ndërsa shumësi shton **-en**. Nuk ka rregull të thjeshtë: secila folje mësohet veçmas.
+
+@table
+| Paskajorja | Njëjës | Shumës | Shqip |
+| zingen | zong | zongen | këndova |
+| schrijven | schreef | schreven | shkrova |
+| drinken | dronk | dronken | piva |
+| rijden | reed | reden | ngava (makinën) |
+| lopen | liep | liepen | eca |
+| slapen | sliep | sliepen | fjeta |
+| vinden | vond | vonden | gjeta |
+| krijgen | kreeg | kregen | mora |
+| helpen | hielp | hielpen | ndihmova |
+@end
+
+@box (0.95, 0.96, 0.98)
+  **Zanore e shkurtër → e gjatë**
+  Te disa folje zanorja është e shkurtër në njëjës dhe e gjatë në shumës: *ik **nam** – wij **namen*** (mora) · *ik **gaf** – wij **gaven*** (dhashë) · *ik **las** – wij **lazen*** (lexova) · *ik **zat** – wij **zaten*** (isha ulur) · *ik **lag** – wij **lagen*** (isha shtrirë).
+@end
+@h2 Foljet e parregullta
+Ato nuk ndjekin asnjërin model. Njëjësi nuk merr mbaresë, shumësi merr **-en**.
+
+@table
+| Paskajorja | Njëjës | Shumës | Shqip |
+| **hebben** | had | hadden | kisha, pata |
+| **zijn** | was | waren | isha, qeshë |
+| brengen | bracht | brachten | solla |
+| denken | dacht | dachten | mendova |
+| kopen | kocht | kochten | bleva |
+| zoeken | zocht | zochten | kërkova |
+| doen | deed | deden | bëra |
+| gaan | ging | gingen | shkova |
+| staan | stond | stonden | qëndrova |
+| zien | zag | zagen | pashë |
+| komen | kwam | kwamen | erdha |
+@end
+
+@box (1.0, 0.96, 0.91)
+  **Mësojini me tri format**
+  Nga paskajorja nuk mund ta dalloni nëse folja është e dobët, e fortë apo e parregullt. Fjalorët i shënojnë foljet e forta dhe të parregullta. Mësojini me **tri format** e tyre: *zingen – zong – gezongen* (Njësia {U:18}).
+@end
+@practice Ushtrime
+@h2 A. -te apo -de?
+1. werken → ik ______
+
+2. wonen → ik ______
+
+3. maken → ik ______
+
+4. horen → ik ______
+
+5. fietsen → ik ______
+
+6. leven → ik ______
+
+7. reizen → ik ______
+
+8. spelen → ik ______
+
+@h2 B. Njëjës → shumës
+1. ik werkte → wij ______
+
+2. ik woonde → wij ______
+
+3. ik zong → wij ______
+
+4. ik nam → wij ______
+
+5. ik was → wij ______
+
+6. ik had → wij ______
+
+@h2 C. Folja e fortë dhe koha e shkuar
+Lidhni me vijë çdo kuti majtas me kutinë e duhur djathtas.
+
+schrijven ⇥ liep
+
+lopen ⇥ dronk
+
+drinken ⇥ schreef
+
+vinden ⇥ kreeg
+
+krijgen ⇥ vond
+
+@h2 D. Ktheni në kohën e shkuar
+1. Ik werk in Amsterdam.
+
+2. Wij wonen in Prishtina.
+
+3. Hij drinkt koffie.
+
+4. Zij gaan naar school.
+
+5. Ik ben moe.
+
+6. Jullie hebben een hond.
+
+7. Hij schrijft een brief.
+
+8. Wij zien de film.
+
+@h2 E. Tregim i shkurtër: plotësoni në kohën e shkuar
+Gisteren ______ (zijn) ik in Amsterdam. Ik ______ (fietsen) door de stad en ______ (kopen) een boek. Om drie uur ______ (drinken) ik koffie met Besa. Wij ______ (praten) lang. 's Avonds ______ (gaan) ik naar huis.
+
+@h2 F. Gjeni dhe korrigjoni gabimin
+1. Ik werkde gisteren.
+
+2. Wij woonten in Tirana.
+
+3. Hij leefte in Nederland.
+
+4. Wij nam de bus.
+
+5. Ik gaate naar school.
+
+@h2 G. Përktheni në holandisht
+1. Dje punova shumë.
+
+2. Ne banonim në Kosovë.
+
+3. Ai bleu një libër.
+
+4. Ata shkuan në Amsterdam.
+
+5. Isha i lodhur.
+
+@key
+@table
+| Ushtrimi | Përgjigjet |
+| A | 1. werkte 2. woonde 3. maakte 4. hoorde 5. fietste 6. leefde 7. reisde 8. speelde |
+| B | 1. werkten 2. woonden 3. zongen 4. namen 5. waren 6. hadden |
+| C | schrijven – schreef • lopen – liep • drinken – dronk • vinden – vond • krijgen – kreeg |
+| D | 1. Ik werkte in Amsterdam. 2. Wij woonden in Prishtina. 3. Hij dronk koffie. 4. Zij gingen naar school. 5. Ik was moe. 6. Jullie hadden een hond. 7. Hij schreef een brief. 8. Wij zagen de film. |
+| E | was • fietste • kocht • dronk • praatten • ging |
+| F | 1. Ik werkte gisteren. 2. Wij woonden in Tirana. 3. Hij leefde in Nederland. 4. Wij namen de bus. 5. Ik ging naar school. |
+| G | 1. Gisteren werkte ik veel. / Gisteren heb ik veel gewerkt. 2. Wij woonden in Kosovo. 3. Hij kocht een boek. 4. Zij gingen naar Amsterdam. 5. Ik was moe. |
+@end
+
+@glossary
+@table
+| Holandisht | Shqip | Holandisht | Shqip |
+| hopen | shpresoj | schrijven – schreef | shkruaj – shkrova |
+| bouwen | ndërtoj | drinken – dronk | pi – piva |
+| spelen | luaj | vinden – vond | gjej – gjeta |
+| leven | jetoj | krijgen – kreeg | marr – mora |
+| horen | dëgjoj | helpen – hielp | ndihmoj – ndihmova |
+| nemen – nam | marr – mora | brengen – bracht | sjell – solla |
+| geven – gaf | jap – dhashë | denken – dacht | mendoj – mendova |
+| lezen – las | lexoj – lexova | kopen – kocht | blej – bleva |
+| gaan – ging | shkoj – shkova | zien – zag | shoh – pashë |
+| gisteren | dje | toen | atëherë |
+@end

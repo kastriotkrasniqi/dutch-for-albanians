@@ -1,0 +1,235 @@
+@lesson Foljet e parregullta: zijn dhe hebben
+Foljet **zijn** (jam) dhe **hebben** (kam) janë dy foljet më të rëndësishme të holandishtes. Ato përdoren vazhdimisht në të folurit e përditshëm dhe janë themeli i fjalive holandeze.
+
+Para se të mësoni folje të tjera, duhet t'i zotëroni mirë këto të dyja. Janë folje **të parregullta**: nuk ndjekin rregullat e zakonshme të zgjedhimit, prandaj format e tyre duhen mësuar përmendësh – njësoj si *jam* dhe *kam* në shqip.
+
+@h2 Folja «zijn» – jam
+**Zijn** përdoret kur flasim për gjendje, identitet dhe përshkrime: kush ose çfarë është dikush a diçka, ose si është.
+
+@table
+| Përemri | Koha e tashme | Shqip |
+| ik | **ben** | unë jam |
+| jij / je | **bent** | ti je |
+| hij / zij / het | **is** | ai / ajo / (asnjanës) është |
+| wij / we | **zijn** | ne jemi |
+| jullie | **zijn** | ju jeni |
+| zij / ze (shumës) | **zijn** | ata / ato janë |
+@end
+
+Shembull: **Ik ben moe.** = Unë jam i lodhur.
+
+@h2 Folja «hebben» – kam
+**Hebben** përdoret kur flasim për zotërim, për marrëdhënie dhe për gjërat që i kemi.
+
+@table
+| Përemri | Koha e tashme | Shqip |
+| ik | **heb** | unë kam |
+| jij / je | **hebt** | ti ke |
+| hij / zij / het | **heeft** | ai / ajo ka |
+| wij / we | **hebben** | ne kemi |
+| jullie | **hebben** | ju keni |
+| zij / ze (shumës) | **hebben** | ata / ato kanë |
+@end
+
+Shembull: **Ik heb een hond.** = Unë kam një qen.
+
+@box (1.0, 0.96, 0.91)
+  **Pse janë kaq të rëndësishme?**
+  Të dyja përdoren edhe si **folje ndihmëse** në kohën e kryer: **Ik heb gewerkt** (kam punuar), **Ik ben gegaan** (kam shkuar).
+  Vini re: në shqip kemi vetëm *kam* si ndihmëse në këto raste, ndërsa holandishtja për disa folje (sidomos ato të lëvizjes) përdor *zijn*.
+@end
+@box (0.95, 0.96, 0.98)
+  **Kujdes: «zij» ka dy kuptime**
+  **Zij is** = ajo është (njëjës) • **Zij zijn** = ata/ato janë (shumës). Kuptimin e tregon forma e foljes.
+@end
+@lesson Si ndërtohet një fjali e thjeshtë
+Në holandisht, fjalia e thjeshtë ndjek një rend të qartë:
+
+@flow Kryefjalë | !Folje | Kundrinor / vend
+@flowsub kush? / çfarë? | çfarë ndodh? | hollësi të tjera
+Ky rend është i njëjtë me atë të shqipes, prandaj fjalitë e para mund t'i ndërtoni fjalë për fjalë:
+
+@table
+| Kryefjalë | Folje | Pjesa tjetër | Shqip |
+| Ik | ben | student. | Unë jam student. |
+| Jij | bent | thuis. | Ti je në shtëpi. |
+| Hij | heeft | een boek. | Ai ka një libër. |
+| Wij | hebben | een fiets. | Ne kemi një biçikletë. |
+@end
+
+@box (1.0, 0.96, 0.91)
+  **Dallim nga shqipja**
+  Në shqip përemrin shpesh e heqim: «Jam student». Në holandisht kjo **nuk lejohet** – kryefjala duhet thënë gjithmonë: **Ik** ben student.
+@end
+@lesson Nyjat: de, het dhe een
+Në shqip, trajta e shquar bëhet me një mbaresë në fund të emrit: *burrë → burri*, *shtëpi →* *shtëpia*. Në holandisht përdoret një fjalë e veçantë **para** emrit – nyja.
+
+@h2 Nyjat shquese: «de» dhe «het»
+@table
+| Nyja | Kur përdoret | Shembuj |
+| **de** | për shumicën e emrave | de man (burri) ⏎ de vrouw (gruaja) ⏎ de tafel (tavolina) |
+| **het** | për një grup të caktuar emrash | het huis (shtëpia) ⏎ het boek (libri) ⏎ het meisje (vajza) |
+@end
+
+@h2 Nyja joshquese: «een»
+**Een** i përgjigjet shqipes *një*. Përdoret kur flasim për diçka të përgjithshme, jo të caktuar. Nuk ndryshon kurrë, pavarësisht emrit:
+
+• **een man** – një burrë
+
+• **een huis** – një shtëpi
+
+• **een tafel** – një tavolinë
+
+@h2 Tri rregulla që ju ndihmojnë në shumicën e rasteve
+@table
+| Rregulla | Shpjegimi | Shembuj |
+| **Shumës? Gjithmonë** ⏎ **«de»** | Çdo emër në shumës merr *de*, ⏎ edhe nëse në njëjës ka *het*. | het boek → de boeken ⏎ het huis → de huizen |
+| **Mbaron me «-je»?** ⏎ **Gjithmonë «het»** | Zvogëlueset (forma e vogël a ⏎ përkëdhelëse e një fjale) marrin ⏎ gjithmonë *het*. | het huisje (shtëpiza) ⏎ het boekje (libërthi) |
+| **Nuk jeni të sigurt?** ⏎ **Thoni «de»** | Rreth 2 nga 3 emra holandezë janë ⏎ fjalë me *de*, pra kjo është zgjedhja ⏎ më e sigurt. | — |
+@end
+
+@box (1.0, 0.96, 0.91)
+  **Mos u shqetësoni!**
+  Edhe fëmijët holandezë e kanë të vështirë *de/het*. Rregullat e mësipërme mjaftojnë për shumicën e rasteve. Për pjesën tjetër, mbani mend fjalët e shpeshta me *het*: **het huis** (shtëpia), **het boek** (libri), **het jaar** (viti), **het weer** (moti), **het meisje** (vajza).
+@end
+@lesson Zgjedhimi i foljeve në kohën e tashme
+Foljet e rregullta holandeze ndjekin një model të thjeshtë: gjejmë **rrënjën** e foljes dhe i shtojmë **mbaresën** e duhur. Kur e dini këtë model, mund të zgjedhoni edhe folje të reja.
+
+@h2 Rrënja + mbaresa
+Rrënja gjendet duke hequr **-en** nga paskajorja (forma bazë e foljes):
+
+• **werken** → werk (punoj)
+
+• **komen** → kom (vij)
+
+• **roepen** → roep (thërras)
+
+@table
+| Veta | Rregulla | werken | Shqip |
+| ik | vetëm rrënja | ik **werk** | unë punoj |
+| jij / je | rrënja + **t** | jij **werkt** | ti punon |
+| hij / zij / het | rrënja + **t** | hij **werkt** | ai punon |
+| wij / we | paskajorja e plotë | wij **werken** | ne punojmë |
+| jullie | paskajorja e plotë | jullie **werken** | ju punoni |
+| zij / ze (shumës) | paskajorja e plotë | zij **werken** | ata punojnë |
+@end
+
+I njëjti model vlen për shumicën e foljeve:
+
+• **komen** (vij): ik kom, jij komt, hij komt, wij komen
+
+• **werken** (punoj): ik werk, jij werkt, zij werkt, jullie werken
+
+• **roepen** (thërras): ik roep, jij roept, hij roept, zij roepen
+
+@h2 Folja «heten» – quhem
+**Heten** përdoret për t'u prezantuar dhe për të thënë emrin: **Ik heet Arben.** = Unë quhem Arben. Është folje e rregullt.
+
+@table
+| Përemri | Koha e tashme | Shqip |
+| ik | **heet** | unë quhem |
+| jij / je | **heet** | ti quhesh |
+| hij / zij / het | **heet** | ai / ajo quhet |
+| wij / we | **heten** | ne quhemi |
+| jullie | **heten** | ju quheni |
+| zij / ze (shumës) | **heten** | ata / ato quhen |
+@end
+
+@box (1.0, 0.96, 0.91)
+  **Pse «heet» me dy e?**
+  Folja *heten* ka zanore të gjatë **ee**. Po të shkruanim vetëm «het», do të lexohej me zanore të shkurtër. Prandaj në njëjës shkruajmë dy *e*: **heet**. Nuk është mbaresë gramatikore – është rregull drejtshkrimi që ruan tingullin e gjatë. 
+  Meqë rrënja mbaron vetë me **t**, nuk shtohet një *t* e dytë: jij heet, hij heet (jo «heett»).
+@end
+@h2 Folja «komen» – vij
+**Komen** përdoret kur flasim për ardhje, vizita dhe prejardhje: **Ik kom uit Kosovo.** = Unë vij nga Kosova.
+
+@table
+| Përemri | Koha e tashme | Shqip |
+| ik | **kom** | unë vij |
+| jij / je | **komt** | ti vjen |
+| hij / zij / het | **komt** | ai / ajo vjen |
+| wij / we | **komen** | ne vijmë |
+| jullie | **komen** | ju vini |
+| zij / ze (shumës) | **komen** | ata / ato vijnë |
+@end
+
+@box (0.95, 0.96, 0.98)
+  **Vini re**
+  Mbaresat e *komen* janë të rregullta, por zanorja ndryshon: në njëjës *o* është e shkurtër (**kom, komt**), në shumës e gjatë (**komen**). Në kohët e tjera kjo folje është e parregullt.
+@end
+@practice Ushtrime
+@h2 A. Plotësoni me formën e duhur të «zijn» ose «hebben»
+1. Ik ______ student. (zijn)
+
+2. Jij ______ een fiets. (hebben)
+
+3. Hij ______ een boek. (hebben)
+
+4. Wij ______ thuis. (zijn)
+
+5. Zij ______ moe. (zijn – ajo)
+
+6. Jullie ______ een hond. (hebben)
+
+@h2 B. De apo het?
+1. ______ man
+
+2. ______ huis
+
+3. ______ boeken
+
+4. ______ meisje
+
+5. ______ tafel
+
+6. ______ huisje
+
+@h2 C. Zgjedhoni foljen në kllapa
+1. Ik ______ in Tirana. (werken)
+
+2. Jij ______ uit Kosovo. (komen)
+
+3. Hij ______ Arben. (heten)
+
+4. Wij ______ morgen. (komen)
+
+5. Zij ______ de hond. (roepen – ajo)
+
+@h2 D. Vendosni fjalët në rendin e duhur
+@order 1 | een boek / heeft / hij |
+@order 2 | thuis / wij / zijn |
+@order 3 | ben / student / ik |
+@order 4 | een fiets / jullie / hebben |
+
+@h2 E. Përktheni në holandisht
+1. Unë kam një qen.
+
+2. Ti je në shtëpi.
+
+3. Ne quhemi Arta dhe Besa.
+
+4. Ata kanë një shtëpi.
+
+@key
+@table
+| Ushtrimi | Përgjigjet |
+| **A** | 1. ben 2. hebt 3. heeft 4. zijn 5. is 6. hebben |
+| **B** | 1. de man 2. het huis 3. de boeken 4. het meisje 5. de tafel 6. het ⏎ huisje |
+| **C** | 1. werk 2. komt 3. heet 4. komen 5. roept |
+| **D** | 1. Hij heeft een boek. 2. Wij zijn thuis. 3. Ik ben student. 4. Jullie ⏎ hebben een fiets. |
+| **E** | 1. Ik heb een hond. 2. Jij bent thuis. 3. Wij heten Arta en Besa. 4. Zij ⏎ hebben een huis. |
+@end
+
+@glossary
+@table
+| Holandisht | Shqip | Holandisht | Shqip |
+| **de man** | burri | **het weer** | moti |
+| **de vrouw** | gruaja | **thuis** | në shtëpi |
+| **het meisje** | vajza | **moe** | i/e lodhur |
+| **het huis** | shtëpia | **zijn** | jam |
+| **het boek** | libri | **hebben** | kam |
+| **de tafel** | tavolina | **werken** | punoj |
+| **de fiets** | biçikleta | **komen** | vij |
+| **de hond** | qeni | **heten** | quhem |
+| **het jaar** | viti | **roepen** | thërras |
+@end

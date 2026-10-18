@@ -1,0 +1,185 @@
+@lesson Parashtesat e ndashme dhe të pandashme
+@table
+| Lloji | Të pandashme (pa theks) | Të ndashme (me theks) |
+| Parashtesat | be-, er-, ge-, her-, ont-, ver- | aan-, af-, in-, mee-, na-, op-, uit-… |
+| Pjesorja | pa *ge-*: bedoeld, vermeden | *-ge-* në mes: opgebeld, aangenomen |
+| Në fjali | nuk ndahen kurrë | ndahen: *Ik bel hem op.* |
+@end
+
+@h2 Kuptimi
+• Te shumë folje me parashtesë të ndashme kuptimi del nga pjesët: *brengen → **mee**brengen* (sjell me vete) · *staan → **op**staan* (ngrihem).
+
+• Te disa nuk del: *stellen → **uit**stellen* (shtyj për më vonë) · *geven → **uit**geven* (botoj).
+
+• Te parashtesat e pandashme kuptimi zakonisht nuk del nga pjesët: *denken → **ver**denken* (dyshoj) · *keren → **be**keren* (kthej në besim).
+
+@box (0.95, 0.96, 0.98)
+  **Në fjalor**
+  Foljet me parashtesë kërkohen sipas parashtesës: *opbellen* gjendet te shkronja **o**.
+@end
+@h2 Ku shkon parashtesa e ndashme?
+Shembull me foljen **opbellen** (telefonoj):
+
+@table
+| Situata | Holandisht | Shqip |
+| folja e dyta → parashtesa në fund | Ik **bel** hem nu **op**. | E telefonoj tani. |
+| pyetje | **Bel** je hem morgen **op**? | A do ta telefonosh nesër? |
+| pjesore | Ik heb hem gisteren al **opgebeld**. | E telefonova që dje. |
+| paskajore | Ik zal hem morgen **opbellen**. | Do ta telefonoj nesër. |
+| fjali e varur (Tipi III) | …dat ik hem morgen **opbel**. | …që e telefonoj nesër. |
+@end
+
+@box (0.99, 0.93, 0.92)
+  **Dy përjashtime: parashtesa ndahet edhe në paskajore**
+  1. Tipi III me modal: *Ik weet dat ik hem morgen **op** moet **bellen**.* (E di që duhet ta telefonoj nesër.)
+  2. Me **om … te**: *Ik ben van plan om hem morgen **op te bellen**.* (Kam ndër mend ta telefonoj nesër.)
+@end
+@lesson Foljet vetvetore
+Holandishtja përdor më shumë **përemra vetvetorë** se anglishtja, por kjo i ngjan shqipes (*lahem, rruhem, vishem*):
+
+@table
+| Përemri | Vetvetori | zich wassen |
+| ik | me | ik was **me** |
+| jij | je | jij wast **je** |
+| u | zich / u | u wast **zich** |
+| hij / zij / het | zich | hij wast **zich** |
+| wij | ons | wij wassen **ons** |
+| jullie | je | jullie wassen **je** |
+| zij | zich | zij wassen **zich** |
+@end
+
+@table
+| Holandisht | Shqip |
+| Hij wast **zich**. | Ai lahet. |
+| Ik scheer **me**. | Unë rruhem. |
+| Zij kleden **zich** aan. | Ata vishen. |
+@end
+
+@h2 Folje që zakonisht janë vetvetore
+@table
+| Folja | Shembull | Shqip |
+| zich verheugen (op) | Ik verheug **me** op zaterdag. | Mezi pres të shtunën. |
+| zich verbazen (over) | Hij verbaast **zich** erover. | Ai habitet për këtë. |
+| zich haasten | Wij moeten **ons** haasten. | Duhet të nxitojmë. |
+| zich vergissen (vetëm vetvetore) | Ik vergis **me**. ⏎ Jij vergist **je**. ⏎ Wij vergissen **ons**. | Gaboj. ⏎ Gabon. ⏎ Gabojmë. |
+@end
+
+@box (0.95, 0.96, 0.98)
+  **Pa vetvetore, kuptim tjetër**
+  Pa vetvetore, *verheugen, verbazen, haasten* do të thonë «gëzoj dikë», «habit dikë», «nxitoj dikë».
+@end
+@lesson Foljet pavetore
+Ato përdoren vetëm me **het** dhe në vetën e tretë njëjës, si në shqip (*bie shi*):
+
+@table
+| Holandisht | Shqip |
+| **Het** regent. | Bie shi. |
+| **Het** sneeuwt. | Bie borë. |
+| **Het** hagelt. | Bie breshër. |
+| **Het** waait. | Fryn erë. |
+| **Het** spijt me dat… | Më vjen keq që… |
+@end
+
+@box (1.0, 0.96, 0.91)
+  **Dallim nga anglishtja, ngjashmëri me shqipen**
+  Te *Het spijt me* kryefjala është **het**, ndërsa *unë* del kundrinor (**me**). Kjo është e njëjtë me shqipen: «**më** vjen keq».
+@end
+Kujtesë: pësorja pavetore *Er wordt gezongen* (Mësimi {L:20.2}) është gjithashtu ndërtim pavetor.
+
+@practice Ushtrime
+@h2 A. Ndani parashtesën
+Shembull: opbellen → Ik bel hem op.
+
+1. opstaan → Ik ______ om zeven uur ______.
+
+2. meebrengen → Hij ______ een cadeau ______.
+
+3. aankomen → De trein ______ om tien uur ______.
+
+4. uitgaan → Wij ______ vanavond ______.
+
+5. opbellen → ______ jij mij morgen ______?
+
+@h2 B. Pjesorja me apo pa ge-?
+1. opbellen → ______
+
+2. vertellen → ______
+
+3. meebrengen → ______
+
+4. bezoeken → ______
+
+5. aannemen → ______
+
+6. ontmoeten → ______
+
+@h2 C. Plotësoni përemrin vetvetor
+1. Ik was ______.
+
+2. Hij scheert ______.
+
+3. Wij moeten ______ haasten.
+
+4. Jij vergist ______.
+
+5. Zij (ata) kleden ______ aan.
+
+6. Ik verheug ______ op de vakantie.
+
+@h2 D. Moti
+Lidhni me vijë çdo kuti majtas me kutinë e duhur djathtas.
+
+Het regent. ⇥ Fryn erë.
+
+Het sneeuwt. ⇥ Bie breshër.
+
+Het waait. ⇥ Bie shi.
+
+Het hagelt. ⇥ Bie borë.
+
+@h2 E. Gjeni dhe korrigjoni gabimin
+1. Ik opsta om zeven uur.
+
+2. Ik heb hem geopbeld.
+
+3. Hij wast hem. (veten)
+
+4. Wij vergissen zich.
+
+5. Ik heb mijn vriend geontmoet.
+
+@h2 F. Përktheni në holandisht
+1. E telefonoj tani.
+
+2. Ai lahet.
+
+3. Duhet të nxitojmë.
+
+4. Bie shi.
+
+5. Më vjen keq.
+
+@key
+@table
+| Ushtrimi | Përgjigjet |
+| A | 1. sta … op 2. brengt … mee 3. komt … aan 4. gaan … uit 5. Bel … op |
+| B | 1. opgebeld 2. verteld 3. meegebracht 4. bezocht 5. aangenomen 6. ontmoet |
+| C | 1. me 2. zich 3. ons 4. je 5. zich 6. me |
+| D | Het regent. – Bie shi. • Het sneeuwt. – Bie borë. • Het waait. – Fryn erë. • Het hagelt. – Bie breshër. |
+| E | 1. Ik sta om zeven uur op. 2. Ik heb hem opgebeld. 3. Hij wast zich. 4. Wij vergissen ons. 5. Ik heb mijn vriend ontmoet. |
+| F | 1. Ik bel hem nu op. 2. Hij wast zich. 3. Wij moeten ons haasten. 4. Het regent. 5. Het spijt me. |
+@end
+
+@glossary
+@table
+| Holandisht | Shqip | Holandisht | Shqip |
+| opbellen | telefonoj | zich wassen | lahem |
+| opstaan | ngrihem | zich scheren | rruhem |
+| meebrengen | sjell me vete | zich aankleden | vishem |
+| uitstellen | shtyj për më vonë | zich verheugen op | mezi pres |
+| uitgeven | botoj | zich verbazen over | habitem për |
+| uitgaan | dal (për qejf) | zich haasten | nxitoj |
+| verdenken | dyshoj | zich vergissen | gaboj |
+| van plan zijn | kam ndër mend | het regent | bie shi |
+| het cadeau | dhurata | het spijt me | më vjen keq |
+@end

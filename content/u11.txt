@@ -1,0 +1,373 @@
+@lesson Nyjat dhe gjinia e emrave
+Në shqip nyja e shquar është mbaresë (*burri, shtëpia*). Në holandisht nyjat janë **fjalë të veçanta** para emrit. Ky mësim e thellon atë që mësuat për **een**, **de** dhe **het** në Mësimin {L:1.3}.
+
+@h2 Nyja joshquese «een»
+Holandishtja ka vetëm **një** formë të nyjës joshquese: **een** (shqip: një). Nuk ndryshon kurrë, as për gjininë, as para zanores.
+
+@table
+| Holandisht | Shqip |
+| **een** man | një burrë |
+| **een** vrouw | një grua |
+| **een** olifant | një elefant |
+@end
+
+@box (0.95, 0.96, 0.98)
+  **Een dhe één**
+  Në të folur e në shkrim joformal «een» shkurtohet shpesh në **'n**. Forma e theksuar **één** (me thekse) do të thotë «një i vetëm, jo më shumë»: **één** man (një burrë, jo disa) • **één** hand (vetëm një dorë).
+@end
+@h2 Nyjat shquese «de» dhe «het»
+Në shqip kemi një nyje shquese; në holandisht ka **dy**: **de** dhe **het**. Të gjithë emrat në **shumës** marrin **de**. Në njëjës zgjedhja varet nga gjinia: emrat e **gjinisë asnjanëse** marrin **het**, ndërsa emrat e **gjinisë së përbashkët** marrin **de**. Meqë gjinia është kryesisht gramatikore, flasim thjesht për **het-fjalë** dhe **de-fjalë**.
+
+@table
+| Njëjës | Shqip |
+| **de** auto | makina |
+| **het** huis | shtëpia |
+| **de** vork | pirunji |
+| **het** mes | thika |
+@end
+
+@box (1.0, 0.95, 0.9)
+  **Këshillë**
+  Mësojini emrat **bashkë me nyjën e tyre** (de auto, het huis). Nuk ka mënyrë të sigurt për ta gjetur gjininë, por rregullat më poshtë ndihmojnë në shumicën e rasteve.
+@end
+@h2 Emrat e personave: zakonisht «de»
+Emrat që tregojnë burra ose gra janë më shpesh **de-fjalë**. Shpesh kanë prapashtesa që e tregojnë këtë:
+
+@table
+| Prapashtesa | Shembuj | Shqip |
+| **-aar** | de leraar ⏎ de Leidenaar | mësuesi ⏎ banori i Leidenit |
+| **-ent** | de student ⏎ de docent | studenti ⏎ pedagogu |
+| **-er** | de denker ⏎ de danser | mendimtari ⏎ kërcimtari |
+| **-es** | de zangeres ⏎ de lerares | këngëtarja ⏎ mësuesja |
+| **-eur** | de acteur ⏎ de directeur | aktori ⏎ drejtori |
+@end
+
+@h2 Prapashtesat që japin «het»
+Të gjithë **zvogëluesit** mbarojnë me **-je** dhe janë **het-fjalë**, edhe kur i referohen personave. Emrat me **-isme** janë gjithashtu **het**:
+
+@table
+| Rregulli | Shembuj | Shqip |
+| **-je** → het | het meisje ⏎ het mannetje ⏎ het kopje | vajza ⏎ njeriu i vogël ⏎ filxhani |
+| **-isme** → het | het communisme ⏎ het kapitalisme | komunizmi ⏎ kapitalizmi |
+@end
+
+@h2 Prapashtesat që japin «de»
+Të gjithë emrat me këto prapashtesa janë **de-fjalë**:
+
+@table
+| Prapashtesa | Shembull | Shqip |
+| **-heid** | de godheid | hyjnia |
+| **-ij** | de slagerij | mishtorja |
+| **-ing** | de herinnering | kujtimi |
+| **-teit** | de identiteit | identiteti |
+| **-tie** | de kwestie | çështja |
+@end
+
+@box (0.95, 0.96, 0.98)
+  **Emrat abstraktë**
+  Ndryshe nga anglishtja, emrat abstraktë në holandisht marrin zakonisht nyjën shquese: **de** moed (guximi) • **het** leven (jeta) • **het** socialisme (socializmi). Kjo ju duket e njohur, sepse edhe në shqip themi «guximi, jeta».
+@end
+@lesson Shumësi i emrave
+Emrat holandezë nuk ndryshojnë sipas rasës, por pothuajse gjithmonë kanë **shumës**. Dy mbaresat më të shpeshta janë **-en** dhe **-s**.
+
+@h2 1. Mbaresa -en
+Mbaresa më e zakonshme e shumësit është **-en**:
+
+@table
+| Njëjës | Shumës | Shqip |
+| het woord | de woorden | fjala – fjalët |
+| de hand | de handen | dora – duart |
+| het huis | de huizen | shtëpia – shtëpitë |
+| de kring | de kringen | rrethi – rrethet |
+@end
+
+Disa emra të shpeshtë **e zgjasin zanoren** në shumës: zanorja e njëjësit është e shkurtër, ajo e shumësit e gjatë (shih Njësinë {U:10}, drejtshkrimi):
+
+@table
+| Njëjës (e shkurtër) | Shumës (e gjatë) | Shqip |
+| de dag | de dagen | dita – ditët |
+| het glas | de glazen | gota – gotat |
+| de slag | de slagen | goditja – goditjet |
+| het spel | de spelen | loja – lojërat |
+| het slot | de sloten | brava – bravat |
+| de weg | de wegen | rruga – rrugët |
+@end
+
+@h2 2. Mbaresa -s
+Mbaresa e dytë më e shpeshtë është **-s**. Marrin -s shumica e emrave që mbarojnë me **-aar,** **-aard, -el, -em, -en, -er** pa theks, si dhe **të gjithë zvogëluesit**:
+
+@table
+| Njëjës | Shumës | Shqip |
+| de tafel | de tafels | tavolina – tavolinat |
+| de bezem | de bezems | fshesa – fshesat |
+| de wagen | de wagens | karroca – karrocat |
+| de kapper | de kappers | berberi – berberët |
+| het meisje | de meisjes | vajza – vajzat |
+| het huisje | de huisjes | shtëpiza – shtëpizat |
+@end
+
+Mbaresa -s shtohet edhe te shumë fjalë me prejardhje të huaj. Nëse fjala mbaron me **-a, -i, -o, -u**, para -s vendoset një **apostrof**:
+
+@table
+| Njëjës | Shumës | Shqip |
+| de telefoon | de telefoons | telefoni – telefonat |
+| de tante | de tantes | halla – hallat |
+| het drama | de drama's | drama – dramat |
+| de ski | de ski's | ski – skitë |
+| de piano | de piano's | pianoja – pianot |
+| de paraplu | de paraplu's | çadra – çadrat |
+@end
+
+@h2 3. Tri mbaresa të tjera, më të rralla
+Disa **het-fjalë** marrin **-eren** (si «children» në anglisht):
+
+@table
+| Njëjës | Shumës | Shqip |
+| het ei | de eieren | veza – vezët |
+| het been | de beenderen | kocka – kockat (shtohet -d-) |
+| het blad | de bladeren | gjethja – gjethet |
+| het kind | de kinderen | fëmija – fëmijët |
+| het lied | de liederen | kënga – këngët |
+@end
+
+@box (1.0, 0.95, 0.9)
+  **Kujdes: het been**
+  «Het been» ka dy shumësa sipas kuptimit: **de benen** (këmbët) dhe **de beenderen** (kockat).
+@end
+Disa emra e ndërrojnë **zanoren e rrënjës** dhe marrin -en:
+
+@table
+| Njëjës | Shumës | Shqip |
+| het lid | de leden | anëtari – anëtarët |
+| het schip | de schepen | anija – anijet |
+| de smid | de smeden | farkëtari – farkëtarët |
+| de stad | de steden | qyteti – qytetet |
+@end
+
+@h2 Fjalë me origjinë latine dhe emrat e masës
+@table
+| Rregulli | Shembull | Shqip |
+| -us për persona → **-i** | de musicus → de musici | muzikanti – muzikantët |
+| -us për sende → **-sen** | de cursus → de cursussen | kursi – kurset |
+| -um → **-a** ose **-s** | het museum → de musea / de ⏎ museums | muzeu – muzetë |
+| emrat e masës: pa ⏎ shumës | honderd kilometer ⏎ vijf jaar ⏎ tien meter | njëqind kilometra ⏎ pesë vjet ⏎ dhjetë metra |
+@end
+
+@box (0.95, 0.96, 0.98)
+  **Kujdes**
+  Pas një numri, emrat e masës nuk marrin mbaresë shumësi: **honderd kilometer** (jo «kilometers»), **vijf jaar**, **tien meter**.
+@end
+@lesson Zvogëluesit, mbiemrat dhe paskajorja si emra
+@h2 Zvogëluesit
+Përdorimi i shpeshtë i **zvogëluesve** është tipar i holandishtes. Ata tregojnë gjëra të vogla, por shprehin edhe ndjenja: afërsi, dashuri, butësi, ironi apo përbuzje, shpesh me një ngjyrë që e kupton vetëm folësi vendas. Zvogëluesit janë **gjithmonë het-fjalë** dhe në shumës marrin **gjithmonë -s**. Shumica formohen me prapashtesën **-je**:
+
+@table
+| Emri | Zvogëluesi | Shqip |
+| de voet | het voetje | këmba – këmba e vogël |
+| het huis | het huisje | shtëpia – shtëpiza e ngrohtë |
+| het dorp | het dorpje | fshati – fshati i vogël |
+@end
+
+Prapashtesa ka disa variante:
+
+@table
+| Varianti | Shembull | Shqip |
+| **-tje** | de stoel → het stoeltje | karrigia – karrige e vogël |
+| **-etje** | de bal → het balletje | topi – topi i vogël |
+| **-pje** | de arm → het armpje | krahu – krahu i vogël |
+| **-etje** | de man → het mannetje | burri – burrështi |
+@end
+
+@box (1.0, 0.95, 0.9)
+  **Kujdes**
+  Kur shtojmë zvogëlues, emri i **de**-klasës bëhet **het**: de bal → **het** balletje. Shumësi është gjithmonë -s: het balletje → de balletjes.
+@end
+@h2 Mbiemrat si emra
+Një mbiemër mund të bëhet emër kur flet për një person ose gjë që nuk përmendet. Para tij vjen nyja, dhe merr **-e** në njëjës e **-en** në shumës:
+
+@table
+| Holandisht | Shqip |
+| **een rijke** | një i pasur |
+| **de rijke** | i pasuri |
+| **de rijken** | të pasurit |
+| **het mooie** | e bukura (diçka e bukur) |
+@end
+
+@h2 Paskajorja si emër
+Holandishtja nuk ka formë të veçantë për foljen që bëhet emër (si anglishtja me «-ing»). Përdoret **paskajorja**, me ose pa nyjën **het**:
+
+@table
+| Holandisht | Shqip |
+| Hij schudde van **het lachen**. | Ai dridhej nga e qeshura. |
+| Ik ging door met **zingen**. | Vazhdova të këndoj. |
+| **Het lopen** is gezond. | Ecja është e shëndetshme. |
+| Ik hou van **lezen**. | Më pëlqen të lexoj. |
+@end
+
+@h2 Përmbledhje
+@table
+| Tema | Rregulli | Shembull |
+| **een** | një formë e vetme | een man, een huis |
+| **de / het** | shumës → de; njëjës → de ose het | de auto, het huis |
+| **-en** | mbaresa më e shpeshtë e shumësit | de woorden |
+| **-s** | -el, -er, -en, -em; zvogëlues; fjalë të huaja | de tafels, de meisjes |
+| **-eren** | disa het-fjalë | de kinderen |
+| **zvogëlues** | -je (-tje, -etje, -pje); gjithmonë het | het huisje |
+@end
+
+@box (0.95, 0.96, 0.98)
+  **Formulë e shkurtër**
+  Mësoni **emrin me nyjën** dhe **shumësin** bashkë: *het kind – de kinderen*, *de dag – de dagen*, *de tafel – de tafels*.
+@end
+@practice Ushtrime
+@h2 A. «de» apo «het»?
+1. ______ leraar
+
+2. ______ student
+
+3. ______ meisje
+
+4. ______ kopje
+
+5. ______ communisme
+
+6. ______ godheid
+
+7. ______ kwestie
+
+8. ______ identiteit
+
+9. ______ acteur
+
+10. ______ zangeres
+
+@h2 B. Shkruani shumësin (me -en)
+1. het woord
+
+2. de hand
+
+3. het huis
+
+4. de kring
+
+5. de dag
+
+6. het glas
+
+7. de weg
+
+8. het spel
+
+@h2 C. Shkruani shumësin (me -s)
+1. de tafel
+
+2. de bezem
+
+3. de kapper
+
+4. het meisje
+
+5. het huisje
+
+6. de telefoon
+
+7. de tante
+
+8. de piano
+
+9. de paraplu
+
+10. de ski
+
+@h2 D. Shumësa të veçantë
+1. het ei
+
+2. het been (kocka)
+
+3. het blad
+
+4. het kind
+
+5. het lied
+
+6. het lid
+
+7. het schip
+
+8. de stad
+
+@h2 E. Formoni zvogëluesin (me nyje)
+1. de voet
+
+2. het huis
+
+3. het dorp
+
+4. de stoel
+
+5. de bal
+
+6. de arm
+
+7. de man
+
+8. de kop
+
+@h2 F. Gjeni dhe korrigjoni gabimin
+1. de meisje
+
+2. twee tafelen
+
+3. drie kindern
+
+4. de pianos
+
+5. het leraar
+
+6. het godheid
+
+7. de huisje
+
+8. honderd kilometers
+
+@h2 G. Përktheni në holandisht
+1. një i pasur
+
+2. të pasurit
+
+3. e bukura (diçka e bukur)
+
+4. Ecja është e shëndetshme.
+
+5. dy fëmijë
+
+6. tri tavolina
+
+@key
+@table
+| Ushtrimi | Përgjigjet |
+| **A** | 1. de leraar 2. de student 3. het meisje 4. het kopje 5. het communisme 6. de ⏎ godheid 7. de kwestie 8. de identiteit 9. de acteur 10. de zangeres |
+| **B** | 1. de woorden 2. de handen 3. de huizen 4. de kringen 5. de dagen 6. de ⏎ glazen 7. de wegen 8. de spelen |
+| **C** | 1. de tafels 2. de bezems 3. de kappers 4. de meisjes 5. de huisjes 6. de ⏎ telefoons 7. de tantes 8. de piano's 9. de paraplu's 10. de ski's |
+| **D** | 1. de eieren 2. de beenderen 3. de bladeren 4. de kinderen 5. de liederen 6. de ⏎ leden 7. de schepen 8. de steden |
+| **E** | 1. het voetje 2. het huisje 3. het dorpje 4. het stoeltje 5. het balletje 6. het ⏎ armpje 7. het mannetje 8. het kopje |
+| **F** | 1. het meisje 2. twee tafels 3. drie kinderen 4. de piano's 5. de leraar 6. de ⏎ godheid 7. het huisje 8. honderd kilometer |
+| **G** | 1. een rijke 2. de rijken 3. het mooie 4. Het lopen is gezond. 5. twee kinderen ⏎ 6. drie tafels |
+@end
+
+@glossary
+@table
+| Holandisht | Shqip | Holandisht | Shqip |
+| **de leraar** | mësuesi | **het kind** | fëmija |
+| **de student** | studenti | **het ei** | veza |
+| **het meisje** | vajza | **de stad** | qyteti |
+| **het kopje** | filxhani | **het schip** | anija |
+| **de vrouw** | gruaja | **de telefoon** | telefoni |
+| **de acteur** | aktori | **de tante** | halla |
+| **de tafel** | tavolina | **de paraplu** | çadra |
+| **de hand** | dora | **de piano** | pianoja |
+| **het woord** | fjala | **de voet** | këmba |
+| **de dag** | dita | **het dorp** | fshati |
+| **het glas** | gota | **rijk** | i pasur |
+| **de weg** | rruga | **mooi** | i bukur |
+@end

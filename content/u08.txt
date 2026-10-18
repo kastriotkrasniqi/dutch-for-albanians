@@ -1,0 +1,253 @@
+@lesson Folja «lopen» – eci
+**Lopen** do të thotë «eci, ec në këmbë». Përdoret për ecjen, rrugët dhe mënyrën si lëvizim në këmbë. Në shqip shpesh themi «shkoj në këmbë»: *Ik loop naar school* = Shkoj në shkollë në këmbë.
+
+@table
+| Përemri | Koha e tashme | Shqip |
+| ik | loop | unë eci |
+| jij / je | loopt | ti ec |
+| hij / zij / het | loopt | ai / ajo ec |
+| wij / we | lopen | ne ecim |
+| jullie | lopen | ju ecni |
+| zij / ze (shumës) | lopen | ata / ato ecin |
+@end
+
+@box (0.91, 0.94, 0.98)
+  **Drejtshkrimi:** te *lopen* zanorja «o» është e gjatë. Kur heqim -en, rrënja shkruhet me dy «o» për ta ruajtur tingullin e gjatë: **loop**, **loopt** (si *leer*, *staat*). Në shumës kthehet te *lopen*. Pas «jij» në pyetje, -t bie: *Loop jij naar school?*
+@end
+@box (0.99, 0.93, 0.92)
+  **Vini re:** «lopen» është folje **e rregullt**. Ndryshon vetëm drejtshkrimi (o → oo) për të ruajtur zanoren e gjatë.
+@end
+@h2 Shembuj
+@table
+| Holandisht | Shqip |
+| Ik **loop** naar school. | Unë shkoj në shkollë në këmbë. |
+| Hij **loopt** naar huis. | Ai shkon në shtëpi në këmbë. |
+| Wij **lopen** in het park. | Ne ecim në park. |
+| Zij **loopt** door de straat. | Ajo ec nëpër rrugë. |
+| De kinderen **lopen** naar de winkel. | Fëmijët shkojnë në dyqan në këmbë. |
+@end
+
+@h2 Parafjalët e lëvizjes
+@table
+| Parafjala | Shqip | Shembull |
+| **naar** | drejt, në (një vend) | Ik loop naar het station. |
+| **door** | nëpër, përmes | Wij lopen door het park. |
+| **langs** | përgjatë, pranë | Hij loopt langs de winkel. |
+| **over** | mbi, përtej | Zij loopt over de brug. |
+| **met** | me (shoqërim) | Ik loop met mijn vriend. |
+@end
+
+@lesson Folja «zitten» me përemrat pronorë
+**Zitten** do të thotë «ulem, jam ulur», por përdoret edhe për «jam diku»: në tren, në klasë, në makinë. Këtu e kombinojmë me përemrat pronorë nga Njësia {U:7} (Mësimet {L:7.1}–{L:7.3}): *mijn, jouw, zijn, haar, ons/onze, jullie, hun*.
+
+@table
+| Përemri | Koha e tashme | Shqip |
+| ik | zit | unë ulem / jam ulur |
+| jij / je | zit | ti ulesh / je ulur |
+| hij / zij / het | zit | ai / ajo ulet / është ulur |
+| wij / we | zitten | ne ulemi / jemi ulur |
+| jullie | zitten | ju uleni / jeni ulur |
+| zij / ze (shumës) | zitten | ata / ato ulen / janë ulur |
+@end
+
+@box (0.91, 0.94, 0.98)
+  **Drejtshkrimi:** rrënja është **zit** (dy «tt» bëhen një «t»), ndaj «i» mbetet e shkurtër. Me **jij** nuk shtohet -t: *jij zit*. Në pyetje mbetet e njëjta: *Zit jij op de bank?*
+@end
+@h2 Zitten me pronorë
+@table
+| Holandisht | Shqip |
+| Ik **zit** op **mijn** stoel. | Unë jam ulur në karrigen time. |
+| Jij **zit** op **jouw** plek. | Ti je ulur në vendin tënd. |
+| Hij **zit** in **zijn** auto. | Ai është në makinën e tij. |
+| Zij **zit** in **haar** kamer. | Ajo është në dhomën e saj. |
+| Wij **zitten** in **ons** huis. | Ne jemi në shtëpinë tonë. |
+| Wij **zitten** in **onze** auto. | Ne jemi në makinën tonë. |
+| Jullie **zitten** in **jullie** tuin. | Ju jeni në kopshtin tuaj. |
+| De kinderen **zitten** in **hun** klas. | Fëmijët janë në klasën e tyre. |
+@end
+
+@h2 Pyetje
+@table
+| Holandisht | Shqip |
+| Waar **zit** jouw kat? | Ku është macja jote? |
+| **Zit** jij in de trein? | A je në tren? |
+| Waar **zitten** jullie kinderen? | Ku janë fëmijët tuaj? |
+@end
+
+@lesson Lopen dhe zitten: lëvizje dhe pozicion
+**Lopen** tregon **lëvizje** (dikush po ec), ndërsa **zitten** tregon **pozicion** (dikush është ulur ose diku). Krahasoni:
+
+@table
+| lopen (lëvizje) | zitten (pozicion) |
+| Ik **loop** naar school. ⏎ *Shkoj në shkollë në këmbë.* | Ik **zit** op school. ⏎ *Jam në shkollë (ulur në klasë).* |
+| Hij **loopt** naar zijn auto. ⏎ *Ai shkon te makina e tij.* | Hij **zit** in zijn auto. ⏎ *Ai është në makinën e tij.* |
+| Wij **lopen** naar het station. ⏎ *Ne shkojmë në stacion në këmbë.* | Wij **zitten** op het station. ⏎ *Ne jemi (ulur) në stacion.* |
+@end
+
+@box (0.9, 0.96, 0.92)
+  **Si zgjedh?** Po lëviz në këmbë drejt një vendi? → **lopen** (+ *naar, door, langs*). Je ulur ose brenda diku? → **zitten** (+ *in, op*).
+@end
+@h2 Fjali të plota me të dyja foljet dhe pronorë
+@table
+| Holandisht | Shqip |
+| Ik **loop** met mijn vriend naar school. | Unë shkoj në shkollë në këmbë me shokun tim. |
+| Zij **zit** met haar zus in de tuin. | Ajo është në kopsht me motrën e saj. |
+| Wij **lopen** met onze kinderen door het park. | Ne ecim nëpër park me fëmijët tanë. |
+| Mijn broer **zit** in de trein. | Vëllai im është në tren. |
+| Hun moeder **loopt** naar de winkel. | Nëna e tyre shkon në dyqan në këmbë. |
+@end
+
+@h2 Pyetje me «lopen»
+@table
+| Holandisht | Shqip |
+| **Loop** jij naar school? | A shkon ti në shkollë në këmbë? |
+| Met wie **loop** jij naar huis? | Me kë shkon ti në shtëpi në këmbë? |
+| **Lopen** jullie naar het station? | A shkoni ju në stacion në këmbë? |
+@end
+
+@practice Ushtrime: lidh çiftet
+@h2 A. Fjala dhe kuptimi
+Lidhni me vijë çdo kuti majtas me kutinë e duhur djathtas.
+
+lopen ⇥ dyqani
+
+zitten ⇥ nëpër
+
+naar ⇥ ulem
+
+door ⇥ përgjatë
+
+de winkel ⇥ eci
+
+langs ⇥ drejt
+
+@h2 B. lopen
+Lidhni me vijë çdo kuti majtas me kutinë e duhur djathtas.
+
+Ik ⇥ lopen
+
+Jij ⇥ loopt
+
+Hij / zij / het ⇥ loop
+
+Wij ⇥ loopt
+
+Jullie ⇥ lopen
+
+@practice Ushtrime: rendit fjalët
+@h2 C. Rendisni fjalët dhe shkruani fjalinë ose pyetjen
+Mos harroni: folja është e dyta në fjali; në pyetje po/jo është e para; pas «waar» vjen menjëherë folja.
+
+@order 1 | loop / ik / naar / school | Shkoj në shkollë në këmbë.
+@order 2 | loopt / naar / hij / huis | Ai shkon në shtëpi në këmbë.
+@order 3 | lopen / in / het park / wij | Ne ecim në park.
+@order 4 | zit / op / mijn / ik / stoel | Unë jam ulur në karrigen time.
+@order 5 | zit / zij / haar / in / kamer | Ajo është në dhomën e saj.
+@order 6 | zitten / in / hun / klas / de kinderen | Fëmijët janë në klasën e tyre.
+@order 7 | loop / jij / school / naar | A shkon ti në shkollë në këmbë?
+@order 8 | zit / waar / jouw / kat | Ku është macja jote?
+
+@practice Ushtrime: plotëso, gjej gabimin
+@h2 D. Plotësoni me formën e duhur (lopen / zitten)
+1. Ik ______ naar school. (lopen)
+
+2. Jij ______ naar het station. (lopen)
+
+3. Wij ______ in het park. (lopen)
+
+4. Hij ______ in de trein. (zitten)
+
+5. Jullie ______ in de tuin. (zitten)
+
+6. Zij (ajo) ______ naar huis. (lopen)
+
+7. Ik ______ op de bank. (zitten)
+
+8. De kinderen ______ naar de winkel. (lopen)
+
+@h2 E. Plotësoni me përemrin pronor të duhur
+1. Ik zit op ______ stoel. (im)
+
+2. Jij loopt met ______ vriend. (yt)
+
+3. Hij zit in ______ auto. (i tij)
+
+4. Zij zit in ______ kamer. (e saj)
+
+5. Wij zitten in ______ huis. (ynë)
+
+6. Wij lopen met ______ kinderen. (tanë)
+
+7. Jullie zitten in ______ tuin. (juaj)
+
+8. Zij (ata) lopen naar ______ school. (e tyre)
+
+@h2 F. Gjeni dhe korrigjoni gabimin
+1. Ik loopt naar school. → ______________________
+
+2. Hij lopen naar huis. → ______________________
+
+3. Wij loopt in het park. → ______________________
+
+4. Loopt jij naar school? → ______________________
+
+5. Ik zitten op de bank. → ______________________
+
+6. Zij zit in hun kamer. (dhoma e saj) → ______________________
+
+@practice Ushtrime: përkthe
+@h2 G. Fjalia dhe përkthimi
+Lidhni me vijë çdo kuti majtas me kutinë e duhur djathtas.
+
+Ik loop naar school. ⇥ Vëllai im është në tren.
+
+Hij loopt naar huis. ⇥ Ne ecim në park.
+
+Wij lopen in het park. ⇥ Ajo është në dhomën e saj.
+
+Zij zit in haar kamer. ⇥ Shkoj në shkollë në këmbë.
+
+Mijn broer zit in de trein. ⇥ Ai shkon në shtëpi në këmbë.
+
+@h2 H. Përktheni në holandisht
+1. Unë eci në park.
+
+2. Ti shkon në shkollë në këmbë.
+
+3. Ne ecim me fëmijët tanë.
+
+4. Ai është ulur në makinën e tij.
+
+5. A shkon ti në stacion në këmbë?
+
+6. Ku është vëllai yt?
+
+@key
+@table
+| Ushtrimi | Përgjigjet |
+| A | lopen – eci • zitten – ulem • naar – drejt • door – nëpër • de winkel – dyqani • langs – ⏎ përgjatë |
+| B | Ik – loop • Jij – loopt • Hij / zij / het – loopt • Wij – lopen • Jullie – lopen |
+| C | 1. Ik loop naar school. 2. Hij loopt naar huis. 3. Wij lopen in het park. 4. Ik zit op mijn ⏎ stoel. 5. Zij zit in haar kamer. 6. De kinderen zitten in hun klas. 7. Loop jij naar ⏎ school? 8. Waar zit jouw kat? |
+| D | 1. loop 2. loopt 3. lopen 4. zit 5. zitten 6. loopt 7. zit 8. lopen |
+| E | 1. mijn 2. jouw 3. zijn 4. haar 5. ons 6. onze 7. jullie 8. hun |
+| F | 1. Ik loop naar school. 2. Hij loopt naar huis. 3. Wij lopen in het park. 4. Loop jij naar ⏎ school? 5. Ik zit op de bank. 6. Zij zit in haar kamer. |
+| G | Ik loop naar school. – Shkoj në shkollë në këmbë. • Hij loopt naar huis. – Ai shkon në ⏎ shtëpi në këmbë. • Wij lopen in het park. – Ne ecim në park. • Zij zit in haar kamer. – ⏎ Ajo është në dhomën e saj. • Mijn broer zit in de trein. – Vëllai im është në tren. |
+| H | 1. Ik loop in het park. 2. Jij loopt naar school. 3. Wij lopen met onze kinderen. 4. Hij zit ⏎ in zijn auto. 5. Loop jij naar het station? 6. Waar zit jouw broer? |
+@end
+
+@glossary
+@table
+| Holandisht | Shqip | Holandisht | Shqip |
+| lopen | eci, shkoj në këmbë | de tuin | kopshti |
+| zitten | ulem; jam diku | de trein | treni |
+| naar | drejt, në | de auto | makina |
+| door | nëpër, përmes | de kamer | dhoma |
+| langs | përgjatë, pranë | de klas | klasa |
+| over | mbi, përtej | de brug | ura |
+| met | me | de vriend | shoku |
+| de school | shkolla | de zus | motra |
+| het park | parku | de broer | vëllai |
+| de straat | rruga | de moeder | nëna |
+| de winkel | dyqani | het huis | shtëpia |
+| het station | stacioni | de stoel | karrigia |
+@end

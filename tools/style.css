@@ -1,0 +1,171 @@
+:root{
+  --navy:#15305A; --blue:#2456A4; --sky:#EAF1FB; --orange:#E8731A; --orange-t:#FDF1E6;
+  --ink:#1C2333; --muted:#5D6677; --line:#D9E0EA; --tint:#F4F7FB;
+  --red:#C2412D; --red-t:#FCEDEA; --green:#2E7D4F; --green-t:#EAF6EF; --al:#B3261E;
+}
+@page{ size:A4; margin:17mm 17mm 19mm 17mm;
+  @bottom-left{ content: var(--footer, "Mësojmë holandisht · Niveli A1"); font:500 7.5pt Inter, sans-serif; color:#8A93A3; }
+  @bottom-right{ content: counter(page); font:600 8pt Inter, sans-serif; color:#15305A; }
+}
+@page full{ margin:0; @bottom-left{content:none} @bottom-right{content:none} }
+*{box-sizing:border-box}
+html{ -webkit-print-color-adjust:exact; print-color-adjust:exact; }
+body{ margin:0; font-family:Inter, sans-serif; font-size:9.6pt; line-height:1.55; color:var(--ink); font-feature-settings:"cv11","ss01"; }
+b{ font-weight:650; color:var(--navy) }
+i{ font-style:italic }
+p{ margin:0 0 7pt }
+.mark{ position:absolute; font-size:2pt; line-height:1; color:rgba(255,255,255,0.01) }
+
+/* ---------- cover */
+.cover{ page:full; height:297mm; width:210mm; position:relative; background:var(--navy); color:#fff; padding:22mm 20mm; display:flex; flex-direction:column; justify-content:space-between; overflow:hidden; break-after:page }
+.cover b{color:#fff}
+.cv-top{ display:flex; justify-content:space-between; font:600 8.5pt Inter; letter-spacing:.14em; text-transform:uppercase; color:#AFC3E6; position:relative; z-index:2 }
+.cv-mid{ position:relative; z-index:2; margin-top:-20mm }
+.cv-title{ font-family:Lora, serif; font-weight:700; font-size:36pt; line-height:1.08; margin:4mm 0 5mm; color:#fff; max-width:150mm }
+.cv-title.big{ font-size:60pt; line-height:1.0 }
+.cv-sub{ font-size:13pt; color:#D6E2F5; max-width:135mm; line-height:1.45 }
+.cv-kick{ font:600 9pt Inter; letter-spacing:.12em; text-transform:uppercase; color:var(--orange) }
+.cv-unum{ font-family:Lora,serif; font-size:20pt; color:#AFC3E6; margin-top:3mm }
+.cv-stats{ display:flex; gap:12mm; margin-top:12mm }
+.cv-stats div{ display:flex; flex-direction:column; border-left:2.5pt solid var(--orange); padding-left:4mm }
+.cv-stats b{ font-family:Lora,serif; font-size:24pt; line-height:1 }
+.cv-stats span{ font-size:9pt; color:#AFC3E6; text-transform:uppercase; letter-spacing:.1em; margin-top:1.5mm }
+.cv-bot{ font-size:9pt; color:#AFC3E6; position:relative; z-index:2 }
+.tiles{ position:absolute; right:-18mm; bottom:-18mm; width:150mm; height:150mm; z-index:1;
+  background:
+   radial-gradient(circle at 50% 50%, var(--orange) 0 18mm, transparent 18.2mm) 0 0/50mm 50mm,
+   linear-gradient(45deg, rgba(255,255,255,.06) 25%, transparent 25%, transparent 75%, rgba(255,255,255,.06) 75%) 0 0/25mm 25mm;
+  opacity:.9; transform:rotate(-8deg); border-radius:6mm }
+.unitcover .tiles{ opacity:.55 }
+
+/* ---------- headings */
+.lh{ margin:0 0 6mm; padding-bottom:3mm; border-bottom:1.2pt solid var(--line); position:relative }
+.lh::after{ content:""; position:absolute; left:0; bottom:-1.2pt; width:22mm; height:2.4pt; background:var(--orange) }
+.lk{ font:650 7.8pt Inter; letter-spacing:.13em; text-transform:uppercase; color:var(--orange) }
+.lh h2{ font-family:Lora, serif; font-weight:700; font-size:21pt; line-height:1.15; margin:1.5mm 0 0; color:var(--navy) }
+.sh{ font-family:Inter; font-weight:700; font-size:11.5pt; color:var(--navy); margin:7mm 0 2.5mm; break-after:avoid; display:flex; align-items:center; gap:2.5mm }
+.sh::before{ content:""; width:3pt; height:11pt; background:var(--orange); border-radius:2pt }
+.ssh{ font-size:10pt; color:var(--blue); margin:4mm 0 2mm; break-after:avoid }
+section.lesson, section.practice, section.gloss, section.toc, section.howto, section.keys, section.fullgloss{ break-before:page }
+p.example{ background:var(--tint); border-radius:2mm; padding:2mm 3.5mm; display:inline-block }
+
+/* ---------- opener */
+.opener{ page:full; height:297mm; width:210mm; padding:24mm 20mm 20mm; position:relative; break-before:page; break-after:page; background:linear-gradient(180deg, var(--sky) 0 118mm, #fff 118mm) }
+.op-part{ font:650 8.5pt Inter; letter-spacing:.14em; text-transform:uppercase; color:var(--blue) }
+.op-num{ font-family:Lora,serif; font-weight:700; font-size:96pt; line-height:1; color:var(--navy); margin-top:10mm; letter-spacing:-.02em }
+.op-num::after{ content:""; display:block; width:26mm; height:4pt; background:var(--orange); margin-top:4mm }
+.op-label{ font:650 9pt Inter; letter-spacing:.14em; text-transform:uppercase; color:var(--orange); margin-top:7mm }
+.op-title{ font-family:Lora,serif; font-size:27pt; line-height:1.15; color:var(--navy); margin:2mm 0 3mm; max-width:160mm }
+.op-sub{ font-size:11.5pt; color:var(--muted); max-width:150mm }
+.op-list{ margin-top:22mm }
+.op-h{ font:650 8pt Inter; letter-spacing:.14em; text-transform:uppercase; color:var(--muted); margin-bottom:3mm }
+.op-list ol{ list-style:none; margin:0; padding:0; border-top:1pt solid var(--line) }
+.op-list li{ display:flex; gap:6mm; padding:3.2mm 0; border-bottom:1pt solid var(--line); align-items:baseline }
+.op-list .ln{ width:26mm; flex:none; font:650 8.5pt Inter; color:var(--orange); text-transform:uppercase; letter-spacing:.06em }
+.op-list .lt{ font-size:11pt; color:var(--navy); font-weight:600 }
+.op-list li.x .ln{ color:var(--muted) } .op-list li.x .lt{ font-weight:400; color:var(--muted) }
+
+/* ---------- tables */
+table.tbl{ width:100%; border-collapse:separate; border-spacing:0; margin:2mm 0 5mm; font-size:9.2pt; break-inside:avoid; border:1pt solid var(--line); border-radius:2.2mm; overflow:hidden }
+.tbl th{ background:var(--navy); color:#fff; text-align:left; font-weight:600; font-size:8.4pt; padding:2.2mm 3mm; letter-spacing:.02em }
+.tbl th b{ color:#fff }
+.tbl td{ padding:1.9mm 3mm; border-top:1pt solid var(--line); vertical-align:top }
+.tbl tbody tr:nth-child(even) td{ background:var(--tint) }
+.tbl.conj td:first-child{ color:var(--muted); width:28% }
+.tbl.conj td:nth-child(2){ font-weight:650; color:var(--navy) }
+.tbl.c2 td:first-child{ width:50% }
+.tbl.fillin td{ height:8mm }
+.tbl.fillin td:nth-child(2), .tbl.fillin td:nth-child(4){ width:22% }
+
+/* ---------- boxes */
+.box{ border-radius:2.5mm; padding:3mm 4mm 2mm; margin:3mm 0 5mm; border-left:3pt solid; break-inside:avoid; font-size:9.3pt }
+.box .kicker{ font:700 7pt Inter; letter-spacing:.14em; text-transform:uppercase; margin-bottom:1mm }
+.box .btitle{ font-weight:700; color:var(--ink); margin-bottom:1.2mm; font-size:10pt }
+.box p{ margin:0 0 1.6mm }
+.box p.bl::before{ content:"•  "; color:var(--muted) }
+.box.note{ background:var(--sky); border-color:var(--blue) } .box.note .kicker{ color:var(--blue) }
+.box.tip{ background:var(--orange-t); border-color:var(--orange) } .box.tip .kicker{ color:#B9560D }
+.box.caution{ background:var(--red-t); border-color:var(--red) } .box.caution .kicker{ color:var(--red) }
+.box.rule{ background:var(--green-t); border-color:var(--green) } .box.rule .kicker{ color:var(--green) }
+.box.contrast{ background:#FFF; border:1pt solid #F0C9C4; border-left:3pt solid var(--al); }
+.box.contrast .kicker{ color:var(--al) }
+.legend{ display:grid; grid-template-columns:1fr 1fr; gap:3mm 4mm }
+.legend .box{ margin:0 }
+
+/* ---------- flow diagram */
+.flow{ display:flex; align-items:stretch; gap:2mm; margin:3mm 0 5mm; break-inside:avoid }
+.fnode{ flex:1; background:#fff; border:1pt solid var(--line); border-radius:2.2mm; padding:2.4mm 3mm; text-align:center }
+.fnode .fl{ font-weight:700; color:var(--navy); font-size:9.6pt }
+.fnode .fs{ font-size:8.2pt; color:var(--muted); margin-top:.6mm }
+.fnode.hl{ background:var(--navy); border-color:var(--navy) }
+.fnode.hl .fl{ color:#fff } .fnode.hl .fs{ color:#C9D7EE }
+.arrow{ align-self:center; color:var(--orange); font-weight:700; font-size:12pt }
+
+/* ---------- lists */
+ul.bul{ margin:0 0 5mm; padding:0; list-style:none }
+ul.bul li{ padding-left:5mm; position:relative; margin-bottom:1.4mm }
+ul.bul li::before{ content:""; position:absolute; left:0; top:2.1mm; width:1.6mm; height:1.6mm; border-radius:50%; background:var(--orange) }
+
+/* ---------- exercises */
+.ex{ margin:0 0 7mm; }
+.exh{ break-inside:avoid; page-break-inside:avoid; display:flex; align-items:center; gap:3mm; font-size:11pt; color:var(--navy); margin:0 0 2.5mm; break-after:avoid }
+.exl{ flex:none; width:7mm; height:7mm; border-radius:50%; background:var(--orange); color:#fff; font-size:9.5pt; display:flex; align-items:center; justify-content:center }
+p.instr{ color:var(--muted); font-size:8.8pt; font-style:normal; break-after:avoid }
+ol.items{ list-style:none; padding:0; margin:0 0 2mm }
+ol.items li{ display:flex; gap:2.5mm; padding:1.5mm 0; break-inside:avoid }
+ol.items.grid{ columns:2; column-gap:8mm; break-inside:avoid }
+.inum{ flex:none; width:6mm; color:var(--orange); font-weight:700 }
+.itext{ flex:1 }
+.blank{ display:inline-block; min-width:24mm; border-bottom:1pt solid #9AA6B8; height:1em; vertical-align:-2pt; margin:0 1mm }
+.wline{ border-bottom:1pt solid #B9C3D1; height:7mm; margin-top:-1mm }
+.match{ display:flex; flex-direction:column; gap:1.8mm; margin:2mm 0 3mm; break-inside:avoid }
+.mrow{ display:flex; align-items:center }
+.mcell{ flex:0 0 38%; border:1pt solid var(--line); border-radius:2mm; padding:1.6mm 3mm; font-weight:600; color:var(--navy); position:relative; background:#fff; text-align:center }
+.mgap{ flex:1 }
+.dot{ position:absolute; top:50%; width:2.2mm; height:2.2mm; margin-top:-1.1mm; border-radius:50%; background:var(--orange) }
+.mcell.l .dot{ right:-1.1mm } .mcell.r .dot{ left:-1.1mm }
+.orders{ margin:2mm 0 3mm }
+.order{ margin-bottom:3mm; break-inside:avoid }
+.otop{ display:flex; align-items:center; gap:2mm; flex-wrap:wrap }
+.onum{ color:var(--orange); font-weight:700; width:6mm }
+.ochips{ display:flex; gap:1.5mm; flex-wrap:wrap; flex:1 }
+.chip{ display:inline-block; border:1pt solid var(--line); background:var(--tint); border-radius:5mm; padding:.5mm 3mm; font-weight:600; color:var(--navy); font-size:9pt }
+.osq{ color:var(--muted); font-style:italic; font-size:8.8pt }
+.bank{ display:flex; gap:2mm; flex-wrap:wrap; padding:2.5mm 3mm; border:1pt dashed #B9C3D1; border-radius:2.5mm; margin:1mm 0 3mm }
+
+/* ---------- glossary */
+.glist{ columns:2; column-gap:10mm }
+.gi, .fgi{ display:flex; gap:3mm; padding:1.5mm 0; border-bottom:1pt solid var(--line); break-inside:avoid; font-size:9.2pt }
+.gnl{ flex:0 0 45%; font-weight:650; color:var(--navy) }
+.gsq{ flex:1; color:var(--ink) }
+.fg{ columns:2; column-gap:9mm }
+.fgi{ font-size:8.6pt; padding:1.1mm 0 }
+.fgi .gnl{ flex-basis:44% }
+.gu{ flex:none; color:#9AA3B2; font-size:7.5pt; width:4mm; text-align:right }
+.fgL{ font-family:Lora,serif; font-weight:700; color:var(--orange); font-size:13pt; margin:3mm 0 .5mm; break-after:avoid }
+
+/* ---------- key */
+.keyu{ margin-bottom:6mm; break-inside:auto }
+.keyh{ font-size:11pt; color:var(--navy); margin:0 0 2mm; display:flex; gap:3mm; align-items:baseline; break-after:avoid; border-bottom:1pt solid var(--line); padding-bottom:1.5mm }
+.keyh span{ font:700 7.5pt Inter; letter-spacing:.12em; text-transform:uppercase; color:var(--orange) }
+.keyu dl{ display:grid; grid-template-columns:7mm 1fr; margin:0; row-gap:1.4mm; font-size:8.8pt }
+.keyu dt{ font-weight:700; color:#fff; background:var(--navy); border-radius:50%; width:5mm; height:5mm; display:flex; align-items:center; justify-content:center; font-size:7.5pt; margin-top:.5mm }
+.keyu dd{ margin:0; break-inside:avoid }
+.an{ color:var(--orange); font-weight:700 }
+
+/* ---------- toc */
+.tpart{ font:700 8pt Inter; letter-spacing:.12em; text-transform:uppercase; color:var(--blue); margin:6mm 0 2mm; display:flex; gap:3mm; align-items:baseline }
+.tpart span{ color:var(--orange) }
+.tunit{ display:flex; gap:3mm; align-items:baseline; margin:3mm 0 1mm; break-after:avoid }
+.tun{ flex:none; width:7mm; height:7mm; border-radius:50%; background:var(--navy); color:#fff; font-weight:700; font-size:8.5pt; display:flex; align-items:center; justify-content:center; align-self:center }
+.tut{ flex:1; font-family:Lora,serif; font-weight:700; font-size:11.5pt; color:var(--navy) }
+.tles{ display:flex; gap:3mm; padding-left:10mm; font-size:9pt; line-height:1.7; align-items:baseline }
+.tln{ width:6mm; color:var(--orange); font-weight:700; flex:none }
+.tlt{ flex:none; max-width:120mm }
+.tdots{ flex:1; border-bottom:1pt dotted #B9C3D1; transform:translateY(-1.5mm) }
+.tpg{ flex:none; width:8mm; text-align:right; color:var(--navy); font-weight:600 }
+.tles.x .tlt{ color:var(--muted) }
+.toc{ font-size:9pt }
+.ex > .exh + *{ break-before:avoid }
+
+em.lvl{ font-style:normal; font:700 7pt Inter; letter-spacing:.08em; color:#fff; background:var(--orange); border-radius:2mm; padding:.4mm 2mm; margin-left:2.5mm; vertical-align:1pt }

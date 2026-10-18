@@ -1,0 +1,232 @@
+@lesson Parafjalët dhe përemrat
+Pas parafjalës **emri nuk ndryshon**. Përemri vetor del në **trajtën kundrinore** (*mij, jou, hem…*):
+
+@table
+| Pa parafjalë | Me parafjalë | Shqip |
+| de auto | **met** de auto | me makinë |
+| het huis | **achter** het huis | pas shtëpisë |
+| ik | **met** mij (me) | me mua |
+| hij | **achter** hem | pas tij |
+@end
+
+@box (1.0, 0.96, 0.91)
+  **Dallim nga shqipja**
+  Në shqip emri merr rasë pas parafjalës (*pas shtëpi**së***, *me makin**ë***). Në holandisht emri mbetet si është: *achter **het huis***.
+@end
+@h2 Parafjalët më të shpeshta
+@table
+| Parafjala | Shqip | Parafjala | Shqip |
+| **aan** | në, te, pranë | **na** | pas (kohë) |
+| **achter** | pas, prapa | **naar** | drejt, në; sipas |
+| **beneden** | poshtë, nën | **naast** | pranë |
+| **bij** | te, afër, pranë | **om** | rreth; në (orën) |
+| **binnen** | brenda (në) | **omstreeks** | rreth, afërsisht |
+| **boven** | sipër, mbi | **ondanks** | pavarësisht |
+| **buiten** | jashtë | **onder** | nën; ndër |
+| **door** | nëpër, përmes; nga | **op** | mbi; në |
+| **gedurende** | gjatë | **over** | mbi; përtej; për (temë) |
+| **in** | në, brenda | **sinds** / **sedert** | që prej |
+| **langs** | përgjatë | **te** | në (formale) |
+| **met** | me | **tegen** | kundër; rreth (orës) |
+| **tot** | deri | **tussen** | midis |
+| **uit** | nga, prej (brenda) | **van** | nga; i, e (pronësi) |
+| **vanaf** | që nga | **voor** | për; para, përpara |
+| **zonder** | pa |  |  |
+@end
+
+Shumë prej tyre i keni parë te Njësitë {U:6} dhe {U:9} (*op, in, naast, achter, voor, onder, boven, tussen, bij, naar, door, langs, over*).
+
+@lesson Parafjalët «idiomatike»
+Kur parafjala nuk tregon vend ose kohë, zgjedhja shpesh **nuk përputhet** me shqipen. Nuk ka rregull: mësojini **bashkë me foljen ose mbiemrin**.
+
+@table
+| Holandisht | Shqip | Vini re |
+| zeggen **tegen** | i them dikujt | *tegen* = «kundër» |
+| wachten **op** | pres dikë, diçka | *op* = «mbi» |
+| verliefd **op** | i dashuruar **pas** |  |
+| zoeken **naar** | kërkoj diçka |  |
+| lachen **om** | qesh **me** |  |
+| denken **aan** | mendoj **për** |  |
+| met de trein | **me** tren | si në shqip |
+| met vakantie | **me** pushime | si në shqip |
+| feliciteren **met** | uroj **për** |  |
+| voorbereiden **op** | përgatitem **për** |  |
+@end
+
+@table
+| Holandisht | Shqip |
+| Wat zei hij **tegen** jou? | Çfarë të tha? |
+| Ik wacht **op** de bus. | Po pres autobusin. |
+| Zij is verliefd **op** Arben. | Ajo është e dashuruar pas Arbenit. |
+| Wij zoeken **naar** de sleutels. | Po i kërkojmë çelësat. |
+| Ik denk vaak **aan** mijn familie. | Mendoj shpesh për familjen time. |
+| Ik feliciteer je **met** je verjaardag! | Të uroj për ditëlindjen! |
+@end
+
+@box (1.0, 0.96, 0.91)
+  **Mësojini si një njësi**
+  Në fjalor shkruani jo vetëm *wachten*, por **wachten op**; jo vetëm *denken*, por **denken aan**.
+@end
+@lesson «erop, daarvoor, waaraan»
+Pas parafjalës, përemri vetor përdoret **vetëm për persona**: *met hem* (me të, një person), *tussen ons*. Për **sende** holandishtja nuk thotë «met het». Në vend të tij përdoret **er** (ose **daar**, me theks) + parafjala:
+
+@table
+| Për persona | Për sende | Shqip |
+| met hem | **ermee** | me të |
+| op haar | **erop** | mbi të |
+| voor hen | **ervoor** | për të |
+| aan hem | **eraan** | te ai, për të |
+@end
+
+@box (0.99, 0.93, 0.92)
+  **met → mee, tot → toe**
+  Në këto ndërtime **met** bëhet **mee** dhe **tot** bëhet **toe**: *ermee, daarmee, waarmee* · *ertoe, daartoe*.
+@end
+@table
+| Holandisht | Shqip |
+| Dat is een mooi huis. Wonen je vrienden er nog **in**? | Është shtëpi e bukur. A banojnë ende shokët e tu në të? |
+| De tafel staat in de woonkamer. De hond slaapt altijd **erop**. | Tavolina është në dhomën e ndenjes. Qeni fle gjithmonë mbi të. |
+| **Daarvoor** heb ik niet genoeg geld. | Për këtë nuk kam mjaft para. |
+| **Daaraan** heb ik al gedacht. | Për këtë kam menduar tashmë. |
+@end
+
+@h2 er / daar ndahet shpesh nga parafjala
+*er / daar* zë vendin e përemrit, ndërsa parafjala shkon më tej, zakonisht para foljeve në fund:
+
+@table
+| Holandisht | Shqip |
+| Hebt u **er** niets **over** gehoord? | A nuk keni dëgjuar asgjë për këtë? |
+| **Daar** heb ik gisteren **van** gelezen. | Për këtë lexova dje. |
+| Ik ben **er** niet aansprakelijk **voor**. | Nuk jam përgjegjës për të. |
+| **Daar** zijn wij allemaal **mee** tevreden. | Me këtë jemi të gjithë të kënaqur. |
+| **Daar** ben ik nog niet **toe** gekomen. | Ende nuk kam arritur ta bëj. |
+@end
+
+@h2 Në pyetje: waar + parafjala
+@table
+| Holandisht | Shqip |
+| **Waaraan** denkt hij? | Për çfarë mendon ai? |
+| **Waar** bent u **mee** tevreden? | Me çfarë jeni i kënaqur? |
+| **Waar** heb ik te veel **voor** betaald? | Për çfarë pagova shumë? |
+| **Waar** wacht je **op**? | Çfarë po pret? |
+@end
+
+@box (0.9, 0.96, 0.92)
+  **er / daar / waar**
+  **er** = të (pa theks) · **daar** = këtë, atë (me theks) · **waar** = çfarë? (pyetje). Pas tyre vjen parafjala, bashkë ose e ndarë: *erop, daarvoor, waarmee* · *er … op, daar … voor, waar … mee*.
+@end
+@practice Ushtrime
+@h2 A. Parafjala dhe kuptimi
+Lidhni me vijë çdo kuti majtas me kutinë e duhur djathtas.
+
+zonder ⇥ gjatë
+
+tegen ⇥ pa
+
+gedurende ⇥ kundër
+
+uit ⇥ midis
+
+tussen ⇥ nga (brenda)
+
+@h2 B. Plotësoni me përemrin e duhur
+1. Hij gaat met ______ naar de stad. (unë)
+
+2. Ik wacht op ______. (ai)
+
+3. Wij praten over ______. (ajo)
+
+4. Zij woont naast ______. (ne)
+
+5. Is dit cadeau voor ______? (ti)
+
+@h2 C. Plotësoni parafjalën
+1. Ik wacht ______ de bus.
+
+2. Wat zeg je ______ hem?
+
+3. Zij denkt veel ______ haar familie.
+
+4. Wij zoeken ______ een nieuw huis.
+
+5. Hij is verliefd ______ Besa.
+
+6. Ik feliciteer je ______ je verjaardag.
+
+7. Ze lachen ______ de grap.
+
+8. Wij gaan ______ de trein naar Utrecht.
+
+@h2 D. Person apo send? Zëvendësoni pjesën me të zezë
+Shembull: Ik wacht op **de bus**. → Ik wacht erop. / Ik wacht op **Jan**. → Ik wacht op hem.
+
+1. Hij speelt met **de bal**. → ______________________
+
+2. Hij speelt met **zijn broer**. → ______________________
+
+3. De kat ligt op **de stoel**. → ______________________
+
+4. Ik denk aan **mijn moeder**. → ______________________
+
+5. Ik denk aan **de vakantie**. → ______________________
+
+@h2 E. Bëni pyetje me waar…
+Shembull: Ik denk aan mijn werk. → Waaraan denk jij?
+
+1. Ik wacht op de trein. → ______________________
+
+2. Hij is tevreden met zijn auto. → ______________________
+
+3. Zij praat over haar reis. → ______________________
+
+4. Wij zoeken naar de sleutels. → ______________________
+
+@h2 F. Gjeni dhe korrigjoni gabimin
+1. Ik wacht voor de bus.
+
+2. De hond slaapt op het.
+
+3. Ik ben daarmet tevreden.
+
+4. Waar denk je aan het?
+
+5. Hij lacht met de grap.
+
+@h2 G. Përktheni në holandisht
+1. Po pres autobusin.
+
+2. Mendoj shpesh për familjen time.
+
+3. Me çfarë jeni i kënaqur?
+
+4. Për këtë nuk kam mjaft para.
+
+5. Ajo vjen me mua.
+
+@key
+@table
+| Ushtrimi | Përgjigjet |
+| A | zonder – pa • tegen – kundër • gedurende – gjatë • uit – nga (brenda) • tussen – midis |
+| B | 1. mij / me 2. hem 3. haar 4. ons 5. jou |
+| C | 1. op 2. tegen 3. aan 4. naar 5. op 6. met 7. om 8. met |
+| D | 1. Hij speelt ermee. 2. Hij speelt met hem. 3. De kat ligt erop. 4. Ik denk aan haar. 5. Ik denk eraan. |
+| E | 1. Waarop wacht jij? / Waar wacht jij op? 2. Waarmee is hij tevreden? / Waar is hij mee tevreden? 3. Waarover praat zij? / Waar praat zij over? 4. Waarnaar zoeken jullie? / Waar zoeken jullie naar? |
+| F | 1. Ik wacht op de bus. 2. De hond slaapt erop. 3. Ik ben daarmee tevreden. 4. Waar denk je aan? / Waaraan denk je? 5. Hij lacht om de grap. |
+| G | 1. Ik wacht op de bus. 2. Ik denk vaak aan mijn familie. 3. Waarmee bent u tevreden? / Waar bent u mee tevreden? 4. Daarvoor heb ik niet genoeg geld. 5. Zij komt met mij. |
+@end
+
+@glossary
+@table
+| Holandisht | Shqip | Holandisht | Shqip |
+| zonder | pa | wachten op | pres |
+| tegen | kundër; rreth | denken aan | mendoj për |
+| gedurende | gjatë | zoeken naar | kërkoj |
+| ondanks | pavarësisht | lachen om | qesh me |
+| vanaf | që nga | verliefd op | i dashuruar pas |
+| uit | nga (brenda) | feliciteren met | uroj për |
+| ermee | me të (send) | voorbereiden op | përgatitem për |
+| daarvoor | për këtë | tevreden | i kënaqur |
+| waaraan | për çfarë | aansprakelijk | përgjegjës |
+| de vakantie | pushimet | de verjaardag | ditëlindja |
+| de familie | familja | de grap | shakaja |
+@end

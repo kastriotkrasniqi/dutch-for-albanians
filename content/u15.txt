@@ -1,0 +1,268 @@
+@lesson Pronorët: format e patheksuara dhe «het mijne»
+Te Njësia {U:7} mësuam pronorët para emrit: *mijn boek, ons huis, onze auto*. Tani shtojmë dy gjëra: format **e patheksuara** që dëgjohen shpesh në të folur, dhe pronorët që **zëvendësojnë emrin** (*imi, yti, i tiji…*).
+
+@h2 Tabela e plotë
+@table
+| Përemri | I theksuar | I patheksuar | Shqip |
+| ik | **mijn** | m'n | im / ime |
+| jij | **jouw** | je | yt / jote |
+| u | **uw** | — | juaj (i sjellshëm) |
+| hij / het | **zijn** | z'n | i tij / e tij |
+| zij (ajo) | **haar** | d'r | i saj / e saj |
+| wij | **ons / onze** | — | ynë / jonë |
+| jullie | **jullie** | je | juaj |
+| zij (ata) | **hun** | d'r | i tyre / e tyre |
+@end
+
+@box (0.95, 0.96, 0.98)
+  **Format e patheksuara**
+  *m'n auto, z'n vriend, je moeder* janë të zakonshme në të folur dhe në shkrim joformal. Përdoren **vetëm para emrit**. Në shkrim zyrtar përdorni format e theksuara.
+@end
+@h2 Kujtesë: pronori para emrit nuk ndryshon
+Përjashtimi i vetëm është *ons / onze*: **ons** para het-fjalëve në njëjës, **onze** para të gjitha të tjerave.
+
+@table
+| Holandisht | Shqip |
+| mijn auto / mijn auto's | makina ime / makinat e mia |
+| zijn vriend / zijn vrienden | shoku i tij / shokët e tij |
+| haar ring / haar ringen | unaza e saj / unazat e saj |
+| ons huis / onze huizen | shtëpia jonë / shtëpitë tona |
+| onze leraar / onze leraars | mësuesi ynë / mësuesit tanë |
+| jullie vader | babai juaj |
+@end
+
+@h2 Pronori në vend të emrit: «het mijne, de onze»
+Kur pronori **zëvendëson** emrin (shqip: *imi, yti, i tiji*), merr **nyjën e emrit** (de / het) dhe mbaresën **-e**. Përdoret vetëm forma e theksuar.
+
+@table
+| Emri | Pronori si përemër | Shqip |
+| het boek | **het mijne** | imi (libri im) |
+| het kopje | **het zijne** | i tiji (filxhani i tij) |
+| de fiets | **de hare** | e saja (biçikleta e saj) |
+| de auto | **de hunne** | e tyrja (makina e tyre) |
+| de fiets | **de onze** | e jona |
+| het kind | **het jouwe** | yti |
+@end
+
+@table
+| Holandisht | Shqip |
+| Zijn werk is beter dan **het mijne**. | Puna e tij është më e mirë se imja. |
+| Welke fiets is **de onze**? | Cila biçikletë është e jona? |
+| Welk kind is **het jouwe**? | Cili fëmijë është yti? |
+@end
+
+@box (1.0, 0.96, 0.91)
+  **Dallim nga shqipja**
+  Në shqip themi *imi, imja, të mitë* sipas gjinisë dhe numrit. Në holandisht forma ndjek vetëm nyjën: **de** mijne / **het** mijne. *Jullie* nuk ka këtë formë: atje përdoret **van jullie** (Mësimi {L:15.2}).
+@end
+@lesson Pronësia me «van»
+@h2 «Van mij, van jou»: i kujt është?
+Me foljen *zijn* pronësinë e shprehim shpesh me **van** + përemri në trajtën kundrinore. Për *jullie* kjo është mënyra e vetme.
+
+@table
+| Përemri | van + … | Shqip |
+| ik | van **mij** | imi / e imja |
+| jij | van **jou** | yti / e jotja |
+| u | van **u** | juaji |
+| hij | van **hem** | i tiji |
+| zij (ajo) | van **haar** | i saji |
+| wij | van **ons** | yni |
+| jullie | van **jullie** | juaji |
+| zij (ata) | van **hen** | i tyri |
+@end
+
+@table
+| Holandisht | Shqip |
+| Is deze pen **van jou**? | A është ky stilolaps yti? |
+| Die schoenen zijn niet **van mij**. | Ato këpucë nuk janë të miat. |
+| Zijn deze brieven **van jullie**? | A janë këto letra tuajat? |
+| Die **van jullie** zijn groot. | Tuajat janë të mëdha. |
+@end
+
+@h2 «De vriend van de dokter»: pronësia midis emrave
+Holandishtja nuk ka rasë gjinore si shqipja (*shoku i mjekut*). Përdoret **van**, që i përgjigjet nyjës «i, e» të gjinores:
+
+@table
+| Holandisht | Shqip |
+| de vriend **van** de dokter | shoku i mjekut |
+| de kat **van** het meisje | macja e vajzës |
+| het huis **van** mijn zus | shtëpia e motrës sime |
+@end
+
+@box (1.0, 0.96, 0.91)
+  **Dallim nga shqipja**
+  Në shqip emri ndryshon (*mjeku → i mjekut*). Në holandisht emri mbetet i njëjtë dhe para tij vjen **van**: *de dokter → van de dokter*.
+@end
+@h2 Në të folur: «Loek z'n vader»
+Në gjuhën e përditshme dëgjohet edhe një ndërtim tjetër: **zotëruesi + z'n / d'r + emri**, fjalë për fjalë «Loeku babai i tij».
+
+@table
+| E folur | E zakonshme | Shqip |
+| Loek **z'n** vader | de vader van Loek | babai i Loekut |
+| mijn vriend **z'n** broer | de broer van mijn vriend | vëllai i shokut tim |
+| haar zuster **d'r** huis | het huis van haar zuster | shtëpia e motrës së saj |
+@end
+
+@box (1.0, 0.96, 0.91)
+  **Kuptojeni, por mos e shkruani**
+  Duhet ta kuptoni këtë ndërtim kur e dëgjoni, por në shkrim përdorni **van**.
+@end
+@lesson Përemrat dëftorë: «dit, dat, deze, die»
+Dëftorët (*ky, ai, këta, ata*) në holandisht ndryshojnë sipas **nyjës** (de / het) dhe **numrit**:
+
+@table
+| Kuptimi | het-fjalë (njëjës) | de-fjalë (njëjës) | shumës (të gjitha) |
+| **afër** (ky, kjo, këta) | **dit** | **deze** | **deze** |
+| **larg** (ai, ajo, ata) | **dat** | **die** | **die** |
+@end
+
+@table
+| het-fjalë | de-fjalë |
+| **dit** bord (kjo pjatë) | **deze** trein (ky tren) |
+| **deze** borden (këto pjata) | **deze** treinen (këta trena) |
+| **dat** bord (ajo pjatë) | **die** trein (ai tren) |
+| **die** borden (ato pjata) | **die** treinen (ata trena) |
+@end
+
+@box (0.9, 0.96, 0.92)
+  **Si ta zgjedh?**
+  **het** + njëjës → **dit / dat**. Gjithçka tjetër (de-fjalë dhe çdo shumës) → **deze / die**. Është i njëjti parim si te *ons / onze*.
+@end
+@h2 Dëftorët si përemra
+Kur emri nënkuptohet, dëftori qëndron vetëm. Ai merr formën që do të kishte me emrin:
+
+@table
+| Holandisht | Shqip |
+| Dit huis is mooier dan **dat**. | Kjo shtëpi është më e bukur se ajo. |
+| Deze boeken zijn duurder dan **die**. | Këta libra janë më të shtrenjtë se ata. |
+| Hij sprak niet over die vrouw, maar over **deze**. | Nuk fliste për atë grua, por për këtë. |
+@end
+
+@h2 «Wat is dat?»: dit dhe dat të përgjithshëm
+Kur tregojmë diçka pa e emërtuar, përdoren gjithmonë **dit** dhe **dat**, edhe për shumësin. Folja ndjek emrin: **is** për njëjës, **zijn** për shumës.
+
+@table
+| Holandisht | Shqip |
+| Wat is **dat**? – **Dat** is een horloge. | Çfarë është ajo? – Ajo është një orë dore. |
+| **Dat** zijn horloges. | Ato janë orë dore. |
+| Wat is **dit**? – **Dit** is een tijdschrift. | Çfarë është kjo? – Kjo është një revistë. |
+| **Dit** zijn tijdschriften. | Këto janë revista. |
+@end
+
+@box (0.99, 0.93, 0.92)
+  **Kujdes**
+  Gabim: *Die zijn horloges.* (kur thjesht tregon diçka) → Saktë: **Dat zijn horloges.** Por kur emri është i nënkuptuar, përdoret dëftori sipas emrit: *Welke horloges? – Die!*
+@end
+@practice Ushtrime
+@h2 A. Forma e patheksuar dhe e theksuara
+Lidhni me vijë çdo kuti majtas me kutinë e duhur djathtas.
+
+m'n ⇥ haar / hun
+
+z'n ⇥ jouw / jullie
+
+d'r ⇥ mijn
+
+je ⇥ zijn
+
+@h2 B. Plotësoni me pronorin si përemër
+1. Dit is mijn boek. Het is ______. (imi)
+
+2. Is dit jouw fiets of de mijne? Het is ______. (e jotja)
+
+3. Zijn huis is groter dan ______. (i yni: het huis)
+
+4. Welke auto is ______? (e tyre: de auto)
+
+5. Haar kopje staat hier, ______ staat daar. (i tiji: het kopje)
+
+6. Onze fiets is oud, ______ is nieuw. (e saja: de fiets)
+
+@h2 C. I kujt është? Plotësoni me van + përemër
+1. Is deze pen ______? (yti)
+
+2. Die schoenen zijn niet ______. (të miat)
+
+3. Zijn deze brieven ______? (tuajat, jullie)
+
+4. Het boek is ______. (i saji)
+
+5. De fietsen zijn ______. (të tyret)
+
+@h2 D. Rishkruani me «van»
+Shembull: Loek z'n vader → de vader van Loek
+
+1. Anna d'r fiets → ____________________________
+
+2. mijn vriend z'n broer → ____________________________
+
+3. de dokter z'n auto → ____________________________
+
+4. haar zuster d'r huis → ____________________________
+
+@h2 E. dit, dat, deze apo die?
+1. ______ huis (afër)
+
+2. ______ trein (larg)
+
+3. ______ boeken (afër)
+
+4. ______ bord (larg)
+
+5. ______ vrouw (afër)
+
+6. ______ kinderen (larg)
+
+7. ______ meisje (afër)
+
+8. ______ fiets (larg)
+
+@h2 F. Gjeni dhe korrigjoni gabimin
+1. Die zijn mijn boeken. (thjesht tregon)
+
+2. Deze huis is mooi.
+
+3. Dit tafel is groot.
+
+4. Welk fiets is het jouwe?
+
+5. Zijn deze brieven van jij?
+
+6. De vriend de dokter is ziek.
+
+@h2 G. Përktheni në holandisht
+1. Kjo shtëpi është e jona.
+
+2. Çfarë është kjo? – Kjo është një revistë.
+
+3. A është ky libër yti? – Jo, është i saji.
+
+4. Shoku i mjekut banon këtu.
+
+5. Këta libra janë më të shtrenjtë se ata.
+
+@key
+@table
+| Ushtrimi | Përgjigjet |
+| A | m'n – mijn • z'n – zijn • d'r – haar / hun • je – jouw / jullie |
+| B | 1. het mijne 2. de jouwe 3. het onze 4. de hunne 5. het zijne 6. de hare |
+| C | 1. van jou 2. van mij 3. van jullie 4. van haar 5. van hen |
+| D | 1. de fiets van Anna 2. de broer van mijn vriend 3. de auto van de dokter 4. het huis van haar zuster |
+| E | 1. dit 2. die 3. deze 4. dat 5. deze 6. die 7. dit 8. die |
+| F | 1. Dat zijn mijn boeken. 2. Dit huis is mooi. 3. Deze tafel is groot. 4. Welke fiets is de jouwe? 5. Zijn deze brieven van jou? 6. De vriend van de dokter is ziek. |
+| G | 1. Dit huis is van ons. / Dit huis is het onze. 2. Wat is dit? – Dit is een tijdschrift. 3. Is dit boek van jou? – Nee, het is van haar. / Nee, het is het hare. 4. De vriend van de dokter woont hier. 5. Deze boeken zijn duurder dan die. |
+@end
+
+@glossary
+@table
+| Holandisht | Shqip | Holandisht | Shqip |
+| m'n / z'n / d'r | im / i tij / i saj (të folur) | dit | ky, kjo (het-fjalë) |
+| het mijne | imi | dat | ai, ajo (het-fjalë) |
+| de onze | e jona | deze | ky, kjo; këta, këto |
+| van mij | imi | die | ai, ajo; ata, ato |
+| de dokter | mjeku | het bord | pjata |
+| de ring | unaza | de trein | treni |
+| de zuster | motra | het horloge | ora e dorës |
+| de schoen | këpuca | het tijdschrift | revista |
+| het werk | puna | de pen | stilolapsi |
+@end

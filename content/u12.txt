@@ -1,0 +1,253 @@
+@lesson Tipi I: folja në vendin e dytë
+Në shqip rendi i fjalëve është i lirë, por në holandisht është shumë i rregullt. Në pjesën më të madhe të fjalive **folja e zgjedhur** (ajo që ndryshon sipas vetës) qëndron në **vendin e dytë**. Kryefjala zakonisht, por jo gjithmonë, është në vendin e parë.
+
+@flow Vendi 1 | !Vendi 2 | Pjesa tjetër
+@flowsub kryefjala (zakonisht) | FOLJA e zgjedhur | kundrinori, vendi, koha
+@table
+| Vendi 1 | Vendi 2: folja | Pjesa tjetër | Shqip |
+| De man | **loopt** | naar het station. | Njeriu ecën drejt stacionit. |
+| De kat | **zit** | op de bank. | Macja është ulur në divan. |
+| Mijn vader | **werkt** | in de winkel. | Babai im punon në dyqan. |
+| Ik | **woon** | in Prishtina. | Unë banoj në Prishtinë. |
+@end
+
+@h2 Kur diçka tjetër nis fjalinë (inversioni)
+Nëse fjalia nis me një element tjetër nga kryefjala (kohë, vend…), **folja mbetet e dyta** dhe **kryefjala vjen menjëherë pas saj**. Kuptimi nuk ndryshon.
+
+@table
+| Kryefjala e para | Elementi tjetër i pari | Shqip |
+| Ik **loop** vandaag naar school. | Vandaag **loop** ik naar school. | Sot shkoj në shkollë në këmbë. |
+| De kat **zit** op de bank. | Op de bank **zit** de kat. | Në divan është ulur macja. |
+| De kinderen **lopen** in het ⏎ park. | In het park **lopen** de ⏎ kinderen. | Në park ecin fëmijët. |
+| Ik **koop** morgen een boek. | Morgen **koop** ik een boek. | Nesër blej një libër. |
+@end
+
+@box (1.0, 0.95, 0.9)
+  **Dallim nga shqipja**
+  Në shqip themi «Sot unë shkoj…», por në holandisht folja nuk mund të vijë e treta. Gabim: Vandaag ik loop naar school. → Saktë: **Vandaag loop ik naar school.**
+@end
+@h2 Format e pazgjedhura në fund të fjalisë
+Format e pazgjedhura të foljes (**paskajorja** dhe **pjesorja**) shkojnë në **fund** të fjalisë, ndërsa folja e zgjedhur mbetet e dyta:
+
+@table
+| Holandisht | Shqip |
+| Ik **wil** naar huis **lopen**. | Dua të shkoj në shtëpi në këmbë. |
+| Hij **kan** op de bank **zitten**. | Ai mund të ulet në divan. |
+| Ik **wil** een boek **lezen**. | Dua të lexoj një libër. |
+| Wij **gaan** naar het park **lopen**. | Ne do të shkojmë në park në këmbë. |
+| Ik **heb** een boek **gelezen**. | Kam lexuar një libër. |
+| Hij **heeft** een brief **geschreven**. | Ai ka shkruar një letër. |
+@end
+
+@box (0.95, 0.96, 0.98)
+  **Rregulli**
+  Folja e zgjedhur (wil, kan, gaan, heb, heeft) është e dyta; paskajorja (lopen, zitten, lezen) ose pjesorja (gelezen, geschreven) është **e fundit**. Pjesoret do t'i mësojmë te Njësia {U:18}: tani mjafton të dini ku vendosen.
+@end
+@box (0.95, 0.96, 0.98)
+  **Me inversion**
+  Morgen **wil** ik naar huis **lopen**. (Nesër dua të shkoj në shtëpi në këmbë.) • Vandaag **heb** ik een boek **gelezen**. (Sot kam lexuar një libër.)
+@end
+@lesson Tipi II: folja në vendin e parë
+Në **pyetjet po/jo** dhe në **urdhërore** folja e zgjedhur vjen në **vendin e parë**.
+
+@flow !Vendi 1 | Vendi 2 | Pjesa tjetër
+@flowsub FOLJA e zgjedhur | kryefjala | kundrinori, vendi
+@h2 1. Pyetjet po/jo
+@table
+| Fjalia (Tipi I) | Pyetja (Tipi II) | Shqip |
+| De man loopt naar het ⏎ station. | **Loopt** de man naar het station? | A ecën njeriu drejt stacionit? |
+| De kat zit op de bank. | **Zit** de kat op de bank? | A është macja ulur në divan? |
+| Jij hebt een boek. | **Heb** jij een boek? | A ke ti një libër? |
+@end
+
+@h2 2. Urdhërorja
+Urdhërorja përdor rrënjën e foljes (shih drejtshkrimin në Njësinë {U:10}: lopen → loop, zitten → zit, lezen → lees), pa kryefjalë:
+
+@table
+| Holandisht | Shqip |
+| **Loop** naar school! | Shko në shkollë në këmbë! |
+| **Zit** stil! | Rri urtë! |
+| **Lees** het boek! | Lexo librin! |
+| **Kom** hier! | Eja këtu! |
+@end
+
+@h2 3. Pyetjet me fjalë pyetëse
+Fjala pyetëse zë vendin e parë, ndaj **folja mbetet e dyta** (njësoj si në Tipin I), pastaj vjen kryefjala:
+
+@flow Fjala pyetëse | !Folja | Kryefjala | Pjesa tjetër
+@flowsub waar, wie, wat… | e dyta | pas foljes | 
+@table
+| Fjala pyetëse | Shqip | Shembull |
+| **waar** | ku | Waar **woont** hij? – Ku banon ai? |
+| **wie** | kush | Wie **zit** op de bank? – Kush është ulur në divan? |
+| **wat** | çfarë | Wat **lees** jij? – Çfarë lexon ti? |
+| **wanneer** | kur | Wanneer **loopt** hij naar school? – Kur shkon ai në shkollë? |
+| **hoe** | si | Hoe **loop** jij naar huis? – Si shkon ti në shtëpi? |
+| **waarom** | pse | Waarom **blijf** jij thuis? – Pse qëndron ti në shtëpi? |
+@end
+
+@box (1.0, 0.95, 0.9)
+  **Gabim i zakonshëm**
+  Gabim: Waar de man loopt? → Saktë: **Waar loopt de man?**
+  Me «jij» -t bie kur jij vjen pas foljes: **Loop jij naar school?** • **Waar woon jij?** • **Wat lees jij?**
+@end
+@lesson Tipi III: folja në fund
+Në **fjalitë e varura** (të lidhura me dat, omdat, als…) folja e zgjedhur shkon në **fund** të fjalisë së varur.
+
+@flow Lidhëza | Kryefjala | Pjesa tjetër | !FOLJA
+@flowsub dat, omdat, als |  |  | në fund
+@table
+| Lidhëza | Shqip |
+| **dat** | që (si në «e di që…») |
+| **omdat** | sepse |
+| **als** | nëse; kur |
+@end
+
+@table
+| Fjalia kryesore | Fjalia e varur (folja në fund) | Shqip |
+| Ik weet | dat de man naar het station **loopt**. | E di që njeriu ecën drejt ⏎ stacionit. |
+| Hij zegt | dat de kat op de bank **zit**. | Ai thotë që macja është ulur në ⏎ divan. |
+| Ik denk | dat mijn vader naar de winkel **loopt**. | Mendoj që babai im shkon në ⏎ dyqan. |
+| Ik blijf thuis | omdat ik ziek **ben**. | Qëndroj në shtëpi sepse jam i ⏎ sëmurë. |
+| Ik weet | dat hij naar school **wil lopen**. | E di që ai dëshiron të shkojë në ⏎ shkollë në këmbë. |
+@end
+
+@box (0.95, 0.96, 0.98)
+  **Dy folje në fund**
+  Kur ka dy folje, fillon folja e zgjedhur: dat hij naar school **wil lopen** (jo «lopen wil»).
+@end
+@h2 Fjalia e varur në fillim
+Nëse fjalia e varur nis fjalinë e plotë, ajo zë vendin e parë. Atëherë **folja e kryesores vjen menjëherë pas presjes**, para kryefjalës:
+
+@table
+| Holandisht | Shqip |
+| **Als** het regent, **blijf** ik thuis. | Nëse bie shi, qëndroj në shtëpi. |
+| **Als** hij ziek is, **blijft** hij thuis. | Nëse është i sëmurë, ai qëndron në shtëpi. |
+@end
+
+@box (1.0, 0.95, 0.9)
+  **Kujdes me «want» dhe «omdat»**
+  Të dyja do të thonë «sepse», por **omdat** sjell foljen në fund, ndërsa **want** nuk e lëviz foljen (mbetet e dyta).
+  Ik blijf thuis, **want** ik **ben** ziek. (Tipi I pas «want»)
+  Ik blijf thuis, **omdat** ik ziek **ben**. (Tipi III pas «omdat»)
+@end
+@h2 Përmbledhje e tri tipeve
+@table
+| Tipi | Ku është folja e zgjedhur | Ku përdoret | Shembull |
+| **I** | vendi 2 | fjali dëftore; pas fjalës pyetëse; pas «want» | De kat zit op de bank. |
+| **II** | vendi 1 | pyetje po/jo; urdhërore | Zit de kat op de bank? |
+| **III** | në fund | fjali të varura (dat, omdat, als) | …dat de kat op de bank zit. |
+@end
+
+@box (0.95, 0.96, 0.98)
+  **Formulë e shkurtër**
+  **I** = folja e dyta • **II** = folja e parë • **III** = folja e fundit. Format e pazgjedhura (paskajorja, pjesorja) vijnë gjithmonë **në fund**.
+@end
+@practice Ushtrime
+@h2 A. Cilit tip (I, II ose III) i përket fjalia?
+1. De kat zit op de bank.
+
+2. Zit de kat op de bank?
+
+3. Ik weet dat de kat op de bank zit.
+
+4. Loop naar school!
+
+5. Vandaag loop ik naar school.
+
+6. Ik blijf thuis omdat ik ziek ben.
+
+@h2 B. Tipi I: rendisni fjalët
+@order 1 | loopt / naar / de man / het station |
+@order 2 | zit / de kat / op de bank |
+@order 3 | vandaag / ik / loop / naar school |
+@order 4 | fillo me «Op»: de kat / zit / op de bank |
+@order 5 | fillo me «In»: lopen / de kinderen / in het park |
+@order 6 | wil / ik / lopen / naar huis |
+@order 7 | ik / een boek / wil / lezen |
+@order 8 | morgen / een / koop / boek / ik |
+
+@h2 C. Tipi II: pyetje dhe urdhërore
+@order 1 | de man / naar het station / loopt ? |
+@order 2 | waar / de kat / zit ? |
+@order 3 | jij / naar school / loop ? |
+@order 4 | wat / jij / lees ? |
+@order 5 | naar school / loop ! |
+@order 6 | stil / zit ! |
+@order 7 | woon / waar / jij ? |
+@order 8 | loop / jij / met wie / naar huis ? |
+
+@h2 D. Bashkoni dy fjalitë (Tipi III)
+1. Ik weet. + De man loopt naar het station. (dat)
+
+2. Hij zegt. + De kat zit op de bank. (dat)
+
+3. Ik blijf thuis. + Ik ben ziek. (omdat)
+
+4. Ik denk. + Mijn vader loopt naar de winkel. (dat)
+
+5. Wij blijven thuis. + Het regent. (omdat)
+
+6. Ik weet. + Hij wil naar school lopen. (dat)
+
+7. Ik blijf thuis. + Ik ben ziek. (want)
+
+8. Het regent. + Ik blijf thuis. (als, nis me «Als»)
+
+@h2 E. Gjeni dhe korrigjoni gabimin
+1. Vandaag ik loop naar school.
+
+2. Waar de man loopt?
+
+3. Ik weet dat de kat zit op de bank.
+
+4. De man naar het station loopt.
+
+5. Ik wil lopen naar huis.
+
+6. Ik blijf thuis omdat ik ben ziek.
+
+7. Op de bank de kat zit.
+
+8. Hij zegt dat hij is ziek.
+
+@h2 F. Përktheni në holandisht
+1. Sot shkoj në shkollë në këmbë.
+
+2. Në park ecin fëmijët.
+
+3. A është macja ulur në divan?
+
+4. Ku banon ti?
+
+5. E di që macja është ulur në divan.
+
+6. Qëndroj në shtëpi sepse jam i sëmurë.
+
+@key
+@table
+| Ushtrimi | Përgjigjet |
+| **A** | 1. Tipi I 2. Tipi II 3. Tipi III 4. Tipi II 5. Tipi I 6. Tipi III |
+| **B** | 1. De man loopt naar het station. 2. De kat zit op de bank. 3. Vandaag loop ik naar ⏎ school. 4. Op de bank zit de kat. 5. In het park lopen de kinderen. 6. Ik wil naar ⏎ huis lopen. 7. Ik wil een boek lezen. 8. Morgen koop ik een boek. |
+| **C** | 1. Loopt de man naar het station? 2. Waar zit de kat? 3. Loop jij naar school? 4. ⏎ Wat lees jij? 5. Loop naar school! 6. Zit stil! 7. Waar woon jij? 8. Met wie loop jij ⏎ naar huis? |
+| **D** | 1. Ik weet dat de man naar het station loopt. 2. Hij zegt dat de kat op de bank zit. ⏎ 3. Ik blijf thuis omdat ik ziek ben. 4. Ik denk dat mijn vader naar de winkel loopt. 5. ⏎ Wij blijven thuis omdat het regent. 6. Ik weet dat hij naar school wil lopen. 7. Ik ⏎ blijf thuis, want ik ben ziek. 8. Als het regent, blijf ik thuis. |
+| **E** | 1. Vandaag loop ik naar school. 2. Waar loopt de man? 3. Ik weet dat de kat op de ⏎ bank zit. 4. De man loopt naar het station. 5. Ik wil naar huis lopen. 6. Ik blijf ⏎ thuis omdat ik ziek ben. 7. Op de bank zit de kat. 8. Hij zegt dat hij ziek is. |
+| **F** | 1. Vandaag loop ik naar school. 2. In het park lopen de kinderen. 3. Zit de kat op ⏎ de bank? 4. Waar woon jij? 5. Ik weet dat de kat op de bank zit. 6. Ik blijf thuis ⏎ omdat ik ziek ben. |
+@end
+
+@glossary
+@table
+| Holandisht | Shqip | Holandisht | Shqip |
+| **vandaag** | sot | **willen** | dua |
+| **morgen** | nesër | **kunnen** | mund |
+| **thuis** | në shtëpi | **lezen** | lexoj |
+| **ziek** | i sëmurë | **kopen** | blej |
+| **het regent** | bie shi | **werken** | punoj |
+| **dat** | që | **wonen** | banoj |
+| **omdat** | sepse (folja në fund) | **waar** | ku |
+| **want** | sepse (folja e dyta) | **wie** | kush |
+| **als** | nëse; kur | **wat** | çfarë |
+| **weten** | di | **wanneer** | kur |
+| **denken** | mendoj | **hoe** | si |
+| **zeggen** | them | **waarom** | pse |
+@end

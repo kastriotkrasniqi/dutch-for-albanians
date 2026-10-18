@@ -1,0 +1,277 @@
+@lesson Rrokjet dhe zanoret e gjata
+Për ta mësuar mirë gramatikën holandeze duhet të njohim **drejtshkrimin**, sepse emrat, foljet dhe mbiemrat ndryshojnë shpesh shkrimin kur u shtohet një mbaresë. Ndryshe nga anglishtja ose frëngjishtja, në holandisht **shkrimi pasqyron shqiptimin**. Ndryshimet që duken të çuditshme janë në fakt zbatim i rreptë i këtij parimi: *shkruajmë ashtu siç e shqiptojmë*.
+
+@box (1.0, 0.96, 0.9)
+  Për ta kuptuar sistemin duhen dy gjëra: ta dallojmë **rrokjen e hapur** nga **rrokja e mbyllur**, dhe të mësojmë **pesë rregulla** të thjeshta.
+@end
+@h2 Rrokja e hapur dhe e mbyllur
+@table
+| Lloji | Përkufizimi | Shembuj (pjesët në kllapa janë rrokjet) |
+| **Rrokje e hapur** | mbaron me **zanore** | [ma]-[nen] → ma është e hapur ⏎ [bo]-[men] → bo është e hapur ⏎ [lo]-[pen] → lo është e hapur |
+| **Rrokje e** ⏎ **mbyllur** | mbaron me ⏎ **bashkëtingëllore** | [maan] → mbyllur ⏎ [boom] → mbyllur ⏎ [kat]-[ten] → kat është e mbyllur |
+@end
+
+@box (0.91, 0.94, 0.98)
+  **Si ndahen rrokjet?** Një bashkëtingëllore e vetme midis dy zanoreve shkon te rrokja e ardhshme: *ma-nen, bo-men, le-zen*. Dy bashkëtingëllore ndahen: *kat-ten, hon-den, lam-pen*.
+@end
+@h2 Rregulli 1: zanorja e gjatë
+@box (0.9, 0.96, 0.92)
+  **Rregulli 1.** Një zanore e gjatë shkruhet **dyfish** (aa, ee, oo, uu) në rrokje të **mbyllur** dhe **njëfish** (a, e, o, u) në rrokje të **hapur**.
+@end
+@table
+| Rrokje e mbyllur | Rrokje e hapur (+ -en) | Shqip |
+| m**aa**n | m**a**-nen | hëna – hënat |
+| b**oo**m | b**o**-men | pema – pemët |
+| str**aa**t | str**a**-ten | rruga – rrugët |
+| r**aa**m | r**a**-men | dritarja – dritaret |
+| b**ee**n | b**e**-nen | këmba – këmbët |
+| sch**oo**l | sch**o**-len | shkolla – shkollat |
+| d**ee**l | d**e**-len | pjesa – pjesët |
+@end
+
+@lesson Zanoret e shkurtra: rregullat 2 dhe 3
+Zanorja e shkurtër shkruhet **njëfish** (a, e, i, o, u). Por kur shtojmë një mbaresë që nis me zanore (-en), rrokja do të bëhej e hapur dhe zanorja do të lexohej e gjatë. Për ta mbajtur të shkurtër, **dyfishojmë bashkëtingëlloren**.
+
+@box (0.9, 0.96, 0.92)
+  **Rregulli 2.** Pas një zanoreje të shkurtër, bashkëtingëllorja **dyfishohet** kur shtohet një mbaresë me zanore, që rrokja të mbetet e mbyllur.
+@end
+@table
+| Njëjës | Shumës | Rrokjet | Shqip |
+| man | man**n**en | [man]-[nen] | burrat |
+| kat | kat**t**en | [kat]-[ten] | macet |
+| bed | bed**d**en | [bed]-[den] | shtretërit |
+| pen | pen**n**en | [pen]-[nen] | stilolapsat |
+| bus | bus**s**en | [bus]-[sen] | autobusët |
+| bal | bal**l**en | [bal]-[len] | topat |
+| tas | tas**s**en | [tas]-[sen] | çantat |
+@end
+
+@box (0.91, 0.94, 0.98)
+  **Krahaso:** *manen* (hënat, a e gjatë) ≠ *mannen* (burrat, a e shkurtër). Vetëm një shkronjë e dytë ndryshon kuptimin!
+@end
+@box (0.99, 0.93, 0.92)
+  **Nuk dyfishohet** kur zanorja ndiqet tashmë nga dy bashkëtingëllore: *hond → hon-den*, *lamp → lam-pen*, *hand → han-den*, *bank → ban-ken*, *krant → kran-ten*.
+@end
+@h2 Rregulli 3: shkrimi në fund të fjalës
+@box (0.9, 0.96, 0.92)
+  **Rregulli 3** (e kundërta e rregullit 2). Një bashkëtingëllore e dyfishtë **nuk shkruhet** në fund të fjalës: shkruajmë vetëm **një**.
+@end
+@table
+| Me mbaresë | Pa mbaresë (në fund) | Shembull në fjali |
+| katt**en** | kat | De kat zit op de bank. |
+| zitt**en** | zit | Ik zit op de bank. |
+| ligg**en** | lig | Ik lig in bed. |
+| kenn**en** | ken | Ik ken hem. |
+| bedd**en** | bed | Het bed staat in de kamer. |
+@end
+
+@lesson F/S dhe V/Z: rregullat 4 dhe 5
+Në holandisht **v** dhe **z** nuk shkruhen në fund të rrokjes; atje shkruajmë **f** dhe **s**. Kur një mbaresë i çon ato në fillim të rrokjes, kthehen në **v** dhe **z**.
+
+@box (0.9, 0.96, 0.92)
+  **Rregulli 4.** Shkronjat **f** dhe **s** bëhen **v** dhe **z** kur, pas shtimit të mbaresës, fillojnë një rrokje (midis dy zanoreve).
+@end
+@table
+| Njëjës / rrënja | Pas mbaresës | Ndryshimi | Shqip |
+| brie**f** | brie**v**en | f → v | letra – letrat |
+| hui**s** | hui**z**en | s → z | shtëpia – shtëpitë |
+| kaa**s** | ka-**z**en | s → z (+ rregulli 1) | djathi – djathërat |
+| rei**s** | rei-**z**en | s → z | udhëtimi – udhëtimet |
+| die**f** | die-**v**en | f → v | vjedhësi – vjedhësit |
+| ik schrij**f** | schrij-**v**en | f → v | unë shkruaj → shkruajmë |
+@end
+
+@box (0.9, 0.96, 0.92)
+  **Rregulli 5** (e kundërta e rregullit 4). Shkronjat **v** dhe **z** bëhen **f** dhe **s** kur, për shkak të ndryshimit të formës, **mbyllin** një rrokje në vend që ta nisin.
+@end
+@table
+| Paskajorja (-en) | Rrënja (ik) | Ndryshimi | Shqip |
+| le**v**en | leef | v → f (+ rregulli 1) | jetoj |
+| le**z**en | lees | z → s (+ rregulli 1) | lexoj |
+| schrij**v**en | schrijf | v → f | shkruaj |
+| rei**z**en | reis | z → s | udhëtoj |
+| blij**v**en | blijf | v → f | mbetem |
+| hui**z**en | huis | z → s | shtëpitë → shtëpia |
+@end
+
+@box (0.99, 0.93, 0.92)
+  **Kujdes:** mbi dy bashkëtingëllore dhe te «ss» nuk ka ndryshim: *les → lessen* (mësimi, e shkurtër + dyfishim), *bus → bussen*. Kombinimet **ie, oe, eu, ui, ei/ij, ou/au** shkruhen njësoj në rrokje të hapura dhe të mbyllura (*vriend → vrienden*, *boek → boeken*, *deur →* *deuren*, *trein → treinen*).
+@end
+@h2 Përmbledhje e pesë rregullave
+@table
+| Rregulli | Çfarë thotë | Shembull |
+| **1** | zanore e gjatë: dyfish në rrokje të mbyllur, njëfish në të ⏎ hapur | maan → manen |
+| **2** | zanore e shkurtër: bashkëtingëllorja dyfishohet para ⏎ mbaresës me zanore | kat → katten |
+| **3** | nuk ka bashkëtingëllore të dyfishtë në fund të fjalës | katten → kat |
+| **4** | f, s → v, z kur fillojnë një rrokje | brief → brieven |
+| **5** | v, z → f, s kur mbyllin një rrokje | leven → leef |
+@end
+
+@h2 Ku i hasim këto rregulla në mësimet tona
+@table
+| Paskajorja | Rrënja (ik) | Hij / jij | Rregulli |
+| st**aa**n | st**a** | staat | 1: «a» në rrokje të hapur (sta) |
+| l**o**pen | l**oo**p | loopt | 1: o e gjatë, rrokje e mbyllur |
+| ligg**e**n | lig | ligt | 3: «gg» → «g» |
+| zitt**e**n | zit | zit | 3: «tt» → «t»; me jij pa -t |
+@end
+
+@box (0.91, 0.94, 0.98)
+  **Këshillë praktike për foljet:** për të gjetur rrënjën hiqni **-en**, pastaj zbatoni rregullat: *lezen → lez → lees* (z → s, e → ee); *schrijven → schrijv → schrijf* (v → f); *zitten → zitt → zit* (tt → t).
+@end
+@practice Ushtrime: klasifiko dhe lidh çiftet
+@h2 A. Rrokje e hapur (H) apo e mbyllur (M)?
+Shkruani H ose M pranë çdo rrokjeje:
+
+@table blank
+| Rrokja | H / M | Rrokja | H / M |
+| ma |  | kat |  |
+| man |  | lo |  |
+| boom |  | loop |  |
+| bo |  | ke |  |
+@end
+
+@h2 B. Njëjësi dhe shumësi
+Lidhni me vijë çdo kuti majtas me kutinë e duhur djathtas.
+
+maan ⇥ bomen
+
+boom ⇥ brieven
+
+kat ⇥ honden
+
+huis ⇥ manen
+
+brief ⇥ huizen
+
+hond ⇥ katten
+
+@practice Ushtrime: shumësi dhe rrënja e foljes
+@h2 C. Rregulli 1: shkruani shumësin (+ -en)
+1. maan → ______________
+
+2. boom → ______________
+
+3. straat → ______________
+
+4. raam → ______________
+
+5. school → ______________
+
+6. been → ______________
+
+7. deel → ______________
+
+8. taak → ______________
+
+@h2 D. Rregulli 2: shkruani shumësin
+1. man → ______________
+
+2. kat → ______________
+
+3. bed → ______________
+
+4. pen → ______________
+
+5. bus → ______________
+
+6. bal → ______________
+
+7. hond → ______________
+
+8. lamp → ______________
+
+@h2 E. Rregullat 1, 3, 5: nga paskajorja te rrënja (ik)
+1. lopen → ______________
+
+2. zitten → ______________
+
+3. liggen → ______________
+
+4. staan → ______________
+
+5. lezen → ______________
+
+6. wonen → ______________
+
+7. maken → ______________
+
+8. schrijven → ______________
+
+9. reizen → ______________
+
+10. kopen → ______________
+
+@practice Ushtrime: f/s – v/z dhe gabimet
+@h2 F. Rregullat 4 dhe 5: shkruani shumësin
+1. huis → ______________
+
+2. brief → ______________
+
+3. kaas → ______________
+
+4. reis → ______________
+
+5. dief → ______________
+
+6. les → ______________ (kujdes!)
+
+@h2 G. Gjeni dhe korrigjoni gabimin
+1. de maanen → ______________
+
+2. de boomen → ______________
+
+3. twee katen → ______________
+
+4. ik lop naar school → ______________
+
+5. hij zitt op de bank → ______________
+
+6. twee huisen → ______________
+
+7. drie brieffen → ______________
+
+8. ik schrijv een brief → ______________
+
+@h2 H. Shkruani shumësin e fjalëve nga mësimet e kaluara
+1. de fles → ______________
+
+2. het boek → ______________
+
+3. de stoel → ______________
+
+4. de krant → ______________
+
+5. de bank → ______________
+
+6. de deur → ______________
+
+@key
+@table
+| Ushtrimi | Përgjigjet |
+| A | ma – H • kat – M • man – M • lo – H • boom – M • loop – M • bo – H • ke – H |
+| B | maan – manen • boom – bomen • kat – katten • huis – huizen • brief – brieven • hond ⏎ – honden |
+| C | 1. manen 2. bomen 3. straten 4. ramen 5. scholen 6. benen 7. delen 8. taken |
+| D | 1. mannen 2. katten 3. bedden 4. pennen 5. bussen 6. ballen 7. honden (nuk ⏎ dyfishohet: dy bashkëtingëllore) 8. lampen (po ashtu) |
+| E | 1. loop 2. zit 3. lig 4. sta 5. lees 6. woon 7. maak 8. schrijf 9. reis 10. koop |
+| F | 1. huizen 2. brieven 3. kazen 4. reizen 5. dieven 6. lessen (s mbetet s: «ss» e ⏎ dyfishuar, jo z) |
+| G | 1. de manen 2. de bomen 3. twee katten 4. ik loop naar school 5. hij zit op de bank 6. ⏎ twee huizen 7. drie brieven 8. ik schrijf een brief |
+| H | 1. de flessen 2. de boeken 3. de stoelen 4. de kranten 5. de banken 6. de deuren |
+@end
+
+@glossary
+@table
+| Holandisht | Shqip | Holandisht | Shqip |
+| de maan | hëna | de bus | autobusi |
+| de boom | pema | de bal | topi |
+| de straat | rruga (qyteti) | de tas | çanta |
+| het raam | dritarja | de hond | qeni |
+| het been | këmba | de lamp | llamba |
+| de school | shkolla | het huis | shtëpia |
+| het deel | pjesa | de brief | letra |
+| de taak | detyra | de kaas | djathi |
+| de man | burri | de reis | udhëtimi |
+| de kat | macja | de dief | vjedhësi |
+| het bed | shtrati | de les | mësimi |
+| de pen | stilolapsi | de fles | shishja |
+@end

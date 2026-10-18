@@ -1,0 +1,244 @@
+@lesson Staan dhe liggen me parafjalë
+Në mësimet e kaluara mësuam se **staan** dhe **liggen** tregojnë pozicionin e një gjëje. Tani i lidhim me **parafjalët** (op, naast, achter…) për të thënë *ku saktësisht* ndodhet ajo.
+
+@table
+| Folja | Përdoret për | Shembull |
+| **staan** | gjëra ose njerëz vertikalë, në ⏎ këmbë | De fles **staat** op de tafel. ⏎ Shishja është (në këmbë) mbi tavolinë. |
+| **liggen** | gjëra ose njerëz të sheshtë, ⏎ horizontalë | Het boek **ligt** naast de stoel. ⏎ Libri është (i shtrirë) pranë karriges. |
+@end
+
+@h2 Rendi i fjalëve në fjalinë e thjeshtë
+Në holandisht fjalia ndjek zakonisht këtë model:
+
+@flow Kryefjala | !Folja | Parafjala | Objekti
+
+@table
+| Kryefjala | Folja | Parafjala | Objekti | Shqip |
+| De fles | **staat** | op | de tafel. | Shishja është mbi tavolinë. |
+| Het boek | **ligt** | naast | de stoel. | Libri është pranë karriges. |
+| Mijn tas | **staat** | achter | de deur. | Çanta ime është pas derës. |
+@end
+
+@box (1.0, 0.96, 0.9)
+  **Dallim nga shqipja:** në shqip mjafton «është» (shishja është mbi tavolinë). Në holandisht folja e pozicionit **nuk mund të mungojë**: zgjidhni *staat*, *ligt* ose *zit*. Gabim: *De fles op de tafel.* → Saktë: *De fles staat op de tafel.*
+@end
+@h2 Më shumë shembuj
+@table
+| Holandisht | Shqip |
+| De bloemen **staan** in de vaas. | Lulet janë në vazo. |
+| De sleutels **liggen** op de bank. | Çelësat janë mbi divan. |
+| De auto **staat** voor het huis. | Makina është përpara shtëpisë. |
+| De krant **ligt** onder het boek. | Gazeta është nën libër. |
+@end
+
+@lesson Parafjalët e vendit dhe rendi i fjalëve
+Parafjalët e mëposhtme tregojnë vendin. Ato vijnë **para objektit** (emrit) dhe përdoren me *staan*, *liggen* dhe *zitten*.
+
+@table
+| Parafjala | Shqip | Shembull |
+| **op** | mbi (në sipërfaqe) | De fles staat **op** de tafel. |
+| **in** | në, brenda | De bloemen staan **in** de vaas. |
+| **naast** | pranë, krah | Het boek ligt **naast** de stoel. |
+| **achter** | pas, prapa | Mijn tas staat **achter** de deur. |
+| **voor** | përpara, para | De auto staat **voor** het huis. |
+| **onder** | nën | De kat ligt **onder** de tafel. |
+| **boven** | sipër, mbi (më lart) | De lamp staat **boven** de tafel. |
+| **tussen** | midis | De pen ligt **tussen** de boeken. |
+| **bij** | te, afër | Ik sta **bij** de deur. |
+@end
+
+@box (0.91, 0.94, 0.98)
+  **Kujdes:** *op* do të thotë «mbi, i prekur me sipërfaqen» (libri *op* tafel), ndërsa *boven* do të thotë «më lart, pa e prekur» (lampa *boven* tafel). Në shqip të dyja janë «mbi».
+@end
+@h2 Kur fjalia nis me parafjalën
+Mund ta nisim fjalinë me vendin. Atëherë **folja mbetet e dyta** dhe kryefjala vjen pas saj:
+
+@table
+| Rendi i zakonshëm | Fjalia me vendin në fillim |
+| De fles **staat** op de tafel. | Op de tafel **staat** de fles. |
+| Mijn tas **staat** achter de deur. | Achter de deur **staat** mijn tas. |
+| Het boek **ligt** naast de stoel. | Naast de stoel **ligt** het boek. |
+@end
+
+@h2 Fjalia me «er» (ka…)
+@table
+| Holandisht | Shqip |
+| Er **staat** een fles op de tafel. | Ka një shishe mbi tavolinë. |
+| Er **ligt** een boek naast de stoel. | Ka një libër pranë karriges. |
+@end
+
+@lesson Pyetjet me «staan» dhe «liggen»
+Në pyetje rendi i fjalëve ndryshon pak. Folja del para kryefjalës.
+
+@h2 1. Pyetjet po/jo
+Pyetjet me përgjigje «po» ose «jo» nisin me **foljen**:
+
+@table
+| Fjalia | Pyetja | Shqip |
+| De fles staat op de tafel. | **Staat** de fles op de tafel? | A është shishja mbi tavolinë? |
+| Het boek ligt naast de stoel. | **Ligt** het boek naast de stoel? | A është libri pranë karriges? |
+| Mijn tas staat achter de ⏎ deur. | **Staat** mijn tas achter de deur? | A është çanta ime pas derës? |
+@end
+
+Përgjigjet e shkurtra: *Ja, hij staat op de tafel.* (Po, është mbi tavolinë.) · *Nee, hij ligt op de tafel.* (Jo, është e shtrirë mbi tavolinë.) Për «de»-fjalët përdorim **hij**, për «het»-fjalët **het**, për shumësin **ze**.
+
+@h2 2. Pyetjet me «waar» (ku)
+@flow Fjala pyetëse | !Folja | Kryefjala | Parafjala + objekti
+
+@table
+| Pyetja | Përgjigja | Shqip |
+| Waar **staat** de fles? | Hij staat op de tafel. | Ku është shishja? – Është mbi tavolinë. |
+| Waar **ligt** het boek? | Het ligt naast de stoel. | Ku është libri? – Është pranë karriges. |
+| Waar **staan** de bloemen? | Ze staan in de vaas. | Ku janë lulet? – Janë në vazo. |
+@end
+
+@box (0.99, 0.93, 0.92)
+  **Gabim i zakonshëm:** mos e lini foljen pas kryefjalës në pyetje. Gabim: *Waar de fles staat?* → Saktë: *Waar* ***staat*** *de fles?*
+@end
+@box (0.91, 0.94, 0.98)
+  **Me «jij»:** në pyetje bie -t. *Waar sta jij?* (Ku qëndron ti?) · *Lig jij in bed?* (A je shtrirë në shtrat?) · *Zit jij op de bank?* (A je ulur në divan?)
+@end
+@practice Ushtrime: lidh çiftet
+@h2 A. Parafjala dhe kuptimi
+Lidhni me vijë çdo kuti majtas me kutinë e duhur djathtas.
+
+op ⇥ pas, prapa
+
+in ⇥ përpara
+
+naast ⇥ mbi
+
+achter ⇥ nën
+
+onder ⇥ pranë
+
+voor ⇥ në, brenda
+
+@h2 B. Fjalia dhe përkthimi
+Lidhni me vijë çdo kuti majtas me kutinë e duhur djathtas.
+
+De fles staat op de tafel. ⇥ A është libri mbi divan?
+
+Het boek ligt naast de stoel. ⇥ Çanta ime është pas derës.
+
+Mijn tas staat achter de deur. ⇥ Ku është shishja?
+
+Waar staat de fles? ⇥ Libri është pranë karriges.
+
+Ligt het boek op de bank? ⇥ Shishja është mbi tavolinë.
+
+@practice Ushtrime: rendit fjalët
+@h2 C. Rendisni fjalët dhe shkruani fjalinë ose pyetjen
+Mos harroni: në fjali folja është e dyta; në pyetje po/jo është e para; pas «waar» vjen menjëherë folja.
+
+@order 1 | staat / achter / mijn / tas / de deur | Çanta ime është pas derës.
+@order 2 | ligt / naast / het boek / de stoel | Libri është pranë karriges.
+@order 3 | op / staat / de fles / de tafel | Shishja është mbi tavolinë.
+@order 4 | op / de tafel / de fles / staat | A është shishja mbi tavolinë?
+@order 5 | het boek / ligt / naast / de stoel | A është libri pranë karriges?
+@order 6 | waar / de fles / staat | Ku është shishja?
+@order 7 | waar / het boek / ligt | Ku është libri?
+@order 8 | onder / de kat / de tafel / ligt | Macja është nën tavolinë.
+
+@practice Ushtrime: plotëso, gjej gabimin
+@h2 D. Plotësoni me formën e duhur të foljes
+1. De fles ______ op de tafel. (staan)
+
+2. Het boek ______ naast de stoel. (liggen)
+
+3. Mijn tas ______ achter de deur. (staan)
+
+4. De sleutels ______ onder de bank. (liggen)
+
+5. De bloemen ______ voor het raam. (staan)
+
+6. Ik ______ bij de deur. (staan)
+
+7. De kat ______ op het bed. (liggen)
+
+8. Wij ______ voor het huis. (staan)
+
+@h2 E. Plotësoni me parafjalën e duhur
+1. De fles staat ______ de tafel. (mbi)
+
+2. Het boek ligt ______ de stoel. (pranë)
+
+3. De tas staat ______ de deur. (pas)
+
+4. De pen ligt ______ de boeken. (midis)
+
+5. De kat ligt ______ de tafel. (nën)
+
+6. De auto staat ______ het huis. (përpara)
+
+@h2 F. Gjeni dhe korrigjoni gabimin
+1. Waar de fles staat? → ______________________
+
+2. Het boek staat op tafel. (libri është i shtrirë) → ______________________
+
+3. De fles ligt naast de stoel. (shishja është në këmbë) → ______________________
+
+4. De fles op de tafel staat. → ______________________
+
+5. Ik staan achter de deur. → ______________________
+
+6. Ligt jij in bed? → ______________________
+
+@practice Ushtrime: bëj pyetje, përkthe
+@h2 G. Shndërroni fjalinë në pyetje
+Shembull: De fles staat op de tafel. → Staat de fles op de tafel? | Waar staat de fles?
+
+1. Het boek ligt naast de stoel. → ______________________
+
+2. Mijn tas staat achter de deur. → ______________________
+
+3. De sleutels liggen op tafel. → ______________________
+
+4. De auto staat voor het huis. → ______________________
+
+5. De bloemen staan in de vaas. (me «waar») → ______________________
+
+@h2 H. Përktheni në holandisht
+1. Shishja (në këmbë) është mbi tavolinë.
+
+2. Libri është pranë karriges.
+
+3. Çanta ime është pas derës.
+
+4. A është shishja mbi tavolinë?
+
+5. Ku është libri?
+
+6. Macja (e shtrirë) është nën tavolinë.
+
+@key
+@table
+| Ushtrimi | Përgjigjet |
+| A | op – mbi • in – në, brenda • naast – pranë • achter – pas, prapa • onder – nën • voor ⏎ – përpara |
+| B | De fles staat op de tafel. – Shishja është mbi tavolinë. • Het boek ligt naast de stoel. ⏎ – Libri është pranë karriges. • Mijn tas staat achter de deur. – Çanta ime është pas ⏎ derës. • Waar staat de fles? – Ku është shishja? • Ligt het boek op de bank? – A është ⏎ libri mbi divan? |
+| C | 1. Mijn tas staat achter de deur. 2. Het boek ligt naast de stoel. 3. De fles staat op de ⏎ tafel. 4. Staat de fles op de tafel? 5. Ligt het boek naast de stoel? 6. Waar staat de ⏎ fles? 7. Waar ligt het boek? 8. De kat ligt onder de tafel. |
+| D | 1. staat 2. ligt 3. staat 4. liggen 5. staan 6. sta 7. ligt 8. staan |
+| E | 1. op 2. naast 3. achter 4. tussen 5. onder 6. voor |
+| F | 1. Waar staat de fles? 2. Het boek ligt op tafel. 3. De fles staat naast de stoel. 4. De ⏎ fles staat op de tafel. 5. Ik sta achter de deur. 6. Lig jij in bed? |
+| G | 1. Ligt het boek naast de stoel? / Waar ligt het boek? 2. Staat mijn tas achter de ⏎ deur? / Waar staat mijn tas? 3. Liggen de sleutels op tafel? / Waar liggen de sleutels? ⏎ 4. Staat de auto voor het huis? / Waar staat de auto? 5. Waar staan de bloemen? |
+| H | 1. De fles staat op de tafel. 2. Het boek ligt naast de stoel. 3. Mijn tas staat achter de ⏎ deur. 4. Staat de fles op de tafel? 5. Waar ligt het boek? 6. De kat ligt onder de tafel. |
+@end
+
+@glossary
+@table
+| Holandisht | Shqip | Holandisht | Shqip |
+| staan | qëndroj në këmbë | het boek | libri |
+| liggen | shtrihem | de tafel | tavolina |
+| zitten | ulem | de stoel | karrigia |
+| op | mbi | de tas | çanta |
+| in | në, brenda | de deur | dera |
+| naast | pranë | de kat | macja |
+| achter | pas, prapa | de sleutel | çelësi |
+| voor | përpara | de bank | divani |
+| onder | nën | het huis | shtëpia |
+| boven | sipër | het raam | dritarja |
+| tussen | midis | de lamp | llamba |
+| bij | te, afër | de pen | stilolapsi |
+| waar | ku | het bed | shtrati |
+| de fles | shishja | de krant | gazeta |
+@end

@@ -1,0 +1,209 @@
+@lesson Ora me gjysmë orën
+@h2 Numrat që na duhen
+@table
+| Nr. | Holandisht | Nr. | Holandisht | Nr. | Holandisht |
+| 1 | een | 9 | negen | 17 | zeventien |
+| 2 | twee | 10 | tien | 18 | achttien |
+| 3 | drie | 11 | elf | 19 | negentien |
+| 4 | vier | 12 | twaalf | 20 | twintig |
+| 5 | vijf | 13 | dertien | 30 | dertig |
+| 6 | zes | 14 | veertien | 40 | veertig |
+| 7 | zeven | 15 | vijftien | 50 | vijftig |
+| 8 | acht | 16 | zestien | 60 | zestig |
+@end
+
+@box (0.95, 0.96, 0.98)
+  **21, 22, 45…: njësia para dhjetëshes**
+  Si te «një e njëzet» në shqipen e vjetër: **eenentwintig** (1 + en + 20) = 21 · **tweeëntwintig** = 22 · **vijfenveertig** = 45. Kur *en* ndjek një zanore *e*, shkruhet **ën**: *drieëntwintig*.
+@end
+Për të thënë orën holandishtja përdor si pikë referimi jo vetëm orën e plotë, por edhe **gjysmën e orës**. Gjysma i referohet gjithmonë **orës që vjen**.
+
+@box (1.0, 0.96, 0.91)
+  **Dallim nga shqipja: «gjysma»**
+  Shqip: 4:30 = **katër e gjysmë** (gjysmë pas orës katër).
+  Holandisht: 4:30 = **half vijf**, fjalë për fjalë «gjysmë pesë» (gjysmë drejt orës pesë).
+  Kujdes: *half vijf* **nuk** është 5:30!
+@end
+@h2 Modeli i plotë
+@table
+| Ora | Holandisht | Shqip |
+| 2:00 | twee **uur** | ora dy |
+| 2:05 | vijf **over** twee | dy e pesë |
+| 2:10 | tien **over** twee | dy e dhjetë |
+| 2:15 | **kwart over** twee | dy e një çerek |
+| 2:20 | tien **voor half** drie | dy e njëzet |
+| 2:25 | vijf **voor half** drie | dy e njëzet e pesë |
+| 2:30 | **half** drie | dy e gjysmë |
+| 2:35 | vijf **over half** drie | dy e tridhjetë e pesë |
+| 2:40 | tien **over half** drie | tre pa njëzet |
+| 2:45 | **kwart voor** drie | tre pa një çerek |
+| 2:50 | tien **voor** drie | tre pa dhjetë |
+| 2:55 | vijf **voor** drie | tre pa pesë |
+| 3:00 | drie **uur** | ora tre |
+@end
+
+@box (0.9, 0.96, 0.92)
+  **Tri pika referimi**
+  **:00 – :15** → *over* + ora: *kwart over twee*
+  **:15 – :45** → rreth gjysmës: *voor half / half / over half* + **ora që vjen**
+  **:45 – :00** → *voor* + ora që vjen: *kwart voor drie*
+@end
+@h2 Më shumë shembuj
+@table
+| Ora | Holandisht |
+| 1:25 | vijf voor half twee |
+| 4:30 | half vijf |
+| 4:40 | tien over half vijf |
+| 5:28 | twee voor half zes |
+| 7:30 | half acht |
+| 10:30 | half elf |
+@end
+
+@lesson Ora zyrtare dhe shprehjet e kohës
+@h2 Pyetja dhe përgjigjja
+@table
+| Holandisht | Shqip |
+| **Hoe laat** is het? | Sa është ora? |
+| Het is half acht. | Është shtatë e gjysmë. |
+| Ik heb het kwart over vier. | Ora ime është katër e një çerek. |
+| **Om** vijf uur. | Në orën pesë. |
+| Hij komt **tegen** drie uur. | Vjen rreth orës tre. |
+| **Hoe laat** begint de les? – **Om** negen uur. | Në ç'orë fillon mësimi? – Në orën nëntë. |
+@end
+
+@box (0.95, 0.96, 0.98)
+  **om apo tegen?**
+  **om** = në orën (saktë): *om vijf uur* · **tegen** = rreth orës (afërsisht): *tegen vijf uur*.
+@end
+@h2 Pjesët e ditës
+Kur mund të ketë keqkuptim, pas orës shtohet pjesa e ditës:
+
+@table
+| Holandisht | Shqip | Shembull |
+| **'s morgens** / **'s ochtends** | në mëngjes | om acht uur 's morgens |
+| **'s middags** | në mesditë, pasdite | om twee uur 's middags |
+| **'s avonds** | në mbrëmje | om acht uur 's avonds |
+| **'s nachts** | natën | om drie uur 's nachts |
+@end
+
+@h2 Ora zyrtare: sistemi 24-orësh
+Në oraret e trenave, në lajme dhe në dokumente përdoret sistemi 24-orësh: **orët + uur + minutat**.
+
+@table
+| Ora | Holandisht |
+| 07:10 | zeven uur tien |
+| 13:40 | dertien uur veertig |
+| 18:05 | achttien uur vijf |
+| 23:23 | drieëntwintig uur drieëntwintig |
+@end
+
+@box (0.95, 0.96, 0.98)
+  **Pa half dhe kwart**
+  Në sistemin 24-orësh nuk përdoret *half, kwart, over, voor*. Kështu e thotë edhe shqipja zyrtare: «ora trembëdhjetë e dyzet».
+@end
+@practice Ushtrime
+@h2 A. Ora dhe shprehja
+Lidhni me vijë çdo kuti majtas me kutinë e duhur djathtas.
+
+3:30 ⇥ kwart voor vier
+
+3:15 ⇥ tien over half vier
+
+3:45 ⇥ half vier
+
+3:40 ⇥ vijf voor half vier
+
+3:25 ⇥ kwart over drie
+
+@h2 B. Shkruani orën me fjalë
+1. 6:00 → ______________
+
+2. 6:05 → ______________
+
+3. 6:15 → ______________
+
+4. 6:20 → ______________
+
+5. 6:30 → ______________
+
+6. 6:35 → ______________
+
+7. 6:45 → ______________
+
+8. 6:50 → ______________
+
+@h2 C. Shkruani orën me shifra
+1. half negen → ______
+
+2. kwart over elf → ______
+
+3. tien voor half twee → ______
+
+4. vijf over half zeven → ______
+
+5. kwart voor tien → ______
+
+6. tien voor twaalf → ______
+
+@h2 D. «Gjysma» në shqip dhe në holandisht
+1. katër e gjysmë → ______________
+
+2. tetë e gjysmë → ______________
+
+3. dymbëdhjetë e gjysmë → ______________
+
+4. një e gjysmë → ______________
+
+@h2 E. Sistemi 24-orësh
+1. 08:15 → ______________
+
+2. 14:30 → ______________
+
+3. 19:45 → ______________
+
+4. 22:10 → ______________
+
+@h2 F. Plotësoni me om ose tegen
+1. De les begint ______ negen uur. (saktë)
+
+2. Hij komt ______ drie uur. (afërsisht)
+
+3. De trein vertrekt ______ half acht. (saktë)
+
+4. Wij eten ______ zes uur. (afërsisht)
+
+@h2 G. Përktheni në holandisht
+1. Sa është ora?
+
+2. Është pesë e gjysmë.
+
+3. Mësimi fillon në orën nëntë.
+
+4. Vij rreth orës tre.
+
+5. Në orën tetë të mbrëmjes.
+
+@key
+@table
+| Ushtrimi | Përgjigjet |
+| A | 3:30 – half vier • 3:15 – kwart over drie • 3:45 – kwart voor vier • 3:40 – tien over half vier • 3:25 – vijf voor half vier |
+| B | 1. zes uur 2. vijf over zes 3. kwart over zes 4. tien voor half zeven 5. half zeven 6. vijf over half zeven 7. kwart voor zeven 8. tien voor zeven |
+| C | 1. 8:30 2. 11:15 3. 1:20 4. 6:35 5. 9:45 6. 11:50 |
+| D | 1. half vijf 2. half negen 3. half een 4. half twee |
+| E | 1. acht uur vijftien 2. veertien uur dertig 3. negentien uur vijfenveertig 4. tweeëntwintig uur tien |
+| F | 1. om 2. tegen 3. om 4. tegen |
+| G | 1. Hoe laat is het? 2. Het is half zes. 3. De les begint om negen uur. 4. Ik kom tegen drie uur. 5. Om acht uur 's avonds. |
+@end
+
+@glossary
+@table
+| Holandisht | Shqip | Holandisht | Shqip |
+| het uur | ora | 's morgens | në mëngjes |
+| hoe laat | në ç'orë, sa | 's ochtends | në mëngjes |
+| half | gjysmë | 's middags | në mesditë, pasdite |
+| het kwart | çereku | 's avonds | në mbrëmje |
+| over | pas (orës) | 's nachts | natën |
+| voor | para (orës) | vertrekken | nisem |
+| om | në (orën) | beginnen | filloj |
+| tegen | rreth (orës) | de les | mësimi |
+@end

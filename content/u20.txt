@@ -1,0 +1,134 @@
+@lesson «worden» + pjesore
+Në formën veprore kryefjala **bën** veprimin: *Ati e sheh atë.* Në formën pësore kryefjala **pëson** veprimin: *Ajo shihet nga ati.* Vepruesi shprehet me **door** (= nga).
+
+Ndihmëset: **worden** (e tashme, e shkuar), **zullen** (e ardhme), **zijn** (kohët e kryera).
+
+@table
+| Koha | Ndërtimi | Shembull | Shqip |
+| e tashme | wordt / worden + pjes. | Het huis **wordt gebouwd**. | Shtëpia po ndërtohet. |
+| e shkuar | werd / werden + pjes. | Het huis **werd gebouwd**. | Shtëpia u ndërtua. |
+| e kryer | is / zijn + pjes. | Het huis **is gebouwd**. | Shtëpia është ndërtuar. |
+| më se e kryer | was / waren + pjes. | Het huis **was gebouwd**. | Shtëpia ishte ndërtuar. |
+| e ardhme | zal + pjes. + worden | Het huis **zal gebouwd worden**. | Shtëpia do të ndërtohet. |
+| e ardhme e kryer | zal + pjes. + zijn | Het huis **zal gebouwd zijn**. | Shtëpia do të jetë ndërtuar. |
+| kushtore | zou + pjes. + worden | Het huis **zou gebouwd worden**. | Shtëpia do të ndërtohej. |
+| kushtore e kryer | zou + pjes. + zijn | Het huis **zou gebouwd zijn**. | Shtëpia do të ishte ndërtuar. |
+@end
+
+@table
+| Holandisht | Shqip |
+| Zij **wordt** door haar vader **gezien**. | Ajo shihet nga i ati. |
+| Zij **worden** door ons **geholpen**. | Ata ndihmohen nga ne. |
+| Het geld **werd betaald**. | Paratë u paguan. |
+| Zij **werden** door hem **geholpen**. | Ata u ndihmuan prej tij. |
+| De liederen **zullen gezongen worden**. | Këngët do të këndohen. |
+| Het boek **was vertaald**. | Libri ishte përkthyer. |
+| De namen **waren opgeschreven**. | Emrat ishin shkruar. |
+| Als de oven heet was, **zou** de koek **gebakken worden**. | Po të ishte furra e nxehtë, keku do të piqej. |
+| Als ik hier geweest was, **zou** het raam niet **gebroken zijn**. | Po të isha këtu, dritarja nuk do të ishte thyer. |
+@end
+
+@box (0.9, 0.96, 0.92)
+  **Vepruesi me «door»**
+  *De brief wordt **door** Anna geschreven.* = Letra shkruhet **nga** Ana.
+@end
+@lesson «zijn» + pjesore, «men» dhe «er wordt…»
+@h2 Veprim apo gjendje?
+*Het brood **is gebakken*** ka dy kuptime: **buka është pjekur** (veprimi u krye) ose **buka është e pjekur** (gjendja). Me **al** kuptohet gjendja: *Het brood is **al** gebakken.*
+
+@h2 Si ta shmangim pësoren: «men»
+Holandezët e gjejnë pësoren shpesh të rëndë. Në vend të saj përdorin **men** (njeriu, dikush, ata) me foljen **në njëjës**:
+
+@table
+| Pësore | Me «men» | Shqip |
+| Hij **wordt geholpen**. | **Men helpt** hem. | E ndihmojnë. |
+| De sleutels **zijn** pas gisteren **gevonden**. | **Men heeft** de sleutels pas gisteren **gevonden**. | Çelësat u gjetën vetëm dje. |
+| Hier **wordt** Nederlands **gesproken**. | Hier **spreekt men** Nederlands. | Këtu flitet holandisht. |
+@end
+
+@h2 Pësorja pavetore: «er wordt…»
+Pa kryefjalë të vërtetë, shpesh me **er**. Fokusi bie te veprimi, jo te vepruesi:
+
+@table
+| Holandisht | Shqip |
+| **Er wordt** gezongen en gedanst. | Këndohet dhe vallëzohet. |
+| **Er wordt** in ons huis hard gewerkt. | Në shtëpinë tonë punohet shumë. |
+| **Er wordt** in onze scholen te veel gerookt. | Në shkollat tona pihet shumë duhan. |
+@end
+
+@box (1.0, 0.96, 0.91)
+  **Dallim nga shqipja**
+  Shqipja ka formë pësore të gatshme (*ndërtohet, këndohet, flitet*), prandaj *er wordt gezongen* përkthehet natyrshëm me **këndohet**. Anglishtja këtu nuk ka përkthim fjalë për fjalë.
+@end
+@practice Ushtrime
+@h2 A. wordt apo worden?
+1. Het huis ______ gebouwd.
+
+2. De brieven ______ geschreven.
+
+3. Het geld ______ betaald.
+
+4. De kinderen ______ geholpen.
+
+5. Hier ______ Nederlands gesproken.
+
+@h2 B. Ktheni në pësore (me door)
+Shembull: Anna schrijft de brief. → De brief wordt door Anna geschreven.
+
+1. De man bouwt het huis.
+
+2. Mijn moeder bakt de taart.
+
+3. Wij helpen de kinderen.
+
+4. De leraar leest het boek.
+
+@h2 C. Pësorja në kohët e tjera
+1. Het huis wordt gebouwd. (e shkuara) → ______________
+
+2. Het huis wordt gebouwd. (e kryera) → ______________
+
+3. Het huis wordt gebouwd. (e ardhmja) → ______________
+
+4. De brief wordt geschreven. (e shkuara) → ______________
+
+@h2 D. Pësore → «men»
+1. Hij wordt geholpen. → ______________
+
+2. Hier wordt Engels gesproken. → ______________
+
+3. De sleutels zijn gevonden. → ______________
+
+@h2 E. Përktheni në holandisht
+1. Shtëpia po ndërtohet.
+
+2. Libri u shkrua nga ai.
+
+3. Këtu flitet holandisht.
+
+4. Këndohet dhe vallëzohet.
+
+5. Paratë janë paguar.
+
+@key
+@table
+| Ushtrimi | Përgjigjet |
+| A | 1. wordt 2. worden 3. wordt 4. worden 5. wordt |
+| B | 1. Het huis wordt door de man gebouwd. 2. De taart wordt door mijn moeder gebakken. 3. De kinderen worden door ons geholpen. 4. Het boek wordt door de leraar gelezen. |
+| C | 1. Het huis werd gebouwd. 2. Het huis is gebouwd. 3. Het huis zal gebouwd worden. 4. De brief werd geschreven. |
+| D | 1. Men helpt hem. 2. Hier spreekt men Engels. 3. Men heeft de sleutels gevonden. |
+| E | 1. Het huis wordt gebouwd. 2. Het boek werd door hem geschreven. 3. Hier wordt Nederlands gesproken. / Hier spreekt men Nederlands. 4. Er wordt gezongen en gedanst. 5. Het geld is betaald. |
+@end
+
+@glossary
+@table
+| Holandisht | Shqip | Holandisht | Shqip |
+| worden – werd | bëhem; ndihmëse e pësores | bakken | pjek |
+| door | nga (vepruesi) | de oven | furra |
+| men | njeriu, dikush | de koek | keku |
+| bouwen | ndërtoj | het raam | dritarja |
+| betalen | paguaj | breken | thyej |
+| vertalen | përkthej | dansen | vallëzoj |
+| opschrijven | shënoj | roken | pi duhan |
+| het lied | kënga | het geld | paratë |
+@end

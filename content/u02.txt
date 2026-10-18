@@ -1,0 +1,214 @@
+@lesson Përshëndetjet dhe prezantimi
+Në këtë material do të mësoni të përdorni **spreken** (flas) dhe **wonen** (banoj). Me këto dy folje mund të tregoni çfarë gjuhësh flisni dhe ku jetoni – pikërisht ato që thuhen kur njihemi me dikë.
+
+Hap pas hapi do të fitoni sigurinë për t'i përdorur në biseda të vërteta. Së pari, disa përshëndetje:
+
+@table
+| Holandisht | Shqip | Kur përdoret |
+| **Hallo** / **Hoi** | Tungjatjeta / Ç'kemi | në çdo kohë; *hoi* është më ⏎ miqësore |
+| **Goedemorgen** | Mirëmëngjes | në mëngjes |
+| **Goedemiddag** | Mirëdita | pasdite |
+| **Goedenavond** | Mirëmbrëma | në mbrëmje |
+| **Tot ziens** | Mirupafshim | kur ndahemi (e sjellshme) |
+| **Dag** / **Doei** | Ditën e mirë / Pafshim | kur ndahemi; *doei* është ⏎ miqësore |
+| **Hoe gaat het?** | Si je? / Si jeni? | pas përshëndetjes |
+| **Goed, dank je.** | Mirë, faleminderit. | përgjigjja |
+@end
+
+@h2 Një bisedë e shkurtër
+@table
+| Holandisht | Shqip |
+| Hallo! Ik heet Arta. Ik woon in Prishtina. | Tungjatjeta! Unë quhem Arta. Unë banoj ⏎ në Prishtinë. |
+| Hoi! Ik heet Besa. Ik kom uit Tirana, maar ⏎ ik woon in Amsterdam. | Ç'kemi! Unë quhem Besa. Vij nga Tirana, ⏎ por banoj në Amsterdam. |
+| Ik spreek Albanees en een beetje ⏎ Nederlands. | Unë flas shqip dhe pak holandisht. |
+| Wij spreken Albanees! | Ne flasim shqip! |
+@end
+
+@box (1.0, 0.96, 0.91)
+  **Gjuhët shkruhen me shkronjë të madhe**
+  Ndryshe nga shqipja, në holandisht emrat e gjuhëve shkruhen gjithmonë me shkronjë të madhe: **Nederlands** (holandisht), **Albanees** (shqip), **Engels** (anglisht), **Duits** (gjermanisht).
+@end
+@lesson Folja «spreken» – flas
+**Spreken** përdoret kur flasim për gjuhët dhe komunikimin: **Ik spreek Nederlands.** = Unë flas holandisht.
+
+Në kohën e tashme mbaresat janë të rregullta, pra ndjekin modelin që mësuam: rrënja, rrënja + **t**, paskajorja.
+
+@table
+| Përemri | Koha e tashme | Shqip |
+| ik | **spreek** | unë flas |
+| jij / je | **spreekt** | ti flet |
+| hij / zij / het | **spreekt** | ai / ajo flet |
+| wij / we | **spreken** | ne flasim |
+| jullie | **spreken** | ju flisni |
+| zij / ze (shumës) | **spreken** | ata / ato flasin |
+@end
+
+Siç e shihni:
+
+• **ik** → vetëm rrënja: **spreek**
+
+• **jij, hij, zij, het** → rrënja + t: **spreekt**
+
+• **wij, jullie, zij** → folja e plotë: **spreken**
+
+@box (1.0, 0.96, 0.91)
+  **Pse «spreek» me dy e?**
+  Folja *spreken* ka zanore të gjatë **ee**. Kur heqim *-en*, mbetet «sprek» – dhe kjo do të lexohej me zanore të shkurtër. Për ta ruajtur tingullin e gjatë, shkruajmë dy *e*: **spreek**, **spreekt**. Nuk është «e shtesë» gramatikore – është rregull drejtshkrimi. Në shumës (**spre-ken**) rrokja mbaron me zanore, prandaj mjafton një *e*.
+@end
+@h2 Shembuj
+• **Ik spreek Albanees.** – Unë flas shqip.
+
+• **Zij spreekt Engels.** – Ajo flet anglisht.
+
+• **Wij spreken een beetje Nederlands.** – Ne flasim pak holandisht.
+
+@lesson Folja «wonen» – banoj
+**Wonen** përdoret për të treguar ku jetojmë: **Ik woon in Prishtina.** = Unë banoj në Prishtinë. Edhe kjo folje është e rregullt.
+
+@table
+| Përemri | Koha e tashme | Shqip |
+| ik | **woon** | unë banoj |
+| jij / je | **woont** | ti banon |
+| hij / zij / het | **woont** | ai / ajo banon |
+| wij / we | **wonen** | ne banojmë |
+| jullie | **wonen** | ju banoni |
+| zij / ze (shumës) | **wonen** | ata / ato banojnë |
+@end
+
+@box (1.0, 0.96, 0.91)
+  **I njëjti rregull drejtshkrimi**
+  *Wonen* ka zanore të gjatë **o**. Kur heqim *-en*, e dyfishojmë *o*-në për të ruajtur tingullin e gjatë: **woon**, **woont**. Është i njëjti rregull si te *heten → heet* dhe *spreken → spreek*.
+@end
+@h2 Krahasim: tri folje me zanore të gjatë
+@table
+| Paskajorja | ik | jij / hij / zij | wij / jullie / zij |
+| **heten** (quhem) | heet | heet | heten |
+| **spreken** (flas) | spreek | spreekt | spreken |
+| **wonen** (banoj) | woon | woont | wonen |
+@end
+
+@h2 Shembuj
+• **Jij woont in Tirana.** – Ti banon në Tiranë.
+
+• **Hij woont in Nederland.** – Ai banon në Holandë.
+
+• **Wij wonen in Kosovo.** – Ne banojmë në Kosovë.
+
+@box (0.95, 0.96, 0.98)
+  **«wonen» apo «komen uit»?**
+  **Ik kom uit Kosovo** = prejardhja (nga jam). **Ik woon in Amsterdam** = vendbanimi (ku jetoj tani).
+@end
+@practice Ushtrime: lidh çiftet
+@h2 A. spreken
+Lidhni me vijë çdo kuti majtas me kutinë e duhur djathtas.
+
+**Ik** ⇥ **spreekt**
+
+**Jij** ⇥ **spreekt**
+
+**Hij / zij / het** ⇥ **spreken**
+
+**Wij** ⇥ **spreken**
+
+**Zij (shumës)** ⇥ **spreek**
+
+@h2 B. wonen
+Lidhni me vijë çdo kuti majtas me kutinë e duhur djathtas.
+
+**Jullie** ⇥ **woont**
+
+**Ik** ⇥ **wonen**
+
+**Hij / zij / het** ⇥ **woon**
+
+**Wij** ⇥ **woont**
+
+**Jij** ⇥ **wonen**
+
+@h2 C. Përshëndetjet
+Lidhni me vijë çdo kuti majtas me kutinë e duhur djathtas.
+
+**Goedemorgen** ⇥ **Mirëmbrëma**
+
+**Tot ziens** ⇥ **Faleminderit**
+
+**Goedenavond** ⇥ **Mirëmëngjes**
+
+**Hoe gaat het?** ⇥ **Si je?**
+
+**Dank je** ⇥ **Mirupafshim**
+
+@practice Ushtrime: lidh çiftet (vazhdim)
+@h2 D. Fjalia dhe përkthimi
+Lidhni me vijë çdo kuti majtas me kutinë e duhur djathtas.
+
+**Ik spreek Albanees.** ⇥ **Ti banon në Tiranë.**
+
+**Wij wonen in Kosovo.** ⇥ **Ata flasin holandisht.**
+
+**Zij spreekt Engels.** ⇥ **Unë flas shqip.**
+
+**Jij woont in Tirana.** ⇥ **Ajo flet anglisht.**
+
+**Zij spreken Nederlands.** ⇥ **Ne banojmë në Kosovë.**
+
+@h2 E. Cila folje mungon? (përsëritje)
+Lidhni me vijë çdo kuti majtas me kutinë e duhur djathtas.
+
+**Ik ___ in Prishtina.** ⇥ **komen**
+
+**Hij ___ Albanees.** ⇥ **heet**
+
+**Wij ___ uit Kosovo.** ⇥ **woon**
+
+**Jij ___ een fiets.** ⇥ **hebt**
+
+**Zij ___ Arta.** ⇥ **spreekt**
+
+@h2 F. Plotësoni me formën e duhur
+1. Ik ______ Nederlands. (spreken)
+
+2. Jij ______ in Amsterdam. (wonen)
+
+3. Zij ______ Albanees en Engels. (spreken – ajo)
+
+4. Wij ______ in Nederland. (wonen)
+
+5. Jullie ______ Duits. (spreken)
+
+6. Hij ______ in Tirana. (wonen)
+
+@h2 G. Përktheni në holandisht
+1. Mirëmëngjes! Unë quhem Arben.
+
+2. Unë banoj në Prishtinë.
+
+3. Ne flasim shqip.
+
+4. Ajo banon në Holandë.
+
+@key
+@table
+| Ushtrimi | Përgjigjet |
+| **A** | Ik – spreek • Jij – spreekt • Hij / zij / het – spreekt • Wij – spreken • Zij ⏎ (shumës) – spreken |
+| **B** | Jullie – wonen • Ik – woon • Hij / zij / het – woont • Wij – wonen • Jij – ⏎ woont |
+| **C** | Goedemorgen – Mirëmëngjes • Tot ziens – Mirupafshim • Goedenavond ⏎ – Mirëmbrëma • Hoe gaat het? – Si je? • Dank je – Faleminderit |
+| **D** | Ik spreek Albanees. – Unë flas shqip. • Wij wonen in Kosovo. – Ne ⏎ banojmë në Kosovë. • Zij spreekt Engels. – Ajo flet anglisht. • Jij woont ⏎ in Tirana. – Ti banon në Tiranë. • Zij spreken Nederlands. – Ata flasin ⏎ holandisht. |
+| **E** | Ik **woon** in Prishtina. • Hij **spreekt** Albanees. • Wij **komen** uit Kosovo. ⏎ • Jij **hebt** een fiets. • Zij **heet** Arta. |
+| **F** | 1. spreek 2. woont 3. spreekt 4. wonen 5. spreken 6. woont |
+| **G** | 1. Goedemorgen! Ik heet Arben. 2. Ik woon in Prishtina. 3. Wij spreken ⏎ Albanees. 4. Zij woont in Nederland. |
+@end
+
+@glossary
+@table
+| Holandisht | Shqip | Holandisht | Shqip |
+| **spreken** | flas | **Albanees** | shqip |
+| **wonen** | banoj | **Engels** | anglisht |
+| **hallo / hoi** | tungjatjeta / ç'kemi | **Duits** | gjermanisht |
+| **goedemorgen** | mirëmëngjes | **Nederland** | Holanda |
+| **goedemiddag** | mirëdita | **een beetje** | pak |
+| **goedenavond** | mirëmbrëma | **maar** | por |
+| **tot ziens** | mirupafshim | **en** | dhe |
+| **dank je** | faleminderit | **in** | në |
+| **Nederlands** | holandisht | **uit** | nga |
+@end

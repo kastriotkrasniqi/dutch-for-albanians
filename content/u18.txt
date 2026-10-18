@@ -1,0 +1,243 @@
+@lesson Pjesorja
+Koha e kryer ndërtohet si në shqip: **folje ndihmëse** (*hebben* ose *zijn*) + **pjesore**. *Ik **heb** gewerkt* = kam punuar.
+
+@h2 Foljet e dobëta: ge- + rrënja + -t / -d
+Rregulli *'t kofschip* (Mësimi {L:17.1}) vlen edhe këtu: **-t** pas *t, k, f, s, ch, p*, ndryshe **-d**.
+
+@table
+| Paskajorja | Rrënja | Pjesorja |
+| werken (punoj) | werk | **ge**werk**t** |
+| dopen (pagëzoj) | doop | **ge**doop**t** |
+| eisen (kërkoj) | eis | **ge**ëis**t** |
+| horen (dëgjoj) | hoor | **ge**hoor**d** |
+| stellen (vendos) | stel | **ge**stel**d** |
+| leven (jetoj) | leef | **ge**leef**d** (v → -d) |
+| niezen (teshtij) | nies | **ge**nies**d** (z → -d) |
+| leiden (drejtoj) | leid | **ge**leid (nuk shtohet *d* e dytë) |
+@end
+
+@h2 Foljet e forta: ge- + zanore e re + -en
+@table
+| Paskajorja | Pjesorja | Paskajorja | Pjesorja |
+| krijgen | gekregen | zingen | gezongen |
+| bieden | geboden | stelen | gestolen |
+| sluiten | gesloten | lezen | gelezen |
+| lopen | gelopen | dragen | gedragen |
+| schrijven | geschreven | drinken | gedronken |
+@end
+
+@h2 Foljet e parregullta
+@table
+| Paskajorja | Pjesorja | Paskajorja | Pjesorja |
+| brengen | gebracht | **hebben** | **gehad** |
+| doen | gedaan | **zijn** | **geweest** |
+| vriezen | gevroren | gaan | gegaan |
+| kopen | gekocht | zien | gezien |
+@end
+
+@h2 Pa «ge-»: parashtesat e pandashme
+Foljet me **be-, er-, ge-, her-, ont-, ver-** **nuk** marrin *ge-*:
+
+@table
+| Paskajorja | Pjesorja | Shqip |
+| bedoelen | bedoeld | kam për qëllim |
+| ontmoeten | ontmoet | takoj |
+| ervaren | ervaren | përjetoj, mësoj |
+| vermijden | vermeden | shmang |
+| bedenken | bedacht | mendoj, shpik |
+| herkennen | herkend | njoh |
+@end
+
+@h2 Me parashtesë të ndashme: «-ge-» në mes
+Te *aan-, door-, op-…* (Mësimi {L:22.1}), **ge** futet midis parashtesës dhe foljes: *aannemen → aan**ge**nomen* · *doorbrengen → door**ge**bracht* · *opbellen → op**ge**beld*.
+
+@box (0.95, 0.96, 0.98)
+  **Tri format kryesore**
+  Për çdo folje të fortë ose të parregullt mësoni **paskajoren – kohën e shkuar – pjesoren**: *krijgen – kreeg – gekregen*. Te foljet e dobëta mjafton paskajorja.
+@end
+@lesson «hebben» apo «zijn»?
+@h2 hebben: shumica e foljeve
+@table
+| Rasti | Holandisht | Shqip |
+| foljet me kundrinor | Ik **heb** hem **gezien**. | E kam parë. |
+|  | Hij **heeft** zijn vriend **geholpen**. | Ka ndihmuar shokun e tij. |
+|  | **Heb** je een auto **gekocht**? | A ke blerë makinë? |
+| pa kundrinor, pa ndryshim | Hij **heeft** lang **geslapen**. | Ka fjetur gjatë. |
+|  | Ik **heb** in Den Haag **gewoond**. | Kam banuar në Hagë. |
+|  | Zij **hebben** hartelijk **gelachen**. | Kanë qeshur me gjithë zemër. |
+@end
+
+@h2 zijn: ndryshim vendi ose gjendjeje
+@table
+| Holandisht | Shqip |
+| De trein **is vertrokken**. | Treni është nisur. |
+| Hij **is ingeslapen**. | Ai ka rënë në gjumë. (ndryshim gjendjeje) |
+| Wij **zijn** naar Utrecht **gefietst**. | Shkuam me biçikletë në Utrecht. |
+| Zij **zijn gestorven**. | Ata kanë vdekur. |
+@end
+
+@h2 Foljet e lëvizjes: drejt një vendi → zijn; aktivitet → hebben
+@table
+| Aktivitet: hebben | Drejt një vendi: zijn |
+| Hij **heeft** een tijd **gewandeld**. ⏎ *Shëtiti pak.* | Hij **is** naar de stad **gewandeld**. ⏎ *Shkoi në qytet në këmbë.* |
+| Ik **heb** nooit **gevlogen**. ⏎ *Nuk kam fluturuar kurrë.* | Ik **ben** naar Amsterdam **gevlogen**. ⏎ *Fluturova për në Amsterdam.* |
+@end
+
+*gaan* dhe *komen* marrin **gjithmonë zijn**: *Ik **ben** gegaan.* · *Zij **is** gekomen.*
+
+@box (0.99, 0.93, 0.92)
+  **blijven dhe zijn**
+  Edhe pse nuk ka lëvizje, marrin **zijn**: *Ik **ben** thuis **gebleven**.* (Kam qëndruar në shtëpi.) · *Hij **is** er nooit **geweest**.* (Nuk ka qenë kurrë atje.)
+@end
+@box (0.95, 0.96, 0.98)
+  **vergeten**
+  **zijn** = nuk e di më: *Ik **ben** zijn naam **vergeten**.* (Ia kam harruar emrin.)
+  **hebben** = pakujdesi: *Ik **heb** mijn boek **vergeten**.* (E kam harruar librin, nuk e solla.)
+@end
+@box (1.0, 0.96, 0.91)
+  **Dallim nga shqipja**
+  Në shqip ndihmëse e kohës së kryer është gjithmonë *kam* (*kam shkuar*). Në holandisht foljet e lëvizjes drejt një vendi dhe të ndryshimit të gjendjes marrin **zijn**: *ik **ben** gegaan*, fjalë për fjalë «jam shkuar».
+@end
+@lesson Rendi i fjalëve dhe përdorimi
+Ndihmësja (*hebben / zijn*) zë vendin e foljes. **Pjesorja shkon në fund** (Njësia {U:12}):
+
+@table
+| Tipi | Holandisht | Shqip |
+| I | Wij **hebben** hem vaak **gezien**. | E kemi parë shpesh. |
+| I (inversion) | Gisteren **ben** ik in Delft **geweest**. | Dje kam qenë në Delft. |
+| II | **Heeft** hij de auto al **verkocht**? | A e ka shitur makinën tashmë? |
+| III | Ik weet niet of hij al **aangekomen is**. | Nuk e di nëse ka mbërritur. |
+@end
+
+@h2 Koha e kryer apo koha e shkuar?
+Në holandisht dallimi është më shumë **stilistik** sesa kuptimor:
+
+• **Koha e kryer** është mënyra më e zakonshme për të folur për të shkuarën: *Ik heb hem gisteren gezien.* (E pashë dje.)
+
+• **Koha e shkuar** përdoret më shumë për **tregime**, për një seri ngjarjesh njëra pas tjetrës.
+
+@h2 «Banoj këtu prej dy vjetësh»: koha e tashme + al / sinds
+Për një veprim që ka nisur në të shkuarën dhe **vazhdon ende**, holandishtja përdor **kohën e tashme**, si shqipja:
+
+@table
+| Holandisht | Shqip |
+| Ik woon **al** twee jaar in Edam. | Banoj në Edam prej dy vjetësh. |
+| **Sinds** wanneer wonen zij in Nederland? | Që kur banojnë ata në Holandë? |
+@end
+
+@practice Ushtrime
+@h2 A. Formoni pjesoren (foljet e dobëta)
+1. werken → ______
+
+2. wonen → ______
+
+3. maken → ______
+
+4. fietsen → ______
+
+5. leven → ______
+
+6. reizen → ______
+
+7. spelen → ______
+
+8. horen → ______
+
+@h2 B. Pjesorja e foljeve të forta dhe të parregullta
+Lidhni me vijë çdo kuti majtas me kutinë e duhur djathtas.
+
+zingen ⇥ gedaan
+
+lezen ⇥ geweest
+
+doen ⇥ gezongen
+
+zijn ⇥ gebracht
+
+brengen ⇥ gelezen
+
+@h2 C. Me apo pa ge-?
+1. bezoeken → ______
+
+2. vertellen → ______
+
+3. opbellen → ______
+
+4. ontmoeten → ______
+
+5. aankomen → ______
+
+6. herhalen → ______
+
+@h2 D. hebben apo zijn?
+1. Ik ______ een boek gelezen.
+
+2. Wij ______ naar Amsterdam gefietst.
+
+3. De trein ______ al vertrokken.
+
+4. Hij ______ lang geslapen.
+
+5. Zij ______ thuis gebleven.
+
+6. Jullie ______ veel gewandeld.
+
+7. Ik ______ mijn sleutels vergeten. (nuk i solla)
+
+8. ______ jij ooit in Rotterdam geweest?
+
+@h2 E. Ktheni në kohën e kryer
+1. Ik werk in de winkel.
+
+2. Hij koopt een auto.
+
+3. Wij gaan naar Utrecht.
+
+4. Zij leest de krant.
+
+5. Jullie blijven thuis.
+
+6. Ik zie de film.
+
+@h2 F. Rendisni fjalët
+@order 1 | Wij / gezien / hem / vaak / hebben | E kemi parë shpesh.
+@order 2 | Gisteren / geweest / ik / in Delft / ben | Dje kam qenë në Delft.
+@order 3 | de auto / Heeft / verkocht / hij / al | A e ka shitur makinën tashmë?
+@order 4 | Ik woon / twee jaar / al / in Edam | Banoj në Edam prej dy vjetësh.
+
+@h2 G. Përktheni në holandisht
+1. Kam punuar shumë.
+
+2. Ai ka shkuar në Amsterdam.
+
+3. A e ke parë filmin?
+
+4. Kemi qëndruar në shtëpi.
+
+5. Banoj në Holandë prej tre vjetësh.
+
+@key
+@table
+| Ushtrimi | Përgjigjet |
+| A | 1. gewerkt 2. gewoond 3. gemaakt 4. gefietst 5. geleefd 6. gereisd 7. gespeeld 8. gehoord |
+| B | zingen – gezongen • lezen – gelezen • doen – gedaan • zijn – geweest • brengen – gebracht |
+| C | 1. bezocht 2. verteld 3. opgebeld 4. ontmoet 5. aangekomen 6. herhaald |
+| D | 1. heb 2. zijn 3. is 4. heeft 5. is 6. hebben 7. heb 8. Ben |
+| E | 1. Ik heb in de winkel gewerkt. 2. Hij heeft een auto gekocht. 3. Wij zijn naar Utrecht gegaan. 4. Zij heeft de krant gelezen. 5. Jullie zijn thuis gebleven. 6. Ik heb de film gezien. |
+| F | 1. Wij hebben hem vaak gezien. 2. Gisteren ben ik in Delft geweest. 3. Heeft hij de auto al verkocht? 4. Ik woon al twee jaar in Edam. |
+| G | 1. Ik heb veel gewerkt. 2. Hij is naar Amsterdam gegaan. 3. Heb je de film gezien? 4. Wij zijn thuis gebleven. 5. Ik woon al drie jaar in Nederland. |
+@end
+
+@glossary
+@table
+| Holandisht | Shqip | Holandisht | Shqip |
+| herhalen | përsëris | vertrekken | nisem |
+| bezoeken – bezocht | vizitoj | inslapen | bie në gjumë |
+| vertellen | tregoj | sterven | vdes |
+| ontmoeten | takoj | vliegen | fluturoj |
+| herkennen | njoh | wandelen | shëtis |
+| vergeten | harroj | verkopen | shes |
+| opbellen | telefonoj | aankomen | mbërrij |
+| aannemen | pranoj | al | tashmë, që prej |
+| lachen | qesh | sinds | që prej |
+@end

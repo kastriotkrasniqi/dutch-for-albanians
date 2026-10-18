@@ -1,0 +1,176 @@
+@lesson Më se e kryera: «ik had gewerkt»
+Ndërtohet me kohën e shkuar të **hebben** (*had / hadden*) ose të **zijn** (*was / waren*) + pjesore. Foljet që marrin *zijn* në kohën e kryer e marrin edhe këtu.
+
+Përdoret si në shqip (*kisha punuar*): për një veprim që ndodhi **para** një veprimi tjetër të shkuar.
+
+@table
+| Holandisht | Shqip |
+| Zij **had** de boeken niet **gevonden**. | Ajo nuk i kishte gjetur librat. |
+| Wij **hadden** in Leiden **gestudeerd**. | Ne kishim studiuar në Leiden. |
+| Hij **was** al **vertrokken**. | Ai ishte nisur tashmë. |
+| Nadat wij haar broer **bezocht hadden**, gingen wij naar de stad. | Pasi e kishim vizituar vëllanë e saj, shkuam në qytet. |
+@end
+
+@table
+| E kryer | Më se e kryer | Shqip |
+| ik heb gewerkt | ik **had** gewerkt | kisha punuar |
+| wij hebben gewerkt | wij **hadden** gewerkt | kishim punuar |
+| ik ben gegaan | ik **was** gegaan | kisha shkuar |
+| wij zijn gegaan | wij **waren** gegaan | kishim shkuar |
+@end
+
+@lesson E ardhmja: «zullen» dhe «gaan»
+@h2 zullen + paskajore
+@table
+| Përemri | zullen |
+| ik | zal |
+| jij / je | zult (edhe: zal) · **zul je?** |
+| u | zult |
+| hij / zij / het | zal |
+| wij / jullie / zij | zullen |
+@end
+
+*Zullen* zë vendin e foljes dhe **paskajorja shkon në fund**:
+
+@table
+| Holandisht | Shqip |
+| Wij **zullen** met de auto **gaan**. | Do të shkojmë me makinë. |
+| **Zal** hij hier op ons **wachten**? | A do të na presë këtu? |
+| De reis **zal** twee uur **duren**. | Udhëtimi do të zgjasë dy orë. |
+@end
+
+@h2 Katër mënyra për të ardhmen
+@table
+| Mënyra | Holandisht | Shqip |
+| **zullen** + paskajore | Ik **zal** je **helpen**. | Do të të ndihmoj. |
+| **zullen + wel** = ndoshta (tani) | Zij **zullen** het **wel** weten. | Me siguri e dinë. |
+| **koha e tashme** + fjalë kohe | Morgen **gaan** wij naar Rotterdam. | Nesër shkojmë në Roterdam. |
+|  | De trein **vertrekt** om elf uur. | Treni niset në orën njëmbëdhjetë. |
+| **gaan** + paskajore | Hij **gaat** een brief **schrijven**. | Do të shkruajë një letër. |
+|  | Wij **gaan** morgen **zwemmen**. | Nesër do të shkojmë të notojmë. |
+@end
+
+@box (1.0, 0.96, 0.91)
+  **Mënyra më e zakonshme**
+  Në të folur holandezët përdorin shpesh **kohën e tashme + një fjalë kohe** (*morgen, volgende week*) ose **gaan + paskajore**. *Zullen* tingëllon më formal ose shpreh premtim: *Ik zal het doen!* (Do ta bëj, të premtoj!)
+@end
+@h2 E ardhmja e kryer
+E rrallë në të dyja gjuhët. Ndërtohet me **zullen + pjesore + hebben / zijn**:
+
+@table
+| Holandisht | Shqip |
+| Hij **zal** de krant **gelezen hebben**. | Do ta ketë lexuar gazetën. |
+| Zij **zullen** naar Breda **gegaan zijn**. | Do të kenë shkuar në Breda. |
+@end
+
+@lesson Kushtorja: «zou»
+Kushtorja shpreh dyshim, mundësi ose diçka jo reale (shqip: *do të + e pakryera*: *do të blija*). Ndërtohet me kohën e shkuar të *zullen*:
+
+@table
+| Përemri | zou |
+| ik / jij / u / hij / zij / het | **zou** |
+| wij / jullie / zij | **zouden** |
+@end
+
+@h2 Kushtorja e tashme: zou + paskajore
+@table
+| Holandisht | Shqip |
+| Hij **zou** graag thuis **blijven**. | Do të donte të rrinte në shtëpi. |
+| Wij **zouden** dat huis niet **kopen**. | Ne nuk do ta blinim atë shtëpi. |
+| Als ik jij was, **zou** ik hem later **opbellen**. | Po të isha në vendin tënd, do ta telefonoja më vonë. |
+@end
+
+@h2 Kushtorja e kaluar: zou + pjesore + hebben / zijn
+@table
+| Holandisht | Shqip |
+| Ik **zou** dat huis niet **gekocht hebben**. | Nuk do ta kisha blerë atë shtëpi. |
+| Hij **zou** graag thuis **gebleven zijn**. | Do të kishte dashur të rrinte në shtëpi. |
+| Als hij harder gewerkt had, **zou** ik hem **geholpen hebben**. | Po të kishte punuar më shumë, do ta kisha ndihmuar. |
+@end
+
+@box (0.95, 0.96, 0.98)
+  **Fjalia me «als»**
+  Pas *als* folja shkon në fund (Tipi III). Pastaj, në fjalinë kryesore, *zou* vjen menjëherë pas presjes: *Als ik tijd **had**, **zou** ik komen.* (Po të kisha kohë, do të vija.)
+@end
+@practice Ushtrime
+@h2 A. Ktheni në më se të kryerën
+1. Ik heb gewerkt. → ______________
+
+2. Wij hebben gegeten. → ______________
+
+3. Hij is vertrokken. → ______________
+
+4. Zij zijn gekomen. → ______________
+
+5. Jullie hebben het gezien. → ______________
+
+@h2 B. Plotësoni me formën e «zullen»
+1. Ik ______ je helpen.
+
+2. ______ jij morgen komen?
+
+3. Wij ______ met de trein gaan.
+
+4. U ______ het boek krijgen.
+
+5. Het ______ morgen regenen.
+
+@h2 C. Shprehni të ardhmen me «gaan»
+1. Ik schrijf een brief. → ______________
+
+2. Wij zwemmen morgen. → ______________
+
+3. Hij koopt een auto. → ______________
+
+4. Zij leren Nederlands. → ______________
+
+@h2 D. zou apo zouden?
+1. Ik ______ graag komen.
+
+2. Wij ______ dat niet doen.
+
+3. ______ jij mij kunnen helpen?
+
+4. Zij (ata) ______ het huis kopen.
+
+5. Als hij tijd had, ______ hij komen.
+
+@h2 E. Rendisni fjalët
+@order 1 | Wij / gaan / met de auto / zullen | Do të shkojmë me makinë.
+@order 2 | Als ik jij was, / ik / zou / opbellen / hem | Po të isha në vendin tënd, do ta telefonoja.
+@order 3 | Hij / de krant / gelezen hebben / zal | Do ta ketë lexuar gazetën.
+@order 4 | Nadat / bezocht hadden, / wij / haar broer | Pasi e kishim vizituar vëllanë e saj,
+
+@h2 F. Përktheni në holandisht
+1. Ajo nuk i kishte gjetur librat.
+
+2. Nesër shkojmë në Roterdam.
+
+3. Do të shkruaj një letër. (gaan)
+
+4. Nuk do ta blinim atë shtëpi.
+
+5. Po të kisha kohë, do të vija.
+
+@key
+@table
+| Ushtrimi | Përgjigjet |
+| A | 1. Ik had gewerkt. 2. Wij hadden gegeten. 3. Hij was vertrokken. 4. Zij waren gekomen. 5. Jullie hadden het gezien. |
+| B | 1. zal 2. Zul 3. zullen 4. zult 5. zal |
+| C | 1. Ik ga een brief schrijven. 2. Wij gaan morgen zwemmen. 3. Hij gaat een auto kopen. 4. Zij gaan Nederlands leren. |
+| D | 1. zou 2. zouden 3. Zou 4. zouden 5. zou |
+| E | 1. Wij zullen met de auto gaan. 2. Als ik jij was, zou ik hem opbellen. 3. Hij zal de krant gelezen hebben. 4. Nadat wij haar broer bezocht hadden, … |
+| F | 1. Zij had de boeken niet gevonden. 2. Morgen gaan wij naar Rotterdam. 3. Ik ga een brief schrijven. 4. Wij zouden dat huis niet kopen. 5. Als ik tijd had, zou ik komen. |
+@end
+
+@glossary
+@table
+| Holandisht | Shqip | Holandisht | Shqip |
+| zullen | do të (e ardhme) | studeren | studioj |
+| zou / zouden | do të (kushtore) | duren | zgjat |
+| had / hadden | kisha / kishim | zwemmen | notoj |
+| was / waren | isha / ishim | de reis | udhëtimi |
+| nadat | pasi | later | më vonë |
+| wel | me siguri, ndoshta | harder | më shumë, më fort |
+| volgende week | javën e ardhshme | eten – gegeten | ha – ngrënë |
+@end

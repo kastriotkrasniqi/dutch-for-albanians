@@ -1,0 +1,274 @@
+@lesson Foljet e pozicionit
+Në holandisht ka tri folje të veçanta për të treguar **ku ndodhet** diçka: **staan** (qëndroj në këmbë), **liggen** (shtrihem) dhe **zitten** (ulem). Zotërimi i tyre e bën holandishten tuaj shumë më natyrale.
+
+@box (1.0, 0.96, 0.9)
+  **Dallim i madh nga shqipja:** në shqip themi thjesht *«është»*: shishja *është* mbi tavolinë, libri *është* mbi tavolinë, macja *është* në karrige. Në holandisht nuk mjafton «zijn»: duhet të zgjedhim *si* ndodhet gjëja: në këmbë, e shtrirë apo e ulur.
+@end
+@table
+| Folja | Shqip | Shembull |
+| **staan** | qëndroj në këmbë | De fles **staat** op tafel. – Shishja është mbi ⏎ tavolinë. |
+| **liggen** | shtrihem, jam i shtrirë | Het boek **ligt** op tafel. – Libri është mbi tavolinë. |
+| **zitten** | ulem; jam brenda / i ⏎ mbërthyer | De kat **zit** op de stoel. – Macja është (ulur) në ⏎ karrige. |
+@end
+
+@h2 Kur përdoret cila folje
+@table
+| Folja | Përdoret për |
+| **staan** | gjëra të gjata ose vertikale: shishe, ndërtesa, njerëz në këmbë |
+| **liggen** | gjëra të sheshta ose horizontale: libra, letra, njerëz të shtrirë |
+| **zitten** | njerëz dhe kafshë të ulur; gjëra «të mbërthyera» brenda ose te diçka |
+@end
+
+@h2 Si ta zgjedh folinë e duhur?
+@box (0.91, 0.94, 0.98)
+  Mendoni për formën dhe pozicionin e gjësë:
+  **E gjatë dhe vertikale?** → **staan**
+  **E sheshtë ose horizontale?** → **liggen**
+  **E ulur ose brenda?** → **zitten**
+@end
+@h2 Shembuj të shpejtë
+@table
+| Holandisht | Shqip |
+| De auto **staat** buiten. | Makina është jashtë. |
+| De bloemen **staan** in de vaas. | Lulet janë në vazo. |
+| De krant **ligt** op de bank. | Gazeta është mbi divan. |
+| De sleutels **liggen** op tafel. | Çelësat janë mbi tavolinë. |
+| Ik **zit** op de bank. | Unë jam ulur në divan. |
+| De brief **zit** in de envelop. | Letra është në zarf. |
+@end
+
+@box (0.99, 0.93, 0.92)
+  **Kujdes!** Mos përkthe fjalë për fjalë «është» me *is*. Gabim: *De fles is op tafel.* / *Ik ben op de bank.* → Saktë: *De fles staat op tafel.* / *Ik zit op de bank.* Në fillim duket e çuditshme, por dëgjoni foljet e pozicionit dhe shpejt do të ndjeni cilën të zgjidhni.
+@end
+@lesson Folja «staan» – qëndroj në këmbë
+**Staan** përdoret për gjëra që janë në këmbë, vertikale: shishe, makina, lule, ndërtesa, si dhe për njerëz që qëndrojnë në këmbë. Folja është **e parregullt**: forma për «ik» është **sta**, jo «staan».
+
+@table
+| Përemri | Koha e tashme | Shqip |
+| ik | sta | unë qëndroj / jam në këmbë |
+| jij / je | staat | ti qëndron |
+| hij / zij / het | staat | ai / ajo qëndron |
+| wij / we | staan | ne qëndrojmë |
+| jullie | staan | ju qëndroni |
+| zij / ze (shumës) | staan | ata / ato qëndrojnë |
+@end
+
+@box (0.91, 0.94, 0.98)
+  **Drejtshkrimi:** rrënja është **sta** (zanore e gjatë a). Kur shtohet **-t**, shkruajmë dy «a» që ta ruajmë tingullin e gjatë: *staat*, njësoj si *leer → leert*. Pas «jij» në pyetje, -t bie: *Sta jij daar?* (A qëndron aty?)
+@end
+@h2 Shembuj
+@table
+| Holandisht | Shqip |
+| De fles **staat** op tafel. | Shishja është mbi tavolinë. |
+| De auto **staat** buiten. | Makina është jashtë. |
+| De bloemen **staan** in de vaas. | Lulet janë në vazo. |
+| Ik **sta** bij de bushalte. | Unë qëndroj te stacioni i autobusit. |
+| Wij **staan** in de rij. | Ne qëndrojmë në radhë. |
+@end
+
+@h2 Pyetje me «waar» (ku)
+@table
+| Pyetja | Shqip |
+| Waar **staat** de fles? | Ku është shishja? |
+| Waar **staan** de bloemen? | Ku janë lulet? |
+| Waar **sta** jij? | Ku qëndron ti? |
+@end
+
+@box (0.99, 0.93, 0.92)
+  **Kujdes:** «staan» është folje e parregullt: *ik sta* (jo *ik staan*). Mësojeni përmendësh si formë të veçantë.
+@end
+@lesson Foljet «liggen» dhe «zitten»
+**Liggen** do të thotë «shtrihem, jam i shtrirë» (libra, letra, çelësa, njerëz në shtrat). **Zitten** do të thotë «ulem», por përdoret edhe për gjëra që janë brenda ose të mbërthyera diku.
+
+@table
+| Përemri | liggen | zitten | Shqip (liggen / zitten) |
+| ik | lig | zit | shtrihem / ulem |
+| jij / je | ligt | zit | shtrihesh / ulesh |
+| hij / zij / het | ligt | zit | shtrihet / ulet |
+| wij / we | liggen | zitten | shtrihemi / ulemi |
+| jullie | liggen | zitten | shtriheni / uleni |
+| zij / ze (shumës) | liggen | zitten | shtrihen / ulen |
+@end
+
+@box (0.91, 0.94, 0.98)
+  **Drejtshkrimi:** te *liggen* dy «gg» bëhen një «g» në rrënjë (**lig**), dhe te *zitten* dy «tt» bëhen një «t» (**zit**). Në të dyja rastet «i» mbetet e shkurtër. **Kujdes:** me «jij» te *zitten* nuk shtohet -t: *jij zit*.
+@end
+@h2 Shembuj me «liggen»
+@table
+| Holandisht | Shqip |
+| Het boek **ligt** op tafel. | Libri është mbi tavolinë. |
+| De krant **ligt** op de bank. | Gazeta është mbi divan. |
+| Ik **lig** in bed. | Unë jam shtrirë në shtrat. |
+| De sleutels **liggen** op tafel. | Çelësat janë mbi tavolinë. |
+@end
+
+@h2 Shembuj me «zitten»
+@table
+| Holandisht | Shqip |
+| Ik **zit** op de bank. | Unë jam ulur në divan. |
+| De kat **zit** op de stoel. | Macja është ulur në karrige. |
+| Wij **zitten** in de trein. | Ne jemi në tren. |
+| De brief **zit** in de envelop. | Letra është në zarf. |
+| Mijn telefoon **zit** in mijn zak. | Telefoni im është në xhep. |
+@end
+
+@h2 Pyetje
+@table
+| Pyetja | Shqip |
+| Waar **ligt** mijn boek? | Ku është libri im? |
+| **Zit** jij op de bank? | A je ulur në divan? |
+| **Lig** jij in bed? | A je shtrirë në shtrat? (-t bie pas «jij»!) |
+@end
+
+@practice Ushtrime: lidh çiftet
+@h2 A. Folja dhe kuptimi
+Lidhni me vijë çdo kuti majtas me kutinë e duhur djathtas.
+
+staan ⇥ karrigia
+
+liggen ⇥ ulem
+
+zitten ⇥ tavolina
+
+de stoel ⇥ qëndroj në këmbë
+
+de tafel ⇥ shtrihem
+
+@h2 B. staan
+Lidhni me vijë çdo kuti majtas me kutinë e duhur djathtas.
+
+Ik ⇥ staan
+
+Jij ⇥ staat
+
+Hij / zij / het ⇥ sta
+
+Wij ⇥ staat
+
+Jullie ⇥ staan
+
+@h2 C. liggen dhe zitten
+Lidhni me vijë çdo kuti majtas me kutinë e duhur djathtas.
+
+Ik (liggen) ⇥ zit
+
+Jij (liggen) ⇥ liggen
+
+Wij (zitten) ⇥ lig
+
+Hij (zitten) ⇥ zitten
+
+Jullie (liggen) ⇥ ligt
+
+@practice Ushtrime: rendit fjalët
+@h2 D. Rendisni fjalët dhe shkruani fjalinë
+Mos harroni: folja e pozicionit është e dyta në fjali (ose pas «waar» në pyetje).
+
+@order 1 | staat / op / tafel / de fles | Shishja është mbi tavolinë.
+@order 2 | ligt / het boek / op / de bank | Libri është mbi divan.
+@order 3 | zit / de kat / op / de stoel | Macja është ulur në karrige.
+@order 4 | staan / in / de vaas / de bloemen | Lulet janë në vazo.
+@order 5 | liggen / de sleutels / op / tafel | Çelësat janë mbi tavolinë.
+@order 6 | zit / in / de envelop / de brief | Letra është në zarf.
+@order 7 | staat / de auto / buiten | Makina është jashtë.
+@order 8 | staat / waar / de fles | Ku është shishja?
+
+@practice Ushtrime: plotëso, gjej gabimin
+@h2 E. Plotësoni me formën e duhur
+1. De fles ______ op tafel. (staan)
+
+2. Ik ______ in bed. (liggen)
+
+3. Wij ______ in de trein. (zitten)
+
+4. De krant ______ op de bank. (liggen)
+
+5. Jij ______ bij de deur. (staan)
+
+6. Ik ______ op de stoel. (zitten)
+
+7. De bloemen ______ in de vaas. (staan)
+
+@h2 F. Zgjidhni foljen (staan / liggen / zitten) dhe vendosni formën e saktë
+1. De auto ______ buiten.
+
+2. De brief ______ in de envelop.
+
+3. Het papier ______ op de grond.
+
+4. Het huis ______ in de straat.
+
+5. Mijn telefoon ______ in mijn zak.
+
+6. Waar ______ de sleutels? (në tavolinë, të shtrira)
+
+@h2 G. Gjeni dhe korrigjoni gabimin
+1. Ik staan bij de deur. → ______________________
+
+2. Hij sta in de rij. → ______________________
+
+3. Ik ligt in bed. → ______________________
+
+4. Wij zit in de klas. → ______________________
+
+5. Het boek is op tafel. → ______________________
+
+6. De kat zitten op de stoel. → ______________________
+
+@practice Ushtrime: fjalia dhe përkthimi
+@h2 H. Fjalia dhe përkthimi
+Lidhni me vijë çdo kuti majtas me kutinë e duhur djathtas.
+
+De fles staat op tafel. ⇥ Lulet janë në vazo.
+
+Het boek ligt op de bank. ⇥ Shishja është mbi tavolinë.
+
+Ik zit op de stoel. ⇥ Ku është makina?
+
+De bloemen staan in de vaas. ⇥ Unë jam ulur në karrige.
+
+Waar staat de auto? ⇥ Libri është mbi divan.
+
+@h2 I. Përktheni në holandisht
+1. Shishja është mbi tavolinë.
+
+2. Libri është mbi divan.
+
+3. Unë jam ulur në divan.
+
+4. Çelësat janë mbi tavolinë.
+
+5. Lulet janë në vazo.
+
+6. Ku është makina?
+
+@key
+@table
+| Ushtrimi | Përgjigjet |
+| A | staan – qëndroj në këmbë • liggen – shtrihem • zitten – ulem • de stoel – karrigia • ⏎ de tafel – tavolina |
+| B | Ik – sta • Jij – staat • Hij / zij / het – staat • Wij – staan • Jullie – staan |
+| C | Ik (liggen) – lig • Jij (liggen) – ligt • Wij (zitten) – zitten • Hij (zitten) – zit • Jullie ⏎ (liggen) – liggen |
+| D | 1. De fles staat op tafel. 2. Het boek ligt op de bank. 3. De kat zit op de stoel. 4. De ⏎ bloemen staan in de vaas. 5. De sleutels liggen op tafel. 6. De brief zit in de envelop. ⏎ 7. De auto staat buiten. 8. Waar staat de fles? |
+| E | 1. staat 2. lig 3. zitten 4. ligt 5. staat 6. zit 7. staan |
+| F | 1. staat 2. zit 3. ligt 4. staat 5. zit 6. liggen |
+| G | 1. Ik sta bij de deur. 2. Hij staat in de rij. 3. Ik lig in bed. 4. Wij zitten in de klas. 5. Het ⏎ boek ligt op tafel. 6. De kat zit op de stoel. |
+| H | De fles staat op tafel. – Shishja është mbi tavolinë. • Het boek ligt op de bank. – Libri ⏎ është mbi divan. • Ik zit op de stoel. – Unë jam ulur në karrige. • De bloemen staan in ⏎ de vaas. – Lulet janë në vazo. • Waar staat de auto? – Ku është makina? |
+| I | 1. De fles staat op tafel. 2. Het boek ligt op de bank. 3. Ik zit op de bank. 4. De ⏎ sleutels liggen op tafel. 5. De bloemen staan in de vaas. 6. Waar staat de auto? |
+@end
+
+@glossary
+@table
+| Holandisht | Shqip | Holandisht | Shqip |
+| staan | qëndroj në këmbë | de vaas | vazoja |
+| liggen | shtrihem | de krant | gazeta |
+| zitten | ulem | de sleutel | çelësi |
+| de fles | shishja | de brief | letra |
+| het boek | libri | de envelop | zarfi |
+| de kat | macja | het bed | shtrati |
+| de stoel | karrigia | de trein | treni |
+| de tafel | tavolina | de klas | klasa |
+| de bank | divani; stoli | de rij | radha |
+| de auto | makina | de deur | dera |
+| buiten | jashtë | de zak | xhepi |
+| de bloemen | lulet | waar | ku |
+@end
