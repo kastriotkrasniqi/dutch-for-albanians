@@ -15,7 +15,11 @@ for pnum, pname, us, lvl in PARTS:
         rail.append(f'<a href="#u{u}"><span class="n">{u}</span><span class="t">{inline(UNITS[u-1][1])}</span><span class="p" data-prog="{u}"></span></a>')
 rail.append('<h4>Shtojcë</h4><a href="#fjalori"><span class="n">Aa</span><span class="t">Fjalori i plotë</span></a>')
 opts = '<option value="#hyrje">Hyrje</option>' + ''.join(f'<option value="#u{u}">{u}. {html.escape(strip_md(UNITS[u-1][1]))}</option>' for u in range(1, NU + 1)) + '<option value="#fjalori">Fjalori i plotë</option>'
-page = f'''<title>Mësojmë holandisht</title>
+page = f'''<!doctype html>
+<html lang="sq">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Mësojmë holandisht</title>
 <meta name="claude:viewport-fit-sides" content="cover">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Lora:wght@600;700&display=swap">
