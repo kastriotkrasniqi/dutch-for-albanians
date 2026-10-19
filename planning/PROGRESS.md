@@ -69,3 +69,16 @@ Last updated: 2026-10-19 · branch `platform-v2`
 - 35737aa content: object pronouns (Unit 8) and adjective endings (Unit 13)
 - 423e612 style(site): accent colours meet WCAG AA contrast
 - dde27c5 content(u25): separable prefix with a modal in a subclause is optional
+- ade1e0a style(site): softer orange accent, vertically centred buttons
+- 5cddaf5 fix(site): speaker buttons read only the Dutch words of a cell
+- 537e171 fix(site): speaker buttons on every Dutch column of a table
+- 91fdf52 style(site): listening tabs fit narrow phones
+- e43ae3c fix(site): listening page speaks only when asked
+
+## Feedback from trying the branch locally (2026-10-19)
+- [x] "Bëj testin e nivelit" label not centred; orange too dark → softer fill #F39A4A with dark labels, separate darker token for orange text
+- [x] Speaker buttons read Albanian glosses ("goed (mirë)") → only Dutch is spoken
+- [x] Speaker buttons only on the first Dutch column → all Dutch columns
+- [x] Dëgjo tabs cut off at 320–360 px → tabs share the width
+- [x] Dëgjo spoke on opening / switching tabs → speaks only when asked
+- [x] Responsive check: 44 pages × 320/360/390/768 px, no overflow (Chromium emulation; real devices still to test)
