@@ -3064,16 +3064,28 @@ const ls = {
   set(k,v){ try{ localStorage.setItem(STORE+k,v); }catch(e){} },
   del(k){ try{ localStorage.removeItem(STORE+k); }catch(e){} }
 };
+// Lenient matching: case, accents (ë/ç/é), punctuation, spacing and leading zeros never count; apostrophes do (piano's).
 function norm(s){
-  return (s||'').toLowerCase().replace(/[’‘`´]/g,"'").replace(/[«»"“”.,!?;:()…–—]/g,' ').replace(/\s*\/\s*/g,'/').replace(/\s+/g,' ').trim();
+  return (s||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[’‘`´]/g,"'").replace(/[«»"“”.,!?;:()…–—-]/g,' ').replace(/\b0(\d)/g,'$1').replace(/\s*\/\s*/g,'/').replace(/\s+/g,' ').trim();
+}
+// Unstressed pronoun forms are equally correct Dutch: "Wat heb je?" = "Wat heb jij?"
+const REDUCED = {je:['jij','jou','jouw'], ze:['zij'], we:['wij'], me:['mij'], "m'n":['mijn'], "z'n":['zijn']};
+function tokEq(a,b){ return a===b || (REDUCED[a]||[]).includes(b) || (REDUCED[b]||[]).includes(a); }
+function same(v,k){
+  if(v===k || v.replace(/ /g,'')===k.replace(/ /g,'')) return true;
+  const x=v.split(' '), y=k.split(' ');
+  return x.length===y.length && x.every((t,i)=>tokEq(t,y[i]));
 }
 function alts(raw){
   const out = new Set([raw]);
-  raw.split(' / ').forEach(a=>{
+  raw.split(/\s*\/\s*/).forEach(a=>{
     a = a.trim();
+    const dash = a.split(/\s+[–—]\s+/); if(dash.length>1) out.add(dash[dash.length-1]);
     if(/\(e\)/.test(a)){ out.add(a.replace(/\(e\)/g,'')); out.add(a.replace(/\(e\)/g,'e')); }
+    out.add(a.replace(/[()]/g,''));
     const noPar = a.replace(/\([^)]*\)/g,'');
     out.add(noPar);
+    if(noPar.includes(',') && !/[.?!…]\s*$/.test(noPar)) noPar.split(',').forEach(p=>out.add(p));
     const m = a.match(/\(([^)\s]+)\)/);
     if(m){ out.add(a.replace(/\([^)]*\)/g,'').replace(/\S+\s*$/, m[1]).trim()); out.add(m[1]); }
     out.add(a);
@@ -3089,7 +3101,7 @@ function checkEx(ex){
   let ok=0;
   sids.forEach(sid=>{
     const v = norm(slotValue(ex,sid));
-    const good = v && alts(ANS[sid]).includes(v);
+    const good = v && alts(ANS[sid]).some(k=>same(v,k));
     if(good) ok++;
     const els=[...ex.querySelectorAll('[data-slot="'+sid+'"]')];
     const hosts=new Set(els.map(slotHost));
