@@ -325,13 +325,14 @@ function setupMatch(box){
   let pick=null, misses=0;
   const tile=(html)=>{ const b=document.createElement('button'); b.type='button'; b.className='mt'; b.innerHTML=html; return b; };
   const lefts=rows.map(r=>{ const b=tile(r.html); b.row=r; L.appendChild(b); return b; });
-  const rights=shuffled(opts).map(o=>{ const b=tile(''); b.textContent=o; b.opt=o; R.appendChild(b); return b; });
+  // one answer tile per row, so repeated answers (jij/hij → spreekt) appear once for each row
+  const answers=rows.map(r=>opts.find(o=>slotOk(r.sel.dataset.slot,o))).filter(Boolean);
+  const rights=shuffled(answers).map(o=>{ const b=tile(''); b.textContent=o; b.opt=o; R.appendChild(b); return b; });
   const open=()=>lefts.filter(b=>!b.classList.contains('mt-ok'));
   const settle=()=>{
-    rights.forEach(rb=>{ const need=open().some(lb=>slotOk(lb.row.sel.dataset.slot, rb.opt));
-      rb.disabled=!need; rb.classList.toggle('mt-ok', !need); rb.classList.toggle('mt-done', !need); });
     if(!open().length){ checkEx(ex); if(misses){ ex.querySelector('.score').textContent+=' · '+misses+(misses===1?' gabim':' gabime'); } }
   };
+  const use=rb=>{ rb.disabled=true; rb.classList.add('mt-ok','mt-done'); rb.classList.remove('mt-sel'); };
   const lock=(lb,opt)=>{ lb.row.sel.value=opt; ls.set('v:'+lb.row.sel.id,opt); lb.disabled=true; lb.classList.add('mt-ok','mt-done'); lb.classList.remove('mt-sel'); lb.setAttribute('aria-label', lb.textContent+' – '+opt); };
   const flash=(...bs)=>{ bs.forEach(b=>{ b.classList.remove('mt-sel'); b.classList.add('mt-no'); setTimeout(()=>b.classList.remove('mt-no'),450); }); };
   const choose=b=>{
@@ -342,12 +343,15 @@ function setupMatch(box){
     }
     const lb=lefts.includes(b)?b:pick, rb=lefts.includes(b)?pick:b;
     pick=null; rb.classList.remove('mt-sel');
-    if(slotOk(lb.row.sel.dataset.slot, rb.opt)){ lock(lb, rb.opt); settle(); }
+    if(slotOk(lb.row.sel.dataset.slot, rb.opt)){ lock(lb, rb.opt); use(rb); settle(); }
     else { misses++; flash(lb, rb); }
   };
   [...lefts,...rights].forEach(b=>b.addEventListener('click',()=>choose(b)));
-  lefts.forEach(lb=>{ const v=lb.row.sel.value; if(v && slotOk(lb.row.sel.dataset.slot, v)) lock(lb, v); else if(v){ lb.row.sel.value=''; ls.del('v:'+lb.row.sel.id); } });
-  rights.forEach(rb=>{ const need=open().some(lb=>slotOk(lb.row.sel.dataset.slot, rb.opt)); rb.disabled=!need; rb.classList.toggle('mt-ok',!need); rb.classList.toggle('mt-done',!need); });
+  lefts.forEach(lb=>{
+    const v=lb.row.sel.value, rb=v && rights.find(r=>!r.disabled && r.opt===v);
+    if(rb && slotOk(lb.row.sel.dataset.slot, v)){ lock(lb, v); use(rb); }
+    else if(v){ lb.row.sel.value=''; ls.del('v:'+lb.row.sel.id); }
+  });
   mm.append(L,R); box.appendChild(mm);
 }
 restore(); document.querySelectorAll('.match').forEach(setupMatch); paintProgress(); route(); paintTheme();
