@@ -1,6 +1,6 @@
 # Mësojmë holandisht · A1–A2 · Vlaanderen
 
-Kurs holandishteje për shqipfolës që jetojnë ose do të jetojnë në Belgjikë (Flandër): **25 njësi gramatike, 75 mësime**, plus tre module për fillimin dhe jetën e përditshme, me shpjegime në shqip, ushtrime që kontrollohen me shpjegim, fjalor me përsëritje me intervale, biseda të simuluara dhe dëgjim.
+Kurs holandishteje për shqipfolës që jetojnë ose do të jetojnë në Belgjikë (Flandër): **25 njësi gramatike, 77 mësime**, plus tre module për fillimin dhe jetën e përditshme, me shpjegime në shqip, ushtrime që kontrollohen me shpjegim, fjalor me përsëritje me intervale, biseda të simuluara dhe dëgjim.
 
 Faqja: <https://kastriotkrasniqi.github.io/dutch-for-albanians/>
 

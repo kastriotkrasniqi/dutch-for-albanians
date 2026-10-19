@@ -14,7 +14,7 @@ export function levelGroups(course) {
     { id: 'a2a', level: 'A1–A2', title: 'Ndërtimi i fjalisë', units: ids('IV') },
     { id: 'a2', level: 'A2', title: 'Sistemi i foljeve', units: ids('V') },
     { id: 'be', level: 'A1–A2', title: 'Jeta në Flandër', units: ['belgjika', 'situatat'] },
-    { id: 'b1', level: 'B1', title: 'Në plan', units: [], planned: ['Fjalitë lidhore (die/dat)', 'Pyetjet e zhdrejta', 'Mbaresat e mbiemrave – thellim', 'Foljet me parafjalë të ngurta', 'Shkrimi i emaileve zyrtare'] }
+    { id: 'b1', level: 'B1', title: 'Në plan', units: [], planned: ['Fjalitë lidhore – thellim (waarvan, wat, wiens)', 'Mbaresat e mbiemrave – thellim', 'Foljet me parafjalë të ngurta', 'Shkrimi i emaileve zyrtare'] }
   ];
 }
 

@@ -100,6 +100,9 @@ function classifyPair(x, y) {
   if (y == null) return { cat: 'extra', word: x };
   if (REDUCED[x] === y) return { cat: 'ok' };                 // input m'n, key mijn
   if (REDUCED[y] === x) return { cat: 'reduced', word: x };    // input mijn, key m'n
+  const pair = [x, y].sort().join('|');
+  if (pair === 'dat|die' || pair === 'deze|dit') return { cat: 'diedat', word: x };
+  if (pair === 'als|of') return { cat: 'ofals', word: x };
   if (ARTICLES.has(x) && ARTICLES.has(y)) return { cat: 'article', word: x };
   if (NEGATION.has(x) && NEGATION.has(y)) return { cat: 'negation', word: x };
   if (stripMarks(x) === stripMarks(y)) return { cat: 'marks', word: x };
@@ -135,6 +138,8 @@ export const MESSAGES = {
   ending: w => `Fjala është e duhura, por mbaresa te «${w}» jo. Kontrolloni vetën (ik / jij / hij / wij), numrin ose kohën.`,
   participle: w => `Kujdes me parashtesën «ge-» te «${w}».`,
   pronoun: w => `Përemri «${w}» nuk është i duhuri këtu.`,
+  diedat: w => `«${w}»: kontrolloni emrin – «die / deze» për de-fjalët dhe shumësin, «dat / dit» për het-fjalët në njëjës.`,
+  ofals: w => `«${w}»: për «nëse» në një pyetje të zhdrejtë përdoret «of»; «als» do të thotë «kur» ose kusht («në qoftë se»).`,
   preposition: w => `Parafjala «${w}» nuk është e duhura këtu.`,
   spelling: w => `Gabim drejtshkrimi te «${w}». Fjala është pothuajse e saktë.`,
   marks: w => `Te «${w}» mungon ose është tepër një shenjë (ë, é, ï…).`,
@@ -150,12 +155,12 @@ export const MESSAGES = {
 
 // Short Albanian names for statistics and the mistake notebook.
 export const CATEGORY_LABEL = {
-  article: 'nyja de/het', negation: 'niet/geen', ending: 'mbaresa', verbform: 'forma e foljes', participle: 'pjesorja ge-', pronoun: 'përemri',
+  article: 'nyja de/het', negation: 'niet/geen', ending: 'mbaresa', verbform: 'forma e foljes', diedat: 'die/dat', ofals: 'of/als', participle: 'pjesorja ge-', pronoun: 'përemri',
   preposition: 'parafjala', spelling: 'drejtshkrimi', marks: 'shenjat', reduced: 'forma e shkurtuar', word: 'fjala',
   missing: 'fjalë që mungon', extra: 'fjalë e tepërt', order: 'rendi i fjalëve', spacing: 'ndarja e fjalëve', other: 'tjetër'
 };
 
-const GRAMMAR = new Set(['verbform', 'article', 'negation', 'ending', 'participle', 'pronoun', 'preposition', 'order', 'reduced']);
+const GRAMMAR = new Set(['diedat', 'ofals', 'verbform', 'article', 'negation', 'ending', 'participle', 'pronoun', 'preposition', 'order', 'reduced']);
 export function isGrammarCategory(cat) { return GRAMMAR.has(cat); }
 
 function analyse(inp, alt) {

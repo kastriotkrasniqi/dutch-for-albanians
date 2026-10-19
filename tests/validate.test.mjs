@@ -75,6 +75,9 @@ test('mistake categories', () => {
   assert.equal(cat('de dike boeken', 'de dikke boeken'), 'spelling');
   assert.equal(cat('de dik boeken', 'de dikke boeken'), 'ending');
   assert.equal(cat('Ik zie het.', 'Ik zie hem.'), 'pronoun');
+  assert.equal(cat('het meisje die daar zit', 'het meisje dat daar zit'), 'diedat');
+  assert.equal(cat('Ik weet niet als hij komt.', 'Ik weet niet of hij komt.'), 'ofals');
+  assert.equal(cat('Weet u waar is het station?', 'Weet u waar het station is?'), 'order');
   assert.equal(cat('Ik heb gewerkd.', 'Ik heb gewerkt.'), 'ending');
   assert.equal(cat('Ik heb werkt.', 'Ik heb gewerkt.'), 'participle');
   assert.equal(cat('Ik ben student niet.', 'Ik ben niet student.'), 'order');

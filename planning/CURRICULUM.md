@@ -40,8 +40,8 @@ Priority: P0 learning-blocking · P1 essential · P2 high value · P3 later.
 | Future, conditional | A2 | U22 | — | — | — | — |
 | Imperative | A1–A2 | U19 | — | — | — | — |
 | Passive | A2–B1 | U23 | — | — | — | U21 |
-| **Indirect questions** (Weet u waar het station is?) | A2 | mentioned in conversations | no lesson | new lesson after U15 | **P2** | U15 |
-| **Relative clauses** (de man die …, het huis dat …) | A2–B1 | — | no lesson | new lesson | P2 | U9, U15 |
+| Indirect questions (Weet u waar het station is?, of) | A2 | mentioned in conversations | — | **New:** U15 lesson 3 + exercises H, I | done | U15 |
+| Relative clauses (die/dat, met wie, waarin) | A2–B1 | — | — | **New:** U15 lesson 4 + exercises J, K | done | U9, U15 |
 | Verb + preposition combinations (wachten op, denken aan) | A2–B1 | U18 (selection) | systematic list + practice | list in *Foljet* + drill | P3 | U18 |
 | Quantifiers (veel, weinig, alle, elke, sommige, genoeg) | A2 | scattered | no lesson | short lesson | P3 | U13 |
 

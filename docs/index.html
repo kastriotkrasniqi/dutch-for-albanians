@@ -10,7 +10,7 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Lora:wght@600;700&display=swap">
 <link rel="stylesheet" href="assets/app.css?v=1b72dc7dc1">
 <script>try{const t=localStorage.getItem('mh1:theme');if(t)document.documentElement.dataset.theme=t}catch(e){}</script>
-<script type="importmap">{"imports": {"./assets/js/app.js": "./assets/js/app.js?v=1310408e71", "./assets/js/ui/convo.js": "./assets/js/ui/convo.js?v=089981febf", "./assets/js/ui/course.js": "./assets/js/ui/course.js?v=b6ac1e8427", "./assets/js/ui/dashboard.js": "./assets/js/ui/dashboard.js?v=39e75fb82b", "./assets/js/ui/dom.js": "./assets/js/ui/dom.js?v=5049717ad7", "./assets/js/ui/item.js": "./assets/js/ui/item.js?v=7e68e91efd", "./assets/js/ui/lesson.js": "./assets/js/ui/lesson.js?v=bbc318c7b7", "./assets/js/ui/listen.js": "./assets/js/ui/listen.js?v=ac2d794ff0", "./assets/js/ui/practice.js": "./assets/js/ui/practice.js?v=35fdbb1d69", "./assets/js/ui/progress.js": "./assets/js/ui/progress.js?v=6ce5bce0aa", "./assets/js/ui/search.js": "./assets/js/ui/search.js?v=ca8becfacb", "./assets/js/ui/speech.js": "./assets/js/ui/speech.js?v=5698a12a9a", "./assets/js/ui/verbs.js": "./assets/js/ui/verbs.js?v=65cd8a33a0", "./assets/js/ui/vocab.js": "./assets/js/ui/vocab.js?v=baad8756f6", "./assets/js/lib/convo.js": "./assets/js/lib/convo.js?v=bc6c31dd16", "./assets/js/lib/dates.js": "./assets/js/lib/dates.js?v=4e6359263d", "./assets/js/lib/progress.js": "./assets/js/lib/progress.js?v=69c97a8b36", "./assets/js/lib/search.js": "./assets/js/lib/search.js?v=260bb31cb5", "./assets/js/lib/srs.js": "./assets/js/lib/srs.js?v=b8c88c24a5", "./assets/js/lib/store.js": "./assets/js/lib/store.js?v=3b854726df", "./assets/js/lib/text.js": "./assets/js/lib/text.js?v=817c394740", "./assets/js/lib/validate.js": "./assets/js/lib/validate.js?v=c20b03f1fb"}}</script>
+<script type="importmap">{"imports": {"./assets/js/app.js": "./assets/js/app.js?v=1310408e71", "./assets/js/ui/convo.js": "./assets/js/ui/convo.js?v=089981febf", "./assets/js/ui/course.js": "./assets/js/ui/course.js?v=b6ac1e8427", "./assets/js/ui/dashboard.js": "./assets/js/ui/dashboard.js?v=9e73a6ea5c", "./assets/js/ui/dom.js": "./assets/js/ui/dom.js?v=5049717ad7", "./assets/js/ui/item.js": "./assets/js/ui/item.js?v=7e68e91efd", "./assets/js/ui/lesson.js": "./assets/js/ui/lesson.js?v=bbc318c7b7", "./assets/js/ui/listen.js": "./assets/js/ui/listen.js?v=ac2d794ff0", "./assets/js/ui/practice.js": "./assets/js/ui/practice.js?v=35fdbb1d69", "./assets/js/ui/progress.js": "./assets/js/ui/progress.js?v=6ce5bce0aa", "./assets/js/ui/search.js": "./assets/js/ui/search.js?v=ca8becfacb", "./assets/js/ui/speech.js": "./assets/js/ui/speech.js?v=5698a12a9a", "./assets/js/ui/verbs.js": "./assets/js/ui/verbs.js?v=65cd8a33a0", "./assets/js/ui/vocab.js": "./assets/js/ui/vocab.js?v=baad8756f6", "./assets/js/lib/convo.js": "./assets/js/lib/convo.js?v=bc6c31dd16", "./assets/js/lib/dates.js": "./assets/js/lib/dates.js?v=4e6359263d", "./assets/js/lib/progress.js": "./assets/js/lib/progress.js?v=69c97a8b36", "./assets/js/lib/search.js": "./assets/js/lib/search.js?v=260bb31cb5", "./assets/js/lib/srs.js": "./assets/js/lib/srs.js?v=b8c88c24a5", "./assets/js/lib/store.js": "./assets/js/lib/store.js?v=3b854726df", "./assets/js/lib/text.js": "./assets/js/lib/text.js?v=817c394740", "./assets/js/lib/validate.js": "./assets/js/lib/validate.js?v=5596900183"}}</script>
 <a class="skip" href="#main">Kalo te përmbajtja</a>
 <header class="top"><button type="button" id="menu" class="tbtn menu" aria-label="Hap menynë" aria-expanded="false" aria-controls="rail"></button>
 <a class="brand" href="#ballina">Mësojmë holandisht<small>A1–A2 · Vlaanderen</small></a>
@@ -18,7 +18,7 @@
 <a href="#kerko" id="searchbtn" class="tbtn" aria-label="Kërko"></a>
 <button type="button" id="theme" class="tbtn" aria-label="Ndrysho temën"></button></header>
 <div class="shell"><nav class="rail" id="rail" aria-label="Navigimi"><div class="railnav"><a href="#ballina" data-icon="home"><span class="ico" aria-hidden="true"></span><span class="t">Ballina</span></a><a href="#hyrje" data-icon="map"><span class="ico" aria-hidden="true"></span><span class="t">Kursi</span></a><a href="#praktike" data-icon="target"><span class="ico" aria-hidden="true"></span><span class="t">Praktikë</span></a><a href="#fjalori" data-icon="cards"><span class="ico" aria-hidden="true"></span><span class="t">Fjalori</span></a><a href="#biseda" data-icon="chat"><span class="ico" aria-hidden="true"></span><span class="t">Bisedat</span></a><a href="#degjo" data-icon="ear"><span class="ico" aria-hidden="true"></span><span class="t">Dëgjo dhe shqipto</span></a><a href="#foljet" data-icon="table"><span class="ico" aria-hidden="true"></span><span class="t">Foljet</span></a><a href="#progresi" data-icon="chart"><span class="ico" aria-hidden="true"></span><span class="t">Progresi</span></a></div><h4>Fillimi dhe jeta në Flandër</h4><a href="#shqiptimi"><span class="n">0</span><span class="t">Shqiptimi, alfabeti dhe fjalët e para</span><span class="p" data-prog="shqiptimi"></span></a><a href="#belgjika"><span class="n">★</span><span class="t">Holandishtja në Belgjikë</span><span class="p" data-prog="belgjika"></span></a><a href="#situatat"><span class="n">★</span><span class="t">Situatat e përditshme</span><span class="p" data-prog="situatat"></span></a><h4>Pjesa I · Hapat e parë</h4><a href="#u1"><span class="n">1</span><span class="t">Bazat: zijn, hebben, nyjat dhe koha e tashme</span><span class="p" data-prog="u1"></span></a><a href="#u2"><span class="n">2</span><span class="t">Përshëndetjet: spreken dhe wonen</span><span class="p" data-prog="u2"></span></a><a href="#u3"><span class="n">3</span><span class="t">Si bëjmë pyetje</span><span class="p" data-prog="u3"></span></a><a href="#u4"><span class="n">4</span><span class="t">Sa është ora?</span><span class="p" data-prog="u4"></span></a><a href="#u5"><span class="n">5</span><span class="t">Foljet modale: moeten dhe leren</span><span class="p" data-prog="u5"></span></a><h4>Pjesa II · Ku ndodhet? Pozicioni dhe lëvizja</h4><a href="#u6"><span class="n">6</span><span class="t">Foljet e pozicionit: staan, liggen, zitten</span><span class="p" data-prog="u6"></span></a><a href="#u7"><span class="n">7</span><span class="t">Staan dhe liggen me parafjalë</span><span class="p" data-prog="u7"></span></a><a href="#u8"><span class="n">8</span><span class="t">Përemrat pronorë</span><span class="p" data-prog="u8"></span></a><a href="#u9"><span class="n">9</span><span class="t">Pronësia dhe përemrat dëftorë</span><span class="p" data-prog="u9"></span></a><a href="#u10"><span class="n">10</span><span class="t">Foljet lopen dhe zitten</span><span class="p" data-prog="u10"></span></a><a href="#u11"><span class="n">11</span><span class="t">Lopen dhe zitten me parafjalë</span><span class="p" data-prog="u11"></span></a><h4>Pjesa III · Drejtshkrimi dhe emrat</h4><a href="#u12"><span class="n">12</span><span class="t">Drejtshkrimi: pesë rregulla të thjeshta</span><span class="p" data-prog="u12"></span></a><a href="#u13"><span class="n">13</span><span class="t">Nyjat dhe emrat</span><span class="p" data-prog="u13"></span></a><h4>Pjesa IV · Ndërtimi i fjalisë</h4><a href="#u14"><span class="n">14</span><span class="t">Rendi i fjalëve në fjali</span><span class="p" data-prog="u14"></span></a><a href="#u15"><span class="n">15</span><span class="t">Lidhëzat</span><span class="p" data-prog="u15"></span></a><a href="#u16"><span class="n">16</span><span class="t">Mohimi: niet dhe geen</span><span class="p" data-prog="u16"></span></a><a href="#u17"><span class="n">17</span><span class="t">Ndajfoljet</span><span class="p" data-prog="u17"></span></a><a href="#u18"><span class="n">18</span><span class="t">Parafjalët dhe er / daar / waar</span><span class="p" data-prog="u18"></span></a><h4>Pjesa V · Sistemi i foljeve</h4><a href="#u19"><span class="n">19</span><span class="t">Koha e tashme: përmbledhje, «po bëj» dhe urdhërorja</span><span class="p" data-prog="u19"></span></a><a href="#u20"><span class="n">20</span><span class="t">Koha e shkuar</span><span class="p" data-prog="u20"></span></a><a href="#u21"><span class="n">21</span><span class="t">Koha e kryer</span><span class="p" data-prog="u21"></span></a><a href="#u22"><span class="n">22</span><span class="t">Më se e kryera, e ardhmja dhe kushtorja</span><span class="p" data-prog="u22"></span></a><a href="#u23"><span class="n">23</span><span class="t">Forma pësore</span><span class="p" data-prog="u23"></span></a><a href="#u24"><span class="n">24</span><span class="t">Foljet modale dhe laten: thellim</span><span class="p" data-prog="u24"></span></a><a href="#u25"><span class="n">25</span><span class="t">Foljet me parashtesë, vetvetore dhe pavetore</span><span class="p" data-prog="u25"></span></a></nav>
-<main id="main" tabindex="-1" data-course="assets/course.json?v=1d2373227d"><article class="unit page" id="ballina" hidden><div class="loading" role="status">Duke u ngarkuar…</div></article><article class="unit page" id="hyrje" hidden><div class="loading" role="status">Duke u ngarkuar…</div></article><article class="unit page" id="praktike" hidden><div class="loading" role="status">Duke u ngarkuar…</div></article><article class="unit page" id="fjalori" hidden><div class="loading" role="status">Duke u ngarkuar…</div></article><article class="unit page" id="biseda" hidden><div class="loading" role="status">Duke u ngarkuar…</div></article><article class="unit page" id="degjo" hidden><div class="loading" role="status">Duke u ngarkuar…</div></article><article class="unit page" id="foljet" hidden><div class="loading" role="status">Duke u ngarkuar…</div></article><article class="unit page" id="progresi" hidden><div class="loading" role="status">Duke u ngarkuar…</div></article><article class="unit page" id="kerko" hidden><div class="loading" role="status">Duke u ngarkuar…</div></article><article class="unit" id="shqiptimi" data-unit="shqiptimi" hidden>
+<main id="main" tabindex="-1" data-course="assets/course.json?v=0ac7451f95"><article class="unit page" id="ballina" hidden><div class="loading" role="status">Duke u ngarkuar…</div></article><article class="unit page" id="hyrje" hidden><div class="loading" role="status">Duke u ngarkuar…</div></article><article class="unit page" id="praktike" hidden><div class="loading" role="status">Duke u ngarkuar…</div></article><article class="unit page" id="fjalori" hidden><div class="loading" role="status">Duke u ngarkuar…</div></article><article class="unit page" id="biseda" hidden><div class="loading" role="status">Duke u ngarkuar…</div></article><article class="unit page" id="degjo" hidden><div class="loading" role="status">Duke u ngarkuar…</div></article><article class="unit page" id="foljet" hidden><div class="loading" role="status">Duke u ngarkuar…</div></article><article class="unit page" id="progresi" hidden><div class="loading" role="status">Duke u ngarkuar…</div></article><article class="unit page" id="kerko" hidden><div class="loading" role="status">Duke u ngarkuar…</div></article><article class="unit" id="shqiptimi" data-unit="shqiptimi" hidden>
 <header class="uhead"><div class="ukick">Hapi 0 · Para Njësisë 1 <span class="lvl">A1</span></div>
 <div class="utitle"><h2>Shqiptimi, alfabeti dhe fjalët e para</h2></div><p class="usub">Tingujt e vështirë për shqipfolësit, theksi, numrat, ditët, muajt dhe fjalitë për klasën</p>
 <div class="ustatus" data-status="shqiptimi"></div>
@@ -2334,7 +2334,7 @@
 <header class="uhead"><div class="ukick">Pjesa IV · Ndërtimi i fjalisë <span class="lvl">A1–A2</span></div>
 <div class="utitle"><span class="unum">15</span><h2>Lidhëzat</h2></div><p class="usub">en, maar, of, want – dhe lidhëzat që e çojnë foljen në fund</p>
 <div class="ustatus" data-status="u15"></div>
-<nav class="utoc" aria-label="Mësimet e njësisë"><a href="#u15-l46"><span>46</span>Lidhëzat bashkërenditëse: en, maar, of, want</a><a href="#u15-l47"><span>47</span>Lidhëzat nënrenditëse: folja në fund</a><a href="#u15-ex"><span>✎</span>Ushtrime</a><a href="#u15-gl"><span>Aa</span>Fjalorth</a></nav></header>
+<nav class="utoc" aria-label="Mësimet e njësisë"><a href="#u15-l46"><span>46</span>Lidhëzat bashkërenditëse: en, maar, of, want</a><a href="#u15-l47"><span>47</span>Lidhëzat nënrenditëse: folja në fund</a><a href="#u15-l48"><span>48</span>Pyetjet e zhdrejta: «Weet u waar het station is?»</a><a href="#u15-l49"><span>49</span>Fjalitë lidhore: «de man die hier woont»</a><a href="#u15-ex"><span>✎</span>Ushtrime</a><a href="#u15-gl"><span>Aa</span>Fjalorth</a></nav></header>
 <section class="lesson" id="u15-l46"><div class="lk">Mësimi 46</div><h2 class="lt">Lidhëzat bashkërenditëse: en, maar, of, want</h2><p>Te Njësia 14 mësuam tri tipet e rendit të fjalëve dhe katër lidhëza: <i>dat, omdat, als, want</i>. Këtu i plotësojmë. Rregulli praktik është i thjeshtë: <b>mësoni përmendësh katër lidhëzat që NUK e lëvizin foljen. Të gjitha të tjerat e çojnë foljen në fund.</b></p><p>Pas këtyre katër lidhëzave fjalia ruan rendin e zakonshëm, <b>Tipi I</b> (ose <b>Tipi II</b> në pyetje): folja mbetet e dyta.</p><div class="tw"><table class="tbl c2"><thead><tr><th>Lidhëza</th><th>Shqip</th></tr></thead><tbody>
 <tr><td><b>en</b></td><td>dhe</td></tr>
 <tr><td><b>maar</b></td><td>por</td></tr>
@@ -2388,6 +2388,69 @@
 <div class="btitle">Kur fjalia e varur vjen e para</div>
 <p>Fjalia e varur zë vendin e parë, prandaj folja e fjalisë kryesore vjen menjëherë pas presjes (Njësia 14): <b><i>Toen</b> ik in Leiden woonde, <b>fietste</b> ik veel.</i></p>
 </div></section>
+<section class="lesson" id="u15-l48"><div class="lk">Mësimi 48</div><h2 class="lt">Pyetjet e zhdrejta: «Weet u waar het station is?»</h2><p>Në zyrë, në dyqan ose në telefon pyesim shpesh <b>me mirësjellje</b>, duke e futur pyetjen brenda një fjalie tjetër: <i>Weet u…?</i> (A e dini…?), <i>Kunt u mij zeggen…?</i> (A mund të më thoni…?). Kjo quhet <b>pyetje e zhdrejtë</b>. Pyetja e zhdrejtë është fjali e varur (Tipi III): <b>folja shkon në fund</b>.</p><div class="flow">
+<div class="fnode"><div class="fl">Weet u</div><div class="fs">fjalia kryesore</div></div>
+<div class="arrow">→</div>
+<div class="fnode"><div class="fl">waar</div><div class="fs">fjala pyetëse</div></div>
+<div class="arrow">→</div>
+<div class="fnode"><div class="fl">het station</div><div class="fs">kryefjala</div></div>
+<div class="arrow">→</div>
+<div class="fnode hl"><div class="fl">is?</div><div class="fs">folja në fund</div></div>
+</div><h3 class="sh" id="u15-l48-2">Me fjalë pyetëse</h3><p>Fjala pyetëse (<i>waar, wanneer, hoe, wat, wie, hoeveel, hoe laat, welke</i>) mbetet, por folja lëviz në fund:</p><div class="tw"><table class="tbl c3"><thead><tr><th>Pyetja e drejtë</th><th>Pyetja e zhdrejtë</th><th>Shqip</th></tr></thead><tbody>
+<tr><td><b>Waar is</b> het station?</td><td>Weet u waar het station <b>is</b>?</td><td>A e dini ku është stacioni?</td></tr>
+<tr><td><b>Wanneer begint</b> de les?</td><td>Kunt u zeggen wanneer de les <b>begint</b>?</td><td>A mund të thoni kur fillon mësimi?</td></tr>
+<tr><td><b>Hoeveel kost</b> dit?</td><td>Weet u hoeveel dit <b>kost</b>?</td><td>A e dini sa kushton kjo?</td></tr>
+<tr><td><b>Hoe laat vertrekt</b> de trein?</td><td>Weet u hoe laat de trein <b>vertrekt</b>?</td><td>A e dini në çfarë ore niset treni?</td></tr>
+<tr><td><b>Wie is</b> die man?</td><td>Ik weet niet wie die man <b>is</b>.</td><td>Nuk e di kush është ai burrë.</td></tr>
+</tbody></table></div><h3 class="sh" id="u15-l48-5">Pyetjet po/jo: «of»</h3><p>Kur pyetja e drejtë nuk ka fjalë pyetëse (pyetje po/jo), në pyetjen e zhdrejtë vjen <b>of</b> (nëse, a):</p><div class="tw"><table class="tbl c3"><thead><tr><th>Pyetja e drejtë</th><th>Pyetja e zhdrejtë</th><th>Shqip</th></tr></thead><tbody>
+<tr><td><b>Komt</b> hij morgen?</td><td>Ik weet niet of hij morgen <b>komt</b>.</td><td>Nuk e di nëse vjen nesër.</td></tr>
+<tr><td><b>Is</b> de apotheek open?</td><td>Weet u of de apotheek open <b>is</b>?</td><td>A e dini nëse farmacia është e hapur?</td></tr>
+<tr><td><b>Hebt</b> u een afspraak?</td><td>De dokter vraagt of u een afspraak <b>hebt</b>.</td><td>Mjeku pyet nëse keni takim.</td></tr>
+</tbody></table></div><div class="box contrast"><div class="kicker">Shqip ↔ Holandisht</div>
+<div class="btitle">Dallim nga shqipja</div>
+<p>Në shqip pyetja e zhdrejtë ruan rendin e zakonshëm: <i>A e dini ku</i> <b>është</b> <i>stacioni?</i> Në holandisht folja kalon në fund: <i>Weet u waar het station</i> <b>is</b>? Gabim i shpeshtë: «Weet u waar is het station?»</p>
+</div><div class="box caution"><div class="kicker">Kujdes</div>
+<div class="btitle">Kujdes: «of», jo «als»</div>
+<p>Për «nëse» në pyetjen e zhdrejtë përdoret <b>of</b>: <i>Ik weet niet</i> <b>of</b> <i>hij komt</i>. <b>Als</b> do të thotë «kur» ose «në qoftë se» (kusht): <i>Als hij komt, bel ik je.</i> (Nëse vjen, të telefonoj.)</p>
+</div><h3 class="sh" id="u15-l48-10">Me dy folje</h3><p>Kur ka më shumë se një folje, të gjitha shkojnë në fund; folja e zgjedhur zakonisht vjen e para: <i>Weet u waar ik</i> <b>moet tekenen</b>? (A e dini ku duhet të nënshkruaj?) · <i>Weet u wanneer de trein</i> <b>aankomt</b>? (… kur mbërrin treni?)</p><h3 class="sh" id="u15-l48-12">Fillimet më të dobishme</h3><div class="tw"><table class="tbl c2"><thead><tr><th>Holandisht</th><th>Shqip</th></tr></thead><tbody>
+<tr><td>Weet u …?</td><td>A e dini …?</td></tr>
+<tr><td>Kunt u mij zeggen …?</td><td>A mund të më thoni …?</td></tr>
+<tr><td>Mag ik vragen …?</td><td>A mund të pyes …?</td></tr>
+<tr><td>Ik weet niet …</td><td>Nuk e di …</td></tr>
+<tr><td>Ik vraag me af …</td><td>Pyes veten …</td></tr>
+</tbody></table></div><div class="box note"><div class="kicker">Shënim</div>
+<div class="btitle">Pikëpyetja</div>
+<p>Pikëpyetja vihet vetëm kur e gjithë fjalia është pyetje: <i>Weet u waar het station is?</i> Por: <i>Ik weet niet waar het station is.</i> (pikë)</p>
+</div></section>
+<section class="lesson" id="u15-l49"><div class="lk">Mësimi 49</div><h2 class="lt">Fjalitë lidhore: «de man die hier woont»</h2><p>Fjalia lidhore përshkruan një emër: <i>burri</i> <b>që banon këtu</b>. Në shqip përdorim <b>që</b> (ose <i>i cili, e cila</i>). Në holandisht përdorim <b>die</b> ose <b>dat</b> – dhe, si në çdo fjali të varur, <b>folja shkon në fund</b>.</p><div class="flow">
+<div class="fnode"><div class="fl">de man</div><div class="fs">emri</div></div>
+<div class="arrow">→</div>
+<div class="fnode hl"><div class="fl">die</div><div class="fs">die / dat</div></div>
+<div class="arrow">→</div>
+<div class="fnode"><div class="fl">hier</div><div class="fs">…</div></div>
+<div class="arrow">→</div>
+<div class="fnode hl"><div class="fl">woont</div><div class="fs">folja në fund</div></div>
+</div><h3 class="sh" id="u15-l49-2">die apo dat?</h3><p>Zgjedhja varet nga emri që përshkruajmë – njësoj si te <i>deze/dit</i> dhe <i>die/dat</i> (Njësia 9):</p><div class="tw"><table class="tbl c3"><thead><tr><th>Emri</th><th>Përemri lidhor</th><th>Shembull</th></tr></thead><tbody>
+<tr><td><b>de</b>-fjalë</td><td><b>die</b></td><td>de man <b>die</b> hier woont</td></tr>
+<tr><td><b>het</b>-fjalë</td><td><b>dat</b></td><td>het huis <b>dat</b> ik huur</td></tr>
+<tr><td>shumës (gjithmonë)</td><td><b>die</b></td><td>de mensen <b>die</b> ik ken</td></tr>
+</tbody></table></div><div class="tw"><table class="tbl c2"><thead><tr><th>Holandisht</th><th>Shqip</th></tr></thead><tbody>
+<tr><td>De man die hier woont, is mijn buurman.</td><td>Burri që banon këtu është fqinji im.</td></tr>
+<tr><td>Het huis dat ik huur, is klein.</td><td>Shtëpia që marr me qira është e vogël.</td></tr>
+<tr><td>Ik heb een collega die Albanees spreekt.</td><td>Kam një koleg që flet shqip.</td></tr>
+<tr><td>Dat is het boek dat ik lees.</td><td>Ky është libri që po lexoj.</td></tr>
+<tr><td>Het meisje dat daar zit, is mijn dochter.</td><td>Vajza që rri atje është vajza ime.</td></tr>
+<tr><td>De kinderen die buiten spelen, zijn van de buren.</td><td>Fëmijët që luajnë jashtë janë të fqinjëve.</td></tr>
+</tbody></table></div><div class="box contrast"><div class="kicker">Shqip ↔ Holandisht</div>
+<div class="btitle">Dallim nga shqipja</div>
+<p>Shqip: <b>që</b> për të gjitha. Holandisht: <b>die</b> ose <b>dat</b> sipas nyjës së emrit – dhe folja në fund: <i>de man die hier</i> <b>woont</b> (jo «de man die woont hier»).</p>
+</div><div class="box caution"><div class="kicker">Kujdes</div>
+<div class="btitle">Kujdes: het meisje → dat</div>
+<p>Edhe pse <i>meisje</i> është vajzë, fjala është <b>het</b>-fjalë: <i>het meisje</i> <b>dat</b> <i>daar zit</i>. Po ashtu <i>het kind</i> <b>dat</b>…, por në shumës <i>de kinderen</i> <b>die</b>…</p>
+</div><h3 class="sh" id="u15-l49-8">Me parafjalë</h3><p>Për <b>persona</b>, pas parafjalës vjen <b>wie</b>: <i>de collega</i> <b>met wie</b> <i>ik werk</i> (kolegu me të cilin punoj). Për <b>sende</b> përdoret <b>waar</b> + parafjalë (Njësia 18): <i>het huis</i> <b>waarin</b> <i>ik woon</i> · <i>de pen</i> <b>waarmee</b> <i>ik schrijf</i>. Në gjuhën e folur dëgjoni shpesh edhe: <i>het huis waar ik in woon</i>.</p><div class="box note"><div class="kicker">Shënim</div>
+<div class="btitle">Presja</div>
+<p>Kur fjalia lidhore është në mes, holandishtja vë shpesh presje pas saj, ku takohen dy foljet: <i>De man die hier woont,</i> <b>is</b> <i>mijn buurman.</i></p>
+</div></section>
 <section class="practice" id="u15-ex"><div class="lk">Praktikë · Njësia 15</div><h2 class="lt">Ushtrime</h2><p class="instr">Shkruani përgjigjet, pastaj shtypni <b>Kontrollo</b>. Për çdo gabim shihni një shpjegim të shkurtër; zgjidhjen e hapni vetë kur të doni. Përgjigjet ruhen në këtë shfletues.</p><section class="ex" id="u15-A" data-ex="u15-A">
 <h3 class="exh"><span class="exl">A</span><span>Folja lëviz apo jo?</span></h3>
 <p class="instr">Shkruani <b>I</b> (folja mbetet e dyta) ose <b>III</b> (folja në fund) pas çdo lidhëze.</p><ol class="items"><li class="it" data-item="u15-A-0"><span class="inum">1.</span><div class="ibody">en → <input class="bl" type="text" autocomplete="off" autocapitalize="off" spellcheck="false" id="u15-A-0-0" data-slot="u15-A-0" aria-label="Përgjigjja 1"></div><span class="mark-i" aria-hidden="true"></span></li><li class="it" data-item="u15-A-1"><span class="inum">2.</span><div class="ibody">omdat → <input class="bl" type="text" autocomplete="off" autocapitalize="off" spellcheck="false" id="u15-A-1-0" data-slot="u15-A-1" aria-label="Përgjigjja 2"></div><span class="mark-i" aria-hidden="true"></span></li><li class="it" data-item="u15-A-2"><span class="inum">3.</span><div class="ibody">maar → <input class="bl" type="text" autocomplete="off" autocapitalize="off" spellcheck="false" id="u15-A-2-0" data-slot="u15-A-2" aria-label="Përgjigjja 3"></div><span class="mark-i" aria-hidden="true"></span></li><li class="it" data-item="u15-A-3"><span class="inum">4.</span><div class="ibody">dat → <input class="bl" type="text" autocomplete="off" autocapitalize="off" spellcheck="false" id="u15-A-3-0" data-slot="u15-A-3" aria-label="Përgjigjja 4"></div><span class="mark-i" aria-hidden="true"></span></li><li class="it" data-item="u15-A-4"><span class="inum">5.</span><div class="ibody">want → <input class="bl" type="text" autocomplete="off" autocapitalize="off" spellcheck="false" id="u15-A-4-0" data-slot="u15-A-4" aria-label="Përgjigjja 5"></div><span class="mark-i" aria-hidden="true"></span></li><li class="it" data-item="u15-A-5"><span class="inum">6.</span><div class="ibody">toen → <input class="bl" type="text" autocomplete="off" autocapitalize="off" spellcheck="false" id="u15-A-5-0" data-slot="u15-A-5" aria-label="Përgjigjja 6"></div><span class="mark-i" aria-hidden="true"></span></li><li class="it" data-item="u15-A-6"><span class="inum">7.</span><div class="ibody">terwijl → <input class="bl" type="text" autocomplete="off" autocapitalize="off" spellcheck="false" id="u15-A-6-0" data-slot="u15-A-6" aria-label="Përgjigjja 7"></div><span class="mark-i" aria-hidden="true"></span></li><li class="it" data-item="u15-A-7"><span class="inum">8.</span><div class="ibody">of (ose) → <input class="bl" type="text" autocomplete="off" autocapitalize="off" spellcheck="false" id="u15-A-7-0" data-slot="u15-A-7" aria-label="Përgjigjja 8"></div><span class="mark-i" aria-hidden="true"></span></li></ol>
@@ -2429,17 +2492,41 @@
 <ol class="items"><li class="it wide" data-item="u15-G-0"><span class="inum">1.</span><div class="ibody"><span class="itext">Unë pi çaj dhe ajo pi kafe.</span><input class="full" type="text" autocomplete="off" autocapitalize="off" spellcheck="false" id="u15-G-0-0" data-slot="u15-G-0" aria-label="Përgjigjja 1"></div><span class="mark-i" aria-hidden="true"></span></li><li class="it wide" data-item="u15-G-1"><span class="inum">2.</span><div class="ibody"><span class="itext">Nuk vjen, sepse nuk ka kohë. (omdat)</span><input class="full" type="text" autocomplete="off" autocapitalize="off" spellcheck="false" id="u15-G-1-0" data-slot="u15-G-1" aria-label="Përgjigjja 2"></div><span class="mark-i" aria-hidden="true"></span></li><li class="it wide" data-item="u15-G-2"><span class="inum">3.</span><div class="ibody"><span class="itext">E di që ai banon në Amsterdam.</span><input class="full" type="text" autocomplete="off" autocapitalize="off" spellcheck="false" id="u15-G-2-0" data-slot="u15-G-2" aria-label="Përgjigjja 3"></div><span class="mark-i" aria-hidden="true"></span></li><li class="it wide" data-item="u15-G-3"><span class="inum">4.</span><div class="ibody"><span class="itext">Kur isha i vogël, banoja në Kosovë.</span><input class="full" type="text" autocomplete="off" autocapitalize="off" spellcheck="false" id="u15-G-3-0" data-slot="u15-G-3" aria-label="Përgjigjja 4"></div><span class="mark-i" aria-hidden="true"></span></li><li class="it wide" data-item="u15-G-4"><span class="inum">5.</span><div class="ibody"><span class="itext">Megjithëse bie shi, shkojmë shëtitje.</span><input class="full" type="text" autocomplete="off" autocapitalize="off" spellcheck="false" id="u15-G-4-0" data-slot="u15-G-4" aria-label="Përgjigjja 5"></div><span class="mark-i" aria-hidden="true"></span></li></ol>
 <div class="exbar"><button type="button" class="btn primary" data-act="check">Kontrollo</button><button type="button" class="btn" data-act="show">Shfaq zgjidhjen</button><button type="button" class="btn ghost" data-act="clear">Pastro</button><span class="score" aria-live="polite"></span></div>
 <div class="sol" hidden><b>Zgjidhja:</b> 1. Ik drink thee en zij drinkt koffie. 2. Hij komt niet, omdat hij geen tijd heeft. 3. Ik weet dat hij in Amsterdam woont. 4. Toen ik klein was, woonde ik in Kosovo. 5. Hoewel het regent, gaan wij wandelen.</div>
+</section>
+<section class="ex" id="u15-H" data-ex="u15-H">
+<h3 class="exh"><span class="exl">H</span><span>Ktheni në pyetje të zhdrejtë</span></h3>
+<ol class="items"><li class="it" data-item="u15-H-0"><span class="inum">1.</span><div class="ibody">Waar is de apotheek? → Weet u <input class="bl" type="text" autocomplete="off" autocapitalize="off" spellcheck="false" id="u15-H-0-0" data-slot="u15-H-0" aria-label="Përgjigjja 1">?</div><span class="mark-i" aria-hidden="true"></span></li><li class="it" data-item="u15-H-1"><span class="inum">2.</span><div class="ibody">Wanneer begint de les? → Weet u <input class="bl" type="text" autocomplete="off" autocapitalize="off" spellcheck="false" id="u15-H-1-0" data-slot="u15-H-1" aria-label="Përgjigjja 2">?</div><span class="mark-i" aria-hidden="true"></span></li><li class="it" data-item="u15-H-2"><span class="inum">3.</span><div class="ibody">Hoeveel kost het ticket? → Kunt u zeggen <input class="bl" type="text" autocomplete="off" autocapitalize="off" spellcheck="false" id="u15-H-2-0" data-slot="u15-H-2" aria-label="Përgjigjja 3">?</div><span class="mark-i" aria-hidden="true"></span></li><li class="it" data-item="u15-H-3"><span class="inum">4.</span><div class="ibody">Komt de technieker vandaag? → Weet u <input class="bl" type="text" autocomplete="off" autocapitalize="off" spellcheck="false" id="u15-H-3-0" data-slot="u15-H-3" aria-label="Përgjigjja 4">?</div><span class="mark-i" aria-hidden="true"></span></li><li class="it" data-item="u15-H-4"><span class="inum">5.</span><div class="ibody">Is de winkel open? → Ik weet niet <input class="bl" type="text" autocomplete="off" autocapitalize="off" spellcheck="false" id="u15-H-4-0" data-slot="u15-H-4" aria-label="Përgjigjja 5">.</div><span class="mark-i" aria-hidden="true"></span></li><li class="it" data-item="u15-H-5"><span class="inum">6.</span><div class="ibody">Wie is uw huisarts? → Mag ik vragen <input class="bl" type="text" autocomplete="off" autocapitalize="off" spellcheck="false" id="u15-H-5-0" data-slot="u15-H-5" aria-label="Përgjigjja 6">?</div><span class="mark-i" aria-hidden="true"></span></li><li class="it" data-item="u15-H-6"><span class="inum">7.</span><div class="ibody">Waar moet ik tekenen? → Weet u <input class="bl" type="text" autocomplete="off" autocapitalize="off" spellcheck="false" id="u15-H-6-0" data-slot="u15-H-6" aria-label="Përgjigjja 7">?</div><span class="mark-i" aria-hidden="true"></span></li></ol>
+<div class="exbar"><button type="button" class="btn primary" data-act="check">Kontrollo</button><button type="button" class="btn" data-act="show">Shfaq zgjidhjen</button><button type="button" class="btn ghost" data-act="clear">Pastro</button><span class="score" aria-live="polite"></span></div>
+<div class="sol" hidden><b>Zgjidhja:</b> 1. waar de apotheek is 2. wanneer de les begint 3. hoeveel het ticket kost 4. of de technieker vandaag komt 5. of de winkel open is 6. wie uw huisarts is 7. waar ik moet tekenen / waar ik tekenen moet</div>
+</section>
+<section class="ex" id="u15-I" data-ex="u15-I">
+<h3 class="exh"><span class="exl">I</span><span>Përktheni në holandisht</span></h3>
+<ol class="items"><li class="it wide" data-item="u15-I-0"><span class="inum">1.</span><div class="ibody"><span class="itext">A e dini ku është stacioni?</span><input class="full" type="text" autocomplete="off" autocapitalize="off" spellcheck="false" id="u15-I-0-0" data-slot="u15-I-0" aria-label="Përgjigjja 1"></div><span class="mark-i" aria-hidden="true"></span></li><li class="it wide" data-item="u15-I-1"><span class="inum">2.</span><div class="ibody"><span class="itext">Nuk e di nëse ai vjen.</span><input class="full" type="text" autocomplete="off" autocapitalize="off" spellcheck="false" id="u15-I-1-0" data-slot="u15-I-1" aria-label="Përgjigjja 2"></div><span class="mark-i" aria-hidden="true"></span></li><li class="it wide" data-item="u15-I-2"><span class="inum">3.</span><div class="ibody"><span class="itext">A mund të më thoni sa është ora?</span><input class="full" type="text" autocomplete="off" autocapitalize="off" spellcheck="false" id="u15-I-2-0" data-slot="u15-I-2" aria-label="Përgjigjja 3"></div><span class="mark-i" aria-hidden="true"></span></li></ol>
+<div class="exbar"><button type="button" class="btn primary" data-act="check">Kontrollo</button><button type="button" class="btn" data-act="show">Shfaq zgjidhjen</button><button type="button" class="btn ghost" data-act="clear">Pastro</button><span class="score" aria-live="polite"></span></div>
+<div class="sol" hidden><b>Zgjidhja:</b> 1. Weet u waar het station is? / Weet je waar het station is? 2. Ik weet niet of hij komt. 3. Kunt u mij zeggen hoe laat het is? / Kunt u me zeggen hoe laat het is? / Kunt u zeggen hoe laat het is?</div>
+</section>
+<section class="ex" id="u15-J" data-ex="u15-J">
+<h3 class="exh"><span class="exl">J</span><span>die apo dat?</span></h3>
+<ol class="items"><li class="it" data-item="u15-J-0"><span class="inum">1.</span><div class="ibody">de man <input class="bl" type="text" autocomplete="off" autocapitalize="off" spellcheck="false" id="u15-J-0-0" data-slot="u15-J-0" aria-label="Përgjigjja 1"> hier woont</div><span class="mark-i" aria-hidden="true"></span></li><li class="it" data-item="u15-J-1"><span class="inum">2.</span><div class="ibody">het huis <input class="bl" type="text" autocomplete="off" autocapitalize="off" spellcheck="false" id="u15-J-1-0" data-slot="u15-J-1" aria-label="Përgjigjja 2"> ik huur</div><span class="mark-i" aria-hidden="true"></span></li><li class="it" data-item="u15-J-2"><span class="inum">3.</span><div class="ibody">de boeken <input class="bl" type="text" autocomplete="off" autocapitalize="off" spellcheck="false" id="u15-J-2-0" data-slot="u15-J-2" aria-label="Përgjigjja 3"> ik lees</div><span class="mark-i" aria-hidden="true"></span></li><li class="it" data-item="u15-J-3"><span class="inum">4.</span><div class="ibody">het meisje <input class="bl" type="text" autocomplete="off" autocapitalize="off" spellcheck="false" id="u15-J-3-0" data-slot="u15-J-3" aria-label="Përgjigjja 4"> daar zit</div><span class="mark-i" aria-hidden="true"></span></li><li class="it" data-item="u15-J-4"><span class="inum">5.</span><div class="ibody">de stad <input class="bl" type="text" autocomplete="off" autocapitalize="off" spellcheck="false" id="u15-J-4-0" data-slot="u15-J-4" aria-label="Përgjigjja 5"> ik mooi vind</div><span class="mark-i" aria-hidden="true"></span></li><li class="it" data-item="u15-J-5"><span class="inum">6.</span><div class="ibody">het werk <input class="bl" type="text" autocomplete="off" autocapitalize="off" spellcheck="false" id="u15-J-5-0" data-slot="u15-J-5" aria-label="Përgjigjja 6"> hij doet</div><span class="mark-i" aria-hidden="true"></span></li><li class="it" data-item="u15-J-6"><span class="inum">7.</span><div class="ibody">de collega's <input class="bl" type="text" autocomplete="off" autocapitalize="off" spellcheck="false" id="u15-J-6-0" data-slot="u15-J-6" aria-label="Përgjigjja 7"> Nederlands spreken</div><span class="mark-i" aria-hidden="true"></span></li></ol>
+<div class="exbar"><button type="button" class="btn primary" data-act="check">Kontrollo</button><button type="button" class="btn" data-act="show">Shfaq zgjidhjen</button><button type="button" class="btn ghost" data-act="clear">Pastro</button><span class="score" aria-live="polite"></span></div>
+<div class="sol" hidden><b>Zgjidhja:</b> 1. die 2. dat 3. die 4. dat 5. die 6. dat 7. die</div>
+</section>
+<section class="ex" id="u15-K" data-ex="u15-K">
+<h3 class="exh"><span class="exl">K</span><span>Bashkoni dy fjalitë me «die» ose «dat»</span></h3>
+<ol class="items"><li class="it wide" data-item="u15-K-0"><span class="inum">1.</span><div class="ibody"><span class="itext">Ik heb een buurman. Hij spreekt Albanees.</span><input class="full" type="text" autocomplete="off" autocapitalize="off" spellcheck="false" id="u15-K-0-0" data-slot="u15-K-0" aria-label="Përgjigjja 1"></div><span class="mark-i" aria-hidden="true"></span></li><li class="it wide" data-item="u15-K-1"><span class="inum">2.</span><div class="ibody"><span class="itext">Dat is het boek. Ik lees het.</span><input class="full" type="text" autocomplete="off" autocapitalize="off" spellcheck="false" id="u15-K-1-0" data-slot="u15-K-1" aria-label="Përgjigjja 2"></div><span class="mark-i" aria-hidden="true"></span></li><li class="it wide" data-item="u15-K-2"><span class="inum">3.</span><div class="ibody"><span class="itext">De bus gaat naar het station. Hij is te laat.</span><input class="full" type="text" autocomplete="off" autocapitalize="off" spellcheck="false" id="u15-K-2-0" data-slot="u15-K-2" aria-label="Përgjigjja 3"></div><span class="mark-i" aria-hidden="true"></span></li><li class="it wide" data-item="u15-K-3"><span class="inum">4.</span><div class="ibody"><span class="itext">Ik zoek een appartement. Het is niet te duur.</span><input class="full" type="text" autocomplete="off" autocapitalize="off" spellcheck="false" id="u15-K-3-0" data-slot="u15-K-3" aria-label="Përgjigjja 4"></div><span class="mark-i" aria-hidden="true"></span></li></ol>
+<div class="exbar"><button type="button" class="btn primary" data-act="check">Kontrollo</button><button type="button" class="btn" data-act="show">Shfaq zgjidhjen</button><button type="button" class="btn ghost" data-act="clear">Pastro</button><span class="score" aria-live="polite"></span></div>
+<div class="sol" hidden><b>Zgjidhja:</b> 1. Ik heb een buurman die Albanees spreekt. 2. Dat is het boek dat ik lees. 3. De bus die naar het station gaat, is te laat. 4. Ik zoek een appartement dat niet te duur is.</div>
 </section><div class="done" data-done="u15" hidden></div></section>
-<section class="gloss" id="u15-gl"><div class="lk">Njësia 15</div><h2 class="lt">Fjalorth</h2><div class="glist"><div class="gi"><span class="gnl">en</span><span class="gsq">dhe</span></div><div class="gi"><span class="gnl">toen</span><span class="gsq">kur (në të shkuarën)</span></div><div class="gi"><span class="gnl">maar</span><span class="gsq">por</span></div><div class="gi"><span class="gnl">terwijl</span><span class="gsq">ndërsa</span></div><div class="gi"><span class="gnl">of</span><span class="gsq">ose; nëse</span></div><div class="gi"><span class="gnl">nadat</span><span class="gsq">pasi</span></div><div class="gi"><span class="gnl">want</span><span class="gsq">sepse (Tipi I)</span></div><div class="gi"><span class="gnl">voordat</span><span class="gsq">para se</span></div><div class="gi"><span class="gnl">omdat</span><span class="gsq">sepse (Tipi III)</span></div><div class="gi"><span class="gnl">totdat</span><span class="gsq">derisa</span></div><div class="gi"><span class="gnl">dat</span><span class="gsq">që</span></div><div class="gi"><span class="gnl">hoewel</span><span class="gsq">megjithëse</span></div><div class="gi"><span class="gnl">als</span><span class="gsq">kur; nëse</span></div><div class="gi"><span class="gnl">zodat</span><span class="gsq">kështu që</span></div><div class="gi"><span class="gnl">wanneer</span><span class="gsq">kur; nëse</span></div><div class="gi"><span class="gnl">zoals</span><span class="gsq">siç</span></div><div class="gi"><span class="gnl">de film</span><span class="gsq">filmi</span></div><div class="gi"><span class="gnl">koken</span><span class="gsq">gatuaj</span></div><div class="gi"><span class="gnl">klein</span><span class="gsq">i vogël</span></div><div class="gi"><span class="gnl">wandelen</span><span class="gsq">shëtis</span></div></div></section>
+<section class="gloss" id="u15-gl"><div class="lk">Njësia 15</div><h2 class="lt">Fjalorth</h2><div class="glist"><div class="gi"><span class="gnl">en</span><span class="gsq">dhe</span></div><div class="gi"><span class="gnl">toen</span><span class="gsq">kur (në të shkuarën)</span></div><div class="gi"><span class="gnl">maar</span><span class="gsq">por</span></div><div class="gi"><span class="gnl">terwijl</span><span class="gsq">ndërsa</span></div><div class="gi"><span class="gnl">of</span><span class="gsq">ose; nëse</span></div><div class="gi"><span class="gnl">nadat</span><span class="gsq">pasi</span></div><div class="gi"><span class="gnl">want</span><span class="gsq">sepse (Tipi I)</span></div><div class="gi"><span class="gnl">voordat</span><span class="gsq">para se</span></div><div class="gi"><span class="gnl">omdat</span><span class="gsq">sepse (Tipi III)</span></div><div class="gi"><span class="gnl">totdat</span><span class="gsq">derisa</span></div><div class="gi"><span class="gnl">dat</span><span class="gsq">që</span></div><div class="gi"><span class="gnl">hoewel</span><span class="gsq">megjithëse</span></div><div class="gi"><span class="gnl">als</span><span class="gsq">kur; nëse</span></div><div class="gi"><span class="gnl">zodat</span><span class="gsq">kështu që</span></div><div class="gi"><span class="gnl">wanneer</span><span class="gsq">kur; nëse</span></div><div class="gi"><span class="gnl">zoals</span><span class="gsq">siç</span></div><div class="gi"><span class="gnl">de film</span><span class="gsq">filmi</span></div><div class="gi"><span class="gnl">koken</span><span class="gsq">gatuaj</span></div><div class="gi"><span class="gnl">klein</span><span class="gsq">i vogël</span></div><div class="gi"><span class="gnl">wandelen</span><span class="gsq">shëtis</span></div><div class="gi"><span class="gnl">weten</span><span class="gsq">di</span></div><div class="gi"><span class="gnl">vragen</span><span class="gsq">pyes</span></div><div class="gi"><span class="gnl">zich afvragen</span><span class="gsq">pyes veten</span></div><div class="gi"><span class="gnl">die</span><span class="gsq">që (de-fjalë, shumës)</span></div><div class="gi"><span class="gnl">dat</span><span class="gsq">që (het-fjalë)</span></div><div class="gi"><span class="gnl">wie</span><span class="gsq">kush; (pas parafjalës) të cilin</span></div></div></section>
 <nav class="pnav"><a class="pn" href="#u14">← Njësia 14</a><a class="pn nx" href="#u16">Njësia 16 →</a></nav></article><article class="unit" id="u16" data-unit="u16" hidden>
 <header class="uhead"><div class="ukick">Pjesa IV · Ndërtimi i fjalisë <span class="lvl">A1–A2</span></div>
 <div class="utitle"><span class="unum">16</span><h2>Mohimi: niet dhe geen</h2></div><p class="usub">Ku vendoset «niet» dhe kur përdoret «geen»</p>
 <div class="ustatus" data-status="u16"></div>
-<nav class="utoc" aria-label="Mësimet e njësisë"><a href="#u16-l48"><span>48</span>Niet: mohimi i fjalisë dhe i mbiemrit</a><a href="#u16-l49"><span>49</span>Niet para një pjese të caktuar dhe para foljes së fundit</a><a href="#u16-l50"><span>50</span>Niet në fjali të varura dhe «geen»</a><a href="#u16-l51"><span>51</span>Ushqimi dhe pijet: eten, drinken, geen dhe niet</a><a href="#u16-ex"><span>✎</span>Ushtrime</a><a href="#u16-gl"><span>Aa</span>Fjalorth</a></nav></header>
-<section class="lesson" id="u16-l48"><div class="lk">Mësimi 48</div><h2 class="lt">Niet: mohimi i fjalisë dhe i mbiemrit</h2><p>Mohimi nuk është i njëjtë në çdo gjuhë. Në <b>shqip</b> e mohojmë vetë foljen me «nuk»: <i>Nuk e di</i>. Në <b>holandisht</b> fjalëza <b>niet</b> (jo, nuk) zakonisht vendoset <b>më tej në fjali</b>, jo para foljes: <i>Ik weet het niet</i>. Rregullat më poshtë ju japin një bazë të sigurt për shumicën e fjalive.</p><div class="box contrast"><div class="kicker">Shqip ↔ Holandisht</div>
+<nav class="utoc" aria-label="Mësimet e njësisë"><a href="#u16-l50"><span>50</span>Niet: mohimi i fjalisë dhe i mbiemrit</a><a href="#u16-l51"><span>51</span>Niet para një pjese të caktuar dhe para foljes së fundit</a><a href="#u16-l52"><span>52</span>Niet në fjali të varura dhe «geen»</a><a href="#u16-l53"><span>53</span>Ushqimi dhe pijet: eten, drinken, geen dhe niet</a><a href="#u16-ex"><span>✎</span>Ushtrime</a><a href="#u16-gl"><span>Aa</span>Fjalorth</a></nav></header>
+<section class="lesson" id="u16-l50"><div class="lk">Mësimi 50</div><h2 class="lt">Niet: mohimi i fjalisë dhe i mbiemrit</h2><p>Mohimi nuk është i njëjtë në çdo gjuhë. Në <b>shqip</b> e mohojmë vetë foljen me «nuk»: <i>Nuk e di</i>. Në <b>holandisht</b> fjalëza <b>niet</b> (jo, nuk) zakonisht vendoset <b>më tej në fjali</b>, jo para foljes: <i>Ik weet het niet</i>. Rregullat më poshtë ju japin një bazë të sigurt për shumicën e fjalive.</p><div class="box contrast"><div class="kicker">Shqip ↔ Holandisht</div>
 <div class="btitle">Dallim nga shqipja</div>
 <p>Shqip: <b>Nuk</b> e di. • Holandisht: Ik weet het <b>niet</b>. Folja mbetet e pandryshuar; «niet» vjen pas saj.</p>
-</div><h3 class="sh" id="u16-l48-2">Rregulli 1: niet në fund të fjalisë</h3><p>Kur mohojmë <b>gjithë fjalinë</b> dhe fjalia është e thjeshtë, <b>niet</b> vjen <b>në fund</b>:</p><div class="flow">
+</div><h3 class="sh" id="u16-l50-2">Rregulli 1: niet në fund të fjalisë</h3><p>Kur mohojmë <b>gjithë fjalinë</b> dhe fjalia është e thjeshtë, <b>niet</b> vjen <b>në fund</b>:</p><div class="flow">
 <div class="fnode"><div class="fl">Kryefjala</div><div class="fs">ik</div></div>
 <div class="arrow">→</div>
 <div class="fnode"><div class="fl">Folja</div><div class="fs">weet</div></div>
@@ -2453,7 +2540,7 @@
 <tr><td>Ik ken hem <b>niet</b>.</td><td>Nuk e njoh atë.</td></tr>
 <tr><td>Ik begrijp het <b>niet</b>.</td><td>Nuk e kuptoj.</td></tr>
 <tr><td>Kom je of kom je <b>niet</b>?</td><td>A po vjen apo nuk vjen?</td></tr>
-</tbody></table></div><h3 class="sh" id="u16-l48-6">Rregulli 2: niet para mbiemrit pas «zijn»</h3><p>Kur pas foljes <b>zijn</b> (jam) vjen një mbiemër, <b>niet</b> vjen <b>menjëherë para mbiemrit</b>:</p><div class="tw"><table class="tbl c2"><thead><tr><th>Holandisht</th><th>Shqip</th></tr></thead><tbody>
+</tbody></table></div><h3 class="sh" id="u16-l50-6">Rregulli 2: niet para mbiemrit pas «zijn»</h3><p>Kur pas foljes <b>zijn</b> (jam) vjen një mbiemër, <b>niet</b> vjen <b>menjëherë para mbiemrit</b>:</p><div class="tw"><table class="tbl c2"><thead><tr><th>Holandisht</th><th>Shqip</th></tr></thead><tbody>
 <tr><td>Ik ben <b>niet</b> rijk.</td><td>Unë nuk jam i pasur.</td></tr>
 <tr><td>Hij is <b>niet</b> dapper.</td><td>Ai nuk është i guximshëm.</td></tr>
 <tr><td>Ik ben <b>niet</b> moe.</td><td>Unë nuk jam i lodhur.</td></tr>
@@ -2463,19 +2550,19 @@
 <div class="btitle">Kujdes</div>
 <p>Gabim: Ik ben moe niet. → Saktë: <b>Ik ben niet moe.</b> Me mbiemër «niet» nuk shkon në fund, por para mbiemrit.</p>
 </div></section>
-<section class="lesson" id="u16-l49"><div class="lk">Mësimi 49</div><h2 class="lt">Niet para një pjese të caktuar dhe para foljes së fundit</h2><h3 class="sh" id="u16-l49-0">Rregulli 3: niet para elementit që mohohet</h3><p>Kur <b>niet</b> mohon vetëm <b>një pjesë të caktuar</b> të fjalisë (mënyrën, vendin, shoqërimin), ai vjen <b>para asaj pjese</b>:</p><div class="tw"><table class="tbl c2"><thead><tr><th>Holandisht</th><th>Shqip</th></tr></thead><tbody>
+<section class="lesson" id="u16-l51"><div class="lk">Mësimi 51</div><h2 class="lt">Niet para një pjese të caktuar dhe para foljes së fundit</h2><h3 class="sh" id="u16-l51-0">Rregulli 3: niet para elementit që mohohet</h3><p>Kur <b>niet</b> mohon vetëm <b>një pjesë të caktuar</b> të fjalisë (mënyrën, vendin, shoqërimin), ai vjen <b>para asaj pjese</b>:</p><div class="tw"><table class="tbl c2"><thead><tr><th>Holandisht</th><th>Shqip</th></tr></thead><tbody>
 <tr><td>Hij speelt <b>niet</b> goed.</td><td>Ai nuk luan mirë.</td></tr>
 <tr><td>Hij gaat <b>niet</b> met de trein.</td><td>Ai nuk shkon me tren.</td></tr>
 <tr><td>Ik woon <b>niet</b> in Prishtina.</td><td>Unë nuk banoj në Prishtinë.</td></tr>
 <tr><td>De kat zit <b>niet</b> op de bank.</td><td>Macja nuk është ulur në divan.</td></tr>
 <tr><td>Ik loop <b>niet</b> naar school.</td><td>Unë nuk shkoj në shkollë në këmbë.</td></tr>
 <tr><td>Dat doe ik <b>niet</b> graag.</td><td>Këtë nuk e bëj me dëshirë.</td></tr>
-</tbody></table></div><h3 class="sh" id="u16-l49-3">Shprehje të ngurta me «niet»</h3><p>Shpesh <b>niet</b> bashkohet me një fjalë tjetër dhe formon një njësi mendimi:</p><div class="tw"><table class="tbl c3"><thead><tr><th>Shprehja</th><th>Shqip</th><th>Shembull</th></tr></thead><tbody>
+</tbody></table></div><h3 class="sh" id="u16-l51-3">Shprehje të ngurta me «niet»</h3><p>Shpesh <b>niet</b> bashkohet me një fjalë tjetër dhe formon një njësi mendimi:</p><div class="tw"><table class="tbl c3"><thead><tr><th>Shprehja</th><th>Shqip</th><th>Shembull</th></tr></thead><tbody>
 <tr><td><b>niet meer</b></td><td>nuk më, jo më</td><td>Ik werk <b>niet meer</b>. – Nuk punoj më.</td></tr>
 <tr><td><b>nog niet</b></td><td>ende jo</td><td>Hij is <b>nog niet</b> thuis. – Ai nuk është ende në shtëpi.</td></tr>
 <tr><td><b>niet zo</b></td><td>jo aq</td><td>Het is <b>niet zo</b> groot. – Nuk është aq i madh.</td></tr>
 <tr><td><b>niet erg</b></td><td>jo shumë</td><td>Het is <b>niet erg</b>. – Nuk është e rëndë.</td></tr>
-</tbody></table></div><h3 class="sh" id="u16-l49-6">Rregulli 4: niet para paskajores, pjesores dhe pjesës së ndarë</h3><p>Kur fjalia mbaron me një formë të pazgjedhur të foljes (<b>paskajore</b> ose <b>pjesore</b>) ose me një <b>pjesë të ndarë</b> të foljes, <b>niet</b> vendoset zakonisht <b>menjëherë para tyre</b>:</p><div class="flow">
+</tbody></table></div><h3 class="sh" id="u16-l51-6">Rregulli 4: niet para paskajores, pjesores dhe pjesës së ndarë</h3><p>Kur fjalia mbaron me një formë të pazgjedhur të foljes (<b>paskajore</b> ose <b>pjesore</b>) ose me një <b>pjesë të ndarë</b> të foljes, <b>niet</b> vendoset zakonisht <b>menjëherë para tyre</b>:</p><div class="flow">
 <div class="fnode"><div class="fl">Folja e zgjedhur</div><div class="fs">wil</div></div>
 <div class="arrow">→</div>
 <div class="fnode hl"><div class="fl">NIET</div><div class="fs">para foljes së fundit</div></div>
@@ -2492,13 +2579,13 @@
 <div class="btitle">Kujdes</div>
 <p>Gabim: Ik wil komen niet. → Saktë: <b>Ik wil niet komen.</b> Pjesoret (gelezen…) do t'i mësojmë te Njësia 21: tani mjafton të dini që «niet» vjen para tyre.</p>
 </div></section>
-<section class="lesson" id="u16-l50"><div class="lk">Mësimi 50</div><h2 class="lt">Niet në fjali të varura dhe «geen»</h2><h3 class="sh" id="u16-l50-0">Rregulli 5: niet në fjalitë e varura (Tipi III)</h3><p>Në një fjali të varur folja është në fund. <b>Niet</b> vendoset <b>menjëherë para foljes (ose foljeve) në fund</b> të asaj fjalie:</p><div class="tw"><table class="tbl c2"><thead><tr><th>Holandisht</th><th>Shqip</th></tr></thead><tbody>
+<section class="lesson" id="u16-l52"><div class="lk">Mësimi 52</div><h2 class="lt">Niet në fjali të varura dhe «geen»</h2><h3 class="sh" id="u16-l52-0">Rregulli 5: niet në fjalitë e varura (Tipi III)</h3><p>Në një fjali të varur folja është në fund. <b>Niet</b> vendoset <b>menjëherë para foljes (ose foljeve) në fund</b> të asaj fjalie:</p><div class="tw"><table class="tbl c2"><thead><tr><th>Holandisht</th><th>Shqip</th></tr></thead><tbody>
 <tr><td>Ik weet dat hij <b>niet</b> komt.</td><td>E di që ai nuk vjen.</td></tr>
 <tr><td>Ik denk dat mijn vader <b>niet</b> werkt.</td><td>Mendoj që babai im nuk punon.</td></tr>
 <tr><td>Ik weet dat hij <b>niet</b> wil komen.</td><td>E di që ai nuk dëshiron të vijë.</td></tr>
 <tr><td>Ik weet dat zij <b>niet</b> thuis is.</td><td>E di që ajo nuk është në shtëpi.</td></tr>
 <tr><td>…als ik me <b>niet</b> vergis.</td><td>…nëse nuk gaboj.</td></tr>
-</tbody></table></div><h3 class="sh" id="u16-l50-3">Rregulli 6: geen në vend të «niet een»</h3><p>Në shqip mohojmë foljen («nuk kam para»). Në holandisht shpesh mohojmë <b>emrin</b> me <b>geen</b> (asnjë, aspak). <b>Geen</b> zëvendëson «niet een» dhe përdoret kur emri ka <b>een</b> ose <b>nuk ka nyje fare</b>:</p><div class="tw"><table class="tbl c3"><thead><tr><th>Fjalia pohore</th><th>Fjalia mohore</th><th>Shqip</th></tr></thead><tbody>
+</tbody></table></div><h3 class="sh" id="u16-l52-3">Rregulli 6: geen në vend të «niet een»</h3><p>Në shqip mohojmë foljen («nuk kam para»). Në holandisht shpesh mohojmë <b>emrin</b> me <b>geen</b> (asnjë, aspak). <b>Geen</b> zëvendëson «niet een» dhe përdoret kur emri ka <b>een</b> ose <b>nuk ka nyje fare</b>:</p><div class="tw"><table class="tbl c3"><thead><tr><th>Fjalia pohore</th><th>Fjalia mohore</th><th>Shqip</th></tr></thead><tbody>
 <tr><td>Ik heb <b>een</b> fiets.</td><td>Ik heb <b>geen</b> fiets.</td><td>Nuk kam biçikletë.</td></tr>
 <tr><td>Hij heeft geld.</td><td>Hij heeft <b>geen</b> geld.</td><td>Ai nuk ka para.</td></tr>
 <tr><td>Zij heeft boeken.</td><td>Zij heeft <b>geen</b> boeken.</td><td>Ajo nuk ka libra.</td></tr>
@@ -2508,7 +2595,7 @@
 <div class="btitle">Kur përdorim «niet», jo «geen»</div>
 <p>Kur emri ka <b>de</b>, <b>het</b>, <b>mijn</b>, <b>onze</b>, <b>die</b> (një emër i caktuar), përdorim <b>niet</b>: Ik heb de fiets <b>niet</b>.</p>
 <p>Ik zie het huis <b>niet</b>. • Hij ziet onze vrienden <b>niet</b>. • Ik heb mijn boek <b>niet</b>.</p>
-</div><h3 class="sh" id="u16-l50-7">Përmbledhje</h3><div class="tw"><table class="tbl c3"><thead><tr><th>Rregulli</th><th>Ku vendoset «niet»</th><th>Shembull</th></tr></thead><tbody>
+</div><h3 class="sh" id="u16-l52-7">Përmbledhje</h3><div class="tw"><table class="tbl c3"><thead><tr><th>Rregulli</th><th>Ku vendoset «niet»</th><th>Shembull</th></tr></thead><tbody>
 <tr><td><b>1</b></td><td>në fund të fjalisë së thjeshtë</td><td>Ik weet het niet.</td></tr>
 <tr><td><b>2</b></td><td>para mbiemrit pas «zijn»</td><td>Ik ben niet moe.</td></tr>
 <tr><td><b>3</b></td><td>para pjesës që mohohet</td><td>Hij speelt niet goed.</td></tr>
@@ -2519,14 +2606,14 @@
 <div class="btitle">Formulë e shkurtër</div>
 <p>Fjalia e thjeshtë: <b>niet në fund</b> • Mbiemër: <b>niet para tij</b> • Folja e fundit: <b>niet para saj</b> • Emër me <i>een</i> ose pa nyje: <b>geen</b>.</p>
 </div></section>
-<section class="lesson" id="u16-l51"><div class="lk">Mësimi 51</div><h2 class="lt">Ushqimi dhe pijet: eten, drinken, geen dhe niet</h2><p>Në këtë mësim mësojmë dy folje që i përdorim çdo ditë – <b>drinken</b> (pi) dhe <b>eten</b> (ha) – dhe fjalët më të shpeshta për ushqimin dhe pijet. Pastaj i mohojmë me <b>geen</b> dhe <b>niet</b>.</p><h3 class="sh" id="u16-l51-1">Folja «drinken» – pi</h3><p><b>Drinken</b> zgjedhohet rregullisht: rrënja <b>drink</b> + mbaresat e zakonshme.</p><div class="tw"><table class="tbl conj c3"><thead><tr><th>Përemri</th><th>Koha e tashme</th><th>Shembull</th></tr></thead><tbody>
+<section class="lesson" id="u16-l53"><div class="lk">Mësimi 53</div><h2 class="lt">Ushqimi dhe pijet: eten, drinken, geen dhe niet</h2><p>Në këtë mësim mësojmë dy folje që i përdorim çdo ditë – <b>drinken</b> (pi) dhe <b>eten</b> (ha) – dhe fjalët më të shpeshta për ushqimin dhe pijet. Pastaj i mohojmë me <b>geen</b> dhe <b>niet</b>.</p><h3 class="sh" id="u16-l53-1">Folja «drinken» – pi</h3><p><b>Drinken</b> zgjedhohet rregullisht: rrënja <b>drink</b> + mbaresat e zakonshme.</p><div class="tw"><table class="tbl conj c3"><thead><tr><th>Përemri</th><th>Koha e tashme</th><th>Shembull</th></tr></thead><tbody>
 <tr><td>ik</td><td><b>drink</b></td><td>Ik drink water.</td></tr>
 <tr><td>jij / u</td><td><b>drinkt</b></td><td>Jij drinkt koffie.</td></tr>
 <tr><td>hij / zij / het</td><td><b>drinkt</b></td><td>Zij drinkt thee.</td></tr>
 <tr><td>wij</td><td><b>drinken</b></td><td>Wij drinken melk.</td></tr>
 <tr><td>jullie</td><td><b>drinken</b></td><td>Jullie drinken sap.</td></tr>
 <tr><td>zij (ata / ato)</td><td><b>drinken</b></td><td>Zij drinken water.</td></tr>
-</tbody></table></div><h3 class="sh" id="u16-l51-4">Folja «eten» – ha</h3><p>Edhe <b>eten</b> në kohën e tashme zgjedhohet <b>rregullisht</b>. Vetëm drejtshkrimi ndryshon:</p><div class="tw"><table class="tbl conj c3"><thead><tr><th>Përemri</th><th>Koha e tashme</th><th>Shembull</th></tr></thead><tbody>
+</tbody></table></div><h3 class="sh" id="u16-l53-4">Folja «eten» – ha</h3><p>Edhe <b>eten</b> në kohën e tashme zgjedhohet <b>rregullisht</b>. Vetëm drejtshkrimi ndryshon:</p><div class="tw"><table class="tbl conj c3"><thead><tr><th>Përemri</th><th>Koha e tashme</th><th>Shembull</th></tr></thead><tbody>
 <tr><td>ik</td><td><b>eet</b></td><td>Ik eet brood.</td></tr>
 <tr><td>jij / u</td><td><b>eet</b></td><td>Jij eet een appel.</td></tr>
 <tr><td>hij / zij / het</td><td><b>eet</b></td><td>Hij eet vis.</td></tr>
@@ -2539,7 +2626,7 @@
 </div><div class="box tip"><div class="kicker">Këshillë</div>
 <p><b>Në pyetje</b> <i>jij</i> pas foljes e humbet -t (Njësia 3): <i>Jij drinkt melk.</i> → <b>Drink jij melk?</b> Te <i>eten</i> nuk ndryshon asgjë: <b>Eet jij vlees?</b></p>
 <p><i>Eten</i> është e parregullt vetëm në kohën e shkuar: <i>at – gegeten</i> (Njësia 20).</p>
-</div><h3 class="sh" id="u16-l51-9">Fjalorth: ushqimi dhe pijet</h3><div class="tw"><table class="tbl c2"><thead><tr><th>Holandisht</th><th>Shqip</th></tr></thead><tbody>
+</div><h3 class="sh" id="u16-l53-9">Fjalorth: ushqimi dhe pijet</h3><div class="tw"><table class="tbl c2"><thead><tr><th>Holandisht</th><th>Shqip</th></tr></thead><tbody>
 <tr><td><b>de appel</b></td><td>molla</td></tr>
 <tr><td><b>de banaan</b></td><td>banania</td></tr>
 <tr><td><b>het brood</b></td><td>buka</td></tr>
@@ -2562,14 +2649,14 @@
 <tr><td><b>koud</b></td><td>i ftohtë</td></tr>
 <tr><td><b>warm</b></td><td>i ngrohtë</td></tr>
 <tr><td><b>lekker</b></td><td>i shijshëm</td></tr>
-</tbody></table></div><h3 class="sh" id="u16-l51-11">«geen» me ushqimin dhe pijet</h3><p>Kur emri ka <b>een</b> ose <b>nuk ka nyje</b> (<i>melk, water, brood</i>), e mohojmë me <b>geen</b> (rregulli 6):</p><div class="tw"><table class="tbl c3"><thead><tr><th>Fjalia pohore</th><th>Fjalia mohore</th><th>Shqip</th></tr></thead><tbody>
+</tbody></table></div><h3 class="sh" id="u16-l53-11">«geen» me ushqimin dhe pijet</h3><p>Kur emri ka <b>een</b> ose <b>nuk ka nyje</b> (<i>melk, water, brood</i>), e mohojmë me <b>geen</b> (rregulli 6):</p><div class="tw"><table class="tbl c3"><thead><tr><th>Fjalia pohore</th><th>Fjalia mohore</th><th>Shqip</th></tr></thead><tbody>
 <tr><td>Ik eet <b>een</b> appel.</td><td>Ik eet <b>geen</b> appel.</td><td>Nuk ha mollë.</td></tr>
 <tr><td>Zij drinkt melk.</td><td>Zij drinkt <b>geen</b> melk.</td><td>Ajo nuk pi qumësht.</td></tr>
 <tr><td>Ik drink thee.</td><td>Ik drink <b>geen</b> thee.</td><td>Nuk pi çaj.</td></tr>
 <tr><td>Wij eten vlees.</td><td>Wij eten <b>geen</b> vlees.</td><td>Ne nuk hamë mish.</td></tr>
 </tbody></table></div><div class="box contrast"><div class="kicker">Shqip ↔ Holandisht</div>
 <p><b>Dallim nga shqipja:</b> në shqip mohojmë foljen: «<b>nuk</b> pi qumësht». Në holandisht mohojmë emrin: <i>Ik drink <b>geen</b> melk.</i> Gabim: <i>Ik drink niet melk.</i></p>
-</div><h3 class="sh" id="u16-l51-15">«niet» me ushqimin dhe pijet</h3><p><b>Niet</b> përdoret për foljen, mbiemrin, vendin ose një emër të caktuar (<i>de, het, die, mijn</i>):</p><div class="tw"><table class="tbl c3"><thead><tr><th>Fjalia pohore</th><th>Fjalia mohore</th><th>Shqip</th></tr></thead><tbody>
+</div><h3 class="sh" id="u16-l53-15">«niet» me ushqimin dhe pijet</h3><p><b>Niet</b> përdoret për foljen, mbiemrin, vendin ose një emër të caktuar (<i>de, het, die, mijn</i>):</p><div class="tw"><table class="tbl c3"><thead><tr><th>Fjalia pohore</th><th>Fjalia mohore</th><th>Shqip</th></tr></thead><tbody>
 <tr><td>Ik eet in de keuken.</td><td>Ik eet <b>niet</b> in de keuken.</td><td>Nuk ha në kuzhinë.</td></tr>
 <tr><td>Dit water is koud.</td><td>Dit water is <b>niet</b> koud.</td><td>Ky ujë nuk është i ftohtë.</td></tr>
 <tr><td>Ik eet die appel.</td><td>Ik eet die appel <b>niet</b>.</td><td>Atë mollë nuk e ha.</td></tr>
@@ -2637,8 +2724,8 @@
 <header class="uhead"><div class="ukick">Pjesa IV · Ndërtimi i fjalisë <span class="lvl">A1–A2</span></div>
 <div class="utitle"><span class="unum">17</span><h2>Ndajfoljet</h2></div><p class="usub">Krahasimi, «graag – liever – het liefst», ndajfoljet e kohës dhe rendi kohë–mënyrë–vend</p>
 <div class="ustatus" data-status="u17"></div>
-<nav class="utoc" aria-label="Mësimet e njësisë"><a href="#u17-l52"><span>52</span>Ndajfoljet dhe shkallët e krahasimit</a><a href="#u17-l53"><span>53</span>Ndajfoljet e parregullta dhe «graag»</a><a href="#u17-l54"><span>54</span>Ndajfoljet e kohës, «waar» dhe rendi i ndajfoljeve</a><a href="#u17-ex"><span>✎</span>Ushtrime</a><a href="#u17-gl"><span>Aa</span>Fjalorth</a></nav></header>
-<section class="lesson" id="u17-l52"><div class="lk">Mësimi 52</div><h2 class="lt">Ndajfoljet dhe shkallët e krahasimit</h2><p>Ndajfoljet tregojnë <b>si</b>, <b>kur</b>, <b>ku</b> ose <b>sa</b> ndodh diçka: <i>shpejt, mirë, herët, gjatë</i>. Në shqip shumë ndajfolje kanë të njëjtën formë me mbiemrin: <i>punë e mirë</i> – <i>punon mirë</i>. Edhe në holandisht ndodh kështu: ndajfolja është zakonisht <b>e njëjtë me mbiemrin pa mbaresë</b> dhe <b>nuk merr asnjë mbaresë</b>.</p><div class="tw"><table class="tbl c3"><thead><tr><th>Mbiemri</th><th>Ndajfolja në fjali</th><th>Shqip</th></tr></thead><tbody>
+<nav class="utoc" aria-label="Mësimet e njësisë"><a href="#u17-l54"><span>54</span>Ndajfoljet dhe shkallët e krahasimit</a><a href="#u17-l55"><span>55</span>Ndajfoljet e parregullta dhe «graag»</a><a href="#u17-l56"><span>56</span>Ndajfoljet e kohës, «waar» dhe rendi i ndajfoljeve</a><a href="#u17-ex"><span>✎</span>Ushtrime</a><a href="#u17-gl"><span>Aa</span>Fjalorth</a></nav></header>
+<section class="lesson" id="u17-l54"><div class="lk">Mësimi 54</div><h2 class="lt">Ndajfoljet dhe shkallët e krahasimit</h2><p>Ndajfoljet tregojnë <b>si</b>, <b>kur</b>, <b>ku</b> ose <b>sa</b> ndodh diçka: <i>shpejt, mirë, herët, gjatë</i>. Në shqip shumë ndajfolje kanë të njëjtën formë me mbiemrin: <i>punë e mirë</i> – <i>punon mirë</i>. Edhe në holandisht ndodh kështu: ndajfolja është zakonisht <b>e njëjtë me mbiemrin pa mbaresë</b> dhe <b>nuk merr asnjë mbaresë</b>.</p><div class="tw"><table class="tbl c3"><thead><tr><th>Mbiemri</th><th>Ndajfolja në fjali</th><th>Shqip</th></tr></thead><tbody>
 <tr><td><b>vroeg</b> (i hershëm)</td><td>Hij staat <b>vroeg</b> op.</td><td>Ai ngrihet herët.</td></tr>
 <tr><td><b>goed</b> (i mirë)</td><td>Zij zingt <b>goed</b>.</td><td>Ajo këndon mirë.</td></tr>
 <tr><td><b>lang</b> (i gjatë)</td><td>Het duurde te <b>lang</b>.</td><td>Zgjati shumë gjatë.</td></tr>
@@ -2646,14 +2733,14 @@
 </tbody></table></div><div class="box contrast"><div class="kicker">Shqip ↔ Holandisht</div>
 <div class="btitle">Dallim nga anglishtja dhe e njëjta gjë si në shqip</div>
 <p>Anglishtja shton <i>-ly</i> (<i>quick → quickly</i>). Holandishtja nuk shton asgjë: <b>snel</b> = i shpejtë dhe shpejt. Kjo i ngjan shqipes: <i>mirë, shpejt, gjatë</i> nuk ndryshojnë.</p>
-</div><h3 class="sh" id="u17-l52-3">Ndajfolje pa mbiemër përkatës</h3><p>Disa ndajfolje nuk vijnë nga një mbiemër. Kuptimi i tyre është «absolut», prandaj <b>nuk kanë shkallë krahasimi</b>:</p><div class="tw"><table class="tbl c3"><thead><tr><th>Ndajfolja</th><th>Shqip</th><th>Shembull</th></tr></thead><tbody>
+</div><h3 class="sh" id="u17-l54-3">Ndajfolje pa mbiemër përkatës</h3><p>Disa ndajfolje nuk vijnë nga një mbiemër. Kuptimi i tyre është «absolut», prandaj <b>nuk kanë shkallë krahasimi</b>:</p><div class="tw"><table class="tbl c3"><thead><tr><th>Ndajfolja</th><th>Shqip</th><th>Shembull</th></tr></thead><tbody>
 <tr><td><b>ooit</b></td><td>ndonjëherë</td><td>Ben jij <b>ooit</b> in Amsterdam geweest?</td></tr>
 <tr><td><b>nooit</b></td><td>kurrë</td><td>Ik drink <b>nooit</b> koffie.</td></tr>
 <tr><td><b>nu</b></td><td>tani</td><td>Ik woon <b>nu</b> in Leiden.</td></tr>
 <tr><td><b>altijd</b></td><td>gjithmonë</td><td>Hij is <b>altijd</b> moe.</td></tr>
 <tr><td><b>weer</b></td><td>përsëri</td><td>Het regent <b>weer</b>.</td></tr>
 <tr><td><b>erg</b></td><td>shumë</td><td>Het is <b>erg</b> koud.</td></tr>
-</tbody></table></div><h3 class="sh" id="u17-l52-6">Shkalla krahasore: -er</h3><p>Ndajfoljet e formojnë krahasoren njësoj si mbiemrat: shtojnë <b>-er</b>. Pas tyre përdoret <b>dan</b> (se, sesa):</p><div class="tw"><table class="tbl c4"><thead><tr><th>Bazë</th><th>Krahasore</th><th>Shembull</th><th>Shqip</th></tr></thead><tbody>
+</tbody></table></div><h3 class="sh" id="u17-l54-6">Shkalla krahasore: -er</h3><p>Ndajfoljet e formojnë krahasoren njësoj si mbiemrat: shtojnë <b>-er</b>. Pas tyre përdoret <b>dan</b> (se, sesa):</p><div class="tw"><table class="tbl c4"><thead><tr><th>Bazë</th><th>Krahasore</th><th>Shembull</th><th>Shqip</th></tr></thead><tbody>
 <tr><td>snel</td><td><b>sneller</b></td><td>Hij loopt <b>sneller</b> dan ik.</td><td>Ai vrapon më shpejt se unë.</td></tr>
 <tr><td>ver</td><td><b>verder</b></td><td>Zij willen <b>verder</b> gaan.</td><td>Ata duan të shkojnë më tej.</td></tr>
 <tr><td>langzaam</td><td><b>langzamer</b></td><td>U moet <b>langzamer</b> praten.</td><td>Duhet të flisni më ngadalë.</td></tr>
@@ -2661,7 +2748,7 @@
 </tbody></table></div><div class="box rule"><div class="kicker">Rregull</div>
 <div class="btitle">Rregulli: -r + d + -er</div>
 <p>Kur fjala mbaron me <b>-r</b>, para <i>-er</i> shtohet një <b>d</b>: <i>ver → verder</i>, <i>duur → duurder</i>. Kujdes edhe me drejtshkrimin (Njësia 12): <i>langzaam → langzamer</i> (aa → a në rrokje të hapur).</p>
-</div><h3 class="sh" id="u17-l52-10">Shkalla sipërore: het + -st(e)</h3><p>Sipërorja formohet me prapashtesën <b>-st</b> ose <b>-ste</b> dhe para saj vjen gjithmonë <b>het</b>:</p><div class="tw"><table class="tbl c4"><thead><tr><th>Bazë</th><th>Sipërore</th><th>Shembull</th><th>Shqip</th></tr></thead><tbody>
+</div><h3 class="sh" id="u17-l54-10">Shkalla sipërore: het + -st(e)</h3><p>Sipërorja formohet me prapashtesën <b>-st</b> ose <b>-ste</b> dhe para saj vjen gjithmonë <b>het</b>:</p><div class="tw"><table class="tbl c4"><thead><tr><th>Bazë</th><th>Sipërore</th><th>Shembull</th><th>Shqip</th></tr></thead><tbody>
 <tr><td>mooi</td><td><b>het mooist(e)</b></td><td>Zij zong <b>het mooist</b>.</td><td>Ajo këndoi më bukur se të gjithë.</td></tr>
 <tr><td>vlug</td><td><b>het vlugst(e)</b></td><td>Hij leert <b>het vlugst</b>.</td><td>Ai mëson më shpejt se të gjithë.</td></tr>
 <tr><td>lang</td><td><b>het langst(e)</b></td><td>Eerlijk duurt <b>het langst</b>.</td><td>Ndershmëria fiton gjithmonë.</td></tr>
@@ -2670,7 +2757,7 @@
 <p>Të dyja format janë të sakta: <i>het mooist</i> = <i>het mooiste</i>. Zgjedhja varet nga ritmi i fjalisë. Si fillestar mund të përdorni cilëndo.</p>
 <p>Fjalë për fjalë <i>Eerlijk duurt het langst</i> do të thotë «Ndershmëria zgjat më shumë», një proverb si «Ndershmëria fiton gjithmonë».</p>
 </div></section>
-<section class="lesson" id="u17-l53"><div class="lk">Mësimi 53</div><h2 class="lt">Ndajfoljet e parregullta dhe «graag»</h2><p>Disa mbiemra kanë krahasore të parregullt. Ndajfoljet përkatëse kanë të njëjtat parregullsi. Dallimi i vetëm: si ndajfolje, sipërorja merr gjithmonë <b>het</b>.</p><div class="tw"><table class="tbl c4"><thead><tr><th>Bazë</th><th>Krahasore</th><th>Sipërore</th><th>Shqip</th></tr></thead><tbody>
+<section class="lesson" id="u17-l55"><div class="lk">Mësimi 55</div><h2 class="lt">Ndajfoljet e parregullta dhe «graag»</h2><p>Disa mbiemra kanë krahasore të parregullt. Ndajfoljet përkatëse kanë të njëjtat parregullsi. Dallimi i vetëm: si ndajfolje, sipërorja merr gjithmonë <b>het</b>.</p><div class="tw"><table class="tbl c4"><thead><tr><th>Bazë</th><th>Krahasore</th><th>Sipërore</th><th>Shqip</th></tr></thead><tbody>
 <tr><td><b>goed</b></td><td>beter</td><td>het best</td><td>mirë – më mirë – më së miri</td></tr>
 <tr><td><b>veel</b></td><td>meer</td><td>het meest</td><td>shumë – më shumë – më së shumti</td></tr>
 <tr><td><b>weinig</b></td><td>minder</td><td>het minst</td><td>pak – më pak – më së paku</td></tr>
@@ -2684,7 +2771,7 @@
 <tr><td>Wie werkt <b>het meest</b>?</td><td>Kush punon më shumë?</td></tr>
 <tr><td>Ik slaap <b>minder</b> dan jij.</td><td>Unë fle më pak se ti.</td></tr>
 <tr><td>Hij komt <b>vaker</b> te laat.</td><td>Ai vonohet më shpesh.</td></tr>
-</tbody></table></div><h3 class="sh" id="u17-l53-4">Ndajfolja «graag»</h3><p><b>Graag</b> do të thotë «me qejf, me dëshirë». Format e saj janë të parregullta: <b>graag – liever – het liefst</b>. Me to holandishtja shpreh atë që shqipja e thotë me një folje: <i>më pëlqen</i>, <i>preferoj</i>, <i>më pëlqen më shumë se gjithçka</i>.</p><div class="tw"><table class="tbl c3"><thead><tr><th>Holandisht</th><th>Shqip</th><th>Kuptimi</th></tr></thead><tbody>
+</tbody></table></div><h3 class="sh" id="u17-l55-4">Ndajfolja «graag»</h3><p><b>Graag</b> do të thotë «me qejf, me dëshirë». Format e saj janë të parregullta: <b>graag – liever – het liefst</b>. Me to holandishtja shpreh atë që shqipja e thotë me një folje: <i>më pëlqen</i>, <i>preferoj</i>, <i>më pëlqen më shumë se gjithçka</i>.</p><div class="tw"><table class="tbl c3"><thead><tr><th>Holandisht</th><th>Shqip</th><th>Kuptimi</th></tr></thead><tbody>
 <tr><td>Ik kijk <b>graag</b> naar de tv.</td><td>Më pëlqen të shikoj televizor.</td><td>graag = më pëlqen</td></tr>
 <tr><td>Zij gaat <b>liever</b> dansen.</td><td>Ajo preferon të shkojë të kërcejë.</td><td>liever = preferoj</td></tr>
 <tr><td>Hij leest <b>het liefst</b> een boek.</td><td>Atij i pëlqen më së shumti të lexojë një libër.</td><td>het liefst = më pëlqen më shumë se gjithçka</td></tr>
@@ -2693,7 +2780,7 @@
 <p>Në shqip pëlqimin e shprehim me foljen (<i>më pëlqen</i>, <i>preferoj</i>). Në holandisht folja mbetet e zakonshme dhe pëlqimin e jep ndajfolja: <i>Ik kijk graag tv</i> = fjalë për fjalë «Shikoj me qejf televizor».</p>
 <p>Gabim: Ik graag kijk tv. → Saktë: <b>Ik kijk graag tv.</b> (folja mbetet e dyta, Njësia 14)</p>
 </div></section>
-<section class="lesson" id="u17-l54"><div class="lk">Mësimi 54</div><h2 class="lt">Ndajfoljet e kohës, «waar» dhe rendi i ndajfoljeve</h2><h3 class="sh" id="u17-l54-0">Pjesët e ditës dhe ditët e javës</h3><p>Pjesët e ditës dhe ditët e javës përdoren si ndajfolje me <b>-s</b> (dhe shpesh me <b>'s</b> përpara). Ato tregojnë një veprim që <b>përsëritet</b> ose është <b>zakon</b>: <i>në mëngjes, të dielave</i>.</p><div class="tw"><table class="tbl c4"><thead><tr><th>Holandisht</th><th>Shqip</th><th>Holandisht</th><th>Shqip</th></tr></thead><tbody>
+<section class="lesson" id="u17-l56"><div class="lk">Mësimi 56</div><h2 class="lt">Ndajfoljet e kohës, «waar» dhe rendi i ndajfoljeve</h2><h3 class="sh" id="u17-l56-0">Pjesët e ditës dhe ditët e javës</h3><p>Pjesët e ditës dhe ditët e javës përdoren si ndajfolje me <b>-s</b> (dhe shpesh me <b>'s</b> përpara). Ato tregojnë një veprim që <b>përsëritet</b> ose është <b>zakon</b>: <i>në mëngjes, të dielave</i>.</p><div class="tw"><table class="tbl c4"><thead><tr><th>Holandisht</th><th>Shqip</th><th>Holandisht</th><th>Shqip</th></tr></thead><tbody>
 <tr><td><b>'s morgens</b> / <b>'s ochtends</b></td><td>në mëngjes</td><td><b>maandags</b></td><td>të hënave</td></tr>
 <tr><td><b>'s middags</b></td><td>pasdite</td><td><b>dinsdags</b></td><td>të martave</td></tr>
 <tr><td><b>'s avonds</b></td><td>në mbrëmje</td><td><b>woensdags</b></td><td>të mërkurave</td></tr>
@@ -2707,7 +2794,7 @@
 <tr><td>Ik werk <b>'s morgens</b>.</td><td>Punoj në mëngjes (çdo mëngjes).</td></tr>
 <tr><td><b>'s Avonds</b> lees ik een boek.</td><td>Në mbrëmje lexoj një libër.</td></tr>
 <tr><td><b>Zondags</b> gaan wij naar het park.</td><td>Të dielave shkojmë në park.</td></tr>
-</tbody></table></div><h3 class="sh" id="u17-l54-5">«Ku?», «Për ku?» dhe «Nga ku?»</h3><p>Në shqip dallojmë <b>ku</b> (vendi), <b>për ku / drejt ku</b> (drejtimi) dhe <b>nga ku</b> (prejardhja). Edhe holandishtja i dallon:</p><div class="tw"><table class="tbl c4"><thead><tr><th>Pyetja</th><th>Kuptimi</th><th>Shembull</th><th>Shqip</th></tr></thead><tbody>
+</tbody></table></div><h3 class="sh" id="u17-l56-5">«Ku?», «Për ku?» dhe «Nga ku?»</h3><p>Në shqip dallojmë <b>ku</b> (vendi), <b>për ku / drejt ku</b> (drejtimi) dhe <b>nga ku</b> (prejardhja). Edhe holandishtja i dallon:</p><div class="tw"><table class="tbl c4"><thead><tr><th>Pyetja</th><th>Kuptimi</th><th>Shembull</th><th>Shqip</th></tr></thead><tbody>
 <tr><td><b>waar</b></td><td>ku? (vendi)</td><td>Waar wonen zij?</td><td>Ku banojnë ata?</td></tr>
 <tr><td><b>waar … naartoe</b></td><td>për ku?</td><td>Waar gaat hij naartoe?</td><td>Për ku po shkon ai?</td></tr>
 <tr><td><b>waarheen</b></td><td>për ku?</td><td>Waarheen gaat hij?</td><td>Për ku po shkon ai?</td></tr>
@@ -2715,7 +2802,7 @@
 </tbody></table></div><div class="box note"><div class="kicker">Shënim</div>
 <div class="btitle">Lidhje me Njësinë 11</div>
 <p>Atje pamë <i>Waar loopt de man naartoe?</i> Tani dini edhe formën me një fjalë <b>waarheen</b> dhe çiftin <b>waar … vandaan</b>. <i>Naartoe</i> dhe <i>vandaan</i> shkojnë në fund të pyetjes.</p>
-</div><h3 class="sh" id="u17-l54-9">Rendi: kohë – mënyrë – vend</h3><p>Kur një fjali ka disa ndajfolje ose shprehje ndajfoljore, holandishtja i rendit zakonisht kështu: <b>koha</b>, pastaj <b>mënyra</b>, pastaj <b>vendi</b>.</p><div class="flow">
+</div><h3 class="sh" id="u17-l56-9">Rendi: kohë – mënyrë – vend</h3><p>Kur një fjali ka disa ndajfolje ose shprehje ndajfoljore, holandishtja i rendit zakonisht kështu: <b>koha</b>, pastaj <b>mënyra</b>, pastaj <b>vendi</b>.</p><div class="flow">
 <div class="fnode"><div class="fl">Koha</div><div class="fs">kur?</div></div>
 <div class="arrow">→</div>
 <div class="fnode"><div class="fl">Mënyra</div><div class="fs">si? me kë? me çfarë?</div></div>
@@ -2784,8 +2871,8 @@
 <header class="uhead"><div class="ukick">Pjesa IV · Ndërtimi i fjalisë <span class="lvl">A1–A2</span></div>
 <div class="utitle"><span class="unum">18</span><h2>Parafjalët dhe er / daar / waar</h2></div><p class="usub">Parafjalët më të shpeshta, lidhjet e ngurta dhe erop, daarvoor, waaraan</p>
 <div class="ustatus" data-status="u18"></div>
-<nav class="utoc" aria-label="Mësimet e njësisë"><a href="#u18-l55"><span>55</span>Parafjalët dhe përemrat</a><a href="#u18-l56"><span>56</span>Parafjalët «idiomatike»</a><a href="#u18-l57"><span>57</span>«erop, daarvoor, waaraan»</a><a href="#u18-ex"><span>✎</span>Ushtrime</a><a href="#u18-gl"><span>Aa</span>Fjalorth</a></nav></header>
-<section class="lesson" id="u18-l55"><div class="lk">Mësimi 55</div><h2 class="lt">Parafjalët dhe përemrat</h2><p>Pas parafjalës <b>emri nuk ndryshon</b>. Përemri vetor del në <b>trajtën kundrinore</b> (<i>mij, jou, hem…</i>):</p><div class="tw"><table class="tbl c3"><thead><tr><th>Pa parafjalë</th><th>Me parafjalë</th><th>Shqip</th></tr></thead><tbody>
+<nav class="utoc" aria-label="Mësimet e njësisë"><a href="#u18-l57"><span>57</span>Parafjalët dhe përemrat</a><a href="#u18-l58"><span>58</span>Parafjalët «idiomatike»</a><a href="#u18-l59"><span>59</span>«erop, daarvoor, waaraan»</a><a href="#u18-ex"><span>✎</span>Ushtrime</a><a href="#u18-gl"><span>Aa</span>Fjalorth</a></nav></header>
+<section class="lesson" id="u18-l57"><div class="lk">Mësimi 57</div><h2 class="lt">Parafjalët dhe përemrat</h2><p>Pas parafjalës <b>emri nuk ndryshon</b>. Përemri vetor del në <b>trajtën kundrinore</b> (<i>mij, jou, hem…</i>):</p><div class="tw"><table class="tbl c3"><thead><tr><th>Pa parafjalë</th><th>Me parafjalë</th><th>Shqip</th></tr></thead><tbody>
 <tr><td>de auto</td><td><b>met</b> de auto</td><td>me makinë</td></tr>
 <tr><td>het huis</td><td><b>achter</b> het huis</td><td>pas shtëpisë</td></tr>
 <tr><td>ik</td><td><b>met</b> mij (me)</td><td>me mua</td></tr>
@@ -2793,7 +2880,7 @@
 </tbody></table></div><div class="box contrast"><div class="kicker">Shqip ↔ Holandisht</div>
 <div class="btitle">Dallim nga shqipja</div>
 <p>Në shqip emri merr rasë pas parafjalës (<i>pas shtëpi<b>së<b><i>, me makin</b>ë</i></b>). Në holandisht emri mbetet si është: achter <b>het huis</b></i>.</p>
-</div><h3 class="sh" id="u18-l55-3">Parafjalët më të shpeshta</h3><div class="tw"><table class="tbl c4"><thead><tr><th>Parafjala</th><th>Shqip</th><th>Parafjala</th><th>Shqip</th></tr></thead><tbody>
+</div><h3 class="sh" id="u18-l57-3">Parafjalët më të shpeshta</h3><div class="tw"><table class="tbl c4"><thead><tr><th>Parafjala</th><th>Shqip</th><th>Parafjala</th><th>Shqip</th></tr></thead><tbody>
 <tr><td><b>aan</b></td><td>në, te, pranë</td><td><b>na</b></td><td>pas (kohë)</td></tr>
 <tr><td><b>achter</b></td><td>pas, prapa</td><td><b>naar</b></td><td>drejt, në; sipas</td></tr>
 <tr><td><b>beneden</b></td><td>poshtë, nën</td><td><b>naast</b></td><td>pranë</td></tr>
@@ -2811,7 +2898,7 @@
 <tr><td><b>vanaf</b></td><td>që nga</td><td><b>voor</b></td><td>për; para, përpara</td></tr>
 <tr><td><b>zonder</b></td><td>pa</td><td></td><td></td></tr>
 </tbody></table></div><p>Shumë prej tyre i keni parë te Njësitë 7 dhe 11 (<i>op, in, naast, achter, voor, onder, boven, tussen, bij, naar, door, langs, over</i>).</p></section>
-<section class="lesson" id="u18-l56"><div class="lk">Mësimi 56</div><h2 class="lt">Parafjalët «idiomatike»</h2><p>Kur parafjala nuk tregon vend ose kohë, zgjedhja shpesh <b>nuk përputhet</b> me shqipen. Nuk ka rregull: mësojini <b>bashkë me foljen ose mbiemrin</b>.</p><div class="tw"><table class="tbl c3"><thead><tr><th>Holandisht</th><th>Shqip</th><th>Vini re</th></tr></thead><tbody>
+<section class="lesson" id="u18-l58"><div class="lk">Mësimi 58</div><h2 class="lt">Parafjalët «idiomatike»</h2><p>Kur parafjala nuk tregon vend ose kohë, zgjedhja shpesh <b>nuk përputhet</b> me shqipen. Nuk ka rregull: mësojini <b>bashkë me foljen ose mbiemrin</b>.</p><div class="tw"><table class="tbl c3"><thead><tr><th>Holandisht</th><th>Shqip</th><th>Vini re</th></tr></thead><tbody>
 <tr><td>zeggen <b>tegen</b></td><td>i them dikujt</td><td><i>tegen</i> = «kundër»</td></tr>
 <tr><td>wachten <b>op</b></td><td>pres dikë, diçka</td><td><i>op</i> = «mbi»</td></tr>
 <tr><td>verliefd <b>op</b></td><td>i dashuruar <b>pas</b></td><td></td></tr>
@@ -2833,7 +2920,7 @@
 <div class="btitle">Mësojini si një njësi</div>
 <p>Në fjalor shkruani jo vetëm <i>wachten</i>, por <b>wachten op</b>; jo vetëm <i>denken</i>, por <b>denken aan</b>.</p>
 </div></section>
-<section class="lesson" id="u18-l57"><div class="lk">Mësimi 57</div><h2 class="lt">«erop, daarvoor, waaraan»</h2><p>Pas parafjalës, përemri vetor përdoret <b>vetëm për persona</b>: <i>met hem</i> (me të, një person), <i>tussen ons</i>. Për <b>sende</b> holandishtja nuk thotë «met het». Në vend të tij përdoret <b>er</b> (ose <b>daar</b>, me theks) + parafjala:</p><div class="tw"><table class="tbl c3"><thead><tr><th>Për persona</th><th>Për sende</th><th>Shqip</th></tr></thead><tbody>
+<section class="lesson" id="u18-l59"><div class="lk">Mësimi 59</div><h2 class="lt">«erop, daarvoor, waaraan»</h2><p>Pas parafjalës, përemri vetor përdoret <b>vetëm për persona</b>: <i>met hem</i> (me të, një person), <i>tussen ons</i>. Për <b>sende</b> holandishtja nuk thotë «met het». Në vend të tij përdoret <b>er</b> (ose <b>daar</b>, me theks) + parafjala:</p><div class="tw"><table class="tbl c3"><thead><tr><th>Për persona</th><th>Për sende</th><th>Shqip</th></tr></thead><tbody>
 <tr><td>met hem</td><td><b>ermee</b></td><td>me të</td></tr>
 <tr><td>op haar</td><td><b>erop</b></td><td>mbi të</td></tr>
 <tr><td>voor hen</td><td><b>ervoor</b></td><td>për të</td></tr>
@@ -2846,13 +2933,13 @@
 <tr><td>De tafel staat in de woonkamer. De hond slaapt altijd <b>erop</b>.</td><td>Tavolina është në dhomën e ndenjes. Qeni fle gjithmonë mbi të.</td></tr>
 <tr><td><b>Daarvoor</b> heb ik niet genoeg geld.</td><td>Për këtë nuk kam mjaft para.</td></tr>
 <tr><td><b>Daaraan</b> heb ik al gedacht.</td><td>Për këtë kam menduar tashmë.</td></tr>
-</tbody></table></div><h3 class="sh" id="u18-l57-4">er / daar ndahet shpesh nga parafjala</h3><p><i>er / daar</i> zë vendin e përemrit, ndërsa parafjala shkon më tej, zakonisht para foljeve në fund:</p><div class="tw"><table class="tbl c2"><thead><tr><th>Holandisht</th><th>Shqip</th></tr></thead><tbody>
+</tbody></table></div><h3 class="sh" id="u18-l59-4">er / daar ndahet shpesh nga parafjala</h3><p><i>er / daar</i> zë vendin e përemrit, ndërsa parafjala shkon më tej, zakonisht para foljeve në fund:</p><div class="tw"><table class="tbl c2"><thead><tr><th>Holandisht</th><th>Shqip</th></tr></thead><tbody>
 <tr><td>Hebt u <b>er</b> niets <b>over</b> gehoord?</td><td>A nuk keni dëgjuar asgjë për këtë?</td></tr>
 <tr><td><b>Daar</b> heb ik gisteren <b>van</b> gelezen.</td><td>Për këtë lexova dje.</td></tr>
 <tr><td>Ik ben <b>er</b> niet aansprakelijk <b>voor</b>.</td><td>Nuk jam përgjegjës për të.</td></tr>
 <tr><td><b>Daar</b> zijn wij allemaal <b>mee</b> tevreden.</td><td>Me këtë jemi të gjithë të kënaqur.</td></tr>
 <tr><td><b>Daar</b> ben ik nog niet <b>toe</b> gekomen.</td><td>Ende nuk kam arritur ta bëj.</td></tr>
-</tbody></table></div><h3 class="sh" id="u18-l57-7">Në pyetje: waar + parafjala</h3><div class="tw"><table class="tbl c2"><thead><tr><th>Holandisht</th><th>Shqip</th></tr></thead><tbody>
+</tbody></table></div><h3 class="sh" id="u18-l59-7">Në pyetje: waar + parafjala</h3><div class="tw"><table class="tbl c2"><thead><tr><th>Holandisht</th><th>Shqip</th></tr></thead><tbody>
 <tr><td><b>Waaraan</b> denkt hij?</td><td>Për çfarë mendon ai?</td></tr>
 <tr><td><b>Waar</b> bent u <b>mee</b> tevreden?</td><td>Me çfarë jeni i kënaqur?</td></tr>
 <tr><td><b>Waar</b> heb ik te veel <b>voor</b> betaald?</td><td>Për çfarë pagova shumë?</td></tr>
@@ -2908,8 +2995,8 @@
 <header class="uhead"><div class="ukick">Pjesa V · Sistemi i foljeve <span class="lvl">A2</span></div>
 <div class="utitle"><span class="unum">19</span><h2>Koha e tashme: përmbledhje, «po bëj» dhe urdhërorja</h2></div><p class="usub">Forma me u, përjashtimet, zitten te lezen dhe urdhërorja e sjellshme</p>
 <div class="ustatus" data-status="u19"></div>
-<nav class="utoc" aria-label="Mësimet e njësisë"><a href="#u19-l58"><span>58</span>Koha e tashme: rregullat dhe përjashtimet</a><a href="#u19-l59"><span>59</span>«Hij zit te lezen»: veprimi në vazhdim</a><a href="#u19-l60"><span>60</span>Urdhërorja</a><a href="#u19-ex"><span>✎</span>Ushtrime</a><a href="#u19-gl"><span>Aa</span>Fjalorth</a></nav></header>
-<section class="lesson" id="u19-l58"><div class="lk">Mësimi 58</div><h2 class="lt">Koha e tashme: rregullat dhe përjashtimet</h2><p>Te Njësia 1 mësuam modelin <b>rrënja + mbaresa</b>, dhe te Njësia 12 rregullat e drejtshkrimit. Këtu i bashkojmë dhe shtojmë format që mungonin.</p><h3 class="sh" id="u19-l58-1">Modeli i plotë, me «u»</h3><p>Rrënja është paskajorja pa <b>-en</b> (rrallë pa <b>-n</b>: <i>doen → doe</i>). Fjalorët i japin foljet në paskajore.</p><div class="tw"><table class="tbl conj c5"><thead><tr><th>Veta</th><th>Mbaresa</th><th>werken</th><th>zingen</th><th>doen</th></tr></thead><tbody>
+<nav class="utoc" aria-label="Mësimet e njësisë"><a href="#u19-l60"><span>60</span>Koha e tashme: rregullat dhe përjashtimet</a><a href="#u19-l61"><span>61</span>«Hij zit te lezen»: veprimi në vazhdim</a><a href="#u19-l62"><span>62</span>Urdhërorja</a><a href="#u19-ex"><span>✎</span>Ushtrime</a><a href="#u19-gl"><span>Aa</span>Fjalorth</a></nav></header>
+<section class="lesson" id="u19-l60"><div class="lk">Mësimi 60</div><h2 class="lt">Koha e tashme: rregullat dhe përjashtimet</h2><p>Te Njësia 1 mësuam modelin <b>rrënja + mbaresa</b>, dhe te Njësia 12 rregullat e drejtshkrimit. Këtu i bashkojmë dhe shtojmë format që mungonin.</p><h3 class="sh" id="u19-l60-1">Modeli i plotë, me «u»</h3><p>Rrënja është paskajorja pa <b>-en</b> (rrallë pa <b>-n</b>: <i>doen → doe</i>). Fjalorët i japin foljet në paskajore.</p><div class="tw"><table class="tbl conj c5"><thead><tr><th>Veta</th><th>Mbaresa</th><th>werken</th><th>zingen</th><th>doen</th></tr></thead><tbody>
 <tr><td>ik</td><td>—</td><td>werk</td><td>zing</td><td>doe</td></tr>
 <tr><td>jij / je</td><td>-t</td><td>werkt</td><td>zingt</td><td>doet</td></tr>
 <tr><td><b>u</b></td><td><b>-t</b></td><td><b>werkt</b></td><td><b>zingt</b></td><td><b>doet</b></td></tr>
@@ -2918,24 +3005,24 @@
 </tbody></table></div><div class="box rule"><div class="kicker">Rregull</div>
 <div class="btitle">«u» merr gjithmonë -t</div>
 <p><b>u komt</b> = ju vini, për një person ose për më shumë, me mirësjellje. Folja nuk ndryshon për shumësin.</p>
-</div><h3 class="sh" id="u19-l58-5">Drejtshkrimi i rrënjës</h3><div class="tw"><table class="tbl c4"><thead><tr><th>Rregulli (Njësia 12)</th><th>Paskajorja</th><th>ik</th><th>wij</th></tr></thead><tbody>
+</div><h3 class="sh" id="u19-l60-5">Drejtshkrimi i rrënjës</h3><div class="tw"><table class="tbl c4"><thead><tr><th>Rregulli (Njësia 12)</th><th>Paskajorja</th><th>ik</th><th>wij</th></tr></thead><tbody>
 <tr><td>zanore e gjatë → dyfish</td><td>maken, horen</td><td>maak, hoor</td><td>maken, horen</td></tr>
 <tr><td>bashkëtingëllore e dyfishtë → një</td><td>zitten, leggen</td><td>zit, leg</td><td>zitten, leggen</td></tr>
 <tr><td>v → f, z → s</td><td>beven, reizen</td><td>beef, reis</td><td>beven, reizen</td></tr>
-</tbody></table></div><h3 class="sh" id="u19-l58-7">Pesë pika që duhen mbajtur mend</h3><ol class="items">
+</tbody></table></div><h3 class="sh" id="u19-l60-7">Pesë pika që duhen mbajtur mend</h3><ol class="items">
 <li><span class="inum">1.</span><div class="itext"><b>u</b> merr gjithmonë <b>-t</b>: <i>u komt, u werkt</i>.</div></li>
 <li><span class="inum">2.</span><div class="itext"><b>jij pas foljes humbet -t</b>: <i>jij zingt</i>, por <b>zing je?</b> (Njësia 3).</div></li>
 <li><span class="inum">3.</span><div class="itext"><b>Rrënja me -t nuk merr -t tjetër</b>: <i>laten → ik laat, jij laat, hij laat</i>, si <i>heten → hij heet</i>.</div></li>
 <li><span class="inum">4.</span><div class="itext"><b>snijden, houden, rijden</b> e humbin shpesh <b>-d</b> te <i>ik</i>: <b>ik snij, ik hou, ik rij</b>. Kur <i>jij</i> vjen pas foljes, bie <b>-dt</b>: <b>snij je? hou je? rij je?</b></div></li>
 <li><span class="inum">5.</span><div class="itext"><b>komen</b>: zanore e shkurtër në njëjës, e gjatë në shumës: <i>ik kom, wij komen</i>.</div></li>
-</ol><h3 class="sh" id="u19-l58-9">hebben dhe zijn</h3><div class="tw"><table class="tbl conj c3"><thead><tr><th>Përemri</th><th>hebben</th><th>zijn</th></tr></thead><tbody>
+</ol><h3 class="sh" id="u19-l60-9">hebben dhe zijn</h3><div class="tw"><table class="tbl conj c3"><thead><tr><th>Përemri</th><th>hebben</th><th>zijn</th></tr></thead><tbody>
 <tr><td>ik</td><td>heb</td><td>ben</td></tr>
 <tr><td>jij / je</td><td>hebt (heb je?)</td><td>bent (ben je?)</td></tr>
 <tr><td>u</td><td>hebt (rrallë: heeft)</td><td>bent (rrallë: is)</td></tr>
 <tr><td>hij / zij / het</td><td>heeft</td><td>is</td></tr>
 <tr><td>wij / jullie / zij</td><td>hebben</td><td>zijn</td></tr>
 </tbody></table></div></section>
-<section class="lesson" id="u19-l59"><div class="lk">Mësimi 59</div><h2 class="lt">«Hij zit te lezen»: veprimi në vazhdim</h2><p>Holandishtja nuk ka formë të veçantë për «po + folje». <b>Ik zing</b> do të thotë <i>këndoj</i> ose <i>po këndoj</i>, sipas kontekstit.</p><p>Kur duam të theksojmë që veprimi <b>po ndodh tani</b>, përdorim një folje pozicioni (Njësitë 6 dhe 10) + <b>te</b> + paskajore:</p><div class="flow">
+<section class="lesson" id="u19-l61"><div class="lk">Mësimi 61</div><h2 class="lt">«Hij zit te lezen»: veprimi në vazhdim</h2><p>Holandishtja nuk ka formë të veçantë për «po + folje». <b>Ik zing</b> do të thotë <i>këndoj</i> ose <i>po këndoj</i>, sipas kontekstit.</p><p>Kur duam të theksojmë që veprimi <b>po ndodh tani</b>, përdorim një folje pozicioni (Njësitë 6 dhe 10) + <b>te</b> + paskajore:</p><div class="flow">
 <div class="fnode"><div class="fl">Kryefjala</div><div class="fs">hij, wij…</div></div>
 <div class="arrow">→</div>
 <div class="fnode hl"><div class="fl">staan, zitten, liggen, lopen</div><div class="fs">sipas pozicionit</div></div>
@@ -2955,11 +3042,11 @@
 <div class="btitle">Theksimi</div>
 <p>Theksimin («unë <b>po</b>, këndoj!») holandishtja e jep me ndajfolje ose me intonacion, jo me një formë tjetër të foljes.</p>
 </div></section>
-<section class="lesson" id="u19-l60"><div class="lk">Mësimi 60</div><h2 class="lt">Urdhërorja</h2><p>Te Njësia 14 pamë që urdhërorja përdor <b>rrënjën</b> e foljes, pa kryefjalë dhe pa mbaresë. Kjo vlen për njëjësin dhe shumësin:</p><div class="tw"><table class="tbl c3"><thead><tr><th>Paskajorja</th><th>Urdhërorja</th><th>Shqip</th></tr></thead><tbody>
+<section class="lesson" id="u19-l62"><div class="lk">Mësimi 62</div><h2 class="lt">Urdhërorja</h2><p>Te Njësia 14 pamë që urdhërorja përdor <b>rrënjën</b> e foljes, pa kryefjalë dhe pa mbaresë. Kjo vlen për njëjësin dhe shumësin:</p><div class="tw"><table class="tbl c3"><thead><tr><th>Paskajorja</th><th>Urdhërorja</th><th>Shqip</th></tr></thead><tbody>
 <tr><td>luisteren</td><td><b>Luister</b> goed!</td><td>Dëgjo, dëgjoni mirë!</td></tr>
 <tr><td>wachten</td><td><b>Wacht</b> op ons!</td><td>Na prit, na pritni!</td></tr>
 <tr><td>nemen</td><td><b>Neem</b> dit boek!</td><td>Merre këtë libër!</td></tr>
-</tbody></table></div><h3 class="sh" id="u19-l60-2">Urdhërorja e sjellshme: rrënja + t + u</h3><p>Me mirësjellje (njëjës ose shumës) shtohet <b>-t</b> dhe pas foljes vjen <b>u</b>. Urdhri tingëllon më i butë:</p><div class="tw"><table class="tbl c2"><thead><tr><th>Holandisht</th><th>Shqip</th></tr></thead><tbody>
+</tbody></table></div><h3 class="sh" id="u19-l62-2">Urdhërorja e sjellshme: rrënja + t + u</h3><p>Me mirësjellje (njëjës ose shumës) shtohet <b>-t</b> dhe pas foljes vjen <b>u</b>. Urdhri tingëllon më i butë:</p><div class="tw"><table class="tbl c2"><thead><tr><th>Holandisht</th><th>Shqip</th></tr></thead><tbody>
 <tr><td><b>Leest u</b> wat langzamer!</td><td>Lexoni pak më ngadalë, ju lutem!</td></tr>
 <tr><td><b>Blijft u</b> met ons!</td><td>Qëndroni me ne!</td></tr>
 <tr><td><b>Komt u</b> binnen!</td><td>Hyni brenda!</td></tr>
@@ -3014,8 +3101,8 @@
 <header class="uhead"><div class="ukick">Pjesa V · Sistemi i foljeve <span class="lvl">A2</span></div>
 <div class="utitle"><span class="unum">20</span><h2>Koha e shkuar</h2></div><p class="usub">Foljet e dobëta (-te/-de), të forta dhe të parregullta</p>
 <div class="ustatus" data-status="u20"></div>
-<nav class="utoc" aria-label="Mësimet e njësisë"><a href="#u20-l61"><span>61</span>Foljet e dobëta: -te / -de</a><a href="#u20-l62"><span>62</span>Foljet e forta dhe të parregullta</a><a href="#u20-ex"><span>✎</span>Ushtrime</a><a href="#u20-gl"><span>Aa</span>Fjalorth</a></nav></header>
-<section class="lesson" id="u20-l61"><div class="lk">Mësimi 61</div><h2 class="lt">Foljet e dobëta: -te / -de</h2><p>Koha e shkuar holandeze (<i>ik werkte</i>) përkthehet në shqip, sipas kontekstit, me <b>punova</b> ose <b>punoja</b>. Si në anglisht, foljet ndahen në dy grupe kryesore:</p><ul class="bul"><li><b>të dobëta</b>: shtojnë një mbaresë (<i>werken → werkte</i>, si anglisht <i>play → played</i>);</li><li><b>të forta</b>: ndërrojnë zanoren (<i>zingen → zong</i>, si anglisht <i>sing → sang</i>).</li></ul><h3 class="sh" id="u20-l61-2">Rrënja + -te / -de</h3><p>Foljet e dobëta shtojnë te rrënja <b>-te</b> (njëjës) / <b>-ten</b> (shumës), ose <b>-de</b> / <b>-den</b>.</p><div class="box rule"><div class="kicker">Rregull</div>
+<nav class="utoc" aria-label="Mësimet e njësisë"><a href="#u20-l63"><span>63</span>Foljet e dobëta: -te / -de</a><a href="#u20-l64"><span>64</span>Foljet e forta dhe të parregullta</a><a href="#u20-ex"><span>✎</span>Ushtrime</a><a href="#u20-gl"><span>Aa</span>Fjalorth</a></nav></header>
+<section class="lesson" id="u20-l63"><div class="lk">Mësimi 63</div><h2 class="lt">Foljet e dobëta: -te / -de</h2><p>Koha e shkuar holandeze (<i>ik werkte</i>) përkthehet në shqip, sipas kontekstit, me <b>punova</b> ose <b>punoja</b>. Si në anglisht, foljet ndahen në dy grupe kryesore:</p><ul class="bul"><li><b>të dobëta</b>: shtojnë një mbaresë (<i>werken → werkte</i>, si anglisht <i>play → played</i>);</li><li><b>të forta</b>: ndërrojnë zanoren (<i>zingen → zong</i>, si anglisht <i>sing → sang</i>).</li></ul><h3 class="sh" id="u20-l63-2">Rrënja + -te / -de</h3><p>Foljet e dobëta shtojnë te rrënja <b>-te</b> (njëjës) / <b>-ten</b> (shumës), ose <b>-de</b> / <b>-den</b>.</p><div class="box rule"><div class="kicker">Rregull</div>
 <div class="btitle">'t kofschip</div>
 <p>Kur rrënja mbaron me <b>t, k, f, s, ch, p</b> → <b>-te / -ten</b>. Në të gjitha rastet e tjera → <b>-de / -den</b>.</p>
 <p>Mbajeni mend me fjalën <b>'t kofschip</b>, e cila përmban të gjitha këto shkronja.</p>
@@ -3037,7 +3124,7 @@
 <tr><td>Hij <b>maakte</b> een taart.</td><td>Ai bëri një tortë.</td></tr>
 <tr><td>Zij <b>reisden</b> naar Italië.</td><td>Ata udhëtuan për në Itali.</td></tr>
 </tbody></table></div></section>
-<section class="lesson" id="u20-l62"><div class="lk">Mësimi 62</div><h2 class="lt">Foljet e forta dhe të parregullta</h2><h3 class="sh" id="u20-l62-0">Foljet e forta: ndërrojnë zanoren</h3><p>Forma e re shërben për të gjithë njëjësin, ndërsa shumësi shton <b>-en</b>. Nuk ka rregull të thjeshtë: secila folje mësohet veçmas.</p><div class="tw"><table class="tbl c4"><thead><tr><th>Paskajorja</th><th>Njëjës</th><th>Shumës</th><th>Shqip</th></tr></thead><tbody>
+<section class="lesson" id="u20-l64"><div class="lk">Mësimi 64</div><h2 class="lt">Foljet e forta dhe të parregullta</h2><h3 class="sh" id="u20-l64-0">Foljet e forta: ndërrojnë zanoren</h3><p>Forma e re shërben për të gjithë njëjësin, ndërsa shumësi shton <b>-en</b>. Nuk ka rregull të thjeshtë: secila folje mësohet veçmas.</p><div class="tw"><table class="tbl c4"><thead><tr><th>Paskajorja</th><th>Njëjës</th><th>Shumës</th><th>Shqip</th></tr></thead><tbody>
 <tr><td>zingen</td><td>zong</td><td>zongen</td><td>këndova</td></tr>
 <tr><td>schrijven</td><td>schreef</td><td>schreven</td><td>shkrova</td></tr>
 <tr><td>drinken</td><td>dronk</td><td>dronken</td><td>piva</td></tr>
@@ -3050,7 +3137,7 @@
 </tbody></table></div><div class="box note"><div class="kicker">Shënim</div>
 <div class="btitle">Zanore e shkurtër → e gjatë</div>
 <p>Te disa folje zanorja është e shkurtër në njëjës dhe e gjatë në shumës: <i>ik <b>nam</b> – wij <b>namen<b><i> (mora) · ik </b>gaf<b> – wij </b>gaven</i></b> (dhashë) · ik <b>las</b> – wij <b>lazen<b><i> (lexova) · ik </b>zat<b> – wij </b>zaten</i></b> (isha ulur) · ik <b>lag</b> – wij <b>lagen</b></i> (isha shtrirë).</p>
-</div><h3 class="sh" id="u20-l62-4">Foljet e parregullta</h3><p>Ato nuk ndjekin asnjërin model. Njëjësi nuk merr mbaresë, shumësi merr <b>-en</b>.</p><div class="tw"><table class="tbl c4"><thead><tr><th>Paskajorja</th><th>Njëjës</th><th>Shumës</th><th>Shqip</th></tr></thead><tbody>
+</div><h3 class="sh" id="u20-l64-4">Foljet e parregullta</h3><p>Ato nuk ndjekin asnjërin model. Njëjësi nuk merr mbaresë, shumësi merr <b>-en</b>.</p><div class="tw"><table class="tbl c4"><thead><tr><th>Paskajorja</th><th>Njëjës</th><th>Shumës</th><th>Shqip</th></tr></thead><tbody>
 <tr><td><b>hebben</b></td><td>had</td><td>hadden</td><td>kisha, pata</td></tr>
 <tr><td><b>zijn</b></td><td>was</td><td>waren</td><td>isha, qeshë</td></tr>
 <tr><td>brengen</td><td>bracht</td><td>brachten</td><td>solla</td></tr>
@@ -3113,8 +3200,8 @@
 <header class="uhead"><div class="ukick">Pjesa V · Sistemi i foljeve <span class="lvl">A2</span></div>
 <div class="utitle"><span class="unum">21</span><h2>Koha e kryer</h2></div><p class="usub">Pjesorja, hebben apo zijn, rendi dhe përdorimi</p>
 <div class="ustatus" data-status="u21"></div>
-<nav class="utoc" aria-label="Mësimet e njësisë"><a href="#u21-l63"><span>63</span>Pjesorja</a><a href="#u21-l64"><span>64</span>«hebben» apo «zijn»?</a><a href="#u21-l65"><span>65</span>Rendi i fjalëve dhe përdorimi</a><a href="#u21-ex"><span>✎</span>Ushtrime</a><a href="#u21-gl"><span>Aa</span>Fjalorth</a></nav></header>
-<section class="lesson" id="u21-l63"><div class="lk">Mësimi 63</div><h2 class="lt">Pjesorja</h2><p>Koha e kryer ndërtohet si në shqip: <b>folje ndihmëse</b> (<i>hebben</i> ose <i>zijn</i>) + <b>pjesore</b>. <i>Ik <b>heb</b> gewerkt</i> = kam punuar.</p><h3 class="sh" id="u21-l63-1">Foljet e dobëta: ge- + rrënja + -t / -d</h3><p>Rregulli <i>'t kofschip</i> (Mësimi 61) vlen edhe këtu: <b>-t</b> pas <i>t, k, f, s, ch, p</i>, ndryshe <b>-d</b>.</p><div class="tw"><table class="tbl c3"><thead><tr><th>Paskajorja</th><th>Rrënja</th><th>Pjesorja</th></tr></thead><tbody>
+<nav class="utoc" aria-label="Mësimet e njësisë"><a href="#u21-l65"><span>65</span>Pjesorja</a><a href="#u21-l66"><span>66</span>«hebben» apo «zijn»?</a><a href="#u21-l67"><span>67</span>Rendi i fjalëve dhe përdorimi</a><a href="#u21-ex"><span>✎</span>Ushtrime</a><a href="#u21-gl"><span>Aa</span>Fjalorth</a></nav></header>
+<section class="lesson" id="u21-l65"><div class="lk">Mësimi 65</div><h2 class="lt">Pjesorja</h2><p>Koha e kryer ndërtohet si në shqip: <b>folje ndihmëse</b> (<i>hebben</i> ose <i>zijn</i>) + <b>pjesore</b>. <i>Ik <b>heb</b> gewerkt</i> = kam punuar.</p><h3 class="sh" id="u21-l65-1">Foljet e dobëta: ge- + rrënja + -t / -d</h3><p>Rregulli <i>'t kofschip</i> (Mësimi 63) vlen edhe këtu: <b>-t</b> pas <i>t, k, f, s, ch, p</i>, ndryshe <b>-d</b>.</p><div class="tw"><table class="tbl c3"><thead><tr><th>Paskajorja</th><th>Rrënja</th><th>Pjesorja</th></tr></thead><tbody>
 <tr><td>werken (punoj)</td><td>werk</td><td><b>ge</b>werk<b>t</b></td></tr>
 <tr><td>dopen (pagëzoj)</td><td>doop</td><td><b>ge</b>doop<b>t</b></td></tr>
 <tr><td>eisen (kërkoj)</td><td>eis</td><td><b>ge</b>ëis<b>t</b></td></tr>
@@ -3123,41 +3210,41 @@
 <tr><td>leven (jetoj)</td><td>leef</td><td><b>ge</b>leef<b>d</b> (v → -d)</td></tr>
 <tr><td>niezen (teshtij)</td><td>nies</td><td><b>ge</b>nies<b>d</b> (z → -d)</td></tr>
 <tr><td>leiden (drejtoj)</td><td>leid</td><td><b>ge</b>leid (nuk shtohet <i>d</i> e dytë)</td></tr>
-</tbody></table></div><h3 class="sh" id="u21-l63-4">Foljet e forta: ge- + zanore e re + -en</h3><div class="tw"><table class="tbl c4"><thead><tr><th>Paskajorja</th><th>Pjesorja</th><th>Paskajorja</th><th>Pjesorja</th></tr></thead><tbody>
+</tbody></table></div><h3 class="sh" id="u21-l65-4">Foljet e forta: ge- + zanore e re + -en</h3><div class="tw"><table class="tbl c4"><thead><tr><th>Paskajorja</th><th>Pjesorja</th><th>Paskajorja</th><th>Pjesorja</th></tr></thead><tbody>
 <tr><td>krijgen</td><td>gekregen</td><td>zingen</td><td>gezongen</td></tr>
 <tr><td>bieden</td><td>geboden</td><td>stelen</td><td>gestolen</td></tr>
 <tr><td>sluiten</td><td>gesloten</td><td>lezen</td><td>gelezen</td></tr>
 <tr><td>lopen</td><td>gelopen</td><td>dragen</td><td>gedragen</td></tr>
 <tr><td>schrijven</td><td>geschreven</td><td>drinken</td><td>gedronken</td></tr>
-</tbody></table></div><h3 class="sh" id="u21-l63-6">Foljet e parregullta</h3><div class="tw"><table class="tbl c4"><thead><tr><th>Paskajorja</th><th>Pjesorja</th><th>Paskajorja</th><th>Pjesorja</th></tr></thead><tbody>
+</tbody></table></div><h3 class="sh" id="u21-l65-6">Foljet e parregullta</h3><div class="tw"><table class="tbl c4"><thead><tr><th>Paskajorja</th><th>Pjesorja</th><th>Paskajorja</th><th>Pjesorja</th></tr></thead><tbody>
 <tr><td>brengen</td><td>gebracht</td><td><b>hebben</b></td><td><b>gehad</b></td></tr>
 <tr><td>doen</td><td>gedaan</td><td><b>zijn</b></td><td><b>geweest</b></td></tr>
 <tr><td>vriezen</td><td>gevroren</td><td>gaan</td><td>gegaan</td></tr>
 <tr><td>kopen</td><td>gekocht</td><td>zien</td><td>gezien</td></tr>
-</tbody></table></div><h3 class="sh" id="u21-l63-8">Pa «ge-»: parashtesat e pandashme</h3><p>Foljet me <b>be-, er-, ge-, her-, ont-, ver-</b> <b>nuk</b> marrin <i>ge-</i>:</p><div class="tw"><table class="tbl c3"><thead><tr><th>Paskajorja</th><th>Pjesorja</th><th>Shqip</th></tr></thead><tbody>
+</tbody></table></div><h3 class="sh" id="u21-l65-8">Pa «ge-»: parashtesat e pandashme</h3><p>Foljet me <b>be-, er-, ge-, her-, ont-, ver-</b> <b>nuk</b> marrin <i>ge-</i>:</p><div class="tw"><table class="tbl c3"><thead><tr><th>Paskajorja</th><th>Pjesorja</th><th>Shqip</th></tr></thead><tbody>
 <tr><td>bedoelen</td><td>bedoeld</td><td>kam për qëllim</td></tr>
 <tr><td>ontmoeten</td><td>ontmoet</td><td>takoj</td></tr>
 <tr><td>ervaren</td><td>ervaren</td><td>përjetoj, mësoj</td></tr>
 <tr><td>vermijden</td><td>vermeden</td><td>shmang</td></tr>
 <tr><td>bedenken</td><td>bedacht</td><td>mendoj, shpik</td></tr>
 <tr><td>herkennen</td><td>herkend</td><td>njoh</td></tr>
-</tbody></table></div><h3 class="sh" id="u21-l63-11">Me parashtesë të ndashme: «-ge-» në mes</h3><p>Te <i>aan-, door-, op-…</i> (Mësimi 73), <b>ge</b> futet midis parashtesës dhe foljes: <i>aannemen → aan<b>ge</b>nomen</i> · <i>doorbrengen → door<b>ge</b>bracht</i> · <i>opbellen → op<b>ge</b>beld</i>.</p><div class="box note"><div class="kicker">Shënim</div>
+</tbody></table></div><h3 class="sh" id="u21-l65-11">Me parashtesë të ndashme: «-ge-» në mes</h3><p>Te <i>aan-, door-, op-…</i> (Mësimi 75), <b>ge</b> futet midis parashtesës dhe foljes: <i>aannemen → aan<b>ge</b>nomen</i> · <i>doorbrengen → door<b>ge</b>bracht</i> · <i>opbellen → op<b>ge</b>beld</i>.</p><div class="box note"><div class="kicker">Shënim</div>
 <div class="btitle">Tri format kryesore</div>
 <p>Për çdo folje të fortë ose të parregullt mësoni <b>paskajoren – kohën e shkuar – pjesoren</b>: <i>krijgen – kreeg – gekregen</i>. Te foljet e dobëta mjafton paskajorja.</p>
 </div></section>
-<section class="lesson" id="u21-l64"><div class="lk">Mësimi 64</div><h2 class="lt">«hebben» apo «zijn»?</h2><h3 class="sh" id="u21-l64-0">hebben: shumica e foljeve</h3><div class="tw"><table class="tbl c3"><thead><tr><th>Rasti</th><th>Holandisht</th><th>Shqip</th></tr></thead><tbody>
+<section class="lesson" id="u21-l66"><div class="lk">Mësimi 66</div><h2 class="lt">«hebben» apo «zijn»?</h2><h3 class="sh" id="u21-l66-0">hebben: shumica e foljeve</h3><div class="tw"><table class="tbl c3"><thead><tr><th>Rasti</th><th>Holandisht</th><th>Shqip</th></tr></thead><tbody>
 <tr><td>foljet me kundrinor</td><td>Ik <b>heb</b> hem <b>gezien</b>.</td><td>E kam parë.</td></tr>
 <tr><td></td><td>Hij <b>heeft</b> zijn vriend <b>geholpen</b>.</td><td>Ka ndihmuar shokun e tij.</td></tr>
 <tr><td></td><td><b>Heb</b> je een auto <b>gekocht</b>?</td><td>A ke blerë makinë?</td></tr>
 <tr><td>pa kundrinor, pa ndryshim</td><td>Hij <b>heeft</b> lang <b>geslapen</b>.</td><td>Ka fjetur gjatë.</td></tr>
 <tr><td></td><td>Ik <b>heb</b> in Den Haag <b>gewoond</b>.</td><td>Kam banuar në Hagë.</td></tr>
 <tr><td></td><td>Zij <b>hebben</b> hartelijk <b>gelachen</b>.</td><td>Kanë qeshur me gjithë zemër.</td></tr>
-</tbody></table></div><h3 class="sh" id="u21-l64-2">zijn: ndryshim vendi ose gjendjeje</h3><div class="tw"><table class="tbl c2"><thead><tr><th>Holandisht</th><th>Shqip</th></tr></thead><tbody>
+</tbody></table></div><h3 class="sh" id="u21-l66-2">zijn: ndryshim vendi ose gjendjeje</h3><div class="tw"><table class="tbl c2"><thead><tr><th>Holandisht</th><th>Shqip</th></tr></thead><tbody>
 <tr><td>De trein <b>is vertrokken</b>.</td><td>Treni është nisur.</td></tr>
 <tr><td>Hij <b>is ingeslapen</b>.</td><td>Ai ka rënë në gjumë. (ndryshim gjendjeje)</td></tr>
 <tr><td>Wij <b>zijn</b> naar Utrecht <b>gefietst</b>.</td><td>Shkuam me biçikletë në Utrecht.</td></tr>
 <tr><td>Zij <b>zijn gestorven</b>.</td><td>Ata kanë vdekur.</td></tr>
-</tbody></table></div><h3 class="sh" id="u21-l64-4">Foljet e lëvizjes: drejt një vendi → zijn; aktivitet → hebben</h3><div class="tw"><table class="tbl c2"><thead><tr><th>Aktivitet: hebben</th><th>Drejt një vendi: zijn</th></tr></thead><tbody>
+</tbody></table></div><h3 class="sh" id="u21-l66-4">Foljet e lëvizjes: drejt një vendi → zijn; aktivitet → hebben</h3><div class="tw"><table class="tbl c2"><thead><tr><th>Aktivitet: hebben</th><th>Drejt një vendi: zijn</th></tr></thead><tbody>
 <tr><td>Hij <b>heeft</b> een tijd <b>gewandeld</b>. <i>Shëtiti pak.</i></td><td>Hij <b>is</b> naar de stad <b>gewandeld</b>. <i>Shkoi në qytet në këmbë.</i></td></tr>
 <tr><td>Ik <b>heb</b> nooit <b>gevlogen</b>.<br><i>Nuk kam fluturuar kurrë.</i></td><td>Ik <b>ben</b> naar Amsterdam <b>gevlogen</b>. <i>Fluturova për në Amsterdam.</i></td></tr>
 </tbody></table></div><p><i>gaan</i> dhe <i>komen</i> marrin <b>gjithmonë zijn</b>: <i>Ik <b>ben</b> gegaan.</i> · <i>Zij <b>is</b> gekomen.</i></p><div class="box caution"><div class="kicker">Kujdes</div>
@@ -3171,12 +3258,12 @@
 <div class="btitle">Dallim nga shqipja</div>
 <p>Në shqip ndihmëse e kohës së kryer është gjithmonë <i>kam</i> (<i>kam shkuar</i>). Në holandisht foljet e lëvizjes drejt një vendi dhe të ndryshimit të gjendjes marrin <b>zijn</b>: <i>ik <b>ben</b> gegaan</i>, fjalë për fjalë «jam shkuar».</p>
 </div></section>
-<section class="lesson" id="u21-l65"><div class="lk">Mësimi 65</div><h2 class="lt">Rendi i fjalëve dhe përdorimi</h2><p>Ndihmësja (<i>hebben / zijn</i>) zë vendin e foljes. <b>Pjesorja shkon në fund</b> (Njësia 14):</p><div class="tw"><table class="tbl c3"><thead><tr><th>Tipi</th><th>Holandisht</th><th>Shqip</th></tr></thead><tbody>
+<section class="lesson" id="u21-l67"><div class="lk">Mësimi 67</div><h2 class="lt">Rendi i fjalëve dhe përdorimi</h2><p>Ndihmësja (<i>hebben / zijn</i>) zë vendin e foljes. <b>Pjesorja shkon në fund</b> (Njësia 14):</p><div class="tw"><table class="tbl c3"><thead><tr><th>Tipi</th><th>Holandisht</th><th>Shqip</th></tr></thead><tbody>
 <tr><td>I</td><td>Wij <b>hebben</b> hem vaak <b>gezien</b>.</td><td>E kemi parë shpesh.</td></tr>
 <tr><td>I (inversion)</td><td>Gisteren <b>ben</b> ik in Delft <b>geweest</b>.</td><td>Dje kam qenë në Delft.</td></tr>
 <tr><td>II</td><td><b>Heeft</b> hij de auto al <b>verkocht</b>?</td><td>A e ka shitur makinën tashmë?</td></tr>
 <tr><td>III</td><td>Ik weet niet of hij al <b>aangekomen is</b>.</td><td>Nuk e di nëse ka mbërritur.</td></tr>
-</tbody></table></div><h3 class="sh" id="u21-l65-2">Koha e kryer apo koha e shkuar?</h3><p>Në holandisht dallimi është më shumë <b>stilistik</b> sesa kuptimor:</p><ul class="bul"><li><b>Koha e kryer</b> është mënyra më e zakonshme për të folur për të shkuarën: <i>Ik heb hem gisteren gezien.</i> (E pashë dje.)</li><li><b>Koha e shkuar</b> përdoret më shumë për <b>tregime</b>, për një seri ngjarjesh njëra pas tjetrës.</li></ul><h3 class="sh" id="u21-l65-5">«Banoj këtu prej dy vjetësh»: koha e tashme + al / sinds</h3><p>Për një veprim që ka nisur në të shkuarën dhe <b>vazhdon ende</b>, holandishtja përdor <b>kohën e tashme</b>, si shqipja:</p><div class="tw"><table class="tbl c2"><thead><tr><th>Holandisht</th><th>Shqip</th></tr></thead><tbody>
+</tbody></table></div><h3 class="sh" id="u21-l67-2">Koha e kryer apo koha e shkuar?</h3><p>Në holandisht dallimi është më shumë <b>stilistik</b> sesa kuptimor:</p><ul class="bul"><li><b>Koha e kryer</b> është mënyra më e zakonshme për të folur për të shkuarën: <i>Ik heb hem gisteren gezien.</i> (E pashë dje.)</li><li><b>Koha e shkuar</b> përdoret më shumë për <b>tregime</b>, për një seri ngjarjesh njëra pas tjetrës.</li></ul><h3 class="sh" id="u21-l67-5">«Banoj këtu prej dy vjetësh»: koha e tashme + al / sinds</h3><p>Për një veprim që ka nisur në të shkuarën dhe <b>vazhdon ende</b>, holandishtja përdor <b>kohën e tashme</b>, si shqipja:</p><div class="tw"><table class="tbl c2"><thead><tr><th>Holandisht</th><th>Shqip</th></tr></thead><tbody>
 <tr><td>Ik woon <b>al</b> twee jaar in Edam.</td><td>Banoj në Edam prej dy vjetësh.</td></tr>
 <tr><td><b>Sinds</b> wanneer wonen zij in Nederland?</td><td>Që kur banojnë ata në Holandë?</td></tr>
 </tbody></table></div></section>
@@ -3227,8 +3314,8 @@
 <header class="uhead"><div class="ukick">Pjesa V · Sistemi i foljeve <span class="lvl">A2</span></div>
 <div class="utitle"><span class="unum">22</span><h2>Më se e kryera, e ardhmja dhe kushtorja</h2></div><p class="usub">ik had gewerkt · zullen dhe gaan · zou</p>
 <div class="ustatus" data-status="u22"></div>
-<nav class="utoc" aria-label="Mësimet e njësisë"><a href="#u22-l66"><span>66</span>Më se e kryera: «ik had gewerkt»</a><a href="#u22-l67"><span>67</span>E ardhmja: «zullen» dhe «gaan»</a><a href="#u22-l68"><span>68</span>Kushtorja: «zou»</a><a href="#u22-ex"><span>✎</span>Ushtrime</a><a href="#u22-gl"><span>Aa</span>Fjalorth</a></nav></header>
-<section class="lesson" id="u22-l66"><div class="lk">Mësimi 66</div><h2 class="lt">Më se e kryera: «ik had gewerkt»</h2><p>Ndërtohet me kohën e shkuar të <b>hebben</b> (<i>had / hadden</i>) ose të <b>zijn</b> (<i>was / waren</i>) + pjesore. Foljet që marrin <i>zijn</i> në kohën e kryer e marrin edhe këtu.</p><p>Përdoret si në shqip (<i>kisha punuar</i>): për një veprim që ndodhi <b>para</b> një veprimi tjetër të shkuar.</p><div class="tw"><table class="tbl c2"><thead><tr><th>Holandisht</th><th>Shqip</th></tr></thead><tbody>
+<nav class="utoc" aria-label="Mësimet e njësisë"><a href="#u22-l68"><span>68</span>Më se e kryera: «ik had gewerkt»</a><a href="#u22-l69"><span>69</span>E ardhmja: «zullen» dhe «gaan»</a><a href="#u22-l70"><span>70</span>Kushtorja: «zou»</a><a href="#u22-ex"><span>✎</span>Ushtrime</a><a href="#u22-gl"><span>Aa</span>Fjalorth</a></nav></header>
+<section class="lesson" id="u22-l68"><div class="lk">Mësimi 68</div><h2 class="lt">Më se e kryera: «ik had gewerkt»</h2><p>Ndërtohet me kohën e shkuar të <b>hebben</b> (<i>had / hadden</i>) ose të <b>zijn</b> (<i>was / waren</i>) + pjesore. Foljet që marrin <i>zijn</i> në kohën e kryer e marrin edhe këtu.</p><p>Përdoret si në shqip (<i>kisha punuar</i>): për një veprim që ndodhi <b>para</b> një veprimi tjetër të shkuar.</p><div class="tw"><table class="tbl c2"><thead><tr><th>Holandisht</th><th>Shqip</th></tr></thead><tbody>
 <tr><td>Zij <b>had</b> de boeken niet <b>gevonden</b>.</td><td>Ajo nuk i kishte gjetur librat.</td></tr>
 <tr><td>Wij <b>hadden</b> in Leiden <b>gestudeerd</b>.</td><td>Ne kishim studiuar në Leiden.</td></tr>
 <tr><td>Hij <b>was</b> al <b>vertrokken</b>.</td><td>Ai ishte nisur tashmë.</td></tr>
@@ -3239,7 +3326,7 @@
 <tr><td>ik ben gegaan</td><td>ik <b>was</b> gegaan</td><td>kisha shkuar</td></tr>
 <tr><td>wij zijn gegaan</td><td>wij <b>waren</b> gegaan</td><td>kishim shkuar</td></tr>
 </tbody></table></div></section>
-<section class="lesson" id="u22-l67"><div class="lk">Mësimi 67</div><h2 class="lt">E ardhmja: «zullen» dhe «gaan»</h2><h3 class="sh" id="u22-l67-0">zullen + paskajore</h3><div class="tw"><table class="tbl conj c2"><thead><tr><th>Përemri</th><th>zullen</th></tr></thead><tbody>
+<section class="lesson" id="u22-l69"><div class="lk">Mësimi 69</div><h2 class="lt">E ardhmja: «zullen» dhe «gaan»</h2><h3 class="sh" id="u22-l69-0">zullen + paskajore</h3><div class="tw"><table class="tbl conj c2"><thead><tr><th>Përemri</th><th>zullen</th></tr></thead><tbody>
 <tr><td>ik</td><td>zal</td></tr>
 <tr><td>jij / je</td><td>zult (edhe: zal) · <b>zul je?</b></td></tr>
 <tr><td>u</td><td>zult</td></tr>
@@ -3249,7 +3336,7 @@
 <tr><td>Wij <b>zullen</b> met de auto <b>gaan</b>.</td><td>Do të shkojmë me makinë.</td></tr>
 <tr><td><b>Zal</b> hij hier op ons <b>wachten</b>?</td><td>A do të na presë këtu?</td></tr>
 <tr><td>De reis <b>zal</b> twee uur <b>duren</b>.</td><td>Udhëtimi do të zgjasë dy orë.</td></tr>
-</tbody></table></div><h3 class="sh" id="u22-l67-4">Katër mënyra për të ardhmen</h3><div class="tw"><table class="tbl c3"><thead><tr><th>Mënyra</th><th>Holandisht</th><th>Shqip</th></tr></thead><tbody>
+</tbody></table></div><h3 class="sh" id="u22-l69-4">Katër mënyra për të ardhmen</h3><div class="tw"><table class="tbl c3"><thead><tr><th>Mënyra</th><th>Holandisht</th><th>Shqip</th></tr></thead><tbody>
 <tr><td><b>zullen</b> + paskajore</td><td>Ik <b>zal</b> je <b>helpen</b>.</td><td>Do të të ndihmoj.</td></tr>
 <tr><td><b>zullen + wel</b> = ndoshta (tani)</td><td>Zij <b>zullen</b> het <b>wel</b> weten.</td><td>Me siguri e dinë.</td></tr>
 <tr><td><b>koha e tashme</b> + fjalë kohe</td><td>Morgen <b>gaan</b> wij naar Rotterdam.</td><td>Nesër shkojmë në Roterdam.</td></tr>
@@ -3259,18 +3346,18 @@
 </tbody></table></div><div class="box tip"><div class="kicker">Këshillë</div>
 <div class="btitle">Mënyra më e zakonshme</div>
 <p>Në të folur holandezët përdorin shpesh <b>kohën e tashme + një fjalë kohe</b> (<i>morgen, volgende week</i>) ose <b>gaan + paskajore</b>. <i>Zullen</i> tingëllon më formal ose shpreh premtim: <i>Ik zal het doen!</i> (Do ta bëj, të premtoj!)</p>
-</div><h3 class="sh" id="u22-l67-7">E ardhmja e kryer</h3><p>E rrallë në të dyja gjuhët. Ndërtohet me <b>zullen + pjesore + hebben / zijn</b>:</p><div class="tw"><table class="tbl c2"><thead><tr><th>Holandisht</th><th>Shqip</th></tr></thead><tbody>
+</div><h3 class="sh" id="u22-l69-7">E ardhmja e kryer</h3><p>E rrallë në të dyja gjuhët. Ndërtohet me <b>zullen + pjesore + hebben / zijn</b>:</p><div class="tw"><table class="tbl c2"><thead><tr><th>Holandisht</th><th>Shqip</th></tr></thead><tbody>
 <tr><td>Hij <b>zal</b> de krant <b>gelezen hebben</b>.</td><td>Do ta ketë lexuar gazetën.</td></tr>
 <tr><td>Zij <b>zullen</b> naar Breda <b>gegaan zijn</b>.</td><td>Do të kenë shkuar në Breda.</td></tr>
 </tbody></table></div></section>
-<section class="lesson" id="u22-l68"><div class="lk">Mësimi 68</div><h2 class="lt">Kushtorja: «zou»</h2><p>Kushtorja shpreh dyshim, mundësi ose diçka jo reale (shqip: <i>do të + e pakryera</i>: <i>do të blija</i>). Ndërtohet me kohën e shkuar të <i>zullen</i>:</p><div class="tw"><table class="tbl conj c2"><thead><tr><th>Përemri</th><th>zou</th></tr></thead><tbody>
+<section class="lesson" id="u22-l70"><div class="lk">Mësimi 70</div><h2 class="lt">Kushtorja: «zou»</h2><p>Kushtorja shpreh dyshim, mundësi ose diçka jo reale (shqip: <i>do të + e pakryera</i>: <i>do të blija</i>). Ndërtohet me kohën e shkuar të <i>zullen</i>:</p><div class="tw"><table class="tbl conj c2"><thead><tr><th>Përemri</th><th>zou</th></tr></thead><tbody>
 <tr><td>ik / jij / u / hij / zij / het</td><td><b>zou</b></td></tr>
 <tr><td>wij / jullie / zij</td><td><b>zouden</b></td></tr>
-</tbody></table></div><h3 class="sh" id="u22-l68-2">Kushtorja e tashme: zou + paskajore</h3><div class="tw"><table class="tbl c2"><thead><tr><th>Holandisht</th><th>Shqip</th></tr></thead><tbody>
+</tbody></table></div><h3 class="sh" id="u22-l70-2">Kushtorja e tashme: zou + paskajore</h3><div class="tw"><table class="tbl c2"><thead><tr><th>Holandisht</th><th>Shqip</th></tr></thead><tbody>
 <tr><td>Hij <b>zou</b> graag thuis <b>blijven</b>.</td><td>Do të donte të rrinte në shtëpi.</td></tr>
 <tr><td>Wij <b>zouden</b> dat huis niet <b>kopen</b>.</td><td>Ne nuk do ta blinim atë shtëpi.</td></tr>
 <tr><td>Als ik jij was, <b>zou</b> ik hem later <b>opbellen</b>.</td><td>Po të isha në vendin tënd, do ta telefonoja më vonë.</td></tr>
-</tbody></table></div><h3 class="sh" id="u22-l68-4">Kushtorja e kaluar: zou + pjesore + hebben / zijn</h3><div class="tw"><table class="tbl c2"><thead><tr><th>Holandisht</th><th>Shqip</th></tr></thead><tbody>
+</tbody></table></div><h3 class="sh" id="u22-l70-4">Kushtorja e kaluar: zou + pjesore + hebben / zijn</h3><div class="tw"><table class="tbl c2"><thead><tr><th>Holandisht</th><th>Shqip</th></tr></thead><tbody>
 <tr><td>Ik <b>zou</b> dat huis niet <b>gekocht hebben</b>.</td><td>Nuk do ta kisha blerë atë shtëpi.</td></tr>
 <tr><td>Hij <b>zou</b> graag thuis <b>gebleven zijn</b>.</td><td>Do të kishte dashur të rrinte në shtëpi.</td></tr>
 <tr><td>Als hij harder gewerkt had, <b>zou</b> ik hem <b>geholpen hebben</b>.</td><td>Po të kishte punuar më shumë, do ta kisha ndihmuar.</td></tr>
@@ -3319,8 +3406,8 @@
 <header class="uhead"><div class="ukick">Pjesa V · Sistemi i foljeve <span class="lvl">A2</span></div>
 <div class="utitle"><span class="unum">23</span><h2>Forma pësore</h2></div><p class="usub">worden + pjesore, men dhe er wordt…</p>
 <div class="ustatus" data-status="u23"></div>
-<nav class="utoc" aria-label="Mësimet e njësisë"><a href="#u23-l69"><span>69</span>«worden» + pjesore</a><a href="#u23-l70"><span>70</span>«zijn» + pjesore, «men» dhe «er wordt…»</a><a href="#u23-ex"><span>✎</span>Ushtrime</a><a href="#u23-gl"><span>Aa</span>Fjalorth</a></nav></header>
-<section class="lesson" id="u23-l69"><div class="lk">Mësimi 69</div><h2 class="lt">«worden» + pjesore</h2><p>Në formën veprore kryefjala <b>bën</b> veprimin: <i>Ati e sheh atë.</i> Në formën pësore kryefjala <b>pëson</b> veprimin: <i>Ajo shihet nga ati.</i> Vepruesi shprehet me <b>door</b> (= nga).</p><p>Ndihmëset: <b>worden</b> (e tashme, e shkuar), <b>zullen</b> (e ardhme), <b>zijn</b> (kohët e kryera).</p><div class="tw"><table class="tbl c4"><thead><tr><th>Koha</th><th>Ndërtimi</th><th>Shembull</th><th>Shqip</th></tr></thead><tbody>
+<nav class="utoc" aria-label="Mësimet e njësisë"><a href="#u23-l71"><span>71</span>«worden» + pjesore</a><a href="#u23-l72"><span>72</span>«zijn» + pjesore, «men» dhe «er wordt…»</a><a href="#u23-ex"><span>✎</span>Ushtrime</a><a href="#u23-gl"><span>Aa</span>Fjalorth</a></nav></header>
+<section class="lesson" id="u23-l71"><div class="lk">Mësimi 71</div><h2 class="lt">«worden» + pjesore</h2><p>Në formën veprore kryefjala <b>bën</b> veprimin: <i>Ati e sheh atë.</i> Në formën pësore kryefjala <b>pëson</b> veprimin: <i>Ajo shihet nga ati.</i> Vepruesi shprehet me <b>door</b> (= nga).</p><p>Ndihmëset: <b>worden</b> (e tashme, e shkuar), <b>zullen</b> (e ardhme), <b>zijn</b> (kohët e kryera).</p><div class="tw"><table class="tbl c4"><thead><tr><th>Koha</th><th>Ndërtimi</th><th>Shembull</th><th>Shqip</th></tr></thead><tbody>
 <tr><td>e tashme</td><td>wordt / worden + pjes.</td><td>Het huis <b>wordt gebouwd</b>.</td><td>Shtëpia po ndërtohet.</td></tr>
 <tr><td>e shkuar</td><td>werd / werden + pjes.</td><td>Het huis <b>werd gebouwd</b>.</td><td>Shtëpia u ndërtua.</td></tr>
 <tr><td>e kryer</td><td>is / zijn + pjes.</td><td>Het huis <b>is gebouwd</b>.</td><td>Shtëpia është ndërtuar.</td></tr>
@@ -3343,11 +3430,11 @@
 <div class="btitle">Vepruesi me «door»</div>
 <p><i>De brief wordt <b>door</b> Anna geschreven.</i> = Letra shkruhet <b>nga</b> Ana.</p>
 </div></section>
-<section class="lesson" id="u23-l70"><div class="lk">Mësimi 70</div><h2 class="lt">«zijn» + pjesore, «men» dhe «er wordt…»</h2><h3 class="sh" id="u23-l70-0">Veprim apo gjendje?</h3><p><i>Het brood <b>is gebakken</b></i> ka dy kuptime: <b>buka është pjekur</b> (veprimi u krye) ose <b>buka është e pjekur</b> (gjendja). Me <b>al</b> kuptohet gjendja: <i>Het brood is <b>al</b> gebakken.</i></p><h3 class="sh" id="u23-l70-2">Si ta shmangim pësoren: «men»</h3><p>Holandezët e gjejnë pësoren shpesh të rëndë. Në vend të saj përdorin <b>men</b> (njeriu, dikush, ata) me foljen <b>në njëjës</b>:</p><div class="tw"><table class="tbl c3"><thead><tr><th>Pësore</th><th>Me «men»</th><th>Shqip</th></tr></thead><tbody>
+<section class="lesson" id="u23-l72"><div class="lk">Mësimi 72</div><h2 class="lt">«zijn» + pjesore, «men» dhe «er wordt…»</h2><h3 class="sh" id="u23-l72-0">Veprim apo gjendje?</h3><p><i>Het brood <b>is gebakken</b></i> ka dy kuptime: <b>buka është pjekur</b> (veprimi u krye) ose <b>buka është e pjekur</b> (gjendja). Me <b>al</b> kuptohet gjendja: <i>Het brood is <b>al</b> gebakken.</i></p><h3 class="sh" id="u23-l72-2">Si ta shmangim pësoren: «men»</h3><p>Holandezët e gjejnë pësoren shpesh të rëndë. Në vend të saj përdorin <b>men</b> (njeriu, dikush, ata) me foljen <b>në njëjës</b>:</p><div class="tw"><table class="tbl c3"><thead><tr><th>Pësore</th><th>Me «men»</th><th>Shqip</th></tr></thead><tbody>
 <tr><td>Hij <b>wordt geholpen</b>.</td><td><b>Men helpt</b> hem.</td><td>E ndihmojnë.</td></tr>
 <tr><td>De sleutels <b>zijn</b> pas gisteren <b>gevonden</b>.</td><td><b>Men heeft</b> de sleutels pas gisteren <b>gevonden</b>.</td><td>Çelësat u gjetën vetëm dje.</td></tr>
 <tr><td>Hier <b>wordt</b> Nederlands <b>gesproken</b>.</td><td>Hier <b>spreekt men</b> Nederlands.</td><td>Këtu flitet holandisht.</td></tr>
-</tbody></table></div><h3 class="sh" id="u23-l70-5">Pësorja pavetore: «er wordt…»</h3><p>Pa kryefjalë të vërtetë, shpesh me <b>er</b>. Fokusi bie te veprimi, jo te vepruesi:</p><div class="tw"><table class="tbl c2"><thead><tr><th>Holandisht</th><th>Shqip</th></tr></thead><tbody>
+</tbody></table></div><h3 class="sh" id="u23-l72-5">Pësorja pavetore: «er wordt…»</h3><p>Pa kryefjalë të vërtetë, shpesh me <b>er</b>. Fokusi bie te veprimi, jo te vepruesi:</p><div class="tw"><table class="tbl c2"><thead><tr><th>Holandisht</th><th>Shqip</th></tr></thead><tbody>
 <tr><td><b>Er wordt</b> gezongen en gedanst.</td><td>Këndohet dhe vallëzohet.</td></tr>
 <tr><td><b>Er wordt</b> in ons huis hard gewerkt.</td><td>Në shtëpinë tonë punohet shumë.</td></tr>
 <tr><td><b>Er wordt</b> in onze scholen te veel gerookt.</td><td>Në shkollat tona pihet shumë duhan.</td></tr>
@@ -3390,8 +3477,8 @@
 <header class="uhead"><div class="ukick">Pjesa V · Sistemi i foljeve <span class="lvl">A2</span></div>
 <div class="utitle"><span class="unum">24</span><h2>Foljet modale dhe laten: thellim</h2></div><p class="usub">Modalet në të gjitha kohët, paskajorja e dyfishtë dhe laten</p>
 <div class="ustatus" data-status="u24"></div>
-<nav class="utoc" aria-label="Mësimet e njësisë"><a href="#u24-l71"><span>71</span>Modalet në të gjitha kohët</a><a href="#u24-l72"><span>72</span>Folja «laten»</a><a href="#u24-ex"><span>✎</span>Ushtrime</a><a href="#u24-gl"><span>Aa</span>Fjalorth</a></nav></header>
-<section class="lesson" id="u24-l71"><div class="lk">Mësimi 71</div><h2 class="lt">Modalet në të gjitha kohët</h2><p>Te Njësia 5 mësuam modalet në kohën e tashme. Këtu shtojmë format me <i>u</i> dhe kohën e shkuar:</p><div class="tw"><table class="tbl conj c5"><thead><tr><th>Përemri</th><th>kunnen</th><th>moeten</th><th>mogen</th><th>willen</th></tr></thead><tbody>
+<nav class="utoc" aria-label="Mësimet e njësisë"><a href="#u24-l73"><span>73</span>Modalet në të gjitha kohët</a><a href="#u24-l74"><span>74</span>Folja «laten»</a><a href="#u24-ex"><span>✎</span>Ushtrime</a><a href="#u24-gl"><span>Aa</span>Fjalorth</a></nav></header>
+<section class="lesson" id="u24-l73"><div class="lk">Mësimi 73</div><h2 class="lt">Modalet në të gjitha kohët</h2><p>Te Njësia 5 mësuam modalet në kohën e tashme. Këtu shtojmë format me <i>u</i> dhe kohën e shkuar:</p><div class="tw"><table class="tbl conj c5"><thead><tr><th>Përemri</th><th>kunnen</th><th>moeten</th><th>mogen</th><th>willen</th></tr></thead><tbody>
 <tr><td>ik</td><td>kan</td><td>moet</td><td>mag</td><td>wil</td></tr>
 <tr><td>jij</td><td>kunt / kan</td><td>moet</td><td>mag</td><td>wilt / wil</td></tr>
 <tr><td><b>u</b></td><td><b>kunt</b></td><td><b>moet</b></td><td><b>mag</b></td><td><b>wilt</b></td></tr>
@@ -3405,13 +3492,13 @@
 <tr><td>Wij <b>mochten</b> bij hem logeren.</td><td>Na lejuan të flinim tek ai.</td></tr>
 <tr><td>Hij <b>wilde</b> Engels leren.</td><td>Ai donte të mësonte anglisht.</td></tr>
 <tr><td>Dat <b>mag</b> waar zijn.</td><td>Mund të jetë e vërtetë. (<i>mogen</i> = mundësi)</td></tr>
-</tbody></table></div><h3 class="sh" id="u24-l71-3">Paskajorja e nënkuptuar</h3><p>Kur kuptimi është i qartë, sidomos me «shkoj» ose «bëj», paskajorja hiqet:</p><div class="tw"><table class="tbl c2"><thead><tr><th>Holandisht</th><th>Shqip</th></tr></thead><tbody>
+</tbody></table></div><h3 class="sh" id="u24-l73-3">Paskajorja e nënkuptuar</h3><p>Kur kuptimi është i qartë, sidomos me «shkoj» ose «bëj», paskajorja hiqet:</p><div class="tw"><table class="tbl c2"><thead><tr><th>Holandisht</th><th>Shqip</th></tr></thead><tbody>
 <tr><td>Waar wil je nou heen?</td><td>Ku do të shkosh tani?</td></tr>
 <tr><td>Ik moet morgen al weg.</td><td>Duhet të iki që nesër.</td></tr>
 <tr><td>Hij mag niet naar school.</td><td>Nuk i lejohet të shkojë në shkollë.</td></tr>
 <tr><td>Ik kan het niet.</td><td>Nuk e bëj dot.</td></tr>
 <tr><td>Kan dat?</td><td>A është e mundur?</td></tr>
-</tbody></table></div><h3 class="sh" id="u24-l71-6">Paskajorja e dyfishtë</h3><p>Në <b>të ardhmen</b> dhe në <b>kohët e kryera</b>, modali del në paskajore dhe qëndron në fund, <b>para</b> foljes kryesore:</p><div class="tw"><table class="tbl c2"><thead><tr><th>Holandisht</th><th>Shqip</th></tr></thead><tbody>
+</tbody></table></div><h3 class="sh" id="u24-l73-6">Paskajorja e dyfishtë</h3><p>Në <b>të ardhmen</b> dhe në <b>kohët e kryera</b>, modali del në paskajore dhe qëndron në fund, <b>para</b> foljes kryesore:</p><div class="tw"><table class="tbl c2"><thead><tr><th>Holandisht</th><th>Shqip</th></tr></thead><tbody>
 <tr><td>Hij <b>zal</b> ons niet <b>kunnen helpen</b>.</td><td>Nuk do të mund të na ndihmojë.</td></tr>
 <tr><td>Wij <b>zullen</b> de tentoonstelling <b>willen bezoeken</b>.</td><td>Do të duam ta vizitojmë ekspozitën.</td></tr>
 <tr><td>Ik <b>heb</b> het <b>mogen doen</b>.</td><td>M'u lejua ta bëja.</td></tr>
@@ -3423,15 +3510,15 @@
 <p><i>Wij hebben het altijd <b>gekund</b>.</i> (Gjithmonë e kemi bërë dot.) · <i>Ik heb het niet <b>gewild</b>.</i> (Nuk e kam dashur.)</p>
 </div><div class="box note"><div class="kicker">Shënim</div>
 <div class="btitle">Edhe me laten dhe foljet e pozicionit</div>
-<p>Paskajorja e dyfishtë përdoret edhe me <b>laten</b> (Mësimi 72) dhe me <b>zitten, staan, liggen, lopen</b> (Mësimi 59): <i>Zij heeft de hele dag <b>zitten schrijven</b>.</i> (Ka ndenjur gjithë ditën duke shkruar.)</p>
+<p>Paskajorja e dyfishtë përdoret edhe me <b>laten</b> (Mësimi 74) dhe me <b>zitten, staan, liggen, lopen</b> (Mësimi 61): <i>Zij heeft de hele dag <b>zitten schrijven</b>.</i> (Ka ndenjur gjithë ditën duke shkruar.)</p>
 </div></section>
-<section class="lesson" id="u24-l72"><div class="lk">Mësimi 72</div><h2 class="lt">Folja «laten»</h2><p><i>laten – liet / lieten – gelaten</i></p><h3 class="sh" id="u24-l72-1">1. «Le të…»: propozim</h3><div class="tw"><table class="tbl c2"><thead><tr><th>Holandisht</th><th>Shqip</th></tr></thead><tbody>
+<section class="lesson" id="u24-l74"><div class="lk">Mësimi 74</div><h2 class="lt">Folja «laten»</h2><p><i>laten – liet / lieten – gelaten</i></p><h3 class="sh" id="u24-l74-1">1. «Le të…»: propozim</h3><div class="tw"><table class="tbl c2"><thead><tr><th>Holandisht</th><th>Shqip</th></tr></thead><tbody>
 <tr><td><b>Laten wij</b> even kijken.</td><td>Le të shohim pak.</td></tr>
 <tr><td><b>Laten wij</b> nu dit lied zingen.</td><td>Le ta këndojmë tani këtë këngë.</td></tr>
 </tbody></table></div><div class="box note"><div class="kicker">Shënim</div>
 <div class="btitle">wij, jo «ons»</div>
 <p>Pas <i>laten</i> vjen <b>wij</b> (kryefjala), jo «ons» si te anglishtja <i>let us</i>.</p>
-</div><h3 class="sh" id="u24-l72-4">2. «Bëj që të bëhet»: e kryen dikush tjetër</h3><p>Sillet si modalet: paskajorja në fund, dhe paskajore e dyfishtë në kohët e kryera.</p><div class="tw"><table class="tbl c2"><thead><tr><th>Holandisht</th><th>Shqip</th></tr></thead><tbody>
+</div><h3 class="sh" id="u24-l74-4">2. «Bëj që të bëhet»: e kryen dikush tjetër</h3><p>Sillet si modalet: paskajorja në fund, dhe paskajore e dyfishtë në kohët e kryera.</p><div class="tw"><table class="tbl c2"><thead><tr><th>Holandisht</th><th>Shqip</th></tr></thead><tbody>
 <tr><td>Ik <b>laat</b> mijn auto <b>repareren</b>.</td><td>Po e çoj makinën për riparim.</td></tr>
 <tr><td>Ik <b>liet</b> mijn auto <b>repareren</b>.</td><td>E çova makinën për riparim.</td></tr>
 <tr><td>Ik <b>heb</b> mijn auto <b>laten repareren</b>.</td><td>E kam çuar makinën për riparim.</td></tr>
@@ -3477,15 +3564,15 @@
 <header class="uhead"><div class="ukick">Pjesa V · Sistemi i foljeve <span class="lvl">A2</span></div>
 <div class="utitle"><span class="unum">25</span><h2>Foljet me parashtesë, vetvetore dhe pavetore</h2></div><p class="usub">opbellen, zich wassen, het regent</p>
 <div class="ustatus" data-status="u25"></div>
-<nav class="utoc" aria-label="Mësimet e njësisë"><a href="#u25-l73"><span>73</span>Parashtesat e ndashme dhe të pandashme</a><a href="#u25-l74"><span>74</span>Foljet vetvetore</a><a href="#u25-l75"><span>75</span>Foljet pavetore</a><a href="#u25-ex"><span>✎</span>Ushtrime</a><a href="#u25-gl"><span>Aa</span>Fjalorth</a></nav></header>
-<section class="lesson" id="u25-l73"><div class="lk">Mësimi 73</div><h2 class="lt">Parashtesat e ndashme dhe të pandashme</h2><div class="tw"><table class="tbl c3"><thead><tr><th>Lloji</th><th>Të pandashme (pa theks)</th><th>Të ndashme (me theks)</th></tr></thead><tbody>
+<nav class="utoc" aria-label="Mësimet e njësisë"><a href="#u25-l75"><span>75</span>Parashtesat e ndashme dhe të pandashme</a><a href="#u25-l76"><span>76</span>Foljet vetvetore</a><a href="#u25-l77"><span>77</span>Foljet pavetore</a><a href="#u25-ex"><span>✎</span>Ushtrime</a><a href="#u25-gl"><span>Aa</span>Fjalorth</a></nav></header>
+<section class="lesson" id="u25-l75"><div class="lk">Mësimi 75</div><h2 class="lt">Parashtesat e ndashme dhe të pandashme</h2><div class="tw"><table class="tbl c3"><thead><tr><th>Lloji</th><th>Të pandashme (pa theks)</th><th>Të ndashme (me theks)</th></tr></thead><tbody>
 <tr><td>Parashtesat</td><td>be-, er-, ge-, her-, ont-, ver-</td><td>aan-, af-, in-, mee-, na-, op-, uit-…</td></tr>
 <tr><td>Pjesorja</td><td>pa <i>ge-</i>: bedoeld, vermeden</td><td><i>-ge-</i> në mes: opgebeld, aangenomen</td></tr>
 <tr><td>Në fjali</td><td>nuk ndahen kurrë</td><td>ndahen: <i>Ik bel hem op.</i></td></tr>
-</tbody></table></div><h3 class="sh" id="u25-l73-1">Kuptimi</h3><ul class="bul"><li>Te shumë folje me parashtesë të ndashme kuptimi del nga pjesët: <i>brengen → <b>mee</b>brengen</i> (sjell me vete) · <i>staan → <b>op</b>staan</i> (ngrihem).</li><li>Te disa nuk del: <i>stellen → <b>uit</b>stellen</i> (shtyj për më vonë) · <i>geven → <b>uit</b>geven</i> (botoj).</li><li>Te parashtesat e pandashme kuptimi zakonisht nuk del nga pjesët: <i>denken → <b>ver</b>denken</i> (dyshoj) · <i>keren → <b>be</b>keren</i> (kthej në besim).</li></ul><div class="box note"><div class="kicker">Shënim</div>
+</tbody></table></div><h3 class="sh" id="u25-l75-1">Kuptimi</h3><ul class="bul"><li>Te shumë folje me parashtesë të ndashme kuptimi del nga pjesët: <i>brengen → <b>mee</b>brengen</i> (sjell me vete) · <i>staan → <b>op</b>staan</i> (ngrihem).</li><li>Te disa nuk del: <i>stellen → <b>uit</b>stellen</i> (shtyj për më vonë) · <i>geven → <b>uit</b>geven</i> (botoj).</li><li>Te parashtesat e pandashme kuptimi zakonisht nuk del nga pjesët: <i>denken → <b>ver</b>denken</i> (dyshoj) · <i>keren → <b>be</b>keren</i> (kthej në besim).</li></ul><div class="box note"><div class="kicker">Shënim</div>
 <div class="btitle">Në fjalor</div>
 <p>Foljet me parashtesë kërkohen sipas parashtesës: <i>opbellen</i> gjendet te shkronja <b>o</b>.</p>
-</div><h3 class="sh" id="u25-l73-4">Ku shkon parashtesa e ndashme?</h3><p>Shembull me foljen <b>opbellen</b> (telefonoj):</p><div class="tw"><table class="tbl c3"><thead><tr><th>Situata</th><th>Holandisht</th><th>Shqip</th></tr></thead><tbody>
+</div><h3 class="sh" id="u25-l75-4">Ku shkon parashtesa e ndashme?</h3><p>Shembull me foljen <b>opbellen</b> (telefonoj):</p><div class="tw"><table class="tbl c3"><thead><tr><th>Situata</th><th>Holandisht</th><th>Shqip</th></tr></thead><tbody>
 <tr><td>folja e dyta → parashtesa në fund</td><td>Ik <b>bel</b> hem nu <b>op</b>.</td><td>E telefonoj tani.</td></tr>
 <tr><td>pyetje</td><td><b>Bel</b> je hem morgen <b>op</b>?</td><td>A do ta telefonosh nesër?</td></tr>
 <tr><td>pjesore</td><td>Ik heb hem gisteren al <b>opgebeld</b>.</td><td>E telefonova që dje.</td></tr>
@@ -3496,7 +3583,7 @@
 <p>1. Tipi III me modal – këtu ndarja është e mundshme, jo e detyrueshme: <i>Ik weet dat ik hem morgen <b>op</b> moet <b>bellen</b>.</i> ose <i>… dat ik hem morgen moet <b>opbellen</b>.</i> (E di që duhet ta telefonoj nesër.) Të dyja janë të sakta.</p>
 <p>2. Me <b>om … te</b>: <i>Ik ben van plan om hem morgen <b>op te bellen</b>.</i> (Kam ndër mend ta telefonoj nesër.)</p>
 </div></section>
-<section class="lesson" id="u25-l74"><div class="lk">Mësimi 74</div><h2 class="lt">Foljet vetvetore</h2><p>Holandishtja përdor më shumë <b>përemra vetvetorë</b> se anglishtja, por kjo i ngjan shqipes (<i>lahem, rruhem, vishem</i>):</p><div class="tw"><table class="tbl conj c3"><thead><tr><th>Përemri</th><th>Vetvetori</th><th>zich wassen</th></tr></thead><tbody>
+<section class="lesson" id="u25-l76"><div class="lk">Mësimi 76</div><h2 class="lt">Foljet vetvetore</h2><p>Holandishtja përdor më shumë <b>përemra vetvetorë</b> se anglishtja, por kjo i ngjan shqipes (<i>lahem, rruhem, vishem</i>):</p><div class="tw"><table class="tbl conj c3"><thead><tr><th>Përemri</th><th>Vetvetori</th><th>zich wassen</th></tr></thead><tbody>
 <tr><td>ik</td><td>me</td><td>ik was <b>me</b></td></tr>
 <tr><td>jij</td><td>je</td><td>jij wast <b>je</b></td></tr>
 <tr><td>u</td><td>zich / u</td><td>u wast <b>zich</b></td></tr>
@@ -3508,7 +3595,7 @@
 <tr><td>Hij wast <b>zich</b>.</td><td>Ai lahet.</td></tr>
 <tr><td>Ik scheer <b>me</b>.</td><td>Unë rruhem.</td></tr>
 <tr><td>Zij kleden <b>zich</b> aan.</td><td>Ata vishen.</td></tr>
-</tbody></table></div><h3 class="sh" id="u25-l74-3">Folje që zakonisht janë vetvetore</h3><div class="tw"><table class="tbl c3"><thead><tr><th>Folja</th><th>Shembull</th><th>Shqip</th></tr></thead><tbody>
+</tbody></table></div><h3 class="sh" id="u25-l76-3">Folje që zakonisht janë vetvetore</h3><div class="tw"><table class="tbl c3"><thead><tr><th>Folja</th><th>Shembull</th><th>Shqip</th></tr></thead><tbody>
 <tr><td>zich verheugen (op)</td><td>Ik verheug <b>me</b> op zaterdag.</td><td>Mezi pres të shtunën.</td></tr>
 <tr><td>zich verbazen (over)</td><td>Hij verbaast <b>zich</b> erover.</td><td>Ai habitet për këtë.</td></tr>
 <tr><td>zich haasten</td><td>Wij moeten <b>ons</b> haasten.</td><td>Duhet të nxitojmë.</td></tr>
@@ -3517,7 +3604,7 @@
 <div class="btitle">Pa vetvetore, kuptim tjetër</div>
 <p>Pa vetvetore, <i>verheugen, verbazen, haasten</i> do të thonë «gëzoj dikë», «habit dikë», «nxitoj dikë».</p>
 </div></section>
-<section class="lesson" id="u25-l75"><div class="lk">Mësimi 75</div><h2 class="lt">Foljet pavetore</h2><p>Ato përdoren vetëm me <b>het</b> dhe në vetën e tretë njëjës, si në shqip (<i>bie shi</i>):</p><div class="tw"><table class="tbl c2"><thead><tr><th>Holandisht</th><th>Shqip</th></tr></thead><tbody>
+<section class="lesson" id="u25-l77"><div class="lk">Mësimi 77</div><h2 class="lt">Foljet pavetore</h2><p>Ato përdoren vetëm me <b>het</b> dhe në vetën e tretë njëjës, si në shqip (<i>bie shi</i>):</p><div class="tw"><table class="tbl c2"><thead><tr><th>Holandisht</th><th>Shqip</th></tr></thead><tbody>
 <tr><td><b>Het</b> regent.</td><td>Bie shi.</td></tr>
 <tr><td><b>Het</b> sneeuwt.</td><td>Bie borë.</td></tr>
 <tr><td><b>Het</b> hagelt.</td><td>Bie breshër.</td></tr>
@@ -3526,7 +3613,7 @@
 </tbody></table></div><div class="box contrast"><div class="kicker">Shqip ↔ Holandisht</div>
 <div class="btitle">Dallim nga anglishtja, ngjashmëri me shqipen</div>
 <p>Te <i>Het spijt me</i> kryefjala është <b>het</b>, ndërsa <i>unë</i> del kundrinor (<b>me</b>). Kjo është e njëjtë me shqipen: «<b>më</b> vjen keq».</p>
-</div><p>Kujtesë: pësorja pavetore <i>Er wordt gezongen</i> (Mësimi 70) është gjithashtu ndërtim pavetor.</p></section>
+</div><p>Kujtesë: pësorja pavetore <i>Er wordt gezongen</i> (Mësimi 72) është gjithashtu ndërtim pavetor.</p></section>
 <section class="practice" id="u25-ex"><div class="lk">Praktikë · Njësia 25</div><h2 class="lt">Ushtrime</h2><p class="instr">Shkruani përgjigjet, pastaj shtypni <b>Kontrollo</b>. Për çdo gabim shihni një shpjegim të shkurtër; zgjidhjen e hapni vetë kur të doni. Përgjigjet ruhen në këtë shfletues.</p><section class="ex" id="u25-A" data-ex="u25-A">
 <h3 class="exh"><span class="exl">A</span><span>Ndani parashtesën</span></h3>
 <p class="instr">Shembull: opbellen → Ik bel hem op.</p><ol class="items"><li class="it" data-item="u25-A-0"><span class="inum">1.</span><div class="ibody">opstaan → Ik <input class="bl" type="text" autocomplete="off" autocapitalize="off" spellcheck="false" id="u25-A-0-0" data-slot="u25-A-0" aria-label="Përgjigjja 1"> om zeven uur <input class="bl" type="text" autocomplete="off" autocapitalize="off" spellcheck="false" id="u25-A-0-1" data-slot="u25-A-0" aria-label="Përgjigjja 1">.</div><span class="mark-i" aria-hidden="true"></span></li><li class="it" data-item="u25-A-1"><span class="inum">2.</span><div class="ibody">meebrengen → Hij <input class="bl" type="text" autocomplete="off" autocapitalize="off" spellcheck="false" id="u25-A-1-0" data-slot="u25-A-1" aria-label="Përgjigjja 2"> een cadeau <input class="bl" type="text" autocomplete="off" autocapitalize="off" spellcheck="false" id="u25-A-1-1" data-slot="u25-A-1" aria-label="Përgjigjja 2">.</div><span class="mark-i" aria-hidden="true"></span></li><li class="it" data-item="u25-A-2"><span class="inum">3.</span><div class="ibody">aankomen → De trein <input class="bl" type="text" autocomplete="off" autocapitalize="off" spellcheck="false" id="u25-A-2-0" data-slot="u25-A-2" aria-label="Përgjigjja 3"> om tien uur <input class="bl" type="text" autocomplete="off" autocapitalize="off" spellcheck="false" id="u25-A-2-1" data-slot="u25-A-2" aria-label="Përgjigjja 3">.</div><span class="mark-i" aria-hidden="true"></span></li><li class="it" data-item="u25-A-3"><span class="inum">4.</span><div class="ibody">uitgaan → Wij <input class="bl" type="text" autocomplete="off" autocapitalize="off" spellcheck="false" id="u25-A-3-0" data-slot="u25-A-3" aria-label="Përgjigjja 4"> vanavond <input class="bl" type="text" autocomplete="off" autocapitalize="off" spellcheck="false" id="u25-A-3-1" data-slot="u25-A-3" aria-label="Përgjigjja 4">.</div><span class="mark-i" aria-hidden="true"></span></li><li class="it" data-item="u25-A-4"><span class="inum">5.</span><div class="ibody">opbellen → <input class="bl" type="text" autocomplete="off" autocapitalize="off" spellcheck="false" id="u25-A-4-0" data-slot="u25-A-4" aria-label="Përgjigjja 5"> jij mij morgen <input class="bl" type="text" autocomplete="off" autocapitalize="off" spellcheck="false" id="u25-A-4-1" data-slot="u25-A-4" aria-label="Përgjigjja 5">?</div><span class="mark-i" aria-hidden="true"></span></li></ol>

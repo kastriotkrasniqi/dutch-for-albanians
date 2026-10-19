@@ -68,6 +68,91 @@ Pas të gjitha lidhëzave të tjera vjen **Tipi III**: folja e zgjedhur shkon **
   **Kur fjalia e varur vjen e para**
   Fjalia e varur zë vendin e parë, prandaj folja e fjalisë kryesore vjen menjëherë pas presjes (Njësia {U:12}): ***Toen** ik in Leiden woonde, **fietste** ik veel.*
 @end
+@lesson Pyetjet e zhdrejta: «Weet u waar het station is?»
+Në zyrë, në dyqan ose në telefon pyesim shpesh **me mirësjellje**, duke e futur pyetjen brenda një fjalie tjetër: *Weet u…?* (A e dini…?), *Kunt u mij zeggen…?* (A mund të më thoni…?). Kjo quhet **pyetje e zhdrejtë**. Pyetja e zhdrejtë është fjali e varur (Tipi III): **folja shkon në fund**.
+
+@flow Weet u | waar | het station | !is?
+@flowsub fjalia kryesore | fjala pyetëse | kryefjala | folja në fund
+@h2 Me fjalë pyetëse
+Fjala pyetëse (*waar, wanneer, hoe, wat, wie, hoeveel, hoe laat, welke*) mbetet, por folja lëviz në fund:
+
+@table
+| Pyetja e drejtë | Pyetja e zhdrejtë | Shqip |
+| **Waar is** het station? | Weet u waar het station **is**? | A e dini ku është stacioni? |
+| **Wanneer begint** de les? | Kunt u zeggen wanneer de les **begint**? | A mund të thoni kur fillon mësimi? |
+| **Hoeveel kost** dit? | Weet u hoeveel dit **kost**? | A e dini sa kushton kjo? |
+| **Hoe laat vertrekt** de trein? | Weet u hoe laat de trein **vertrekt**? | A e dini në çfarë ore niset treni? |
+| **Wie is** die man? | Ik weet niet wie die man **is**. | Nuk e di kush është ai burrë. |
+@end
+@h2 Pyetjet po/jo: «of»
+Kur pyetja e drejtë nuk ka fjalë pyetëse (pyetje po/jo), në pyetjen e zhdrejtë vjen **of** (nëse, a):
+
+@table
+| Pyetja e drejtë | Pyetja e zhdrejtë | Shqip |
+| **Komt** hij morgen? | Ik weet niet of hij morgen **komt**. | Nuk e di nëse vjen nesër. |
+| **Is** de apotheek open? | Weet u of de apotheek open **is**? | A e dini nëse farmacia është e hapur? |
+| **Hebt** u een afspraak? | De dokter vraagt of u een afspraak **hebt**. | Mjeku pyet nëse keni takim. |
+@end
+@box (1.0, 0.96, 0.91)
+  **Dallim nga shqipja**
+  Në shqip pyetja e zhdrejtë ruan rendin e zakonshëm: *A e dini ku* **është** *stacioni?* Në holandisht folja kalon në fund: *Weet u waar het station* **is**? Gabim i shpeshtë: «Weet u waar is het station?»
+@end
+@box (0.99, 0.93, 0.92)
+  **Kujdes: «of», jo «als»**
+  Për «nëse» në pyetjen e zhdrejtë përdoret **of**: *Ik weet niet* **of** *hij komt*. **Als** do të thotë «kur» ose «në qoftë se» (kusht): *Als hij komt, bel ik je.* (Nëse vjen, të telefonoj.)
+@end
+@h2 Me dy folje
+Kur ka më shumë se një folje, të gjitha shkojnë në fund; folja e zgjedhur zakonisht vjen e para: *Weet u waar ik* **moet tekenen**? (A e dini ku duhet të nënshkruaj?) · *Weet u wanneer de trein* **aankomt**? (… kur mbërrin treni?)
+@h2 Fillimet më të dobishme
+@table
+| Holandisht | Shqip |
+| Weet u …? | A e dini …? |
+| Kunt u mij zeggen …? | A mund të më thoni …? |
+| Mag ik vragen …? | A mund të pyes …? |
+| Ik weet niet … | Nuk e di … |
+| Ik vraag me af … | Pyes veten … |
+@end
+@box (0.95, 0.96, 0.98)
+  **Pikëpyetja**
+  Pikëpyetja vihet vetëm kur e gjithë fjalia është pyetje: *Weet u waar het station is?* Por: *Ik weet niet waar het station is.* (pikë)
+@end
+@lesson Fjalitë lidhore: «de man die hier woont»
+Fjalia lidhore përshkruan një emër: *burri* **që banon këtu**. Në shqip përdorim **që** (ose *i cili, e cila*). Në holandisht përdorim **die** ose **dat** – dhe, si në çdo fjali të varur, **folja shkon në fund**.
+
+@flow de man | !die | hier | !woont
+@flowsub emri | die / dat | … | folja në fund
+@h2 die apo dat?
+Zgjedhja varet nga emri që përshkruajmë – njësoj si te *deze/dit* dhe *die/dat* (Njësia {U:15}):
+
+@table
+| Emri | Përemri lidhor | Shembull |
+| **de**-fjalë | **die** | de man **die** hier woont |
+| **het**-fjalë | **dat** | het huis **dat** ik huur |
+| shumës (gjithmonë) | **die** | de mensen **die** ik ken |
+@end
+@table
+| Holandisht | Shqip |
+| De man die hier woont, is mijn buurman. | Burri që banon këtu është fqinji im. |
+| Het huis dat ik huur, is klein. | Shtëpia që marr me qira është e vogël. |
+| Ik heb een collega die Albanees spreekt. | Kam një koleg që flet shqip. |
+| Dat is het boek dat ik lees. | Ky është libri që po lexoj. |
+| Het meisje dat daar zit, is mijn dochter. | Vajza që rri atje është vajza ime. |
+| De kinderen die buiten spelen, zijn van de buren. | Fëmijët që luajnë jashtë janë të fqinjëve. |
+@end
+@box (1.0, 0.96, 0.91)
+  **Dallim nga shqipja**
+  Shqip: **që** për të gjitha. Holandisht: **die** ose **dat** sipas nyjës së emrit – dhe folja në fund: *de man die hier* **woont** (jo «de man die woont hier»).
+@end
+@box (0.99, 0.93, 0.92)
+  **Kujdes: het meisje → dat**
+  Edhe pse *meisje* është vajzë, fjala është **het**-fjalë: *het meisje* **dat** *daar zit*. Po ashtu *het kind* **dat**…, por në shumës *de kinderen* **die**…
+@end
+@h2 Me parafjalë
+Për **persona**, pas parafjalës vjen **wie**: *de collega* **met wie** *ik werk* (kolegu me të cilin punoj). Për **sende** përdoret **waar** + parafjalë (Njësia {U:24}): *het huis* **waarin** *ik woon* · *de pen* **waarmee** *ik schrijf*. Në gjuhën e folur dëgjoni shpesh edhe: *het huis waar ik in woon*.
+@box (0.95, 0.96, 0.98)
+  **Presja**
+  Kur fjalia lidhore është në mes, holandishtja vë shpesh presje pas saj, ku takohen dy foljet: *De man die hier woont,* **is** *mijn buurman.*
+@end
 @practice Ushtrime
 @h2 A. Folja lëviz apo jo?
 Shkruani **I** (folja mbetet e dyta) ose **III** (folja në fund) pas çdo lidhëze.
@@ -151,6 +236,52 @@ Shkruani **I** (folja mbetet e dyta) ose **III** (folja në fund) pas çdo lidh�
 
 5. Megjithëse bie shi, shkojmë shëtitje.
 
+@h2 H. Ktheni në pyetje të zhdrejtë
+1. Waar is de apotheek? → Weet u ______?
+
+2. Wanneer begint de les? → Weet u ______?
+
+3. Hoeveel kost het ticket? → Kunt u zeggen ______?
+
+4. Komt de technieker vandaag? → Weet u ______?
+
+5. Is de winkel open? → Ik weet niet ______.
+
+6. Wie is uw huisarts? → Mag ik vragen ______?
+
+7. Waar moet ik tekenen? → Weet u ______?
+
+@h2 I. Përktheni në holandisht
+1. A e dini ku është stacioni?
+
+2. Nuk e di nëse ai vjen.
+
+3. A mund të më thoni sa është ora?
+
+@h2 J. die apo dat?
+1. de man ______ hier woont
+
+2. het huis ______ ik huur
+
+3. de boeken ______ ik lees
+
+4. het meisje ______ daar zit
+
+5. de stad ______ ik mooi vind
+
+6. het werk ______ hij doet
+
+7. de collega's ______ Nederlands spreken
+
+@h2 K. Bashkoni dy fjalitë me «die» ose «dat»
+1. Ik heb een buurman. Hij spreekt Albanees.
+
+2. Dat is het boek. Ik lees het.
+
+3. De bus gaat naar het station. Hij is te laat.
+
+4. Ik zoek een appartement. Het is niet te duur.
+
 @key
 @table
 | Ushtrimi | Përgjigjet |
@@ -161,6 +292,10 @@ Shkruani **I** (folja mbetet e dyta) ose **III** (folja në fund) pas çdo lidh�
 | E | 1. Hij komt niet, omdat hij geen tijd heeft. 2. Ik weet niet of hij komt. 3. Ik blijf thuis, want ik ben ziek. 4. Toen ik in Leiden woonde, fietste ik veel. |
 | F | 1. Ik blijf thuis, want ik ben ziek. 2. Hij komt niet, omdat hij geen tijd heeft. 3. Ik weet niet of hij thuis is. 4. Toen ik klein was, woonde ik in Tirana. 5. Toen ik in Leiden woonde, fietste ik veel. |
 | G | 1. Ik drink thee en zij drinkt koffie. 2. Hij komt niet, omdat hij geen tijd heeft. 3. Ik weet dat hij in Amsterdam woont. 4. Toen ik klein was, woonde ik in Kosovo. 5. Hoewel het regent, gaan wij wandelen. |
+| H | 1. waar de apotheek is 2. wanneer de les begint 3. hoeveel het ticket kost 4. of de technieker vandaag komt 5. of de winkel open is 6. wie uw huisarts is 7. waar ik moet tekenen / waar ik tekenen moet |
+| I | 1. Weet u waar het station is? / Weet je waar het station is? 2. Ik weet niet of hij komt. 3. Kunt u mij zeggen hoe laat het is? / Kunt u me zeggen hoe laat het is? / Kunt u zeggen hoe laat het is? |
+| J | 1. die 2. dat 3. die 4. dat 5. die 6. dat 7. die |
+| K | 1. Ik heb een buurman die Albanees spreekt. 2. Dat is het boek dat ik lees. 3. De bus die naar het station gaat, is te laat. 4. Ik zoek een appartement dat niet te duur is. |
 @end
 
 @glossary
@@ -176,4 +311,7 @@ Shkruani **I** (folja mbetet e dyta) ose **III** (folja në fund) pas çdo lidh�
 | wanneer | kur; nëse | zoals | siç |
 | de film | filmi | koken | gatuaj |
 | klein | i vogël | wandelen | shëtis |
+| weten | di | vragen | pyes |
+| zich afvragen | pyes veten | die | që (de-fjalë, shumës) |
+| dat | që (het-fjalë) | wie | kush; (pas parafjalës) të cilin |
 @end
