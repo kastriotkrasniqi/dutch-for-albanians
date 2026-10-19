@@ -60,14 +60,17 @@ export function speakButton(text, label = 'Dëgjo') {
   return `<button type="button" class="say" data-say="${text.replace(/"/g, '&quot;')}" aria-label="${label}: ${text.replace(/"/g, '&quot;')}" title="${label}">${icon('speaker')}</button>`;
 }
 
-// Only the Dutch part of a cell is spoken. "goed (mirë), groot (i madh)": the Dutch words are bold and
-// the Albanian glosses are in brackets, so read the bold words; otherwise drop brackets and "– translation".
+// Only the Dutch part of a cell is spoken: "goed (mirë), groot (i madh)" → "goed, groot".
+// Bracketed glosses and a trailing "– translation" are dropped; line breaks separate items.
 export function dutchOf(cell) {
-  const full = cell.textContent.replace(/\s+/g, ' ').trim();
-  const bold = [...cell.querySelectorAll('b')].map(b => b.textContent.trim()).filter(Boolean);
-  if (bold.length && /\(/.test(full)) return bold.join(', ');
-  return full.replace(/\s*\([^)]*\)/g, '').replace(/\s+[–—]\s+.*$/, '').trim();
+  const c = cell.cloneNode(true);
+  c.querySelectorAll('br').forEach(br => br.replaceWith(', '));
+  c.querySelectorAll('.say').forEach(b => b.remove());
+  return c.textContent.replace(/\s*\([^)]*\)/g, '').replace(/\s+[–—]\s+.*$/, '').replace(/\s+/g, ' ').replace(/\s+,/g, ',').trim();
 }
+
+// Table columns whose cells are Dutch (every one of them gets speaker buttons, not just the first).
+const DUTCH_COLUMNS = /^(Holandisht|Fjalia|Fjalia pohore|Fjalia mohore|Pyetja|Përgjigja|Shembull|Shembuj|Paskajorja|Pjesorja|Koha e tashme|Njëjës|Shumës|Rendori|Krahasore|Sipërore|Mbiemri|Me -e|Zvogëluesi|Emri|Fjala|Folja|Shprehja|Lidhëza|Parafjala|Pa folje modale|Me folje modale|Në Belgjikë|Në Holandë|Gjuha standarde|Do të dëgjoni \(tussentaal\))$/;
 
 let wired = false;
 // Speaker buttons next to the Dutch column of example tables in the lessons.
@@ -82,14 +85,14 @@ export function addSpeakButtons(root, ctx) {
   }
   $$('.lesson table.tbl', root).forEach(t => {
     const heads = $$('thead th', t).map(th => th.textContent.trim());
-    const col = heads.findIndex(h => /^(Holandisht|Fjalia|Pyetja|Shembull|Fjalia pohore|Fjalia mohore)$/.test(h));
-    if (col < 0) return;
-    $$('tbody tr', t).forEach(tr => {
+    const cols = heads.map((h, i) => (DUTCH_COLUMNS.test(h) ? i : -1)).filter(i => i >= 0);
+    $$('tbody tr', t).forEach(tr => cols.forEach(col => {
       const td = tr.children[col];
       if (!td || td.querySelector('.say')) return;
       const txt = dutchOf(td);
-      if (!txt || txt === '—') return;
+      // nothing to say for empty cells, dashes, numbers or single letters
+      if (!txt || txt.length < 2 || !/[a-zà-ÿ]{2}/i.test(txt)) return;
       td.insertAdjacentHTML('afterbegin', speakButton(txt));
-    });
+    }));
   });
 }
