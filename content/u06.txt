@@ -1,3 +1,42 @@
+@lesson Çfarë janë parafjalët?
+Parafjalët janë fjalë të vogla, por **shumë të rëndësishme** në holandisht. Ato tregojnë **lidhjen** midis njerëzve, vendeve dhe sendeve: *ku* është diçka, *nga* shkon dikush, *me* kë apo *pa* çfarë.
+
+@table
+| Parafjala | Shqip |
+| **in** | në, brenda |
+| **op** | mbi |
+| **onder** | nën |
+| **naast** | pranë, krah |
+| **achter** | pas, prapa |
+| **voor** | përpara |
+| **met** | me |
+| **zonder** | pa |
+| **bij** | te, afër |
+@end
+
+@h2 Parafjala vjen para emrit
+Parafjala zakonisht vjen **para emrit** (ose para nyjës dhe emrit), njësoj si në shqip:
+
+@flow Parafjala | !de / het | Emri
+
+@table
+| Holandisht | Shqip |
+| De kat zit **op** de tafel. | Macja është (ulur) mbi tavolinë. |
+| Ik loop **naar** de winkel. | Unë eci për te dyqani. |
+| Hij staat **bij** de deur. | Ai qëndron te dera. |
+@end
+
+@h2 Për çfarë na shërbejnë?
+• **Vendi** – ku ndodhet diçka: *De kat zit **op** de tafel.*
+
+• **Lëvizja** – nga shkon dikush: *Ik loop **naar** de winkel.*
+
+• **Lidhja** midis njerëzve dhe sendeve: *Ik kom **met** mijn vriend.* (Vij me shokun tim.) · *Koffie **zonder** suiker.* (Kafe pa sheqer.)
+
+@box (0.91, 0.94, 0.98)
+  **Në këtë njësi** do të ushtroni parafjalët më të shpeshta në fjali. Mos u shqetësoni nëse gaboni: parafjalët kërkojnë praktikë dhe përmirësoheni duke provuar.
+@end
+
 @lesson Staan dhe liggen me parafjalë
 Në mësimet e kaluara mësuam se **staan** dhe **liggen** tregojnë pozicionin e një gjëje. Tani i lidhim me **parafjalët** (op, naast, achter…) për të thënë *ku saktësisht* ndodhet ajo.
 
