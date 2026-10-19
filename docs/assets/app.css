@@ -1,9 +1,9 @@
 :root{
   /* Layout: sticky top bar + left unit rail (desktop) + one reading column ~70ch; units are pages switched by #hash */
   --bg:#F6F8FB; --paper:#FFFFFF; --ink:#1B2333; --muted:#5C6678; --line:#DCE3EC; --tint:#EEF3F9;
-  --navy:#15305A; --navy-ink:#FFFFFF; --accent:#E2701A; --accent-ink:#FFFFFF; --accent-soft:#FCEBDD;
+  --navy:#15305A; --navy-ink:#FFFFFF; --accent:#A9530C; --accent-ink:#FFFFFF; /* ≥ 4.6:1 on every light surface, also as text (WCAG AA) */ --accent-soft:#FCEBDD;
   --ok:#1F7A4A; --ok-soft:#E3F4EA; --bad:#C0392B; --bad-soft:#FBE7E4;
-  --note:#2456A4; --note-soft:#E8F0FB; --tip:#B9560D; --tip-soft:#FDF1E6; --rule:#2E7D4F; --rule-soft:#EAF6EF; --al:#B3261E;
+  --note:#2456A4; --note-soft:#E8F0FB; --tip:#A44A08; --tip-soft:#FDF1E6; --rule:#2E7D4F; --rule-soft:#EAF6EF; --al:#B3261E;
   --display:"Lora", Georgia, "Times New Roman", serif; --body:"Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
 }
 @media (prefers-color-scheme: dark){ :root:not([data-theme="light"]){
@@ -219,7 +219,7 @@ label.btn{display:inline-flex;align-items:center}
 .streak{color:var(--accent)}
 .today{display:grid;grid-template-columns:minmax(0,1.5fr) minmax(0,1fr);gap:16px;margin-bottom:18px}
 .today-main{background:var(--navy);color:var(--navy-ink);border-radius:var(--radius);padding:22px clamp(18px,3vw,28px)}
-.today-main .lk{color:var(--accent)}
+.today-main .lk{color:inherit;opacity:.8}
 .today-main h2{font-family:var(--display);font-size:clamp(22px,3.4vw,28px);line-height:1.2;margin:6px 0 4px;text-wrap:balance}
 .today-main .muted{color:inherit;opacity:.8}
 .today-main .btn:not(.primary){background:transparent;color:var(--navy-ink);border-color:currentColor}
