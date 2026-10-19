@@ -46,7 +46,7 @@ export function render(el, ctx) {
       <h2>${esc(unitName(next))}</h2>
       <p class="muted">${esc(next.sub || '')}</p>
       <div class="hcta"><a class="btn primary big" href="#${esc(rec.next.at)}">${rec.next.why === 'continue' ? 'Vazhdo mësimin' : 'Fillo'} →</a>
-      ${fresh ? '<a class="btn" href="#praktike/niveli">Bëj testin e nivelit</a>' : ''}</div>
+      ${fresh ? '<a class="btn big" href="#praktike/niveli">Bëj testin e nivelit</a>' : ''}</div>
     </div>` : `<div class="today-main"><h2>Kursi u përfundua 🎉</h2><p>Vazhdoni me përsëritjet ditore dhe bisedat.</p></div>`;
 
   el.innerHTML = `
