@@ -96,6 +96,13 @@ menuBtn.addEventListener('click', () => {
   if (open) rail.querySelector('a')?.focus();
 });
 document.addEventListener('keydown', e => { if (e.key === 'Escape' && document.body.classList.contains('menu-open')) { closeMenu(); menuBtn.focus(); } });
+// tapping the dimmed page or a link in the drawer closes it (a link to the current page fires no hashchange)
+document.addEventListener('click', e => {
+  // composedPath, not closest(): the ☰ icon is replaced while the click is handled
+  const path = e.composedPath();
+  if (!document.body.classList.contains('menu-open') || path.includes(menuBtn)) return;
+  if (!path.includes(rail) || path.some(n => n.tagName === 'A' && rail.contains(n))) closeMenu();
+});
 
 // ---- header search
 const qform = document.getElementById('qform');

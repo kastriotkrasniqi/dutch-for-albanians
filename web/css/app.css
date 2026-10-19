@@ -418,9 +418,10 @@ ol.results a:hover{border-color:var(--accent)}
   :root{--tabs-h:60px}
   .shell{grid-template-columns:minmax(0,1fr)}
   .tbtn.menu{display:grid}
-  .rail{position:fixed;z-index:15;top:calc(57px + env(safe-area-inset-top,0px));left:0;bottom:0;width:min(86vw,320px);height:auto;background:var(--paper);border-right:1px solid var(--line);transform:translateX(-102%);transition:transform .2s;visibility:hidden;padding-bottom:calc(80px + env(safe-area-inset-bottom,0px))}
+  .rail{position:fixed;z-index:15;top:calc(57px + env(safe-area-inset-top,0px));left:0;right:auto;bottom:auto;width:min(86vw,320px);height:calc(100vh - 57px - env(safe-area-inset-top,0px));height:calc(100dvh - 57px - env(safe-area-inset-top,0px));overscroll-behavior:contain;background:var(--paper);border-right:1px solid var(--line);transform:translateX(-102%);transition:transform .2s;visibility:hidden;padding-bottom:calc(80px + env(safe-area-inset-bottom,0px))}
   .menu-open .rail{transform:none;visibility:visible;box-shadow:8px 0 30px rgba(0,0,0,.18)}
   .menu-open main::before{content:"";position:fixed;inset:0;z-index:14;background:rgba(10,20,40,.35)}
+  .menu-open .top{z-index:16}   /* keep the ☰ / ✕ button above the dimmed page */
   .qsearch{display:none}
   #searchbtn{display:grid;margin-left:auto}
   main{padding-bottom:calc(100px + env(safe-area-inset-bottom,0px))}

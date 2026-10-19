@@ -169,9 +169,19 @@ def mobile(b, base):
             ov = pg.evaluate('document.documentElement.scrollWidth - innerWidth')
             assert ov <= 0, f'{h} overflows by {ov}px'
         assert pg.locator('.tabs').is_visible()
-        pg.click('#menu')
-        assert pg.locator('#rail').is_visible()
-        pg.keyboard.press('Escape')
+        is_open = lambda: pg.evaluate("document.body.classList.contains('menu-open')")
+        pg.goto(base + '#ballina')
+        pg.tap('#menu'); pg.wait_for_timeout(300)
+        assert is_open() and pg.evaluate("document.getElementById('rail').getBoundingClientRect().y") >= 56, 'drawer below the header'
+        assert pg.evaluate("document.getElementById('rail').scrollHeight > document.getElementById('rail').clientHeight"), 'drawer scrolls'
+        pg.tap('#menu'); pg.wait_for_timeout(300)
+        assert not is_open(), '✕ closes the drawer'
+        pg.tap('#menu'); pg.wait_for_timeout(300); pg.mouse.click(350, 500)
+        assert not is_open(), 'tapping the page closes the drawer'
+        pg.tap('#menu'); pg.wait_for_timeout(300); pg.click('#rail a[href="#ballina"]')
+        assert not is_open(), 'a link to the current page closes the drawer'
+        pg.tap('#menu'); pg.wait_for_timeout(300); pg.keyboard.press('Escape')
+        assert not is_open()
         assert not errors, errors
     t_mobile(pg, base, errors)
 
