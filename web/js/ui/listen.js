@@ -27,7 +27,7 @@ function voicePanel(ctx) {
       : 'Nuk u gjet asnjë zë holandez në këtë pajisje. Në Android/Chrome instaloni «Nederlands» te cilësimet e tekst-në-zë; në iPhone: Cilësimet → Qasshmëria → Përmbajtja e folur → Zërat.'}</p>`;
 }
 
-function dictation(box, ctx) {
+function dictation(box, ctx, autoplay = false) {
   const pool = state.pool;
   const s = pool[state.i % pool.length];
   const hasVoice = speech.supported && speech.voices.length;
@@ -49,17 +49,18 @@ function dictation(box, ctx) {
     fb.innerHTML = `${res ? `<b>${good ? 'Saktë!' : 'Jo plotësisht.'}</b> ${esc(good ? res.notes.join(' ') : res.msg)}<br>` : ''}${speakButton(s.nl)} <b>${esc(s.nl)}</b><div class="muted">${esc(s.sq)}</div>
       <a class="small" href="#${esc(s.at)}">Te mësimi →</a>`;
     box.querySelector('.exbar:last-child').innerHTML = '<button type="button" class="btn primary" data-nx>Fjalia tjetër →</button>';
-    box.querySelector('[data-nx]').addEventListener('click', () => { state.i++; dictation(box, ctx); });
+    box.querySelector('[data-nx]').addEventListener('click', () => { state.i++; dictation(box, ctx, true); });
     box.querySelector('[data-nx]').focus();
   };
   const check = () => { const res = validate(inp.value, s.nl); if (res.verdict === 'empty') { inp.focus(); return; } inp.readOnly = true; reveal(res); };
   box.querySelector('[data-dc]').addEventListener('click', check);
   box.querySelector('[data-show]').addEventListener('click', () => reveal(null));
   inp.addEventListener('keydown', e => { if (e.key === 'Enter') { e.preventDefault(); if (inp.readOnly) box.querySelector('[data-nx]')?.click(); else check(); } });
-  if (hasVoice) setTimeout(() => play(false), 250);
+  // speak by itself only after the learner asked for the next sentence, never on opening or switching tabs
+  if (hasVoice && autoplay) setTimeout(() => play(false), 250);
 }
 
-function comprehension(box, ctx) {
+function comprehension(box, ctx, autoplay = false) {
   const pool = state.pool;
   const s = pool[state.i % pool.length];
   const opts = shuffle([s, ...shuffle(pool.filter(x => x.sq !== s.sq)).slice(0, 2)]);
@@ -79,10 +80,10 @@ function comprehension(box, ctx) {
     fb.innerHTML = `<b>${good ? 'Saktë!' : 'Jo.'}</b> ${speakButton(s.nl)} <b>${esc(s.nl)}</b>`;
     const bar = box.querySelector('.exbar:last-child');
     bar.innerHTML = '<button type="button" class="btn primary">Tjetra →</button>';
-    bar.firstChild.addEventListener('click', () => { state.i++; comprehension(box, ctx); });
+    bar.firstChild.addEventListener('click', () => { state.i++; comprehension(box, ctx, true); });
     bar.firstChild.focus();
   }));
-  if (hasVoice) setTimeout(() => say(ctx, s.nl), 250);
+  if (hasVoice && autoplay) setTimeout(() => say(ctx, s.nl), 250);
 }
 
 let rec = null;
@@ -129,6 +130,7 @@ function shadowing(box, ctx) {
 const MODES = { diktim: ['Diktim', dictation], kupto: ['Dëgjo dhe kupto', comprehension], shqipto: ['Përsërit me zë', shadowing] };
 
 export function render(el, ctx) {
+  speech.stop();
   if (!state.pool) state.pool = shuffle(sentences(ctx));
   el.innerHTML = `<header class="uhead"><div class="ukick">Dëgjo dhe shqipto</div><div class="utitle"><h2>Dëgjim dhe shqiptim</h2></div>
     <p class="usub">Fjali nga mësimet që keni hapur. Për tingujt e vështirë (g, ui, eu, uu, ij) shihni <a href="#shqiptimi">Hapin 0: Shqiptimi</a>.</p></header>

@@ -64,6 +64,7 @@ function route() {
   $$('article.unit').forEach(a => { a.hidden = a !== art; });
   setActiveNav(page);
   closeMenu();
+  if (page !== lastPage) speech.stop();   // leaving a page silences it
   const mod = PAGES[page];
   if (mod) {
     try { mod.render(art, ctx, rest); }
