@@ -61,3 +61,11 @@ Last updated: 2026-10-19 · branch `platform-v2`
 2. Real-device test of speech voices; record a native Flemish speaker for Hapi 0 if possible.
 3. Indirect questions and relative clauses (A2/B1).
 4. Banking and family/hobby conversation scenarios.
+
+## Commits on `platform-v2`
+- e1a21ba docs(planning): audit and roadmap
+- ee10b73 feat(site): learning platform – feedback, progress, practice, review, conversations
+- 25a82df content: Hapi 0, Belgian Dutch, everyday situations, 11 conversations
+- 35737aa content: object pronouns (Unit 8) and adjective endings (Unit 13)
+- 423e612 style(site): accent colours meet WCAG AA contrast
+- dde27c5 content(u25): separable prefix with a modal in a subclause is optional
