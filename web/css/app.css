@@ -442,6 +442,8 @@ ol.results a:hover{border-color:var(--accent)}
   .vgrid{grid-template-columns:1fr}
   .bub{max-width:92%}
   .done-card h3{font-size:21px}
+  .seg{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));width:100%}
+  .seg button{white-space:normal;padding:7px 6px;font-size:13px;line-height:1.25}
 }
 @media print{
   .top,.rail,.tabs,.exbar,.utoc,.pnav,.say,.toast,.ustatus,.skip{display:none!important}
