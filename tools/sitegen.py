@@ -217,7 +217,7 @@ def render_practice(code, blocks, keyrows, data):
     while i < len(blocks):
         b = blocks[i]
         if b[0] == 'h2':
-            m = re.match(r'([A-I])\. (.*)', b[1])
+            m = re.match(r'([A-L])\. (.*)', b[1])
             if not m:
                 out.append(f'<h4 class="ssh">{inline(b[1])}</h4>'); i += 1; continue
             letter = m.group(1)

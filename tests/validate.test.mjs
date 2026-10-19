@@ -71,6 +71,10 @@ test('mistake categories', () => {
   assert.equal(cat('hij werk', 'hij werkt'), 'ending');
   assert.equal(cat('Ik heeft een hond.', 'Ik heb een hond.'), 'verbform');
   assert.equal(cat('Wij is thuis.', 'Wij zijn thuis.'), 'verbform');
+  assert.equal(cat('het groot huis', 'het grote huis'), 'ending');
+  assert.equal(cat('de dike boeken', 'de dikke boeken'), 'spelling');
+  assert.equal(cat('de dik boeken', 'de dikke boeken'), 'ending');
+  assert.equal(cat('Ik zie het.', 'Ik zie hem.'), 'pronoun');
   assert.equal(cat('Ik heb gewerkd.', 'Ik heb gewerkt.'), 'ending');
   assert.equal(cat('Ik heb werkt.', 'Ik heb gewerkt.'), 'participle');
   assert.equal(cat('Ik ben student niet.', 'Ik ben niet student.'), 'order');

@@ -23,10 +23,10 @@ Priority: P0 learning-blocking · P1 essential · P2 high value · P3 later.
 | Topic | CEFR | Existing coverage | Missing / incomplete | Recommended lesson or activity | Priority | Depends on |
 |---|---|---|---|---|---|---|
 | Subject pronouns, reduced forms (je/ze/we) | A1 | U1, U9 (reduced possessives) | — | validator accepts je = jij | done | — |
-| **Object pronouns** (mij, jou, hem, haar, ons, hen/hun) | A1 | used in U16/U18 only | no lesson, no table, no exercises | new unit-sized lesson with exercises | **P1** | U1, U8 |
+| Object pronouns (mij, jou, hem, haar, ons, hen/hun), hem/het for things | A1 | used in U16/U18 only | — | **New:** U8 lesson 4 + exercises I, J | done | U1, U8 |
 | Possessives, demonstratives | A1 | U8, U9 | — | — | — | — |
 | de / het / een | A1 | U1, U13 | — | de/het trainer (practice) | done | — |
-| **Adjective endings** (een groot huis / het grote huis) | A1–A2 | only adjectives as nouns (U13) | the rule itself | new lesson after U13 | **P1** | U13 |
+| Adjective endings (een groot huis / het grote huis), spelling changes, -en adjectives | A1–A2 | only adjectives as nouns (U13) | — | **New:** U13 lesson 4 + exercises H, I | done | U12, U13 |
 | Plural, diminutives | A1 | U13 | — | plurals added to 100 glossary nouns | done | — |
 | Present tense, irregular verbs | A1 | U1, U2, U19 | — | verb reference + drill (*Foljet*) | done | — |
 | Separable, reflexive, impersonal verbs | A2 | U25 | — | — | — | U14 |

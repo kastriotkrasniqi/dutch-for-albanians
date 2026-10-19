@@ -219,6 +219,50 @@ Holandishtja nuk ka formë të veçantë për foljen që bëhet emër (si anglis
   **Formulë e shkurtër**
   Mësoni **emrin me nyjën** dhe **shumësin** bashkë: *het kind – de kinderen*, *de dag – de dagen*, *de tafel – de tafels*.
 @end
+@lesson Mbiemri para emrit: groot apo grote?
+Në shqip mbiemri vjen **pas** emrit dhe merr një nyje: *shtëpia* **e madhe**. Në holandisht mbiemri vjen **para** emrit dhe shpesh merr mbaresën **-e**: *het* **grote** *huis*.
+
+@h2 Rregulli
+Mbiemri para emrit merr **-e**, me një përjashtim: **het**-fjalët në njëjës pas **een**, **geen** ose pa nyje.
+
+@table
+| | de-fjalë | het-fjalë |
+| me **de / het**, **deze / die**, **mijn / jouw…** | de **grote** man | het **grote** huis |
+| me **een / geen** | een **grote** man | een **groot** huis |
+| pa nyje, njëjës | **warme** melk | **koud** water |
+| shumës (me ose pa nyje) | (de) **grote** mannen | (de) **grote** huizen |
+@end
+@box (0.91, 0.97, 0.92)
+  **Formulë e shkurtër**
+  **-e** gjithmonë, **përveç**: het-fjalë + njëjës + (een / geen / pa nyje) → pa -e: *een groot huis, geen groot huis, koud water*.
+@end
+@h2 Mbiemri pas foljes: kurrë -e
+Kur mbiemri vjen pas **zijn**, **worden** ose **blijven**, ai nuk ndryshon kurrë: *Het huis is* **groot**. *De man is* **groot**. *De huizen zijn* **groot**.
+@h2 Drejtshkrimi
+Kur shtohet **-e**, vlejnë rregullat e drejtshkrimit të Njësisë {U:10}:
+
+@table
+| Mbiemri | Me -e | Rregulli |
+| groot | grote | zanorja e gjatë në rrokje të hapur shkruhet me një shkronjë |
+| rood | rode | po ashtu |
+| dik | dikke | zanorja e shkurtër: dyfishohet bashkëtingëllorja |
+| wit | witte | po ashtu |
+| lief | lieve | f → v |
+| grijs | grijze | s → z |
+| klein | kleine | thjesht + e |
+@end
+@box (0.99, 0.93, 0.92)
+  **Kujdes: mbiemrat pa -e**
+  Mbiemrat që mbarojnë me **-en** nuk marrin -e: *een* **open** *deur*, *de* **gesloten** *winkel*. Po ashtu disa ngjyra të huaja: **oranje**, **roze**: *een oranje bal*.
+@end
+@table
+| Holandisht | Shqip |
+| Ik heb een nieuwe fiets. | Kam një biçikletë të re. |
+| Wij hebben een klein huis. | Ne kemi një shtëpi të vogël. |
+| Het kleine kind slaapt. | Fëmija i vogël po fle. |
+| Dat is een mooi boek. | Ky është një libër i bukur. |
+| De boeken zijn duur. | Librat janë të shtrenjtë. |
+@end
 @practice Ushtrime
 @h2 A. «de» apo «het»?
 1. ______ leraar
@@ -343,6 +387,38 @@ Holandishtja nuk ka formë të veçantë për foljen që bëhet emër (si anglis
 
 6. tri tavolina
 
+@h2 H. Mbiemri me ose pa -e
+1. een ______ huis (groot)
+
+2. het ______ huis (groot)
+
+3. een ______ man (klein)
+
+4. de ______ fiets (nieuw)
+
+5. ______ water (koud)
+
+6. een ______ boek (dik)
+
+7. de ______ boeken (dik)
+
+8. mijn ______ kind (lief)
+
+9. een ______ auto (rood)
+
+10. Het huis is ______. (groot)
+
+@h2 I. Përktheni në holandisht
+1. një shtëpi e madhe
+
+2. shtëpia e madhe
+
+3. një makinë e re
+
+4. Makina është e re.
+
+5. fëmijët e vegjël
+
 @key
 @table
 | Ushtrimi | Përgjigjet |
@@ -353,6 +429,8 @@ Holandishtja nuk ka formë të veçantë për foljen që bëhet emër (si anglis
 | **E** | 1. het voetje 2. het huisje 3. het dorpje 4. het stoeltje 5. het balletje 6. het ⏎ armpje 7. het mannetje 8. het kopje |
 | **F** | 1. het meisje 2. twee tafels 3. drie kinderen 4. de piano's 5. de leraar 6. de ⏎ godheid 7. het huisje 8. honderd kilometer |
 | **G** | 1. een rijke 2. de rijken 3. het mooie 4. Het lopen is gezond. 5. twee kinderen ⏎ 6. drie tafels |
+| **H** | 1. groot 2. grote 3. kleine 4. nieuwe 5. koud 6. dik 7. dikke 8. lieve 9. rode 10. groot |
+| **I** | 1. een groot huis 2. het grote huis 3. een nieuwe auto 4. De auto is nieuw. 5. de kleine kinderen |
 @end
 
 @glossary
@@ -363,11 +441,15 @@ Holandishtja nuk ka formë të veçantë për foljen që bëhet emër (si anglis
 | **het meisje** | vajza | **de stad** | qyteti |
 | **het kopje** | filxhani | **het schip** | anija |
 | **de vrouw** | gruaja | **de telefoon** | telefoni |
-| **de acteur** | aktori | **de tante** | halla |
+| **de acteur** | aktori | **de tante** | halla, tezja |
 | **de tafel** | tavolina | **de paraplu** | çadra |
 | **de hand** | dora | **de piano** | pianoja |
 | **het woord** | fjala | **de voet** | këmba |
 | **de dag** | dita | **het dorp** | fshati |
 | **het glas** | gota | **rijk** | i pasur |
 | **de weg** | rruga | **mooi** | i bukur |
+| **groot** | i madh | **klein** | i vogël |
+| **nieuw** | i ri | **oud** | i vjetër |
+| **dik** | i trashë | **lief** | i dashur, i ëmbël |
+| **rood** | i kuq | **wit** | i bardhë |
 @end

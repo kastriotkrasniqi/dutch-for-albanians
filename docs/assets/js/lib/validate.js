@@ -107,10 +107,19 @@ function classifyPair(x, y) {
   if (x.replace(/^ge/, '') === y.replace(/^ge/, '') && x !== y) return { cat: 'participle', word: x };
   const p = commonPrefix(x, y);
   if (p >= 3 && ENDINGS.has(x.slice(p)) && ENDINGS.has(y.slice(p))) return { cat: 'ending', word: x };
+  if (sameStem(x, y)) return { cat: 'ending', word: x };
   if (PRONOUNS.has(x) && PRONOUNS.has(y)) return { cat: 'pronoun', word: x };
   if (PREPS.has(x) && PREPS.has(y)) return { cat: 'preposition', word: x };
   if (editDistance(x, y) <= (y.length <= 4 ? 1 : 2)) return { cat: 'spelling', word: x };
   return { cat: 'word', word: x };
+}
+
+// groot/grote, dik/dikke, lief/lieve, huis/huizen: the same word with an ending and its spelling change
+function sameStem(a, b) {
+  const base = w => w.replace(/(en|e)$/, '').replace(/([a-z])\1/g, '$1').replace(/v$/, 'f').replace(/z$/, 's');
+  const end = w => (w.match(/(en|e)$/) || [''])[0];
+  // same ending (dike / dikke) is a spelling slip, a different ending is a grammar point
+  return a !== b && end(a) !== end(b) && base(a) === base(b) && base(a).length >= 2;
 }
 
 function commonPrefix(a, b) {

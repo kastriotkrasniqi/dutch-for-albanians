@@ -37,8 +37,9 @@ Last updated: 2026-10-19 · branch `platform-v2`
 - [x] Holandishtja në Belgjikë (5 lessons, 5 exercises)
 - [x] Situatat e përditshme (6 lessons, 4 exercises)
 - [x] Plurals for 101 nouns, Belgian usage notes; 69-verb reference with drill
-- [ ] **Object pronouns lesson (P1)**
-- [ ] **Adjective endings lesson (P1)**
+- [x] Object pronouns lesson → Unit 8, lesson 4 + exercises I, J
+- [x] Adjective endings lesson → Unit 13, lesson 4 + exercises H, I (validator: *groot → grote* = ending, *dike → dikke* = spelling)
+- [ ] PDFs in `pdf/` predate these two lessons and the modules: rebuild with `python3 tools/make.py book units` (needs `pdfplumber`)
 - [ ] Indirect questions, relative clauses (P2)
 - [ ] Localise Netherlands-only examples in U2–U25 (P3)
 
@@ -49,14 +50,14 @@ Last updated: 2026-10-19 · branch `platform-v2`
 - [x] Speaker buttons in lesson example tables
 
 ## Phase 7 – verification
-- [x] `npm test`: 49 unit tests (validator over all 1 138 keys, SRS, dates/DST, store, progress, conversation rules, site links/assets)
+- [x] `npm test`: 49 unit tests (validator over all 1 165 keys, SRS, dates/DST, store, progress, conversation rules, site links/assets)
 - [x] `npm run test:e2e`: 10 browser tests (sub-path, feedback, persistence, completion, practice, flashcards, conversation, deep link, search, 360 px mobile)
 - [ ] Manual check on real iOS Safari / Android Chrome (voices differ per device)
 - [ ] Screen-reader pass (VoiceOver / TalkBack)
 - [ ] Merge `platform-v2` into `main` (GitHub Pages deploys from `main:/docs`)
 
 ## Next steps (in order)
-1. Object pronouns and adjective endings lessons (same markup as `content/uNN.txt`; add to `ORDER` only at the end of a part to keep stored progress ids stable, or as modules).
+1. Rebuild the PDFs.
 2. Real-device test of speech voices; record a native Flemish speaker for Hapi 0 if possible.
 3. Indirect questions and relative clauses (A2/B1).
 4. Banking and family/hobby conversation scenarios.

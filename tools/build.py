@@ -291,7 +291,7 @@ def render_unit(u, lesson_start, book=True):
             continue
         if k == 'h2':
             t = b[1]
-            m = re.match(r'([A-I])\. (.*)', t)
+            m = re.match(r'([A-L])\. (.*)', t)
             if mode == 'practice' and m:
                 body.append(f'<div class="ex"><h3 class="exh"><span class="exl">{m.group(1)}</span>{inline(m.group(2))}</h3>')
                 # collect until next h2 / practice / key

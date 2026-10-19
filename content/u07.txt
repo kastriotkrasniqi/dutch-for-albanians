@@ -91,6 +91,56 @@ Tani i përdorim pronorët me foljet e pozicionit nga mësimet e kaluara (*staan
 @box (0.91, 0.94, 0.98)
   **Kujdes me emrat e shumës:** pronori mbetet i njëjtë (*mijn boeken*, *zijn sleutels*); vetëm «ons» bëhet «onze»: *onze boeken*.
 @end
+@lesson Përemrat si kundrinor: mij, jou, hem, haar
+Deri tani përemrat i kemi përdorur si **kryefjalë** (*ik, jij, hij…*) dhe si **pronorë** (*mijn, jouw, zijn…*). Kur përemri është **kundrinor** – personi ose sendi që merr veprimin – holandishtja përdor një formë të tretë: *Ik zie* **hem**. (E shoh atë.)
+
+@table
+| Kryefjala | Kundrinori | Forma e patheksuar | Shqip |
+| ik | **mij** | me | mua, më |
+| jij / je | **jou** | je | ty, të |
+| u | **u** | — | ju (e sjellshme) |
+| hij | **hem** | — | atë, e (mashkull) |
+| zij / ze (ajo) | **haar** | — | atë, e (femër) |
+| het | **het** | — | atë (asnjanës) |
+| wij / we | **ons** | — | ne, na |
+| jullie | **jullie** | — | ju |
+| zij / ze (ata) | **hen** / **hun** | ze | ata, i |
+@end
+
+@table
+| Holandisht | Shqip |
+| Ik zie **hem**. | E shoh (atë). |
+| Zij helpt **mij**. | Ajo më ndihmon. |
+| Ken je **haar**? | A e njeh (atë)? |
+| We bellen **je** morgen. | Të telefonojmë nesër. |
+| Hij geeft **ons** een cadeau. | Ai na jep një dhuratë. |
+| Ik wacht op **hen**. | I pres (ata). |
+| Kom je met **mij** mee? | Vjen me mua? |
+@end
+
+@box (1.0, 0.96, 0.91)
+  **Dallim nga shqipja**
+  Në shqip trajta e shkurtër vjen **para** foljes: *Ai* **më** *sheh*. Në holandisht përemri vjen **pas** foljes së zgjedhur: *Hij ziet* **mij**. Gabim: «Hij mij ziet» (kjo është e saktë vetëm në fjalinë e varur: *…dat hij mij ziet*).
+@end
+@h2 Pas parafjalës
+Pas parafjalëve përdoret po kjo formë: **met mij** (me mua), **voor jou** (për ty), **bij hem** (te ai), **naast haar** (pranë saj), **van ons** (prej nesh), **met hen** (me ata).
+@h2 Sendet: «hem» apo «het»?
+Për sendet përemri varet nga nyja e emrit: për një **de**-fjalë përdoret **hem**, për një **het**-fjalë **het**.
+
+@table
+| Holandisht | Shqip |
+| Waar is de sleutel? Ik vind **hem** niet. | Ku është çelësi? Nuk e gjej. |
+| Waar is het boek? Ik vind **het** niet. | Ku është libri? Nuk e gjej. |
+| Ken je die film? Ik heb **hem** gezien. | E njeh atë film? E kam parë. |
+@end
+@box (0.99, 0.93, 0.92)
+  **Kujdes**
+  **mij** ≠ **mijn**: *Dat is van* **mij**. (Është imi.) · *Dat is* **mijn** *boek*. (Është libri im.) Edhe **hen / hun** nuk përdoret si kryefjalë: thoni *Zij hebben…*, jo «Hun hebben…».
+@end
+@box (0.95, 0.96, 0.98)
+  **hen apo hun?**
+  Në gjuhën e shkruar: **hen** pas parafjalës dhe si kundrinor i drejtë (*Ik zie hen*, *met hen*), **hun** si kundrinor i zhdrejtë pa parafjalë (*Ik geef hun een boek*). Në të folur shumica thonë thjesht **ze**: *Ik zie ze.*
+@end
 @practice Ushtrime: lidh çiftet
 @h2 A. Përemri vetor dhe pronori
 Lidhni me vijë çdo kuti majtas me kutinë e duhur djathtas.
@@ -196,6 +246,32 @@ Hun huis staat in de straat. ⇥ Çanta ime është pas derës.
 
 6. Lulet tuaja (jullie) janë në vazo.
 
+@h2 I. Përemri si kundrinor
+1. Ik zie Jan. → Ik zie ______.
+
+2. Ken jij Anna? → Ken jij ______?
+
+3. Hij helpt mij en mijn broer. → Hij helpt ______.
+
+4. Waar is de sleutel? Ik vind ______ niet.
+
+5. Waar is het boek? Ik vind ______ niet.
+
+6. Ik kom met Jan en Anna. → Ik kom met ______.
+
+7. Bel je ______ morgen? (mua)
+
+8. Ik geef ______ een cadeau. (ty)
+
+@h2 J. Përktheni në holandisht
+1. E njoh (atë burrë).
+
+2. Ajo më ndihmon.
+
+3. A vjen me ne?
+
+4. Ku është çanta? Nuk e gjej.
+
 @key
 @table
 | Ushtrimi | Përgjigjet |
@@ -207,6 +283,8 @@ Hun huis staat in de straat. ⇥ Çanta ime është pas derës.
 | F | 1. Ik heb mijn tas. 2. Wij hebben ons huis. 3. Zij heeft haar auto. 4. Hij heeft zijn boek. ⏎ 5. Wij hebben onze kinderen. 6. Dit is jouw tas. |
 | G | Mijn tas staat achter de deur. – Çanta ime është pas derës. • Onze kat zit op de stoel. ⏎ – Macja jonë është ulur në karrige. • Zijn auto staat buiten. – Makina e tij është ⏎ jashtë. • Waar ligt jouw boek? – Ku është libri yt? • Hun huis staat in de straat. – ⏎ Shtëpia e tyre është në rrugë. |
 | H | 1. Mijn tas staat achter de deur. 2. Jouw boek ligt op tafel. 3. Zijn auto staat buiten. 4. ⏎ Ons huis staat in de straat. 5. Haar kat zit op de stoel. 6. Jullie bloemen staan in de ⏎ vaas. |
+| I | 1. hem 2. haar 3. ons 4. hem 5. het 6. hen / ze 7. mij / me 8. jou / je |
+| J | 1. Ik ken hem. 2. Zij helpt mij. / Ze helpt me. / Zij helpt me. / Ze helpt mij. 3. Kom je met ons mee? / Ga je met ons mee? / Kom je met ons? / Kom jij met ons mee? / Ga jij met ons mee? 4. Waar is de tas? Ik vind hem niet. |
 @end
 
 @glossary
@@ -224,4 +302,8 @@ Hun huis staat in de straat. ⇥ Çanta ime është pas derës.
 | de tas | çanta | het paspoort | pasaporta |
 | de auto | makina | de straat | rruga |
 | het huis | shtëpia | het park | parku |
+| mij / me | mua, më | hem | atë, e (mashkull; de-fjalë) |
+| jou / je | ty, të | hen / ze | ata, i |
+| helpen | ndihmoj | kennen | njoh |
+| bellen | telefonoj | wachten op | pres dikë |
 @end
