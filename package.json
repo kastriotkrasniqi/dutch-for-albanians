@@ -1,0 +1,12 @@
+{
+  "name": "mesojme-holandisht",
+  "private": true,
+  "type": "module",
+  "description": "Static Dutch course for Albanian speakers. No runtime dependencies; Node is only used for tests.",
+  "scripts": {
+    "build": "python3 tools/make_site.py",
+    "test": "python3 tools/make_site.py && node --test tests/*.test.mjs",
+    "test:e2e": "python3 tests/e2e_test.py",
+    "serve": "python3 -m http.server 8000 -d docs"
+  }
+}

@@ -80,7 +80,10 @@ def strip_md(t):
 
 # ---------------------------------------------------------------- parsing
 def parse_unit(u):
-    lines = resolve_refs(open(f'{SRC}/u{SRC_OF[u]:02d}.txt').read()).split('\n')
+    return parse_text(open(f'{SRC}/u{SRC_OF[u]:02d}.txt').read())
+
+def parse_text(text):
+    lines = resolve_refs(text).split('\n')
     blocks = []
     i = 0
     while i < len(lines):
