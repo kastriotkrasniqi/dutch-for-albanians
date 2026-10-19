@@ -1,0 +1,258 @@
+@lesson Një gjuhë, disa variante
+Në Flandër (pjesa veriore e Belgjikës, me Antwerpenin, Gentin dhe Leuvenin) gjuha zyrtare është **holandishtja** (*het Nederlands*) – e njëjta gjuhë si në Holandë. Gramatika dhe drejtshkrimi janë të përbashkëta dhe përcaktohen nga një institucion i përbashkët, *de Nederlandse Taalunie*. Gjithçka që mësoni në këtë kurs vlen në të dy vendet.
+
+Megjithatë, në Flandër do të dëgjoni disa fjalë, shprehje dhe një shqiptim që ndryshojnë nga Holanda – njësoj si shqipja e Kosovës dhe ajo e Shqipërisë.
+
+@h2 Tri nivele të gjuhës që do të dëgjoni
+@table
+| Niveli | Çfarë është | Ku e dëgjoni |
+| **Standaardnederlands** | gjuha standarde, me fjalë belge të pranuara | lajmet, shkolla, zyrat, letrat, kurset |
+| **tussentaal** | «gjuha e mesme»: standarde e përzier me forma të folura (*ge/gij*, *nen*, *efkes*) | në rrugë, me miq, në punë, në seriale televizive |
+| **dialekt** | dialekti i qytetit ose i fshatit (p.sh. *Antwerps*) | te të moshuarit, në familje, në lokale |
+@end
+@box (0.91, 0.97, 0.92)
+  **Këshilla jonë**
+  **Flisni dhe shkruani gjuhën standarde.** Ajo kuptohet kudo dhe është e duhura në zyra, në punë dhe në provime. Mësoni t'i **njihni** format e *tussentaal* dhe të dialektit, që t'i kuptoni kur i dëgjoni, por mos i përdorni në shkrim.
+@end
+@h2 Fjalë belge dhe fjalë holandeze
+Fjalët në kolonën e parë janë normale dhe të sakta në Belgjikë. Në Holandë do t'ju kuptojnë, por aty përdorin më shpesh fjalën e dytë.
+
+@table
+| Në Belgjikë | Në Holandë | Shqip |
+| de **gsm** | de mobiel | celulari |
+| het **ticket** / het kasticket | de kassabon | kuponi i blerjes |
+| het **voorschrift** | het recept | receta e mjekut |
+| de **beenhouwer** | de slager | kasapi |
+| de **confituur** | de jam | reçeli |
+| de **hesp** | de ham | proshuta |
+| de **frieten** | de patat / de friet | patatet e skuqura |
+| het **onthaal** | de receptie | recepsioni, pritja |
+| de **solden** | de uitverkoop | uljet sezonale |
+| de **living** | de woonkamer | dhoma e ndenjes |
+| het **kot** | de studentenkamer | dhoma e studentit |
+| de **lavabo** | de wastafel | lavamani |
+| de **namiddag** | de middag | pasditja |
+| een **tas** koffie | een kopje koffie | një filxhan kafe |
+| de **refter** | de kantine | mensa |
+| **proficiat!** | gefeliciteerd! | urime! |
+@end
+@box (0.95, 0.96, 0.98)
+  **«Proficiat» dhe «gefeliciteerd»**
+  Në Belgjikë do të dëgjoni të dyja; *proficiat* është më tipike. Të dyja janë të sakta në gjuhën standarde.
+@end
+@lesson Mirësjellja: u, jij dhe «ge»
+@h2 Kur përdoret «u»?
+Në Flandër **u** (ju, forma e sjellshme) përdoret më shpesh dhe më gjatë se në Holandë. Rregulli i sigurt për fillestarët:
+
+@table
+| Me kë flisni | Forma | Shembull |
+| në zyrë, me policinë, me mjekun | **u** | Kunt u mij helpen? |
+| në dyqan, në kafene, me pronarin e banesës | **u** | Hebt u dit in het groot? |
+| me njerëz më të moshuar që nuk i njihni | **u** | Woont u hier al lang? |
+| me kolegët, miqtë, shokët e kursit | **jij / je** | Kom je ook? |
+| me fëmijët | **jij / je** | Hoe heet je? |
+@end
+@box (1.0, 0.96, 0.91)
+  **Kur nuk jeni të sigurt: «u»**
+  Është më mirë të jeni pak tepër të sjellshëm se sa tepër familjarë. Nëse dikush ju thotë *Zeg maar jij* ose *Je mag jij zeggen*, atëherë kaloni te **jij**.
+@end
+@h2 «u hebt» apo «u heeft»?
+Të dyja janë të sakta: *u hebt* dhe *u heeft*, *u kunt* dhe *u kan*. Në Belgjikë dëgjohet më shumë **u hebt**, **u kunt**, **hebt u…?**
+@h2 «ge» dhe «gij»: e kuptoni, por nuk e shkruani
+Në *tussentaal* flamandët përdorin shpesh **ge / gij** në vend të **je / jij**. Folja merr zakonisht **-t**:
+
+@table
+| Do të dëgjoni (tussentaal) | Gjuha standarde | Shqip |
+| Hebt ge tijd? | Heb je tijd? | A ke kohë? |
+| Zijt gij ook van Antwerpen? | Ben jij ook van Antwerpen? | Je edhe ti nga Antwerpeni? |
+| Gaat ge mee? | Ga je mee? | Vjen me ne? |
+| Wat doet ge? | Wat doe je? | Çfarë bën? |
+@end
+@box (0.99, 0.93, 0.92)
+  **Kujdes**
+  Mos e shkruani *ge/gij* në mesazhe zyrtare, email-e për punë ose në provime. Në gjuhën standarde: **je / jij**, ose **u** kur flisni me mirësjellje.
+@end
+@h2 «Alstublieft», «merci» dhe «dag»
+@table
+| Shprehja | Përdorimi në Belgjikë | Shqip |
+| **Alstublieft** / alsjeblieft | kur i jepni diçka dikujt; edhe si përgjigje për «dank u» | urdhëroni; s'ka përse |
+| **Merci** / Dank u | falënderimi i përditshëm | faleminderit |
+| **Graag gedaan** | përgjigje për falënderimin | me kënaqësi, s'ka përse |
+| **Dag!** | edhe për «tungjatjeta», edhe për «mirupafshim» | tung! / mirupafshim! |
+| **Goeiedag** | përshëndetje normale gjatë ditës | mirëdita |
+| **Salut!** | e folur, mes të njohurve | tung! |
+| **Tot straks / tot seffens** | shihemi më vonë (*seffens* = e folur flamande) | shihemi më vonë |
+| **Smakelijk!** | para ngrënies | ju bëftë mirë! |
+| **Santé!** | kur ngrini gotën | gëzuar! |
+@end
+@box (1.0, 0.96, 0.91)
+  **Ndryshe nga Holanda**
+  Në Holandë *goedendag* tingëllon shumë formal; në Belgjikë **goeiedag** është përshëndetje krejt e zakonshme. Në Belgjikë **alstublieft** dëgjohet edhe si «s'ka përse» pas *dank u*.
+@end
+@lesson Shprehje që do të dëgjoni në Antwerpen
+Këto fjalë janë të gjuhës së folur. Mësojini për t'i **kuptuar**; disa (si *amai* ose *allee*) mund t'i përdorni edhe vetë me miq, por jo në zyrë apo në shkrim.
+
+@table
+| Shprehja | Kuptimi | Shembull |
+| **Amai!** | uau!, pa shiko! (habi) | Amai, dat is duur! – Uau, sa shtrenjtë! |
+| **Allee!** | hajde!, eja!, pra… | Allee, kom! – Hajde, eja! |
+| **Awel** | epo, pra | Awel, ik weet het niet. – Epo, nuk e di. |
+| **Wablieft?** | si thatë? | — |
+| **Plezant** | i këndshëm, argëtues (std. *leuk*) | Het was plezant. – Ishte bukur. |
+| **Schoon** | i bukur (std. *mooi*) | Wat een schoon weer! – Çfarë moti i bukur! |
+| **Content** | i kënaqur (std. *blij, tevreden*) | Ik ben content. – Jam i kënaqur. |
+| **Efkes** | pak, një çast (std. *even*) | Wacht efkes. – Prit pak. |
+| **Ambetant** | i bezdisshëm (std. *vervelend*) | Dat is ambetant. – Kjo është e bezdisshme. |
+| **Goesting hebben in** | kam qejf për (std. *zin hebben in*) | Ik heb goesting in frietjes. – Kam qejf për patate. |
+| **Een pintje** | një gotë birrë | Gaan we een pintje drinken? |
+| **Seffens** | pak më vonë (std. *straks*) | Ik kom seffens. – Vij pak më vonë. |
+@end
+@box (0.95, 0.96, 0.98)
+  **Pse «std.»?**
+  Fjala pas *std.* është fjala e gjuhës standarde. Kur shkruani një email ose flisni në zyrë, përdorni atë: *leuk*, *mooi*, *even*, *straks*.
+@end
+@lesson Shqiptimi në Flandër
+Nëse dëgjoni video ose aplikacione nga Holanda, Flandra do t'ju tingëllojë ndryshe. Ja dallimet kryesore – të gjitha janë shqiptime të sakta:
+
+@table
+| Tingulli | Në Flandër | Në Holandë |
+| **g / ch** | e butë, me zë, si «h» e lehtë nga fyti | e fortë, «gërvishtëse» |
+| **ee, oo, eu** | zanore «të pastra»: *twee*, *boot* | rrëshqasin pak: «tvej», «bout» |
+| **w** | me dy buzët, si *w* angleze | si *v* e butë |
+| **v / z** | me zë: *vier*, *zes* | shpesh afër *f*, *s* |
+| **-en** | *n*-ja shpesh nuk dëgjohet | po ashtu |
+| **r** | shpesh e dridhur, si *rr* shqipe | shumë variante |
+@end
+@box (0.91, 0.97, 0.92)
+  **Lajm i mirë**
+  Shqiptimi flamand është në shumë pika më i afërt me shqipen: *v* dhe *z* me zë, *r* e dridhur, zanore të pastra. Nëse jetoni në Flandër, mësoni nga ky shqiptim.
+@end
+@box (1.0, 0.96, 0.91)
+  **Dialekti i Antwerpenit**
+  Shumë antverpenas flasin me dialekt të fortë, që edhe flamandët e tjerë e kuptojnë me vështirësi. Mos u dekurajoni. Thoni me qetësi: **Sorry, ik leer nog Nederlands. Kunt u wat trager spreken?** – shumica kalojnë menjëherë në gjuhën standarde.
+@end
+@lesson Zyrat dhe shërbimet në Flandër
+Fjalët e mëposhtme do t'i hasni në letra, në zyra dhe në faqet e internetit të komunës.
+
+@table
+| Holandisht | Shqip | Shënim |
+| **het stadhuis / het gemeentehuis** | bashkia, komuna | |
+| **het districtshuis** | zyra e distriktit | Antwerpeni ndahet në distrikte |
+| **het loket** | sporteli | |
+| **het volgnummer** | numri i radhës | |
+| **de afspraak** | takimi | shumë zyra punojnë vetëm me takim |
+| **de identiteitskaart (eID)** | karta e identitetit | |
+| **de verblijfskaart** | karta e qëndrimit | |
+| **het rijksregisternummer** | numri personal kombëtar | në kartën e identitetit |
+| **de adreswijziging** | ndërrimi i adresës | |
+| **de wijkagent** | polici i lagjes | kontrollon adresën pas regjistrimit |
+| **het huurcontract** | kontrata e qirasë | |
+| **de huurwaarborg** | depozita e qirasë | |
+| **de syndicus** | administratori i ndërtesës | |
+| **het ziekenfonds / de mutualiteit** | sigurimi shëndetësor | |
+| **de huisarts** | mjeku i familjes | |
+| **De Lijn** | autobusët dhe tramvajet | në Flandër |
+| **de NMBS** | trenat belgë | |
+| **de VDAB** | zyra e punësimit | në Flandër |
+| **het Huis van het Nederlands** | qendra për kurset e holandishtes | regjistrimi për kurse |
+@end
+@h2 Fjali të dobishme në zyrë
+@table
+| Holandisht | Shqip |
+| Ik heb een afspraak om tien uur. | Kam një takim në orën dhjetë. |
+| Ik kom voor een adreswijziging. | Kam ardhur për ndërrimin e adresës. |
+| Welk document moet ik meebrengen? | Cilin dokument duhet të sjell? |
+| Kunt u dat opschrijven, alstublieft? | A mund ta shkruani, ju lutem? |
+| Waar moet ik tekenen? | Ku duhet të nënshkruaj? |
+| Hoe lang duurt het? | Sa zgjat? |
+@end
+@box (0.95, 0.96, 0.98)
+  **Kunt u dat opschrijven?**
+  Në zyra informacionet janë shpesh të gjata dhe të shpejta. Mos kini turp të kërkoni që t'jua shkruajnë – kjo është krejt normale.
+@end
+@practice Ushtrime
+@h2 A. Fjala belge dhe ajo holandeze
+Lidhni me vijë çdo kuti majtas me kutinë e duhur djathtas.
+
+de gsm ⇥ de receptie
+
+het voorschrift ⇥ de slager
+
+de beenhouwer ⇥ de mobiel
+
+de confituur ⇥ het recept
+
+het onthaal ⇥ de jam
+
+@h2 B. «u» apo «je»?
+Zgjidhni formën e duhur për situatën.
+
+1. Te mjeku: Hebt ______ koorts? (u / je)
+
+2. Me një shok të kursit: Heb ______ tijd vanavond? (u / je)
+
+3. Në sportelin e komunës: Kunt ______ dit formulier invullen? (u / je)
+
+4. Me një fëmijë: Hoe oud ben ______? (u / je)
+
+5. Me pronarin e banesës: Kunt ______ morgen komen? (u / je)
+
+@h2 C. Çfarë do të thotë?
+Lidhni me vijë çdo kuti majtas me kutinë e duhur djathtas.
+
+Amai! ⇥ hajde, eja!
+
+Allee, kom! ⇥ pak më vonë
+
+Wablieft? ⇥ uau!
+
+seffens ⇥ i këndshëm
+
+plezant ⇥ si thatë?
+
+@h2 D. Gjuha standarde
+Shkruani fjalën e gjuhës standarde.
+
+1. Het was plezant. → Het was ______.
+
+2. Wacht efkes. → Wacht ______.
+
+3. Wat een schoon huis! → Wat een ______ huis!
+
+4. Hebt ge tijd? → Heb ______ tijd?
+
+@h2 E. Përktheni në holandisht
+1. Kam një takim në orën dhjetë.
+
+2. A mund ta shkruani, ju lutem?
+
+3. Ku duhet të nënshkruaj?
+
+4. Urime!
+
+@key
+@table
+| Ushtrimi | Përgjigjet |
+| **A** | de gsm – de mobiel • het voorschrift – het recept • de beenhouwer – de slager • de confituur – de jam • het onthaal – de receptie |
+| **B** | 1. u 2. je / jij 3. u 4. je / jij 5. u |
+| **C** | Amai! – uau! • Allee, kom! – hajde, eja! • Wablieft? – si thatë? • seffens – pak më vonë • plezant – i këndshëm |
+| **D** | 1. leuk 2. even 3. mooi 4. je / jij |
+| **E** | 1. Ik heb een afspraak om tien uur. / Ik heb om tien uur een afspraak. 2. Kunt u dat opschrijven, alstublieft? / Kunt u dat opschrijven? / Kunt u het opschrijven, alstublieft? 3. Waar moet ik tekenen? / Waar moet ik ondertekenen? 4. Proficiat! / Gefeliciteerd! |
+@end
+
+@glossary
+@table
+| Holandisht | Shqip | Holandisht | Shqip |
+| **de gsm** | celulari | **het loket** | sporteli |
+| **het ticket** | kuponi i blerjes | **de afspraak** | takimi |
+| **het voorschrift** | receta e mjekut | **de identiteitskaart** | karta e identitetit |
+| **de beenhouwer** | kasapi | **de verblijfskaart** | karta e qëndrimit |
+| **de confituur** | reçeli | **de wijkagent** | polici i lagjes |
+| **de hesp** | proshuta | **het huurcontract** | kontrata e qirasë |
+| **de frieten** | patatet e skuqura | **de huurwaarborg** | depozita e qirasë |
+| **het onthaal** | recepsioni | **de huisarts** | mjeku i familjes |
+| **de namiddag** | pasditja | **het ziekenfonds** | sigurimi shëndetësor |
+| **de refter** | mensa | **tekenen** | nënshkruaj; vizatoj |
+| **proficiat** | urime | **opschrijven** | shkruaj (shënoj) |
+| **merci** | faleminderit | **juist** | i saktë |
+@end

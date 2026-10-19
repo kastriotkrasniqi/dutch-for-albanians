@@ -1,0 +1,229 @@
+@lesson Në dyqan dhe në supermarket
+Për të blerë mjaftojnë pak fjali. Gramatika që ju duhet është ajo e Njësive {U:1}–{U:3}: folja në vendin e dytë dhe pyetjet me folje në fillim.
+
+@table
+| Holandisht | Shqip |
+| Waar vind ik de melk? | Ku e gjej qumështin? |
+| Hoeveel kost dit? | Sa kushton kjo? |
+| Hebt u dit ook in het groot? | A e keni këtë edhe në masë të madhe? |
+| Ik kijk gewoon even rond. | Vetëm po shikoj pak. |
+| Dat is alles, dank u. | Kaq ishte, faleminderit. |
+| Kan ik met de kaart betalen? | A mund të paguaj me kartë? |
+| Hebt u een zakje? | A keni një qese? |
+@end
+@h2 Çfarë ju thotë shitësi
+@table
+| Holandisht | Shqip |
+| Kan ik u helpen? | A mund t'ju ndihmoj? |
+| Anders nog iets? | Diçka tjetër? |
+| Hebt u een klantenkaart? | A keni kartë klienti? |
+| Wilt u het ticket? | E doni kuponin? |
+| Dat is samen twaalf euro. | Gjithsej bëjnë dymbëdhjetë euro. |
+@end
+@box (1.0, 0.96, 0.91)
+  **Në Belgjikë**
+  Me kartë bankare paguani pothuajse kudo («Bancontact»). Në shumë supermarkete qeset nuk jepen falas: merrni me vete çantën tuaj. Kuponi i blerjes quhet **het ticket**.
+@end
+@lesson Në kafene dhe në restorant
+@table
+| Holandisht | Shqip |
+| Een tafel voor twee, alstublieft. | Një tavolinë për dy, ju lutem. |
+| Mag ik de kaart, alstublieft? | Më jepni menunë, ju lutem? |
+| Wat raadt u aan? | Çfarë na rekomandoni? |
+| Ik neem de soep van de dag. | Marr supën e ditës. |
+| Ik had graag een glas water. | Do të doja një gotë ujë. |
+| Ik ben allergisch voor noten. | Jam alergjik ndaj arrave. |
+| Mogen wij betalen, alstublieft? | A mund të paguajmë, ju lutem? |
+| De rekening, alstublieft. | Faturën, ju lutem. |
+@end
+@box (0.95, 0.96, 0.98)
+  **«de kaart»**
+  Në restorant **de kaart** (ose *de menukaart*) është menuja. *Het menu* është zakonisht një vakt i plotë me çmim fiks (*menu van de dag*).
+@end
+@box (0.91, 0.97, 0.92)
+  **Porosia e sjellshme**
+  **Ik had graag…**, **Mag ik…?** dhe **Ik neem…** janë mënyrat më të zakonshme. *Ik wil…* është gramatikisht e saktë, por pa *graag* tingëllon pak e prerë.
+@end
+@lesson Te mjeku dhe në farmaci
+@h2 Ku ju dhemb?
+Holandishtja i lidh shpesh dhimbjet me pjesën e trupit në një fjalë të vetme: **pjesa e trupit + pijn**.
+
+@table
+| Holandisht | Shqip |
+| Ik heb hoofdpijn. | Më dhemb koka. |
+| Ik heb buikpijn. | Më dhemb barku. |
+| Ik heb keelpijn. | Më dhemb fyti. |
+| Ik heb rugpijn. | Më dhemb shpina. |
+| Mijn arm doet pijn. | Më dhemb krahu. |
+| Ik heb koorts. | Kam ethe (temperaturë). |
+| Ik hoest veel. | Kollitem shumë. |
+| Ik ben verkouden. | Jam ftohur. |
+| Ik ben misselijk. | Më vjen për të vjellë. |
+| Ik voel me niet goed. | Nuk ndihem mirë. |
+@end
+@box (1.0, 0.96, 0.91)
+  **Dallim nga shqipja**
+  Shqip: *më dhemb koka* (koka është kryefjala). Holandisht: **ik heb hoofdpijn** (unë kam dhimbje koke) ose **mijn hoofd doet pijn** (koka ime bën dhimbje).
+@end
+@h2 Pyetjet e mjekut
+@table
+| Holandisht | Shqip |
+| Wat scheelt er? | Çfarë ju shqetëson? |
+| Waar doet het pijn? | Ku ju dhemb? |
+| Sinds wanneer? | Që kur? |
+| Neemt u medicijnen? | Merrni ilaçe? |
+| Bent u allergisch voor iets? | Jeni alergjik ndaj diçkaje? |
+@end
+@box (0.99, 0.93, 0.92)
+  **Numrat e urgjencës në Belgjikë**
+  **112** – ambulanca dhe zjarrfikësit · **101** – policia · **1733** – mjeku kujdestar në mbrëmje dhe në fundjavë (kur ordinanca juaj është e mbyllur).
+@end
+@lesson Banesa, fqinjët dhe faturat
+@table
+| Holandisht | Shqip |
+| De verwarming doet het niet. | Ngrohja nuk punon. |
+| Er is geen warm water. | Nuk ka ujë të ngrohtë. |
+| De kraan lekt. | Rubineti pikon. |
+| De lift is kapot. | Ashensori është prishur. |
+| Wanneer kan de technieker komen? | Kur mund të vijë tekniku? |
+| Ik heb de huur betaald. | E kam paguar qiranë. |
+| Ik heb een vraag over de factuur. | Kam një pyetje për faturën. |
+| Sorry voor het lawaai. | Më falni për zhurmën. |
+@end
+@box (1.0, 0.96, 0.91)
+  **Në Belgjikë**
+  Fatura për rrymën, gazin ose ujin quhet **de factuur** (në Holandë më shpesh *de rekening*). Në restorant, megjithatë, edhe në Belgjikë kërkohet **de rekening**.
+@end
+@h2 Mesazh për pronarin
+@box (0.95, 0.96, 0.98)
+  **Shembull**
+  Beste meneer Peeters,
+  De verwarming in mijn appartement doet het niet sinds gisteren. Kan de technieker deze week komen? Ik ben elke dag thuis na vier uur.
+  Met vriendelijke groeten,
+  Arben Krasniqi (Kerkstraat 15, bus 3)
+@end
+@box (0.91, 0.97, 0.92)
+  **Struktura e një mesazhi zyrtar**
+  **Beste** + emri (ose *Beste mevrouw, beste meneer*) · problemi në një fjali · kërkesa · kur jeni të lirë · **Met vriendelijke groeten** + emri. Në Belgjikë *bus 3* në adresë = numri i apartamentit.
+@end
+@lesson Në punë
+@h2 Udhëzime që dëgjoni në punë
+@table
+| Holandisht | Shqip |
+| Zet dat hier, alstublieft. | Vëre këtu, të lutem. |
+| Draag altijd handschoenen. | Mbaj gjithmonë doreza. |
+| Pas op! / Opgelet! | Kujdes! |
+| Wacht even. | Prit pak. |
+| Ben je klaar? | Ke mbaruar? |
+| Kom je even helpen? | A vjen të ndihmosh pak? |
+| Morgen begin je om zeven uur. | Nesër fillon në orën shtatë. |
+@end
+@h2 Çfarë thoni ju
+@table
+| Holandisht | Shqip |
+| Is dit goed zo? | A është mirë kështu? |
+| Kun je me dat nog eens tonen? | A ma tregon edhe një herë? |
+| Ik ben klaar. | Kam mbaruar. |
+| Ik heb een probleem met de machine. | Kam një problem me makinerinë. |
+| Mag ik volgende week verlof nemen? | A mund të marr pushim javën e ardhshme? |
+| Ik ben ziek. Ik kan vandaag niet komen werken. | Jam i sëmurë. Sot nuk mund të vij në punë. |
+@end
+@box (1.0, 0.96, 0.91)
+  **Në Belgjikë**
+  Pushimi nga puna quhet **het verlof** (*verlof nemen* = marr pushim). Agjencitë e punës së përkohshme quhen **het interimkantoor**. Kur jeni sëmurë, shpesh ju duhet një vërtetim nga mjeku: **een doktersbriefje**.
+@end
+@lesson Tabelat, njoftimet dhe mesazhet
+@h2 Tabela që shihni çdo ditë
+@table
+| Holandisht | Shqip |
+| **Duwen / Trekken** | Shty / Tërhiq |
+| **Ingang / Uitgang** | Hyrja / Dalja |
+| **Open / Gesloten** | Hapur / Mbyllur |
+| **Verboden te roken** | Ndalohet duhani |
+| **Opgelet!** | Kujdes! |
+| **Buiten gebruik** | Nuk punon (jashtë përdorimit) |
+| **Wegens ziekte gesloten** | Mbyllur për shkak sëmundjeje |
+| **Solden** | Ulje çmimesh |
+@end
+@h2 Telefoni
+@table
+| Holandisht | Shqip |
+| Goeiedag, met Arta Berisha. | Mirëdita, Arta Berisha në telefon. |
+| Mag ik met mevrouw Claes spreken? | A mund të flas me zonjën Claes? |
+| Kan ik een bericht achterlaten? | A mund të lë një mesazh? |
+| Ik bel later terug. | Do të telefonoj më vonë. |
+| U spreekt te snel voor mij. | Flisni shumë shpejt për mua. |
+@end
+@practice Ushtrime
+@h2 A. Tabela dhe kuptimi
+Lidhni me vijë çdo kuti majtas me kutinë e duhur djathtas.
+
+Duwen ⇥ dalja
+
+Trekken ⇥ kujdes!
+
+Uitgang ⇥ shty
+
+Gesloten ⇥ tërhiq
+
+Opgelet! ⇥ mbyllur
+
+@h2 B. Plotësoni
+1. Hoeveel ______ dit? (kosten)
+
+2. De ______, alstublieft. (fatura në restorant)
+
+3. Ik heb ______. (më dhemb koka)
+
+4. De verwarming ______ het niet. (doen)
+
+5. Mag ik volgende week ______ nemen? (pushim)
+
+6. Ik ______ graag een glas water. (hebben – kohë e shkuar, e sjellshme)
+
+@h2 C. Lexoni mesazhin dhe përgjigjuni
+Beste huurders, morgen, dinsdag 14 mei, komt de technieker tussen 9 en 12 uur de verwarming nakijken. Bent u niet thuis? Geef dan uw sleutel aan de buren. Met vriendelijke groeten, Jan Peeters
+
+1. Wie komt morgen? ______
+
+2. Welke dag? ______
+
+3. Tussen ______ en ______ uur.
+
+4. Wat moet u doen als u niet thuis bent? De sleutel aan ______ geven.
+
+@h2 D. Përktheni në holandisht
+1. Jam i sëmurë. Sot nuk mund të vij në punë.
+
+2. Ngrohja nuk punon.
+
+3. Ku i gjej vezët?
+
+4. Një tavolinë për dy, ju lutem.
+
+5. Më dhemb barku.
+
+@key
+@table
+| Ushtrimi | Përgjigjet |
+| **A** | Duwen – shty • Trekken – tërhiq • Uitgang – dalja • Gesloten – mbyllur • Opgelet! – kujdes! |
+| **B** | 1. kost 2. rekening 3. hoofdpijn 4. doet 5. verlof 6. had |
+| **C** | 1. de technieker / technieker / De technieker komt. 2. dinsdag / dinsdag 14 mei 3. Tussen 9 en 12 uur. / Tussen negen en twaalf uur. 4. de buren |
+| **D** | 1. Ik ben ziek. Ik kan vandaag niet komen werken. / Ik ben ziek. Ik kan vandaag niet werken. / Ik ben ziek. Ik kom vandaag niet werken. / Ik ben ziek, ik kan vandaag niet komen werken. 2. De verwarming werkt niet. / De verwarming doet het niet. 3. Waar vind ik de eieren? 4. Een tafel voor twee, alstublieft. 5. Ik heb buikpijn. / Mijn buik doet pijn. |
+@end
+
+@glossary
+@table
+| Holandisht | Shqip | Holandisht | Shqip |
+| **kosten** | kushtoj | **de factuur** | fatura |
+| **betalen** | paguaj | **de rekening** | fatura (në restorant) |
+| **de kaart** | karta; menuja | **de huur** | qiraja |
+| **het zakje** | qeseja | **de verwarming** | ngrohja |
+| **de hoofdpijn** | dhimbja e kokës | **kapot** | i prishur |
+| **de buikpijn** | dhimbja e barkut | **het verlof** | pushimi (nga puna) |
+| **de koorts** | ethet | **de handschoen** | doreza |
+| **verkouden** | i ftohur | **opgelet** | kujdes |
+| **misselijk** | që i vjen për të vjellë | **duwen** | shtyj |
+| **de medicijnen** | ilaçet | **trekken** | tërheq |
+| **de buren** | fqinjët | **gesloten** | i mbyllur |
+@end

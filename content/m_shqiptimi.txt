@@ -1,0 +1,300 @@
+@lesson Alfabeti dhe shkronjat që lexohen ndryshe
+Holandishtja përdor të njëjtat 26 shkronja latine si anglishtja. Shumica lexohen afërsisht si në shqip, por disa shkronja dhe grupe shkronjash kanë tingull krejt tjetër. Këto janë vendet ku shqipfolësit gabojnë më shpesh.
+
+@box (1.0, 0.96, 0.91)
+  **Si t'i lexoni udhëzimet e shqiptimit**
+  Shkrimi me shkronja shqipe (p.sh. *huis* ≈ «höjs») është vetëm **i përafërt**. Disa tinguj holandezë nuk ekzistojnë në shqip. Përdoreni si ndihmë të parë dhe dëgjoni gjithmonë fjalët me butonin e zërit ose nga folës vendas.
+@end
+@h2 Shkronjat që ndryshojnë nga shqipja
+@table
+| Shkronja | Si tingëllon (afërsisht) | Shembull | Kujdes |
+| **g** | «h» e fortë nga fyti; në Flandër më e butë, me zë | **goed** (mirë), **groot** (i madh) | nuk është kurrë si *g*-ja shqipe |
+| **ch** | si *g*-ja holandeze, pa zë | **acht** (tetë), **lachen** (qesh) | si *ch* gjermane te «Bach» |
+| **sch** | **s** + *ch* | **school** (shkolla), **schoon** (i pastër) | **jo** «sh»: *school* ≠ «shkoll» |
+| **j** | si *j* shqipe | **ja** (po), **jij** (ti) | |
+| **v** | *v*; në Holandë shpesh afër *f* | **vier** (katër), **van** (nga) | |
+| **w** | në Flandër me dy buzët (si *w* angleze); në Holandë si *v* e butë | **wonen** (banoj), **water** (ujë) | |
+| **c** | *k* para *a, o, u*; *s* para *e, i* | **café**, **centrum** | |
+| **y** | *i* (në fjalë të huaja) | **baby** | në Belgjikë shkronja quhet *i-grec* |
+| **z** | *z* shqipe | **zes** (gjashtë), **zon** (dielli) | jo «c» |
+| **s** | gjithmonë *s* | **sorry**, **soep** | kurrë «sh» |
+@end
+@box (0.99, 0.93, 0.92)
+  **Kujdes: «sch» nuk është «sh»**
+  Gabim i shpeshtë: *school* lexohet «shkoll». Saktë: **s** + **ch** (fyti). Vetëm në fund të disa fjalëve *-isch* thuhet afërsisht «is»: **praktisch**, **Belgisch**.
+@end
+@h2 Shkronjat në fund të fjalës: b dhe d
+Në fund të fjalës **b** tingëllon si **p**, dhe **d** si **t**. Drejtshkrimi nuk ndryshon:
+
+@table
+| Shkruhet | Tingëllon (afërsisht) | Shqip |
+| **ik heb** | «ik hep» | kam |
+| **de hond** | «dë hont» | qeni |
+| **het brood** | «hët broot» | buka |
+| **goed** | «guut» (me *g* holandeze) | mirë |
+@end
+@box (1.0, 0.96, 0.91)
+  **Dallim nga shqipja**
+  Në shqip *b* dhe *d* në fund mbeten me zë (*shkab*, *mund*). Në holandisht ato «shuhen»: *hond* thuhet me *t*. Prandaj në shumës dëgjohet sërish *d*: **honden** («hondë»).
+@end
+@lesson Zanoret: të shkurtra, të gjata dhe të dyfishta
+Në holandisht gjatësia e zanores ndryshon kuptimin e fjalës: **man** (burrë) – **maan** (hëna). Zanoret e gjata shkruhen me dy shkronja (*aa, ee, oo, uu*) ose me një shkronjë në rrokje të hapur (*ma-nen*) – rregullat e drejtshkrimit i mësoni te Njësia {U:10}.
+
+@h2 Zanoret e thjeshta
+@table
+| Shkruhet | Si tingëllon (afërsisht) | Shembull | Shqip |
+| **a** | *a* e shkurtër, pak nga thellë | **man**, **tas** | burrë, çantë |
+| **aa** | *a* e gjatë, e hapur | **maan**, **straat** | hëna, rruga |
+| **e** (e theksuar) | *e* e shkurtër, si te «mbret» | **bed**, **les** | shtrat, mësim |
+| **e** (e patheksuar) | **ë** shqipe | **de**, **lopen**, **ik ben moe** | nyja, eci |
+| **ee** | *e* e gjatë, e mbyllur | **twee**, **heet** | dy, quhem |
+| **i** | *i* e shkurtër, e hapur | **ik**, **in** | unë, në |
+| **ie** | **i** e gjatë | **drie**, **bier** | tre, birrë |
+| **o** | *o* e shkurtër, e hapur | **pot**, **op** | tenxhere, mbi |
+| **oo** | *o* e gjatë, e mbyllur | **boot**, **groot** | anija, i madh |
+| **u** | si *ë* me buzë të rrumbullakosura | **bus**, **dus** | autobus, pra |
+| **uu** | **y** shqipe | **muur**, **uur**, **duur** | muri, ora, i shtrenjtë |
+| **oe** | **u** shqipe | **boek**, **goed**, **moe** | libër, mirë, i lodhur |
+@end
+@box (0.91, 0.97, 0.92)
+  **Dy lajme të mira për shqipfolësit**
+  **uu** holandeze është pothuajse e njëjtë me **y**-në shqipe: *muur* ≈ «myr». Dhe **e**-ja e patheksuar (*de*, *lopen*) është **ë**-ja shqipe. Këto dy tinguj janë të vështirë për anglezët, jo për ju.
+@end
+@box (0.99, 0.93, 0.92)
+  **Kujdes: «oe» dhe «u»**
+  *oe* = **u** shqipe: **boek** ≈ «buk». Ndërsa shkronja *u* holandeze **nuk** është *u* shqipe: *uur* ≈ «yr», *bus* ≈ «bës» me buzë të rrumbullakosura. Gabimi «uur» → «ur» e bën fjalën të pakuptueshme.
+@end
+@h2 Zanoret e dyfishta
+@table
+| Shkruhet | Si tingëllon (afërsisht) | Shembull | Shqip |
+| **ij** / **ei** | «ej» (dy shkrime, i njëjti tingull) | **mijn**, **wijn**, **klein** | im, verë, i vogël |
+| **ui** | «öj»: nisni me *ë* me buzë të rrumbullakosura, mbyllni drejt *y* | **huis**, **uit**, **ui** | shtëpi, nga, qepë |
+| **ou** / **au** | «au» | **koud**, **blauw**, **vrouw** | i ftohtë, blu, grua |
+| **eu** | thoni **e** me buzët si për **y** | **leuk**, **neus**, **deur** | i këndshëm, hundë, derë |
+@end
+@box (0.95, 0.96, 0.98)
+  **«ui» dhe «eu»: tingujt pa homolog në shqip**
+  Për **eu**: thoni *e* dhe, pa e lëvizur gjuhën, rrumbullakosni buzët si për *y*. Për **ui**: nisni nga *eu*-ja (më e shkurtër) dhe përfundoni te *y*-ja: *huis* ≈ «höjs». Dëgjojini disa herë dhe përsëritini me zë.
+@end
+@box (1.0, 0.96, 0.91)
+  **Në Belgjikë**
+  Në Flandër zanoret e gjata **ee, oo, eu** thuhen «të pastra», pa rrëshqitje: *twee* ≈ «tvee» (jo «tvej»), *boot* ≈ «boot» (jo «bout»). Në Holandë ato rrëshqasin pak drejt *i* ose *u*. Edhe *g*-ja në Flandër është më e butë. Të dyja shqiptimet janë të sakta.
+@end
+@lesson Theksi dhe ritmi i fjalisë
+@h2 Ku bie theksi në fjalë?
+Në shumicën e fjalëve holandeze theksi bie në **rrokjen e parë të rrënjës**:
+
+@table
+| Fjala | Theksi | Shqip |
+| **wer**ken | WER-ken | punoj |
+| **ta**fel | TA-fel | tavolinë |
+| **ma**ken | MA-ken | bëj |
+| **Ne**derlands | NE-der-lands | holandisht |
+@end
+@h2 Parashtesat pa theks
+Parashtesat **be-, ge-, ver-, er-, her-, ont-** **nuk** theksohen; theksi bie te rrokja pas tyre:
+
+@table
+| Fjala | Theksi | Shqip |
+| be**ta**len | be-TA-len | paguaj |
+| ver**ge**ten | ver-GE-ten | harroj |
+| ge**lo**ven | ge-LO-ven | besoj |
+| ont**moe**ten | ont-MOE-ten | takoj |
+@end
+@box (0.95, 0.96, 0.98)
+  **Foljet me parashtesë të ndashme**
+  Te foljet si **op**bellen, **aan**komen, **mee**nemen theksi bie te parashtesa: OP-bellen, AAN-komen (Njësia {U:22}). Fjalët e marra nga frëngjishtja e kanë shpesh theksin në fund: ca**fé**, re**stau**rant, sta**tion**.
+@end
+@h2 Ritmi: fjalët e rëndësishme theksohen
+Në fjali theksohen emrat, foljet kryesore dhe mbiemrat. Fjalët e vogla (**de, het, een, je, ze, we**) thuhen shpejt dhe dobët – shpesh me **ë**: *Ik heb een fiets* ≈ «ik hep ën FITS». Prandaj në të folur dëgjoni **je, ze, we** më shpesh se **jij, zij, wij**.
+@box (1.0, 0.96, 0.91)
+  **Mbaresa -en**
+  Në të folurit e përditshëm, si në Belgjikë ashtu edhe në Holandë, *n*-ja në fund të **-en** shpesh nuk dëgjohet: *lopen* ≈ «lopë», *eten* ≈ «etë». Në shkrim duhet gjithmonë: **lopen**, **eten**.
+@end
+@lesson Ditët, muajt dhe data
+Numrat deri në 60 i mësoni te Njësia {U:25}. Këtu shtojmë dhjetëshet e tjera, ditët, muajt dhe mënyrën si thuhet data.
+
+@h2 Numrat e mëdhenj
+@table
+| Numri | Holandisht | Numri | Holandisht |
+| 70 | zeventig | 100 | honderd |
+| 80 | **t**achtig | 200 | tweehonderd |
+| 90 | negentig | 1000 | duizend |
+| 99 | negenennegentig | 2026 | tweeduizend zesentwintig |
+@end
+@box (0.99, 0.93, 0.92)
+  **Kujdes: 80 = tachtig**
+  80 është **tachtig** (me *t* në fillim), jo «achtig». Në Bruksel do të dëgjoni edhe numrat frëngjisht (*septante, nonante*), por holandisht thuhet gjithmonë **zeventig, negentig**.
+@end
+@h2 Vitet
+Vitet para 2000 thuhen me **honderd** (qindëshe): **1990** = *negentienhonderdnegentig* (19 qind 90). Vitet pas 2000 thuhen me **duizend**: **2008** = *tweeduizend acht*.
+@h2 Ditët e javës
+Ditët shkruhen me shkronjë të vogël dhe janë **de**-fjalë:
+
+@table
+| Holandisht | Shqip | Holandisht | Shqip |
+| **maandag** | e hënë | **vrijdag** | e premte |
+| **dinsdag** | e martë | **zaterdag** | e shtunë |
+| **woensdag** | e mërkurë | **zondag** | e diel |
+| **donderdag** | e enjte | **het weekend** | fundjava |
+@end
+@h2 Muajt
+@table
+| Holandisht | Shqip | Holandisht | Shqip |
+| **januari** | janar | **juli** | korrik |
+| **februari** | shkurt | **augustus** | gusht |
+| **maart** | mars | **september** | shtator |
+| **april** | prill | **oktober** | tetor |
+| **mei** | maj | **november** | nëntor |
+| **juni** | qershor | **december** | dhjetor |
+@end
+@h2 Data: numrat rendorë
+Për datën përdoren numrat rendorë (*e para, e dyta…*), si në shqip «i pari». Shumica marrin **-de** ose **-ste**:
+
+@table
+| Numri | Rendori | Numri | Rendori |
+| 1 | **eerste** | 8 | **achtste** |
+| 2 | **tweede** | 9 | negende |
+| 3 | **derde** | 10 | tiende |
+| 4 | vierde | 19 | negentiende |
+| 5 | vijfde | 20 | **twintigste** |
+| 6 | zesde | 21 | eenentwintigste |
+| 7 | zevende | 30 | dertigste |
+@end
+@box (0.91, 0.97, 0.92)
+  **Rregull**
+  1–19: rrënja + **-de** (*vierde, tiende*), me përjashtimet **eerste, derde, achtste**. Nga 20 e lart: + **-ste** (*twintigste, honderdste*).
+@end
+@table
+| Holandisht | Shqip |
+| Vandaag is het maandag. | Sot është e hënë. |
+| Ik ben geboren op 3 mei 1990. | Kam lindur më 3 maj 1990. |
+| De les begint op dinsdag 1 september. | Mësimi fillon të martën, më 1 shtator. |
+| Mijn verjaardag is op twintig juli. | Ditëlindja ime është më njëzet korrik. |
+| Op zaterdag werk ik niet. | Të shtunën nuk punoj. |
+@end
+@box (1.0, 0.96, 0.91)
+  **Dallim nga shqipja**
+  Shqip: *të hënën* – holandisht **op maandag**; shqip *më 3 maj* – holandisht **op 3 mei** (lexohet «op drie mei» ose «op de derde mei»). Për muajin: **in mei** (në maj).
+@end
+@lesson Fjalitë e klasës: kur nuk kuptoni
+Këto fjali ju duhen që në ditën e parë – në kurs, në punë dhe në zyra. Mësojini përmendësh.
+
+@table
+| Holandisht | Shqip |
+| Kunt u dat herhalen, alstublieft? | A mund ta përsërisni, ju lutem? |
+| Kunt u wat trager spreken? | A mund të flisni pak më ngadalë? |
+| Ik begrijp het niet. | Nuk e kuptoj. |
+| Wat betekent dat? | Çfarë do të thotë kjo? |
+| Hoe zeg je «shtëpi» in het Nederlands? | Si thuhet «shtëpi» në holandisht? |
+| Hoe schrijf je dat? | Si shkruhet kjo? |
+| Hoe spreek je dat uit? | Si shqiptohet kjo? |
+| Is dat juist? | A është e saktë? |
+| Sorry, ik spreek nog niet zo goed Nederlands. | Më falni, ende nuk e flas aq mirë holandishten. |
+| Mag ik iets vragen? | A mund të pyes diçka? |
+@end
+@box (1.0, 0.96, 0.91)
+  **Në Belgjikë**
+  **Trager** (më ngadalë) është fjala që dëgjohet më shumë në Flandër; në Holandë thonë më shpesh **langzamer**. Të dyja janë të sakta. **Juist** (e saktë) është shumë i zakonshëm në Belgjikë. Në gjuhën e folur do të dëgjoni edhe **Wablieft?** = «Si thatë?» – të kuptohet, por ju mund të thoni thjesht **Pardon?**
+@end
+@box (0.91, 0.97, 0.92)
+  **Mos kini turp të pyesni**
+  Shumë flamandë kalojnë menjëherë në anglisht kur dëgjojnë theks të huaj. Nëse doni të praktikoni, thoni: **Mag het in het Nederlands? Ik leer het nog.** (A mund të flasim holandisht? Po e mësoj ende.)
+@end
+@practice Ushtrime
+@h2 A. Tingulli holandez dhe homologu i përafërt shqip
+Lidhni me vijë çdo kuti majtas me kutinë e duhur djathtas.
+
+oe ⇥ y
+
+uu ⇥ ë
+
+ie ⇥ u
+
+e (te «de», «lopen») ⇥ ej
+
+ij / ei ⇥ i e gjatë
+
+@h2 B. Si tingëllon fundi i fjalës?
+Shkruani shkronjën që dëgjohet në fund (p ose t).
+
+1. hond → ______
+
+2. ik heb → ______
+
+3. brood → ______
+
+4. goed → ______
+
+@h2 C. Shkruani numrin me fjalë
+1. 21 → ______
+
+2. 35 → ______
+
+3. 48 → ______
+
+4. 80 → ______
+
+5. 99 → ______
+
+6. 100 → ______
+
+@h2 D. Cila ditë vjen pas?
+1. maandag → ______
+
+2. woensdag → ______
+
+3. vrijdag → ______
+
+4. zaterdag → ______
+
+@h2 E. Numrat rendorë
+1. 1 → de ______ dag
+
+2. 3 → de ______ les
+
+3. 8 → de ______ maand
+
+4. 20 → de ______ verjaardag
+
+@h2 F. Përktheni në holandisht
+1. A mund ta përsërisni, ju lutem?
+
+2. Nuk e kuptoj.
+
+3. Çfarë do të thotë «fiets»?
+
+4. Si shkruhet kjo?
+
+5. A mund të flisni më ngadalë?
+
+@key
+@table
+| Ushtrimi | Përgjigjet |
+| **A** | oe – u • uu – y • ie – i e gjatë • e (te «de», «lopen») – ë • ij / ei – ej |
+| **B** | 1. t 2. p 3. t 4. t |
+| **C** | 1. eenentwintig 2. vijfendertig 3. achtenveertig 4. tachtig 5. negenennegentig 6. honderd / eenhonderd |
+| **D** | 1. dinsdag 2. donderdag 3. zaterdag 4. zondag |
+| **E** | 1. eerste 2. derde 3. achtste 4. twintigste |
+| **F** | 1. Kunt u dat herhalen, alstublieft? / Kunt u dat herhalen? / Kunt u dat nog eens zeggen, alstublieft? 2. Ik begrijp het niet. / Ik versta het niet. 3. Wat betekent «fiets»? / Wat betekent fiets? / Wat wil «fiets» zeggen? 4. Hoe schrijf je dat? / Hoe schrijf je het? / Hoe schrijft u dat? 5. Kunt u trager spreken? / Kunt u langzamer spreken? / Kunt u wat trager spreken? / Kunt u wat langzamer spreken? / Kunt u wat trager praten? |
+@end
+
+@glossary
+@table
+| Holandisht | Shqip | Holandisht | Shqip |
+| **maandag** | e hënë | **januari** | janar |
+| **dinsdag** | e martë | **februari** | shkurt |
+| **woensdag** | e mërkurë | **maart** | mars |
+| **donderdag** | e enjte | **april** | prill |
+| **vrijdag** | e premte | **mei** | maj |
+| **zaterdag** | e shtunë | **juni** | qershor |
+| **zondag** | e diel | **juli** | korrik |
+| **het weekend** | fundjava | **augustus** | gusht |
+| **de week** | java | **september** | shtator |
+| **de maand** | muaji | **oktober** | tetor |
+| **vandaag** | sot | **november** | nëntor |
+| **morgen** | nesër | **december** | dhjetor |
+| **gisteren** | dje | **herhalen** | përsëris |
+| **begrijpen** | kuptoj | **betekenen** | do të thotë, nënkupton |
+| **trager** | më ngadalë | **juist** | i saktë |
+@end

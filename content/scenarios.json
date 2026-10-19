@@ -1,0 +1,1867 @@
+[
+ {
+  "id": "koffie",
+  "title": "Një kafe në Groenplaats",
+  "place": "Kafene në qendër të Antwerpenit",
+  "level": "A1",
+  "role": "Ju jeni klient.",
+  "goal": "Porositni një kafe me qumësht dhe një kroasant, për ta marrë me vete, dhe paguani me kartë.",
+  "turns": [
+   {
+    "npc": "Goeiemorgen! Wat mag het zijn?",
+    "npc_sq": "Mirëmëngjes! Çfarë dëshironi?",
+    "task": "Porositni një kafe me qumësht, me mirësjellje.",
+    "hint": "Een … , alstublieft. · Mag ik een …? · Ik had graag een …",
+    "need": [
+     {
+      "any": [
+       "koffie",
+       "cappuccino",
+       "latte",
+       "koffie verkeerd",
+       "koffie met melk"
+      ],
+      "sq": "pija që dëshironi (een koffie met melk)"
+     }
+    ],
+    "polite": true,
+    "models": [
+     "Een koffie met melk, alstublieft.",
+     "Mag ik een koffie met melk?",
+     "Ik had graag een koffie met melk."
+    ],
+    "tip": "«Ik had graag…» është mënyrë shumë e zakonshme dhe e sjellshme për të porositur në Flandër. «Mag ik…?» dhe «… , alstublieft» janë po aq të sakta."
+   },
+   {
+    "npc": "Groot of klein?",
+    "npc_sq": "E madhe apo e vogël?",
+    "task": "Thoni që e doni të vogël.",
+    "hint": "klein = e vogël",
+    "need": [
+     {
+      "any": [
+       "klein",
+       "kleine"
+      ],
+      "sq": "madhësia (klein)"
+     }
+    ],
+    "models": [
+     "Klein, alstublieft.",
+     "Een kleine, graag."
+    ]
+   },
+   {
+    "npc": "Wilt u er nog iets bij? We hebben verse croissants.",
+    "npc_sq": "Dëshironi edhe diçka tjetër? Kemi kroasantë të freskët.",
+    "task": "Thoni po: një kroasant.",
+    "hint": "Ja, graag. Een …",
+    "need": [
+     {
+      "any": [
+       "croissant",
+       "croissantje"
+      ],
+      "sq": "kroasanti (een croissant)"
+     }
+    ],
+    "models": [
+     "Ja, graag. Een croissant, alstublieft.",
+     "Ja, doe maar een croissant."
+    ],
+    "tip": "«Doe maar…» (fjalë për fjalë «bëje…») është mënyrë e zakonshme dhe miqësore për të porositur."
+   },
+   {
+    "npc": "Is het om hier op te eten of om mee te nemen?",
+    "npc_sq": "Për ta ngrënë këtu apo për ta marrë me vete?",
+    "task": "Thoni që i merrni me vete.",
+    "hint": "om mee te nemen = për ta marrë me vete",
+    "need": [
+     {
+      "any": [
+       "mee te nemen",
+       "meenemen",
+       "om mee",
+       "mee"
+      ],
+      "sq": "«me vete» (om mee te nemen)"
+     }
+    ],
+    "models": [
+     "Om mee te nemen, alstublieft.",
+     "Om mee te nemen."
+    ]
+   },
+   {
+    "npc": "Dat is dan vijf euro twintig.",
+    "npc_sq": "Atëherë bëjnë pesë euro e njëzet.",
+    "task": "Pyesni nëse mund të paguani me kartë.",
+    "hint": "Kan ik met … betalen?",
+    "need": [
+     {
+      "any": [
+       "bancontact",
+       "kaart",
+       "bankkaart",
+       "payconiq"
+      ],
+      "sq": "mënyra e pagesës (met de kaart / met Bancontact)"
+     }
+    ],
+    "polite": true,
+    "models": [
+     "Kan ik met de kaart betalen?",
+     "Mag ik met Bancontact betalen?"
+    ],
+    "errors": [
+     {
+      "re": "\\b(kan|mag) ik betalen met\\b",
+      "msg": "Kuptohet dhe dëgjohet shpesh, por më e rregullt është: «Kan ik met de kaart betalen?» – paskajorja në fund.",
+      "style": true
+     }
+    ],
+    "tip": "Në Belgjikë karta bankare quhet shpesh «Bancontact», sipas sistemit të pagesave."
+   },
+   {
+    "npc": "Natuurlijk. Alstublieft, uw koffie en uw croissant. Smakelijk!",
+    "npc_sq": "Sigurisht. Urdhëroni, kafeja dhe kroasanti juaj. Ju bëftë mirë!",
+    "task": "Falënderoni dhe përshëndetuni.",
+    "hint": "Merci! / Dank u wel. Dag!",
+    "need": [
+     {
+      "any": [
+       "dank u",
+       "dank je",
+       "dankuwel",
+       "dankjewel",
+       "merci",
+       "bedankt"
+      ],
+      "sq": "falënderimi (Dank u / Merci)"
+     }
+    ],
+    "models": [
+     "Dank u wel. Dag!",
+     "Merci, tot ziens!"
+    ],
+    "tip": "Në Flandër «Merci» është falënderim i zakonshëm, dhe «Dag!» përdoret si për «tungjatjeta», ashtu edhe për «mirupafshim»."
+   }
+  ],
+  "phrases": [
+   [
+    "Wat mag het zijn?",
+    "Çfarë dëshironi?"
+   ],
+   [
+    "Ik had graag een koffie.",
+    "Do të doja një kafe."
+   ],
+   [
+    "om mee te nemen",
+    "për ta marrë me vete"
+   ],
+   [
+    "Kan ik met de kaart betalen?",
+    "A mund të paguaj me kartë?"
+   ],
+   [
+    "Smakelijk!",
+    "Ju bëftë mirë!"
+   ]
+  ]
+ },
+ {
+  "id": "buur",
+  "title": "Fqinja e re në Borgerhout",
+  "place": "Para shtëpisë, në Borgerhout (Antwerpen)",
+  "level": "A1",
+  "role": "Sapo jeni transferuar në një banesë të re.",
+  "goal": "Prezantohuni me fqinjën, thoni nga vini dhe pyesni ku është supermarketi.",
+  "turns": [
+   {
+    "npc": "Dag! Bent u de nieuwe bewoner van nummer veertien? Ik ben Mieke, van hiernaast.",
+    "npc_sq": "Tungjatjeta! Jeni banori i ri i numrit katërmbëdhjetë? Unë jam Mieke, nga shtëpia ngjitur.",
+    "task": "Përshëndetni dhe thoni emrin tuaj.",
+    "hint": "Ja, ik ben … / Ik heet … · Aangenaam = gëzohem",
+    "need": [
+     {
+      "any": [
+       "ik ben",
+       "ik heet",
+       "mijn naam is",
+       "mijn naam"
+      ],
+      "sq": "emri juaj (Ik ben … / Ik heet …)"
+     }
+    ],
+    "models": [
+     "Dag Mieke! Ja, ik ben Arben. Aangenaam.",
+     "Hallo, ik heet Arta. Aangenaam."
+    ]
+   },
+   {
+    "npc": "Aangenaam! Waar komt u vandaan?",
+    "npc_sq": "Gëzohem! Nga vini?",
+    "task": "Thoni nga vini.",
+    "hint": "Ik kom uit …",
+    "need": [
+     {
+      "any": [
+       "uit",
+       "van"
+      ],
+      "sq": "vendi (Ik kom uit …)"
+     }
+    ],
+    "models": [
+     "Ik kom uit Kosovo.",
+     "Ik kom uit Albanië."
+    ],
+    "errors": [
+     {
+      "re": "\\bik kom van (kosovo|albanie|albanië|macedonie|macedonië)\\b",
+      "msg": "Për vendin e origjinës: «Ik kom uit Kosovo» (jo «van»)."
+     }
+    ]
+   },
+   {
+    "npc": "En woont u hier al lang?",
+    "npc_sq": "Dhe banoni këtu prej kohësh?",
+    "task": "Thoni që banoni këtu vetëm prej dy javësh.",
+    "hint": "Nee, ik woon hier pas … · pas = vetëm (për kohën)",
+    "need": [
+     {
+      "any": [
+       "twee weken",
+       "2 weken",
+       "veertien dagen"
+      ],
+      "sq": "sa kohë (twee weken)"
+     }
+    ],
+    "models": [
+     "Nee, ik woon hier pas twee weken.",
+     "Nee, sinds twee weken."
+    ],
+    "errors": [
+     {
+      "re": "\\bik woonde (hier|in belgie|in belgië) (al )?",
+      "msg": "Për diçka që vazhdon ende përdoret koha e tashme: Ik woon hier al …"
+     },
+     {
+      "re": "\\bik heb (hier|in belgie|in belgië)? ?(\\w+ )?(jaar|weken|maanden) (hier |in belgie |in belgië )?gewoond",
+      "msg": "«Ik heb … gewoond» do të thotë që nuk banoni më atje. Për diçka që vazhdon: Ik woon hier al …"
+     }
+    ],
+    "tip": "Si në shqip, për diçka që ka filluar dhe vazhdon përdoret koha e tashme: «Ik woon hier al twee jaar» = Banoj këtu prej dy vjetësh."
+   },
+   {
+    "npc": "Welkom in de straat! Als u iets nodig hebt, mag u altijd aanbellen.",
+    "npc_sq": "Mirë se erdhët në rrugën tonë! Nëse ju duhet diçka, mund t'i bini ziles kurdo.",
+    "task": "Falënderoni dhe pyesni ku është supermarketi më i afërt.",
+    "hint": "Dank u! Waar is …? · Is er een supermarkt in de buurt?",
+    "need": [
+     {
+      "any": [
+       "dank u",
+       "dank je",
+       "dankuwel",
+       "dankjewel",
+       "merci",
+       "bedankt"
+      ],
+      "sq": "falënderimi (Dank u / Merci)"
+     },
+     {
+      "any": [
+       "supermarkt",
+       "winkel",
+       "warenhuis"
+      ],
+      "sq": "supermarketi (de supermarkt)"
+     }
+    ],
+    "models": [
+     "Dank u! Waar is de dichtstbijzijnde supermarkt?",
+     "Merci! Is er een supermarkt in de buurt?",
+     "Dank u wel! Weet u waar de supermarkt is?"
+    ],
+    "errors": [
+     {
+      "re": "\\bweet u waar (is|ligt) de\\b",
+      "msg": "Në pyetjen e zhdrejtë folja shkon në fund: «Weet u waar de supermarkt is?»"
+     }
+    ],
+    "tip": "«Weet u waar de supermarkt is?» – pas «weet u waar…» folja shkon në fund, si në fjalitë e varura (Njësia 15)."
+   },
+   {
+    "npc": "Ja, om de hoek. De eerste straat links.",
+    "npc_sq": "Po, pas qoshes. Rruga e parë majtas.",
+    "task": "Falënderoni dhe përshëndetuni.",
+    "hint": "Dank u wel! Tot ziens.",
+    "need": [
+     {
+      "any": [
+       "dank u",
+       "dank je",
+       "dankuwel",
+       "dankjewel",
+       "merci",
+       "bedankt"
+      ],
+      "sq": "falënderimi (Dank u / Merci)"
+     }
+    ],
+    "models": [
+     "Dank u wel! Tot ziens.",
+     "Merci, nog een fijne dag!"
+    ]
+   }
+  ],
+  "phrases": [
+   [
+    "Aangenaam.",
+    "Gëzohem (që u njohëm)."
+   ],
+   [
+    "Ik kom uit Kosovo.",
+    "Vij nga Kosova."
+   ],
+   [
+    "Ik woon hier pas twee weken.",
+    "Banoj këtu vetëm prej dy javësh."
+   ],
+   [
+    "Is er een supermarkt in de buurt?",
+    "A ka supermarket këtu afër?"
+   ],
+   [
+    "om de hoek",
+    "pas qoshes"
+   ]
+  ]
+ },
+ {
+  "id": "bakker",
+  "title": "Te furra e bukës",
+  "place": "Furrë buke e lagjes",
+  "level": "A1",
+  "role": "Ju jeni klient.",
+  "goal": "Blini një bukë të prerë dhe katër pistolets, paguani dhe përshëndetuni.",
+  "turns": [
+   {
+    "npc": "Goeiedag! Wie is er aan de beurt?",
+    "npc_sq": "Mirëdita! Kush e ka radhën?",
+    "task": "Thoni që e keni ju radhën.",
+    "hint": "Ik ben aan de beurt. / Dat ben ik.",
+    "need": [
+     {
+      "any": [
+       "ik",
+       "mij",
+       "dat ben ik"
+      ],
+      "sq": "që jeni ju (Ik / Dat ben ik)"
+     }
+    ],
+    "models": [
+     "Ik ben aan de beurt.",
+     "Dat ben ik."
+    ]
+   },
+   {
+    "npc": "Wat mag het zijn?",
+    "npc_sq": "Çfarë dëshironi?",
+    "task": "Kërkoni një bukë të bardhë, të prerë në feta.",
+    "hint": "een wit brood · gesneden = i prerë",
+    "need": [
+     {
+      "any": [
+       "brood",
+       "witbrood"
+      ],
+      "sq": "buka (een brood)"
+     },
+     {
+      "any": [
+       "gesneden",
+       "snijden"
+      ],
+      "sq": "«të prerë» (gesneden)"
+     }
+    ],
+    "polite": true,
+    "models": [
+     "Een wit brood, gesneden, alstublieft.",
+     "Ik had graag een wit brood, gesneden."
+    ],
+    "tip": "Në furrat belge buka shpesh blihet «gesneden» – shitësi e pret me makinë."
+   },
+   {
+    "npc": "Anders nog iets?",
+    "npc_sq": "Diçka tjetër?",
+    "task": "Kërkoni katër pistolets (bukë të vogla të rrumbullakëta).",
+    "hint": "Ja, vier …",
+    "need": [
+     {
+      "any": [
+       "pistolet",
+       "pistolets",
+       "pistoletjes"
+      ],
+      "sq": "pistolets"
+     },
+     {
+      "any": [
+       "vier",
+       "4"
+      ],
+      "sq": "sasia (vier)"
+     }
+    ],
+    "models": [
+     "Ja, vier pistolets, alstublieft.",
+     "Ja, doe maar vier pistolets."
+    ],
+    "tip": "«Pistolets» janë bukët e vogla të rrumbullakëta – fjalë tipike belge (në Holandë: «kadetjes» ose «broodjes»)."
+   },
+   {
+    "npc": "Dat is samen zes euro tachtig.",
+    "npc_sq": "Bëjnë gjithsej gjashtë euro e tetëdhjetë.",
+    "task": "Jepni paratë: «urdhëroni».",
+    "hint": "Alstublieft.",
+    "need": [
+     {
+      "any": [
+       "alstublieft",
+       "alsjeblieft",
+       "hier",
+       "asjeblief",
+       "asteblief",
+       "alsteblief"
+      ],
+      "sq": "«urdhëroni» (Alstublieft)"
+     }
+    ],
+    "models": [
+     "Alstublieft.",
+     "Hier, alstublieft."
+    ],
+    "tip": "Në Belgjikë «alstublieft» thuhet kur i jepni diçka dikujt – dhe shitësi e thotë kur ju kthen kusurin. Në Belgjikë përdoret edhe si përgjigje për «dank u» (= s'ka përse)."
+   },
+   {
+    "npc": "Dank u. Hier is uw ticket. Nog een prettige dag!",
+    "npc_sq": "Faleminderit. Urdhëroni kuponin. Ditë të mbarë!",
+    "task": "Falënderoni dhe uroni edhe ju ditë të mbarë.",
+    "hint": "Merci, u ook! · insgelijks = gjithashtu",
+    "need": [
+     {
+      "any": [
+       "u ook",
+       "jij ook",
+       "insgelijks",
+       "eveneens",
+       "merci",
+       "dank u",
+       "bedankt",
+       "dag"
+      ],
+      "sq": "urimi në kthim (U ook!)"
+     }
+    ],
+    "models": [
+     "Merci, u ook! Dag!",
+     "Dank u, insgelijks!"
+    ],
+    "tip": "«Het ticket» (kuponi i blerjes) është fjala belge; në Holandë «de kassabon»."
+   }
+  ],
+  "phrases": [
+   [
+    "Wie is er aan de beurt?",
+    "Kush e ka radhën?"
+   ],
+   [
+    "Anders nog iets?",
+    "Diçka tjetër?"
+   ],
+   [
+    "gesneden",
+    "i prerë në feta"
+   ],
+   [
+    "Dat is samen …",
+    "Gjithsej bëjnë …"
+   ],
+   [
+    "U ook!",
+    "Edhe ju!"
+   ]
+  ]
+ },
+ {
+  "id": "weg",
+  "title": "Ku është stacioni?",
+  "place": "Në rrugë, në qendër të Antwerpenit",
+  "level": "A1",
+  "role": "Kërkoni rrugën për te stacioni qendror (Antwerpen-Centraal).",
+  "goal": "Pyesni rrugën, kërkoni ta përsërisin më ngadalë dhe kontrolloni që e kuptuat.",
+  "turns": [
+   {
+    "npc": "",
+    "npc_sq": "",
+    "task": "Ndaloni me mirësjellje një kalimtar dhe pyesni ku është stacioni.",
+    "hint": "Pardon / Excuseer, waar is …? · Hoe kom ik bij …?",
+    "need": [
+     {
+      "any": [
+       "station",
+       "centraal"
+      ],
+      "sq": "vendi që kërkoni (het station)"
+     },
+     {
+      "any": [
+       "waar",
+       "hoe kom ik",
+       "weet u",
+       "welke kant"
+      ],
+      "sq": "pyetja (Waar is …? / Hoe kom ik …?)"
+     }
+    ],
+    "polite": true,
+    "models": [
+     "Pardon, waar is het station?",
+     "Excuseer, weet u waar het Centraal Station is?",
+     "Sorry, hoe kom ik bij het station?"
+    ],
+    "tip": "«Excuseer» dhe «Pardon» janë mënyra të zakonshme në Flandër për të ndaluar dikë në rrugë."
+   },
+   {
+    "npc": "Het station? Ga hier rechtdoor tot aan de Meir, en dan de tweede straat links. Het is tien minuten te voet.",
+    "npc_sq": "Stacioni? Shkoni drejt deri te Meir-i, pastaj rruga e dytë majtas. Janë dhjetë minuta në këmbë.",
+    "task": "Nuk e kuptuat mirë. Kërkoni ta përsërisë, më ngadalë.",
+    "hint": "Kunt u dat herhalen? · Iets trager, alstublieft.",
+    "need": [
+     {
+      "any": [
+       "herhalen",
+       "nog eens",
+       "nog een keer",
+       "opnieuw",
+       "trager",
+       "langzamer",
+       "wablieft",
+       "pardon"
+      ],
+      "sq": "kërkesa për përsëritje (Kunt u dat herhalen?)"
+     }
+    ],
+    "polite": true,
+    "models": [
+     "Sorry, kunt u dat herhalen? Iets trager, alstublieft.",
+     "Kunt u dat nog eens zeggen, alstublieft?"
+    ],
+    "tip": "«Trager» (më ngadalë) dëgjohet shumë në Belgjikë; në Holandë më shpesh «langzamer». Të dyja janë të sakta. «Wablieft?» = «Si thatë?» (Flandër, e folur)."
+   },
+   {
+    "npc": "Natuurlijk. Rechtdoor … tot aan de Meir … en dan de tweede straat links.",
+    "npc_sq": "Sigurisht. Drejt … deri te Meir-i … dhe pastaj rruga e dytë majtas.",
+    "task": "Kontrolloni: përsëritni udhëzimin si pyetje.",
+    "hint": "Dus … en dan …?",
+    "need": [
+     {
+      "any": [
+       "rechtdoor"
+      ],
+      "sq": "drejt (rechtdoor)"
+     },
+     {
+      "any": [
+       "tweede"
+      ],
+      "sq": "e dyta (de tweede)"
+     },
+     {
+      "any": [
+       "links"
+      ],
+      "sq": "majtas (links)"
+     }
+    ],
+    "models": [
+     "Dus rechtdoor en dan de tweede straat links?"
+    ],
+    "errors": [
+     {
+      "re": "\\brechts\\b",
+      "msg": "Kujdes: «rechts» = djathtas; udhëzimi ishte «links» (majtas)."
+     }
+    ]
+   },
+   {
+    "npc": "Juist! U kunt ook de tram nemen, maar te voet is het niet ver.",
+    "npc_sq": "Pikërisht! Mund të merrni edhe tramvajin, por në këmbë nuk është larg.",
+    "task": "Falënderoni.",
+    "hint": "Dank u wel, heel vriendelijk!",
+    "need": [
+     {
+      "any": [
+       "dank u",
+       "dank je",
+       "dankuwel",
+       "dankjewel",
+       "merci",
+       "bedankt"
+      ],
+      "sq": "falënderimi (Dank u / Merci)"
+     }
+    ],
+    "models": [
+     "Dank u wel, heel vriendelijk!",
+     "Merci voor de hulp!"
+    ]
+   }
+  ],
+  "phrases": [
+   [
+    "Excuseer, waar is het station?",
+    "Më falni, ku është stacioni?"
+   ],
+   [
+    "Kunt u dat herhalen?",
+    "A mund ta përsërisni?"
+   ],
+   [
+    "rechtdoor · links · rechts",
+    "drejt · majtas · djathtas"
+   ],
+   [
+    "de tweede straat links",
+    "rruga e dytë majtas"
+   ],
+   [
+    "te voet",
+    "në këmbë"
+   ]
+  ]
+ },
+ {
+  "id": "huisbaas",
+  "title": "Ngrohja nuk punon",
+  "place": "Telefonatë me pronarin e banesës",
+  "level": "A1–A2",
+  "role": "Ju jeni qiramarrës. Ngrohja në banesë nuk punon.",
+  "goal": "Shpjegoni problemin dhe caktoni një orë për teknikun.",
+  "turns": [
+   {
+    "npc": "Hallo, met Peeters.",
+    "npc_sq": "Alo, Peeters në telefon.",
+    "task": "Përshëndetni dhe prezantohuni: jeni qiramarrësi i banesës në katin e dytë.",
+    "hint": "Goeiedag, met … · van het appartement op de tweede verdieping",
+    "need": [
+     {
+      "any": [
+       "met",
+       "ik ben",
+       "hier is",
+       "ik heet"
+      ],
+      "sq": "kush jeni (Met … / Ik ben …)"
+     }
+    ],
+    "models": [
+     "Goeiedag meneer Peeters, met Arben, van het appartement op de tweede verdieping."
+    ],
+    "tip": "Në telefon prezantoheni me «met + emri»: «Met Arben»."
+   },
+   {
+    "npc": "Ah, dag Arben. Wat is er?",
+    "npc_sq": "Ah, tungjatjeta Arben. Çfarë ka ndodhur?",
+    "task": "Thoni që ngrohja nuk punon.",
+    "hint": "De verwarming … niet. / … is kapot.",
+    "need": [
+     {
+      "any": [
+       "verwarming",
+       "chauffage"
+      ],
+      "sq": "ngrohja (de verwarming)"
+     },
+     {
+      "any": [
+       "werkt niet",
+       "doet het niet",
+       "kapot",
+       "stuk",
+       "werkt al"
+      ],
+      "sq": "që nuk punon (werkt niet / is kapot)"
+     }
+    ],
+    "models": [
+     "De verwarming werkt niet.",
+     "De verwarming is kapot."
+    ],
+    "errors": [
+     {
+      "re": "^de verwarming niet werkt",
+      "msg": "Në fjalinë kryesore folja është në vendin e dytë: De verwarming werkt niet."
+     }
+    ],
+    "tip": "«Het doet het niet» = nuk punon (shumë e zakonshme). Në Belgjikë do të dëgjoni edhe «de chauffage» për ngrohjen."
+   },
+   {
+    "npc": "Oei. Sinds wanneer?",
+    "npc_sq": "Oh. Që kur?",
+    "task": "Thoni: që dje në mbrëmje.",
+    "hint": "Sinds …",
+    "need": [
+     {
+      "any": [
+       "gisteren",
+       "gisterenavond",
+       "gisteravond"
+      ],
+      "sq": "koha (sinds gisterenavond)"
+     }
+    ],
+    "models": [
+     "Sinds gisterenavond.",
+     "Sinds gisteravond."
+    ],
+    "tip": "«Gisterenavond» dëgjohet më shumë në Belgjikë, «gisteravond» në Holandë; të dyja janë të sakta."
+   },
+   {
+    "npc": "Ik bel de technieker. Kan hij morgen om tien uur langskomen?",
+    "npc_sq": "Do ta thërras teknikun. A mund të kalojë nesër në orën dhjetë?",
+    "task": "Thoni që në orën dhjetë punoni, dhe propozoni pasditen, pas orës dy.",
+    "hint": "Om tien uur kan ik niet, dan werk ik. Kan het in de namiddag?",
+    "need": [
+     {
+      "any": [
+       "niet",
+       "geen tijd",
+       "werk",
+       "moet werken"
+      ],
+      "sq": "që nuk mundeni (Dan kan ik niet / dan werk ik)"
+     },
+     {
+      "any": [
+       "namiddag",
+       "middag",
+       "na twee",
+       "twee uur",
+       "14",
+       "avond",
+       "later"
+      ],
+      "sq": "koha që propozoni (in de namiddag / na twee uur)"
+     }
+    ],
+    "models": [
+     "Om tien uur kan ik niet, dan werk ik. Kan het in de namiddag, na twee uur?"
+    ],
+    "errors": [
+     {
+      "re": "\\bom tien uur ik kan\\b",
+      "msg": "Kur fjalia fillon me kohën, folja vjen menjëherë pas saj: «Om tien uur kan ik niet»."
+     }
+    ],
+    "tip": "«De namiddag» (pasditja) është fjala e zakonshme në Belgjikë; «de technieker» = tekniku (në Holandë: de monteur)."
+   },
+   {
+    "npc": "Goed, morgen om half drie dan.",
+    "npc_sq": "Mirë, nesër në orën dy e gjysmë atëherë.",
+    "task": "Konfirmoni orën me fjalë (14:30) dhe falënderoni.",
+    "hint": "Goed, morgen om half … Dank u!",
+    "need": [
+     {
+      "any": [
+       "half drie",
+       "14.30",
+       "14:30",
+       "14u30",
+       "half 3"
+      ],
+      "sq": "ora (half drie)"
+     },
+     {
+      "any": [
+       "dank u",
+       "dank je",
+       "dankuwel",
+       "dankjewel",
+       "merci",
+       "bedankt"
+      ],
+      "sq": "falënderimi (Dank u / Merci)"
+     }
+    ],
+    "models": [
+     "Goed, morgen om half drie. Dank u wel!"
+    ],
+    "errors": [
+     {
+      "re": "\\bhalf vier\\b",
+      "msg": "«Half vier» = 3:30. Ora 14:30 është «half drie» – gjysmë ore para orës tre (Njësia 4)."
+     }
+    ],
+    "tip": "Kujdes: «half drie» = 2:30 (gjysmë ore para orës tre), jo 3:30."
+   }
+  ],
+  "phrases": [
+   [
+    "Met Arben.",
+    "Arbeni në telefon."
+   ],
+   [
+    "De verwarming werkt niet.",
+    "Ngrohja nuk punon."
+   ],
+   [
+    "Sinds gisterenavond.",
+    "Që dje në mbrëmje."
+   ],
+   [
+    "Kan het in de namiddag?",
+    "A bëhet pasdite?"
+   ],
+   [
+    "half drie",
+    "2:30"
+   ]
+  ]
+ },
+ {
+  "id": "dokter",
+  "title": "Te mjeku i familjes",
+  "place": "Telefonatë me ordinancën e mjekut (huisarts)",
+  "level": "A1–A2",
+  "role": "Jeni sëmurë dhe telefononi mjekun e familjes.",
+  "goal": "Kërkoni takim, përshkruani simptomat dhe jepni të dhënat tuaja.",
+  "turns": [
+   {
+    "npc": "Dokterspraktijk De Smet, goeiemorgen.",
+    "npc_sq": "Ordinanca e doktor De Smet, mirëmëngjes.",
+    "task": "Përshëndetni dhe kërkoni një takim.",
+    "hint": "Ik zou graag een afspraak maken.",
+    "need": [
+     {
+      "any": [
+       "afspraak"
+      ],
+      "sq": "takimi (een afspraak)"
+     }
+    ],
+    "polite": true,
+    "models": [
+     "Goeiemorgen, ik zou graag een afspraak maken.",
+     "Goeiemorgen, mag ik een afspraak maken, alstublieft?"
+    ],
+    "tip": "«Ik zou graag…» (do të doja…) është forma më e sjellshme për një kërkesë."
+   },
+   {
+    "npc": "Wat is het probleem?",
+    "npc_sq": "Cili është problemi?",
+    "task": "Thoni që keni dhimbje fyti dhe ethe.",
+    "hint": "Ik heb keelpijn en …",
+    "need": [
+     {
+      "any": [
+       "keelpijn",
+       "pijn aan mijn keel",
+       "pijn in mijn keel",
+       "zere keel"
+      ],
+      "sq": "dhimbja e fytit (keelpijn)"
+     },
+     {
+      "any": [
+       "koorts",
+       "temperatuur"
+      ],
+      "sq": "ethet (koorts)"
+     }
+    ],
+    "models": [
+     "Ik heb keelpijn en koorts."
+    ],
+    "errors": [
+     {
+      "re": "\\bik ben (keelpijn|koorts)",
+      "msg": "Dhimbjet dhe ethet «i kemi» edhe në holandisht: Ik heb keelpijn, ik heb koorts."
+     },
+     {
+      "re": "\\btemperatuur\\b",
+      "msg": "«Ik heb temperatuur» dëgjohet në gjuhën e folur, por më e qartë është «Ik heb koorts».",
+      "style": true
+     }
+    ],
+    "tip": "Pijn + pjesa e trupit: keelpijn (fyti), hoofdpijn (koka), buikpijn (barku), rugpijn (shpina)."
+   },
+   {
+    "npc": "Sinds wanneer hebt u dat?",
+    "npc_sq": "Që kur e keni këtë?",
+    "task": "Thoni: prej tri ditësh.",
+    "hint": "Sinds … / Al … dagen.",
+    "need": [
+     {
+      "any": [
+       "drie dagen",
+       "3 dagen"
+      ],
+      "sq": "sa kohë (drie dagen)"
+     }
+    ],
+    "models": [
+     "Sinds drie dagen.",
+     "Al drie dagen."
+    ]
+   },
+   {
+    "npc": "Kunt u vandaag om vier uur komen?",
+    "npc_sq": "A mund të vini sot në orën katër?",
+    "task": "Pranoni orën.",
+    "hint": "Ja, om vier uur is goed.",
+    "need": [
+     {
+      "any": [
+       "ja",
+       "goed",
+       "oké",
+       "ok",
+       "prima",
+       "perfect",
+       "dat is goed",
+       "dat past",
+       "zeker",
+       "graag",
+       "leuk",
+       "natuurlijk"
+      ],
+      "sq": "pranimi (Ja, dat is goed)"
+     }
+    ],
+    "models": [
+     "Ja, om vier uur is goed.",
+     "Ja, dat past. Om vier uur."
+    ]
+   },
+   {
+    "npc": "Wat is uw naam en uw geboortedatum?",
+    "npc_sq": "Si e keni emrin dhe datën e lindjes?",
+    "task": "Jepni emrin dhe datën e lindjes (p.sh. 3 maj 1990).",
+    "hint": "… , geboren op drie mei negentienhonderdnegentig.",
+    "need": [
+     {
+      "any": [
+       "januari",
+       "februari",
+       "maart",
+       "april",
+       "mei",
+       "juni",
+       "juli",
+       "augustus",
+       "september",
+       "oktober",
+       "november",
+       "december"
+      ],
+      "sq": "muaji (bv. mei)"
+     },
+     {
+      "re": "\\b(19|20)\\d\\d\\b|negentienhonderd|tweeduizend",
+      "sq": "viti (bv. 1990)"
+     }
+    ],
+    "models": [
+     "Arben Krasniqi, geboren op drie mei negentienhonderdnegentig.",
+     "Mijn naam is Arta Berisha. Ik ben geboren op 12 juli 1988."
+    ],
+    "tip": "Vitet thuhen me «honderd»: 1990 = negentienhonderdnegentig; 2001 = tweeduizend een."
+   },
+   {
+    "npc": "Dank u. Tot straks, om vier uur.",
+    "npc_sq": "Faleminderit. Shihemi më vonë, në orën katër.",
+    "task": "Falënderoni dhe përshëndetuni.",
+    "hint": "Dank u, tot straks!",
+    "need": [
+     {
+      "any": [
+       "dank u",
+       "dank je",
+       "dankuwel",
+       "dankjewel",
+       "merci",
+       "bedankt"
+      ],
+      "sq": "falënderimi (Dank u / Merci)"
+     }
+    ],
+    "models": [
+     "Dank u, tot straks!",
+     "Merci, tot straks!"
+    ]
+   }
+  ],
+  "phrases": [
+   [
+    "Ik zou graag een afspraak maken.",
+    "Do të doja të lija një takim."
+   ],
+   [
+    "Ik heb keelpijn en koorts.",
+    "Kam dhimbje fyti dhe ethe."
+   ],
+   [
+    "Sinds drie dagen.",
+    "Prej tri ditësh."
+   ],
+   [
+    "geboren op 3 mei 1990",
+    "i/e lindur më 3 maj 1990"
+   ],
+   [
+    "de huisarts",
+    "mjeku i familjes"
+   ]
+  ]
+ },
+ {
+  "id": "apotheek",
+  "title": "Në farmaci",
+  "place": "Farmaci (apotheek)",
+  "level": "A1–A2",
+  "role": "Keni një recetë nga mjeku.",
+  "goal": "Merrni ilaçin, kuptoni si merret dhe paguani.",
+  "turns": [
+   {
+    "npc": "Goeiedag, zeg het maar.",
+    "npc_sq": "Mirëdita, urdhëroni.",
+    "task": "Thoni që keni një recetë nga mjeku.",
+    "hint": "Ik heb een voorschrift van …",
+    "need": [
+     {
+      "any": [
+       "voorschrift",
+       "recept"
+      ],
+      "sq": "receta (een voorschrift)"
+     }
+    ],
+    "models": [
+     "Goeiedag, ik heb een voorschrift van de dokter."
+    ],
+    "tip": "Në Belgjikë receta quhet zakonisht «het voorschrift»; në Holandë «het recept»."
+   },
+   {
+    "npc": "Mag ik uw identiteitskaart, alstublieft?",
+    "npc_sq": "Ma jepni kartën e identitetit, ju lutem?",
+    "task": "Jepni kartën: «urdhëroni».",
+    "hint": "Alstublieft.",
+    "need": [
+     {
+      "any": [
+       "alstublieft",
+       "alsjeblieft",
+       "hier",
+       "asjeblief",
+       "asteblief",
+       "alsteblief"
+      ],
+      "sq": "«urdhëroni» (Alstublieft)"
+     }
+    ],
+    "models": [
+     "Alstublieft.",
+     "Ja, alstublieft."
+    ],
+    "tip": "Me recetat elektronike, farmacisti e lexon recetën përmes kartës së identitetit (eID)."
+   },
+   {
+    "npc": "Dank u. U neemt drie keer per dag een tablet, na het eten.",
+    "npc_sq": "Faleminderit. Merrni një tabletë tri herë në ditë, pas ngrënies.",
+    "task": "Kontrolloni: përsëritni sa herë dhe kur.",
+    "hint": "Drie keer per dag, …?",
+    "need": [
+     {
+      "any": [
+       "drie keer",
+       "3 keer",
+       "driemaal",
+       "3x"
+      ],
+      "sq": "sa herë (drie keer per dag)"
+     },
+     {
+      "any": [
+       "na het eten",
+       "na de maaltijd",
+       "na het eten",
+       "na eten"
+      ],
+      "sq": "kur (na het eten)"
+     }
+    ],
+    "models": [
+     "Drie keer per dag, na het eten?"
+    ]
+   },
+   {
+    "npc": "Juist. Hebt u nog vragen?",
+    "npc_sq": "Pikërisht. Keni pyetje të tjera?",
+    "task": "Pyesni sa kushton.",
+    "hint": "Hoeveel kost …? / Hoeveel moet ik betalen?",
+    "need": [
+     {
+      "any": [
+       "hoeveel",
+       "wat kost",
+       "kost",
+       "prijs"
+      ],
+      "sq": "pyetja për çmimin (Hoeveel kost het?)"
+     }
+    ],
+    "models": [
+     "Ja, hoeveel kost het?",
+     "Hoeveel moet ik betalen?"
+    ]
+   },
+   {
+    "npc": "Dat is vier euro vijftig. De rest betaalt uw ziekenfonds.",
+    "npc_sq": "Bëjnë katër euro e pesëdhjetë. Pjesën tjetër e paguan sigurimi juaj shëndetësor.",
+    "task": "Thoni që paguani me kartë, dhe falënderoni.",
+    "hint": "Ik betaal met de kaart. Dank u!",
+    "need": [
+     {
+      "any": [
+       "kaart",
+       "bancontact",
+       "betaal",
+       "cash",
+       "contant"
+      ],
+      "sq": "mënyra e pagesës"
+     },
+     {
+      "any": [
+       "dank u",
+       "dank je",
+       "dankuwel",
+       "dankjewel",
+       "merci",
+       "bedankt"
+      ],
+      "sq": "falënderimi (Dank u / Merci)"
+     }
+    ],
+    "models": [
+     "Ik betaal met de kaart. Dank u wel!"
+    ],
+    "tip": "«Het ziekenfonds» ose «de mutualiteit» është sigurimi shëndetësor në Belgjikë."
+   }
+  ],
+  "phrases": [
+   [
+    "het voorschrift",
+    "receta"
+   ],
+   [
+    "drie keer per dag",
+    "tri herë në ditë"
+   ],
+   [
+    "na het eten",
+    "pas ngrënies"
+   ],
+   [
+    "Hoeveel kost het?",
+    "Sa kushton?"
+   ],
+   [
+    "het ziekenfonds / de mutualiteit",
+    "sigurimi shëndetësor"
+   ]
+  ]
+ },
+ {
+  "id": "collega",
+  "title": "Dita e parë në punë",
+  "place": "Magazinë në port të Antwerpenit",
+  "level": "A1–A2",
+  "role": "Sot është dita juaj e parë në punë.",
+  "goal": "Njihuni me një koleg, flisni pak për veten dhe pranoni ftesën për drekë.",
+  "turns": [
+   {
+    "npc": "Hoi! Jij bent de nieuwe collega, toch? Ik ben Jens.",
+    "npc_sq": "Tung! Ti je kolegu i ri, apo jo? Unë jam Jens.",
+    "task": "Përshëndetni dhe prezantohuni.",
+    "hint": "Hoi Jens, ik ben …",
+    "need": [
+     {
+      "any": [
+       "ik ben",
+       "ik heet",
+       "mijn naam"
+      ],
+      "sq": "emri juaj"
+     }
+    ],
+    "models": [
+     "Hoi Jens, ik ben Arta. Ik begin vandaag in het magazijn.",
+     "Ja, ik ben Arben. Aangenaam!"
+    ],
+    "tip": "Në punë kolegët zakonisht flasin me «jij / je», jo me «u»."
+   },
+   {
+    "npc": "Welkom! Hoe lang woon je al in België?",
+    "npc_sq": "Mirë se erdhe! Sa kohë ke që banon në Belgjikë?",
+    "task": "Thoni: prej tre vjetësh.",
+    "hint": "Ik woon al … in België.",
+    "need": [
+     {
+      "any": [
+       "drie jaar",
+       "3 jaar"
+      ],
+      "sq": "sa kohë (drie jaar)"
+     }
+    ],
+    "models": [
+     "Ik woon al drie jaar in België.",
+     "Al drie jaar."
+    ],
+    "errors": [
+     {
+      "re": "\\bik woonde (hier|in belgie|in belgië) (al )?",
+      "msg": "Për diçka që vazhdon ende përdoret koha e tashme: Ik woon hier al …"
+     },
+     {
+      "re": "\\bik heb (hier|in belgie|in belgië)? ?(\\w+ )?(jaar|weken|maanden) (hier |in belgie |in belgië )?gewoond",
+      "msg": "«Ik heb … gewoond» do të thotë që nuk banoni më atje. Për diçka që vazhdon: Ik woon hier al …"
+     }
+    ]
+   },
+   {
+    "npc": "Je Nederlands is al goed! Waar heb je het geleerd?",
+    "npc_sq": "Holandishtja jote është tashmë e mirë! Ku e ke mësuar?",
+    "task": "Falënderoni dhe thoni që ndiqni një kurs në mbrëmje.",
+    "hint": "Dank je! Ik volg een cursus … ",
+    "need": [
+     {
+      "any": [
+       "cursus",
+       "school",
+       "avondschool",
+       "les",
+       "lessen",
+       "cvo"
+      ],
+      "sq": "ku mësoni (een cursus / de avondschool)"
+     }
+    ],
+    "models": [
+     "Dank je! Ik volg een cursus Nederlands in de avondschool.",
+     "Merci! Ik leer het op een cursus, 's avonds."
+    ],
+    "tip": "Në Flandër kurset e holandishtes për të rritur jepen shpesh në një CVO (Centrum voor Volwassenenonderwijs). Regjistrimi bëhet zakonisht përmes «Huis van het Nederlands»."
+   },
+   {
+    "npc": "Super. We pauzeren om twaalf uur. Ga je mee naar de refter?",
+    "npc_sq": "Shkëlqyeshëm. Ne bëjmë pushim në orën dymbëdhjetë. Vjen me ne në mensë?",
+    "task": "Pranoni me kënaqësi.",
+    "hint": "Ja, graag! / Ja, leuk!",
+    "need": [
+     {
+      "any": [
+       "ja",
+       "goed",
+       "oké",
+       "ok",
+       "prima",
+       "perfect",
+       "dat is goed",
+       "dat past",
+       "zeker",
+       "graag",
+       "leuk",
+       "natuurlijk"
+      ],
+      "sq": "pranimi (Ja, dat is goed)"
+     }
+    ],
+    "models": [
+     "Ja, graag!",
+     "Ja, leuk, ik ga mee."
+    ],
+    "tip": "«De refter» = mensa (Belgjikë); në Holandë «de kantine»."
+   },
+   {
+    "npc": "Oké, tot straks dan!",
+    "npc_sq": "Mirë, shihemi më vonë atëherë!",
+    "task": "Përshëndetuni.",
+    "hint": "Tot straks!",
+    "need": [
+     {
+      "any": [
+       "dag",
+       "daag",
+       "tot ziens",
+       "salut",
+       "tot straks",
+       "tot later",
+       "goeiedag",
+       "nog een fijne dag",
+       "nog een prettige dag",
+       "tot seffens",
+       "tot dan",
+       "tot zo",
+       "u ook",
+       "jij ook",
+       "insgelijks"
+      ],
+      "sq": "përshëndetja (Dag! / Tot ziens!)"
+     }
+    ],
+    "models": [
+     "Tot straks!",
+     "Oké, tot seffens!"
+    ],
+    "tip": "«Tot seffens» = shihemi së shpejti (Flandër, gjuhë e folur)."
+   }
+  ],
+  "phrases": [
+   [
+    "Ik begin vandaag.",
+    "Filloj sot."
+   ],
+   [
+    "Ik woon al drie jaar in België.",
+    "Banoj prej tre vjetësh në Belgjikë."
+   ],
+   [
+    "Ik volg een cursus Nederlands.",
+    "Ndjek një kurs holandishteje."
+   ],
+   [
+    "Ga je mee?",
+    "Vjen me ne?"
+   ],
+   [
+    "Tot straks!",
+    "Shihemi më vonë!"
+   ]
+  ]
+ },
+ {
+  "id": "gemeente",
+  "title": "Në zyrën e komunës",
+  "place": "Sporteli i shërbimit të popullsisë",
+  "level": "A2",
+  "role": "Jeni transferuar në një adresë të re.",
+  "goal": "Regjistroni adresën e re dhe kuptoni çfarë ndodh pastaj.",
+  "turns": [
+   {
+    "npc": "Goeiemorgen. Waarmee kan ik u helpen?",
+    "npc_sq": "Mirëmëngjes. Si mund t'ju ndihmoj?",
+    "task": "Thoni që doni të regjistroni adresën tuaj të re.",
+    "hint": "Ik wil me graag inschrijven op … / Ik kom voor een adreswijziging.",
+    "need": [
+     {
+      "any": [
+       "inschrijven",
+       "inschrijving",
+       "registreren",
+       "adres",
+       "adreswijziging",
+       "verhuisd",
+       "verhuizing"
+      ],
+      "sq": "qëllimi (inschrijven / adreswijziging)"
+     }
+    ],
+    "polite": true,
+    "models": [
+     "Goeiemorgen, ik wil me graag inschrijven op mijn nieuwe adres.",
+     "Goeiemorgen, ik kom voor een adreswijziging."
+    ],
+    "tip": "Kur ndërroni adresë në Belgjikë, duhet ta njoftoni komunën e re brenda 8 ditëve pune."
+   },
+   {
+    "npc": "Hebt u uw identiteitskaart of verblijfskaart bij?",
+    "npc_sq": "A e keni me vete kartën e identitetit ose kartën e qëndrimit?",
+    "task": "Thoni po dhe jepeni.",
+    "hint": "Ja, alstublieft.",
+    "need": [
+     {
+      "any": [
+       "ja",
+       "alstublieft",
+       "hier"
+      ],
+      "sq": "përgjigja (Ja, alstublieft)"
+     }
+    ],
+    "models": [
+     "Ja, alstublieft."
+    ]
+   },
+   {
+    "npc": "Wat is uw nieuwe adres?",
+    "npc_sq": "Cila është adresa juaj e re?",
+    "task": "Jepni adresën: Kerkstraat 15, 2060 Antwerpen.",
+    "hint": "Kerkstraat vijftien, …",
+    "need": [
+     {
+      "any": [
+       "kerkstraat"
+      ],
+      "sq": "rruga (Kerkstraat)"
+     },
+     {
+      "any": [
+       "15",
+       "vijftien"
+      ],
+      "sq": "numri (15)"
+     }
+    ],
+    "models": [
+     "Kerkstraat 15, 2060 Antwerpen.",
+     "Mijn adres is Kerkstraat vijftien, 2060 Antwerpen."
+    ],
+    "tip": "Në Belgjikë numri i shtëpisë shkruhet pas emrit të rrugës, dhe kodi postar para qytetit."
+   },
+   {
+    "npc": "Dank u. De wijkagent komt de komende weken langs om te controleren of u daar echt woont.",
+    "npc_sq": "Faleminderit. Polici i lagjes do të kalojë në javët e ardhshme për të kontrolluar që banoni vërtet atje.",
+    "task": "Pyesni nëse duhet të jeni në shtëpi.",
+    "hint": "Moet ik dan … zijn?",
+    "need": [
+     {
+      "any": [
+       "thuis"
+      ],
+      "sq": "«në shtëpi» (thuis)"
+     },
+     {
+      "any": [
+       "moet ik",
+       "ik moet"
+      ],
+      "sq": "«a duhet…» (Moet ik …?)"
+     }
+    ],
+    "models": [
+     "Moet ik dan thuis zijn?",
+     "Moet ik thuis zijn als hij komt?"
+    ],
+    "errors": [
+     {
+      "re": "\\bmoet ik zijn thuis\\b",
+      "msg": "Paskajorja shkon në fund: «Moet ik thuis zijn?»"
+     }
+    ],
+    "tip": "Pas regjistrimit, «de wijkagent» (polici i lagjes) zakonisht vjen të kontrollojë adresën."
+   },
+   {
+    "npc": "Liefst wel. Als u er niet bent, laat hij een briefje achter.",
+    "npc_sq": "Më mirë po. Nëse nuk jeni, ai lë një shënim.",
+    "task": "Thoni që e kuptuat, falënderoni dhe përshëndetuni.",
+    "hint": "Oké, dank u wel. Tot ziens!",
+    "need": [
+     {
+      "any": [
+       "dank u",
+       "dank je",
+       "dankuwel",
+       "dankjewel",
+       "merci",
+       "bedankt"
+      ],
+      "sq": "falënderimi (Dank u / Merci)"
+     }
+    ],
+    "models": [
+     "Oké, dank u wel. Tot ziens!"
+    ]
+   }
+  ],
+  "phrases": [
+   [
+    "Ik kom voor een adreswijziging.",
+    "Kam ardhur për ndërrim adrese."
+   ],
+   [
+    "de verblijfskaart",
+    "karta e qëndrimit"
+   ],
+   [
+    "de wijkagent",
+    "polici i lagjes"
+   ],
+   [
+    "Moet ik thuis zijn?",
+    "A duhet të jem në shtëpi?"
+   ],
+   [
+    "het loket",
+    "sporteli"
+   ]
+  ]
+ },
+ {
+  "id": "sollicitatie",
+  "title": "Intervista për punë",
+  "place": "Firmë transporti në Antwerpen",
+  "level": "A2",
+  "role": "Aplikoni për punë si shofer.",
+  "goal": "Prezantohuni, tregoni përvojën, jepni një arsye dhe bëni një pyetje.",
+  "turns": [
+   {
+    "npc": "Goeiemiddag, neem plaats. Kunt u zich even kort voorstellen?",
+    "npc_sq": "Mirëdita, uluni. A mund të prezantoheni shkurt?",
+    "task": "Prezantohuni: emri, mosha dhe nga vini.",
+    "hint": "Ik ben … · Ik ben … jaar. · Ik kom uit …",
+    "need": [
+     {
+      "any": [
+       "ik ben",
+       "ik heet",
+       "mijn naam"
+      ],
+      "sq": "emri"
+     },
+     {
+      "any": [
+       "jaar"
+      ],
+      "sq": "mosha (… jaar)"
+     },
+     {
+      "any": [
+       "uit"
+      ],
+      "sq": "origjina (Ik kom uit …)"
+     }
+    ],
+    "models": [
+     "Ik ben Arben Krasniqi. Ik ben vierendertig jaar en ik kom uit Kosovo."
+    ],
+    "tip": "Mosha thuhet me «zijn»: Ik ben 34 jaar (jo «ik heb»)."
+   },
+   {
+    "npc": "Welke ervaring hebt u?",
+    "npc_sq": "Çfarë përvoje keni?",
+    "task": "Thoni që keni punuar pesë vjet si shofer në Kosovë.",
+    "hint": "Ik heb … jaar als … gewerkt.",
+    "need": [
+     {
+      "any": [
+       "gewerkt",
+       "werkte",
+       "ben",
+       "was"
+      ],
+      "sq": "folja (ik heb … gewerkt)"
+     },
+     {
+      "any": [
+       "chauffeur",
+       "vrachtwagenchauffeur",
+       "bestuurder",
+       "buschauffeur"
+      ],
+      "sq": "profesioni (als chauffeur)"
+     },
+     {
+      "any": [
+       "vijf jaar",
+       "5 jaar"
+      ],
+      "sq": "sa kohë (vijf jaar)"
+     }
+    ],
+    "models": [
+     "Ik heb vijf jaar als chauffeur gewerkt in Kosovo.",
+     "In Kosovo heb ik vijf jaar als chauffeur gewerkt."
+    ],
+    "errors": [
+     {
+      "re": "\\bik heb gewerkt\\b(?!\\.?$)",
+      "msg": "Pjesorja shkon në fund të fjalisë: Ik heb vijf jaar als chauffeur gewerkt."
+     }
+    ],
+    "tip": "«als» = si (për profesionin): als chauffeur, als kok, als poetsvrouw."
+   },
+   {
+    "npc": "Hebt u een rijbewijs C?",
+    "npc_sq": "A keni patentë të kategorisë C?",
+    "task": "Thoni po, dhe që e keni prej dhjetë vjetësh.",
+    "hint": "Ja, ik heb het al … jaar.",
+    "need": [
+     {
+      "any": [
+       "ja"
+      ],
+      "sq": "«po»"
+     },
+     {
+      "any": [
+       "tien jaar",
+       "10 jaar"
+      ],
+      "sq": "sa kohë (tien jaar)"
+     }
+    ],
+    "models": [
+     "Ja, ik heb mijn rijbewijs C al tien jaar.",
+     "Ja, al tien jaar."
+    ]
+   },
+   {
+    "npc": "Waarom wilt u bij ons werken?",
+    "npc_sq": "Pse doni të punoni te ne?",
+    "task": "Jepni një arsye me «omdat» ose «want».",
+    "hint": "… omdat ik graag … werk. / … want het bedrijf is …",
+    "need": [
+     {
+      "any": [
+       "omdat",
+       "want"
+      ],
+      "sq": "lidhëza e shkakut (omdat / want)"
+     }
+    ],
+    "models": [
+     "Omdat ik graag met mensen werk.",
+     "Ik wil hier werken omdat het bedrijf dicht bij mijn huis is.",
+     "Want ik rijd graag en het bedrijf heeft een goede naam."
+    ],
+    "errors": [
+     {
+      "re": "\\bomdat (ik|het|het bedrijf|u|jullie|we|wij) (werk|wil|ben|heb|woon|vind|hou|kan|is|rijd|heeft) [a-z]",
+      "msg": "Pas «omdat» folja shkon në fund: «… omdat ik graag met mensen werk». Me «want» rendi mbetet normal: «want ik werk graag met mensen»."
+     }
+    ],
+    "tip": "«Omdat» e çon foljen në fund; «want» jo (Njësia 15)."
+   },
+   {
+    "npc": "Dank u. Hebt u zelf nog vragen?",
+    "npc_sq": "Faleminderit. Keni ju vetë ndonjë pyetje?",
+    "task": "Pyesni për orarin e punës.",
+    "hint": "Wat zijn de werkuren? / Hoe ziet het uurrooster eruit?",
+    "need": [
+     {
+      "any": [
+       "uren",
+       "uurrooster",
+       "werkuren",
+       "uur",
+       "wanneer",
+       "rooster",
+       "shift",
+       "ploegen",
+       "werktijden"
+      ],
+      "sq": "pyetja për orarin (de werkuren / het uurrooster)"
+     }
+    ],
+    "models": [
+     "Ja, wat zijn de werkuren?",
+     "Hoe ziet het uurrooster eruit?"
+    ],
+    "tip": "«Het uurrooster» = orari (Belgjikë); në Holandë «het rooster»."
+   },
+   {
+    "npc": "We werken van zeven tot half vier. We bellen u volgende week. Bedankt voor uw komst.",
+    "npc_sq": "Punojmë nga ora shtatë deri në tre e gjysmë. Do t'ju telefonojmë javën që vjen. Faleminderit që erdhët.",
+    "task": "Falënderoni për bisedën dhe përshëndetuni me mirësjellje.",
+    "hint": "Dank u wel voor het gesprek. Tot ziens!",
+    "need": [
+     {
+      "any": [
+       "dank u",
+       "dank je",
+       "dankuwel",
+       "dankjewel",
+       "merci",
+       "bedankt"
+      ],
+      "sq": "falënderimi (Dank u / Merci)"
+     }
+    ],
+    "models": [
+     "Dank u wel voor het gesprek. Tot ziens!"
+    ]
+   }
+  ],
+  "phrases": [
+   [
+    "Kunt u zich even voorstellen?",
+    "A mund të prezantoheni?"
+   ],
+   [
+    "Ik heb vijf jaar als chauffeur gewerkt.",
+    "Kam punuar pesë vjet si shofer."
+   ],
+   [
+    "het rijbewijs",
+    "patenta"
+   ],
+   [
+    "omdat … (folja në fund)",
+    "sepse …"
+   ],
+   [
+    "de werkuren",
+    "orari i punës"
+   ]
+  ]
+ },
+ {
+  "id": "klas",
+  "title": "Në klasë: nuk e kuptova",
+  "place": "Kursi i holandishtes",
+  "level": "A1",
+  "role": "Jeni në kursin e holandishtes.",
+  "goal": "Kërkoni përsëritje, pyesni çfarë do të thotë një fjalë dhe si shkruhet.",
+  "turns": [
+   {
+    "npc": "Goed, maak nu oefening drie op pagina twaalf.",
+    "npc_sq": "Mirë, tani bëni ushtrimin tre në faqen dymbëdhjetë.",
+    "task": "Nuk e kuptuat. Kërkoni që ta përsërisë.",
+    "hint": "Sorry, kunt u dat herhalen?",
+    "need": [
+     {
+      "any": [
+       "herhalen",
+       "nog eens",
+       "nog een keer",
+       "opnieuw",
+       "trager",
+       "langzamer",
+       "wablieft",
+       "pardon"
+      ],
+      "sq": "kërkesa për përsëritje (Kunt u dat herhalen?)"
+     }
+    ],
+    "polite": true,
+    "models": [
+     "Sorry, kunt u dat herhalen, alstublieft?",
+     "Pardon, kunt u dat nog eens zeggen?"
+    ]
+   },
+   {
+    "npc": "Oefening drie, op pagina twaalf.",
+    "npc_sq": "Ushtrimi tre, në faqen dymbëdhjetë.",
+    "task": "Pyesni çfarë do të thotë fjala «oefening».",
+    "hint": "Wat betekent …?",
+    "need": [
+     {
+      "re": "\\bbetekent\\b|\\bwil\\b.*\\bzeggen\\b|\\bwat is\\b",
+      "sq": "pyetja (Wat betekent …?)"
+     },
+     {
+      "any": [
+       "oefening"
+      ],
+      "sq": "fjala (oefening)"
+     }
+    ],
+    "models": [
+     "Wat betekent «oefening»?",
+     "Wat wil «oefening» zeggen?"
+    ]
+   },
+   {
+    "npc": "Een oefening is een opdracht, zoals in het boek. Begrijp je het nu?",
+    "npc_sq": "Një «oefening» është një detyrë, si ato në libër. E kupton tani?",
+    "task": "Thoni po, dhe pyesni si shkruhet «opdracht».",
+    "hint": "Ja, nu begrijp ik het. Hoe schrijf je …?",
+    "need": [
+     {
+      "any": [
+       "ja",
+       "ik begrijp",
+       "nu wel",
+       "oké",
+       "ok"
+      ],
+      "sq": "që e kuptuat (Ja, nu begrijp ik het)"
+     },
+     {
+      "any": [
+       "schrijf",
+       "spel",
+       "spelt",
+       "schrijven",
+       "schrijft"
+      ],
+      "sq": "pyetja (Hoe schrijf je …?)"
+     }
+    ],
+    "models": [
+     "Ja, nu begrijp ik het. Hoe schrijf je «opdracht»?"
+    ],
+    "errors": [
+     {
+      "re": "\\bnu ik begrijp\\b",
+      "msg": "Kur fjalia fillon me «nu», folja vjen menjëherë pas: «Nu begrijp ik het»."
+     }
+    ]
+   },
+   {
+    "npc": "O-P-D-R-A-C-H-T. Opdracht.",
+    "npc_sq": "O-P-D-R-A-C-H-T.",
+    "task": "Falënderoni.",
+    "hint": "Dank u!",
+    "need": [
+     {
+      "any": [
+       "dank u",
+       "dank je",
+       "dankuwel",
+       "dankjewel",
+       "merci",
+       "bedankt"
+      ],
+      "sq": "falënderimi (Dank u / Merci)"
+     }
+    ],
+    "models": [
+     "Dank u!",
+     "Dank u wel!"
+    ]
+   }
+  ],
+  "phrases": [
+   [
+    "Kunt u dat herhalen?",
+    "A mund ta përsërisni?"
+   ],
+   [
+    "Wat betekent …?",
+    "Çfarë do të thotë …?"
+   ],
+   [
+    "Hoe schrijf je dat?",
+    "Si shkruhet?"
+   ],
+   [
+    "Ik begrijp het niet.",
+    "Nuk e kuptoj."
+   ],
+   [
+    "Kunt u wat trager spreken?",
+    "A mund të flisni pak më ngadalë?"
+   ]
+  ]
+ }
+]
