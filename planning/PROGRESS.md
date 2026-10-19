@@ -39,7 +39,6 @@ Last updated: 2026-10-19 · branch `platform-v2`
 - [x] Plurals for 101 nouns, Belgian usage notes; 69-verb reference with drill
 - [x] Object pronouns lesson → Unit 8, lesson 4 + exercises I, J
 - [x] Adjective endings lesson → Unit 13, lesson 4 + exercises H, I (validator: *groot → grote* = ending, *dike → dikke* = spelling)
-- [ ] PDFs in `pdf/` predate these two lessons and the modules: rebuild with `python3 tools/make.py book units` (needs `pdfplumber`)
 - [ ] Indirect questions, relative clauses (P2)
 - [ ] Localise Netherlands-only examples in U2–U25 (P3)
 
@@ -57,10 +56,11 @@ Last updated: 2026-10-19 · branch `platform-v2`
 - [ ] Merge `platform-v2` into `main` (GitHub Pages deploys from `main:/docs`)
 
 ## Next steps (in order)
-1. Rebuild the PDFs.
-2. Real-device test of speech voices; record a native Flemish speaker for Hapi 0 if possible.
-3. Indirect questions and relative clauses (A2/B1).
-4. Banking and family/hobby conversation scenarios.
+1. Real-device test of speech voices; record a native Flemish speaker for Hapi 0 if possible.
+2. Indirect questions and relative clauses (A2/B1).
+3. Banking and family/hobby conversation scenarios.
+
+Not planned: rebuilding the PDF book in `pdf/` (it predates the platform work; the website does not use it).
 
 ## Commits on `platform-v2`
 - e1a21ba docs(planning): audit and roadmap
