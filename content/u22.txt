@@ -30,8 +30,8 @@ Shembull me foljen **opbellen** (telefonoj):
 @end
 
 @box (0.99, 0.93, 0.92)
-  **Dy përjashtime: parashtesa ndahet edhe në paskajore**
-  1. Tipi III me modal: *Ik weet dat ik hem morgen **op** moet **bellen**.* (E di që duhet ta telefonoj nesër.)
+  **Dy raste kur parashtesa ndahet edhe në paskajore**
+  1. Tipi III me modal – këtu ndarja është e mundshme, jo e detyrueshme: *Ik weet dat ik hem morgen **op** moet **bellen**.* ose *… dat ik hem morgen moet **opbellen**.* (E di që duhet ta telefonoj nesër.) Të dyja janë të sakta.
   2. Me **om … te**: *Ik ben van plan om hem morgen **op te bellen**.* (Kam ndër mend ta telefonoj nesër.)
 @end
 @lesson Foljet vetvetore
