@@ -26,6 +26,7 @@ class Ex:
     def __init__(self, uid, letter):
         self.uid = uid; self.letter = letter
         self.slots = []   # (slot_id, kind, ref)  kind: num|seq|pair
+        self.texts = {}   # slot_id -> item text with ______ blanks
         self.seq = 0
     def sid(self):
         return f'{self.uid}-{self.letter}-{len(self.slots)}'
@@ -37,6 +38,7 @@ def blanks_to_inputs(text, ex, ref, kind):
         return None
     sid = ex.sid()
     ex.slots.append((sid, kind, ref))
+    ex.texts[sid] = text
     out = inline(parts[0])
     for k, p in enumerate(parts[1:]):
         out += f'<input class="bl" type="text" autocomplete="off" spellcheck="false" id="{sid}-{k}" data-slot="{sid}" aria-label="Përgjigjja {html.escape(str(ref))}">' + inline(p)
@@ -137,6 +139,24 @@ def render_ex_items(blocks, i, ex, out):
         out.append(f'<h4 class="ssh">{inline(b[1])}</h4>'); return i + 1
     return i + 1
 
+def _nrm(t):
+    t = plain(t).lower().replace('’', "'")
+    t = re.sub(r'[«»"“”.,!?;:()…–—]', ' ', t)
+    return re.sub(r'\s+', ' ', t).strip()
+
+def blank_part(text, ans):
+    """Keys often repeat the whole item ("de man" for "______ man"); keep only what goes in the blanks."""
+    if not text:
+        return ans
+    item = re.sub(r'\([^)]*\)', ' ', text)          # drop hints like (drinken)
+    segs = [_nrm(x) for x in re.split(r'_{3,}', item)]
+    out = []
+    for alt in ans.split(' / '):
+        pat = r'\s*(.+?)\s*'.join(re.escape(x) for x in segs)
+        m = re.fullmatch(pat, _nrm(alt))
+        out.append(' '.join(m.groups()) if m and all(g.strip() for g in m.groups()) else alt)
+    return ' / '.join(out)
+
 def answers_for(ex, keytext):
     """Return dict slot_id -> list of acceptable answers (raw strings)."""
     res = {}
@@ -151,7 +171,7 @@ def answers_for(ex, keytext):
     seq = [x.strip() for x in keytext.split(' • ')]
     for sid, kind, ref in ex.slots:
         if kind == 'num' and str(ref) in num:
-            res[sid] = num[str(ref)]
+            res[sid] = blank_part(ex.texts.get(sid), num[str(ref)])
         elif kind == 'pair' and ref.lower() in pairs:
             res[sid] = pairs[ref.lower()]
         elif kind == 'pair' and '___' in ref:
