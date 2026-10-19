@@ -60,6 +60,15 @@ export function speakButton(text, label = 'Dëgjo') {
   return `<button type="button" class="say" data-say="${text.replace(/"/g, '&quot;')}" aria-label="${label}: ${text.replace(/"/g, '&quot;')}" title="${label}">${icon('speaker')}</button>`;
 }
 
+// Only the Dutch part of a cell is spoken. "goed (mirë), groot (i madh)": the Dutch words are bold and
+// the Albanian glosses are in brackets, so read the bold words; otherwise drop brackets and "– translation".
+export function dutchOf(cell) {
+  const full = cell.textContent.replace(/\s+/g, ' ').trim();
+  const bold = [...cell.querySelectorAll('b')].map(b => b.textContent.trim()).filter(Boolean);
+  if (bold.length && /\(/.test(full)) return bold.join(', ');
+  return full.replace(/\s*\([^)]*\)/g, '').replace(/\s+[–—]\s+.*$/, '').trim();
+}
+
 let wired = false;
 // Speaker buttons next to the Dutch column of example tables in the lessons.
 export function addSpeakButtons(root, ctx) {
@@ -77,9 +86,10 @@ export function addSpeakButtons(root, ctx) {
     if (col < 0) return;
     $$('tbody tr', t).forEach(tr => {
       const td = tr.children[col];
-      const txt = td?.textContent.trim();
-      if (!txt || txt === '—' || td.querySelector('.say')) return;
-      td.insertAdjacentHTML('afterbegin', speakButton(txt.replace(/\s*–\s*.*$/, '')));
+      if (!td || td.querySelector('.say')) return;
+      const txt = dutchOf(td);
+      if (!txt || txt === '—') return;
+      td.insertAdjacentHTML('afterbegin', speakButton(txt));
     });
   });
 }
