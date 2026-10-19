@@ -1,6 +1,6 @@
 # Mësojmë holandisht · Gramatika A1–A2
 
-Kurs i gramatikës holandeze për nxënës shqipfolës: **5 pjesë, 25 njësi, 72 mësime**, me shpjegime në shqip, krahasime me shqipen, ushtrime, zgjidhje dhe fjalor.
+Kurs i gramatikës holandeze për nxënës shqipfolës: **5 pjesë, 25 njësi, 73 mësime**, me shpjegime në shqip, krahasime me shqipen, ushtrime, zgjidhje dhe fjalor.
 
 ## Përmbajtja e repo-s
 

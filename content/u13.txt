@@ -124,6 +124,99 @@ Në shqip mohojmë foljen («nuk kam para»). Në holandisht shpesh mohojmë **e
   **Formulë e shkurtër**
   Fjalia e thjeshtë: **niet në fund** • Mbiemër: **niet para tij** • Folja e fundit: **niet para saj** • Emër me *een* ose pa nyje: **geen**.
 @end
+@lesson Ushqimi dhe pijet: eten, drinken, geen dhe niet
+Në këtë mësim mësojmë dy folje që i përdorim çdo ditë – **drinken** (pi) dhe **eten** (ha) – dhe fjalët më të shpeshta për ushqimin dhe pijet. Pastaj i mohojmë me **geen** dhe **niet**.
+
+@h2 Folja «drinken» – pi
+**Drinken** zgjedhohet rregullisht: rrënja **drink** + mbaresat e zakonshme.
+
+@table
+| Përemri | Koha e tashme | Shembull |
+| ik | **drink** | Ik drink water. |
+| jij / u | **drinkt** | Jij drinkt koffie. |
+| hij / zij / het | **drinkt** | Zij drinkt thee. |
+| wij | **drinken** | Wij drinken melk. |
+| jullie | **drinken** | Jullie drinken sap. |
+| zij (ata / ato) | **drinken** | Zij drinken water. |
+@end
+
+@h2 Folja «eten» – ha
+Edhe **eten** në kohën e tashme zgjedhohet **rregullisht**. Vetëm drejtshkrimi ndryshon:
+
+@table
+| Përemri | Koha e tashme | Shembull |
+| ik | **eet** | Ik eet brood. |
+| jij / u | **eet** | Jij eet een appel. |
+| hij / zij / het | **eet** | Hij eet vis. |
+| wij | **eten** | Wij eten soep. |
+| jullie | **eten** | Jullie eten fruit. |
+| zij (ata / ato) | **eten** | Zij eten rijst. |
+@end
+
+@box (0.91, 0.94, 0.98)
+  **Pse «eet» me dy e?** *Eten* ka zanore të gjatë **ee**. Rrënja shkruhet **eet** që zanorja të mbetet e gjatë – njësoj si *heten → ik heet* (Mësimi {L:1.4}).
+  **Pse «jij eet», jo «jij eett»?** Rrënja mbaron tashmë me **-t**, prandaj nuk shtojmë një -t tjetër: *jij eet, hij eet*.
+@end
+@box (1.0, 0.96, 0.9)
+  **Në pyetje** *jij* pas foljes e humbet -t (Njësia {U:3}): *Jij drinkt melk.* → **Drink jij melk?** Te *eten* nuk ndryshon asgjë: **Eet jij vlees?**
+  *Eten* është e parregullt vetëm në kohën e shkuar: *at – gegeten* (Njësia {U:17}).
+@end
+@h2 Fjalorth: ushqimi dhe pijet
+@table
+| Holandisht | Shqip |
+| **de appel** | molla |
+| **de banaan** | banania |
+| **het brood** | buka |
+| **de kaas** | djathi |
+| **het ei** | veza |
+| **het vlees** | mishi |
+| **de vis** | peshku |
+| **de soep** | supa |
+| **de rijst** | orizi |
+| **de groente** | perimet |
+| **het fruit** | frutat |
+| **het water** | uji |
+| **de melk** | qumështi |
+| **de koffie** | kafeja |
+| **de thee** | çaji |
+| **het sap** | lëngu (frutash) |
+| **de suiker** | sheqeri |
+| **het glas** | gota |
+| **de keuken** | kuzhina |
+| **koud** | i ftohtë |
+| **warm** | i ngrohtë |
+| **lekker** | i shijshëm |
+@end
+
+@h2 «geen» me ushqimin dhe pijet
+Kur emri ka **een** ose **nuk ka nyje** (*melk, water, brood*), e mohojmë me **geen** (rregulli 6):
+
+@table
+| Fjalia pohore | Fjalia mohore | Shqip |
+| Ik eet **een** appel. | Ik eet **geen** appel. | Nuk ha mollë. |
+| Zij drinkt melk. | Zij drinkt **geen** melk. | Ajo nuk pi qumësht. |
+| Ik drink thee. | Ik drink **geen** thee. | Nuk pi çaj. |
+| Wij eten vlees. | Wij eten **geen** vlees. | Ne nuk hamë mish. |
+@end
+
+@box (0.99, 0.93, 0.92)
+  **Dallim nga shqipja:** në shqip mohojmë foljen: «**nuk** pi qumësht». Në holandisht mohojmë emrin: *Ik drink **geen** melk.* Gabim: *Ik drink niet melk.*
+@end
+@h2 «niet» me ushqimin dhe pijet
+**Niet** përdoret për foljen, mbiemrin, vendin ose një emër të caktuar (*de, het, die, mijn*):
+
+@table
+| Fjalia pohore | Fjalia mohore | Shqip |
+| Ik eet in de keuken. | Ik eet **niet** in de keuken. | Nuk ha në kuzhinë. |
+| Dit water is koud. | Dit water is **niet** koud. | Ky ujë nuk është i ftohtë. |
+| Ik eet die appel. | Ik eet die appel **niet**. | Atë mollë nuk e ha. |
+| Hij drinkt de koffie. | Hij drinkt de koffie **niet**. | Ai nuk e pi kafenë. |
+@end
+
+@box (0.95, 0.96, 0.98)
+  **Formulë e shkurtër**
+  **geen** + emër pa nyje ose me *een*: *Ik drink geen thee.* • **niet** para mbiemrit: *niet koud* • **niet** para vendit: *niet in de keuken* • **niet** në fund pas emrit të caktuar: *Ik eet die appel niet.*
+@end
 @practice Ushtrime
 @h2 A. Shtoni «niet» (rregullat 1 dhe 2)
 1. Ik weet het.
@@ -244,6 +337,48 @@ Në shqip mohojmë foljen («nuk kam para»). Në holandisht shpesh mohojmë **e
 
 8. Ai nuk është student.
 
+@h2 H. Plotësoni me formën e duhur të foljes
+1. Ik ______ water. (drinken)
+
+2. Jij ______ een appel. (eten)
+
+3. Hij ______ koffie. (drinken)
+
+4. Wij ______ brood. (eten)
+
+5. Zij (ajo) ______ thee. (drinken)
+
+6. Jullie ______ in de keuken. (eten)
+
+7. ______ jij melk? (drinken)
+
+8. Het kind ______ een banaan. (eten)
+
+9. Zij (ata) ______ sap. (drinken)
+
+10. ______ jij vlees? (eten)
+
+@h2 I. Mohoni fjalinë me «geen» ose «niet»
+1. Ik eet een appel.
+
+2. Zij drinkt melk.
+
+3. Ik eet in de keuken.
+
+4. Dit water is koud.
+
+5. Hij drinkt koffie.
+
+6. Ik eet die appel.
+
+7. Wij eten vlees.
+
+8. De soep is warm.
+
+9. Ik drink de melk.
+
+10. Jullie eten brood.
+
 @key
 @table
 | Ushtrimi | Përgjigjet |
@@ -254,6 +389,8 @@ Në shqip mohojmë foljen («nuk kam para»). Në holandisht shpesh mohojmë **e
 | **E** | 1. geen 2. niet 3. geen 4. geen 5. niet 6. geen 7. geen 8. niet 9. geen 10. ⏎ niet |
 | **F** | 1. Ik weet het niet. 2. Ik heb geen geld. 3. Ik ben niet moe. 4. Ik wil niet komen. ⏎ 5. Ik heb geen fiets. 6. Hij is geen student. 7. Ik loop niet naar school. 8. Ik weet ⏎ dat hij niet komt. |
 | **G** | 1. Ik weet het niet. 2. Ik ben niet moe. 3. Hij heeft geen geld. 4. Wij hebben geen ⏎ huis. 5. Ik wil niet komen. 6. De kat zit niet op de bank. 7. Spreek je geen ⏎ Nederlands? 8. Hij is geen student. |
+| **H** | 1. drink 2. eet 3. drinkt 4. eten 5. drinkt 6. eten 7. Drink 8. eet 9. drinken ⏎ 10. Eet |
+| **I** | 1. Ik eet geen appel. 2. Zij drinkt geen melk. 3. Ik eet niet in de keuken. 4. Dit ⏎ water is niet koud. 5. Hij drinkt geen koffie. 6. Ik eet die appel niet. 7. Wij eten ⏎ geen vlees. 8. De soep is niet warm. 9. Ik drink de melk niet. 10. Jullie eten geen ⏎ brood. |
 @end
 
 @glossary
@@ -271,4 +408,11 @@ Në shqip mohojmë foljen («nuk kam para»). Në holandisht shpesh mohojmë **e
 | **moe** | i lodhur | **Nederlands** | holandisht |
 | **ziek** | i sëmurë | **zich vergissen** | gaboj |
 | **groot** | i madh | **de tandarts** | dentisti |
+| **eten** | ha | **drinken** | pi |
+| **de appel** | molla | **het water** | uji |
+| **het brood** | buka | **de melk** | qumështi |
+| **het vlees** | mishi | **de koffie** | kafeja |
+| **de soep** | supa | **de thee** | çaji |
+| **de keuken** | kuzhina | **het sap** | lëngu |
+| **koud** | i ftohtë | **warm** | i ngrohtë |
 @end
